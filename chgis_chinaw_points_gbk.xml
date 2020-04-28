@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+  <origin>CHGIS, Harvard Yenching Institute</origin>
+<origin>Regional Systems Analysis Project, UC-Davis.  Zumou Yue, G. William Skinner, and Mark Henderson.</origin>
+<pubdate>Jan 2007</pubdate>
+<title>China Cities, County Seats and Yamen, 1820-1893</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>CHGIS, Version: 4. Cambridge, MA (USA): Harvard Yenching Institute, Jan 2007</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Cambridge, MA</pubplace>
+<publish>CHGIS, Harvard Yenching Institute</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/chgis_chinaw_points_gbk.zip</onlink>
+<onlink>http://www.fas.harvard.edu/~chgis/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>China Cities, County Seats and Yamen, 1820-1893 is a point theme representing the Cities, County Seats, and Yamen in China for the years 1820-1893</abstract>
+<purpose>For educational, non-commercial purposes only.
+
+Developed by Fudan University, Center for Historical Geography, for the CHGIS project. The China Historical Geographic Information System, CHGIS, project was launched in January 2001 to establish a database of populated places and historical administrative units for the period of Chinese history between 222 BCE and 1911 CE. CHGIS provides a base  GIS platform for researchers to use in spatial analysis, temporal statistical modeling, and representation of selected historical units as digital maps.</purpose>
+<supplinf>GBK Encoding for Chinese Characters.
+
+
+
+This dataset contains a record for every city that served as an administrative capital during the period 1820-1893. The records are so designed that the dataset also contains a record for every administrative yamen at the prefectural and county levels and for every territorial unit at the county level of the field administration.  In addition to the 18 provinces of China Proper, the dataset covers Xinjiang (made a province in 1884) and four provinces-in-the-making north of the Great Wall: Shengjing (Fengtian and later Liaoning), Jilin, Heilongjiang, and Nei Menggu.  These territories were only imperfectly assimilated to the standard field administrative arrangements, even by 1893. In much of the Northeast, the only administrative apparatus was military, and a few Meng (Mongolian leagues) did not have fixed capitals. Insofar as possible, the units obtaining in those territories have been shoe-horned into the standard hierarchy of county-level units in prefectural-level units. Still, for many kinds of analysis it would be appropriate to limit the coverage to China Proper. (Tibet and Outer Mongolia are entirely excluded.)
+The begin year, 1820, corresponds to the date of the Jiaqing Yitongzhi, and most of the data for that year are taken from that source.  We selected an end year shortly before the revamping of the field administration that began after 1895.  Our primary systematic source is the Jinshen Quanshu for the Autumn quarter of 1893.  This version of the manual does not provide detailed information about primary sources.  The values shown for many of the quantitative variables often represent our reconciliation of data from multiple sources.  A bibliography of gazetteers that were consulted in preparing this dataset accompanies this dataset.
+The short designation of any variable is a number preceded by w (for wall).  Our research projects involve a dozen or so datasets for China, each of which is designated by a single letter: ChinaA, ChinaT, ChinaX, etc., and in these datasets variables are designated by a number preceded by a, t, or x, as the case may be.  Thus, variable numbers that begin with w are identified as ChinaW variables, and the variable IDs are not complete or unique without the initial w.  Blocks of variable numbers are allocated as follows:
+w01-99 Unit-control variables
+w101-299 Raw-data and categorical variables
+w301-399 Regional analysis variables
+w401-Analytical variables [not included in this beta version]
+
+In this dataset, zeros appear only as numbers, meaning none. We consider it important for quantitative analyses and for dataset development to distinguish the various categories of missing data. In the case of quantitative variables, we aimed to code every cell that lacks data according to the following scheme.  Since wholly numeric variables faciltitate data processing, we have recourse to negative numbers (rather than letters or other non-numbers):
+. Does not apply. This variable is simply not relevant to this unit.
+-9 Unknown. Whether or not this variable is relevant to this unit is unknown.
+-8 Not available. This variable is relevant to this but, but data are not available (i.e.,
+we have tried available sources and failed to find the needed information).
+-7 Research needed. We have not been able to locate an appropriate source to address
+this case.
+-6 Dependent on research. The coding for this case depends on fleshing out other (-7)
+variables through further research.
+ChinaW is organized so that different datafiles (subsets of the complete dataset) may be selected for particular analyses. The usual analysis would be limited to one of three subsets: Capital Cities (w21), Yamens (w22) or County-level administrative units (w23) and to the begin year (1820, w9) or end-year (1893, w10). Cross-tabulations among these categories are informative, but the user would seldom want to begin quantitative analyses using the entire dataset. Subsamples may also be delimited geographically, say, to China Proper (defined either as the 18 traditional provinces or as the eight physiographic macroregions south of the Wall) or to a particular macroregion or province or to groupings thereof.  The selection of subsamples is facilitated by the unit-control variables introduced in the first section of this code manual, in particular w31-38 for 1820 analytical datafiles and w41-49 for 1893 analytical datafiles. Throughout the 19th century, borderlands along the northern frontier of Zhili and Shanxi were characterized by dual Mongol/Han jursidictions (see w26). To avoid unwanted duplication of all kinds, the compilers strongly recommend that quantitative analyses begin with the appropriate analytical datafile.
+The final column of the dataset is for comments by the compilers to explain anomalous or complex arrangements or to justify our treatment of the case.  An asterisk in any cell means that a relevant comment will be found in the final column of that record.
+UNIT-CONTROL VARIABLES</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1820</caldate>
+</sngdate>
+</timeinfo>
+<current>based on dated sources, as indicated in the SOURCE NOTES table, included in the CHGIS database</current>
+</timeperd>
+<status>
+<progress>revised (Jan 2007)</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+70.114337</westbc>
+<eastbc>
+140.398256</eastbc>
+<northbc>
+55.823672</northbc>
+<southbc>
+16.390436</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>Alexandria Digital Library, CHGIS specialized feature type vocabularies</themekt>
+<themekey>cities, county seats and yamen</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>location</themekey>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Cities</themekey>
+<themekey>County Capitals</themekey>
+<themekey>Administrative divisions</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>China</placekey>
+</place>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst><useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>CHGIS, Harvard Yenching Institute</cntorg>
+<cntper>Merrick Berman</cntper>
+</cntorgp>
+<cntpos>Project Manager</cntpos>
+<cntvoice>617-496-6222</cntvoice>
+<cntemail>mberman@fas.harvard.edu</cntemail>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ChinaW_pts_gbk.bmp</browsen>
+<browsed>Thumbnail</browsed>
+<browset>bmp</browset>
+</browse>
+<datacred>"ChinaW Dataset" (c) Zumou Yue, G.William Skinner, and Mark Henderson. Davis: University of California, Regional Systems Analysis Project, Jan 2007</datacred>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+<crossref>
+<citeinfo>
+<origin>Regional Systems Analysis Project, UC-Davis.  Zumou Yue, G. William Skinner, and Mark Henderson.</origin>
+<pubdate>Jan 2007</pubdate>
+<title>ChinaW Dataset</title>
+<geoform>vector digital data</geoform>
+<othercit>(c) Harvard Yenching Institute
+Cambridge, MA (USA)</othercit>
+</citeinfo>
+</crossref>
+</idinfo>
+<dataqual>
+<lineage>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>2403</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geodetic>
+<horizdn>D_Xian_1980</horizdn>
+<ellips>Xian_1980</ellips>
+<semiaxis>6378140.000000</semiaxis>
+<denflat>298.257000</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+ChinaW_pts_gbk</enttypl>
+<enttypd>City</enttypd>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SYS_ID</attrlabl>
+<attrdef>unique ID for historical instance of this place</attrdef>
+</attr>
+<attr>
+<attrlabl>W1_ID</attrlabl>
+</attr>
+<attr>
+<attrlabl>W2_HNAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>W3_PNAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>W4_CHGIS</attrlabl>
+</attr>
+<attr>
+<attrlabl>W5_TYPE</attrlabl>
+</attr>
+<attr>
+<attrlabl>W6_HTYPE</attrlabl>
+</attr>
+<attr>
+<attrlabl>W7_PTYPE</attrlabl>
+</attr>
+<attr>
+<attrlabl>W8_ADMLEV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W9_1820</attrlabl>
+</attr>
+<attr>
+<attrlabl>W10_1893</attrlabl>
+</attr>
+<attr>
+<attrlabl>W11_CHANGE</attrlabl>
+</attr>
+<attr>
+<attrlabl>W12_END_YR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W13_BEG_YR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W14_CHGSRC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W21_CAP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W22_YAMEN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W23_XIAN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W24_PHNAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>W25_PPNAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>W26_OVRLAP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W31_20C18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W32_20C18A</attrlabl>
+</attr>
+<attr>
+<attrlabl>W33_20C18R</attrlabl>
+</attr>
+<attr>
+<attrlabl>W34_20CALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W35_20CA</attrlabl>
+</attr>
+<attr>
+<attrlabl>W36_20Y18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W37_20YALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W38_20X18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W41_93C18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W42_93C18A</attrlabl>
+</attr>
+<attr>
+<attrlabl>W43_93C18R</attrlabl>
+</attr>
+<attr>
+<attrlabl>W44_93CALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W45_93CA</attrlabl>
+</attr>
+<attr>
+<attrlabl>W46_93Y18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W47_93YALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W48_93X18</attrlabl>
+</attr>
+<attr>
+<attrlabl>W49_93XALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W51_20ADM</attrlabl>
+</attr>
+<attr>
+<attrlabl>W52_20DAOH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W53_20DAOP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W54_20DAON</attrlabl>
+</attr>
+<attr>
+<attrlabl>W55_20DAOT</attrlabl>
+</attr>
+<attr>
+<attrlabl>W56_20PSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W57_20XSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W58_20TSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W59_20CSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W61_93ADM</attrlabl>
+</attr>
+<attr>
+<attrlabl>W62_93DAOH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W63_93DAOP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W64_93DAON</attrlabl>
+</attr>
+<attr>
+<attrlabl>W65_93DAOT</attrlabl>
+</attr>
+<attr>
+<attrlabl>W66_93PSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W67_93XSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W68_93TSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W69_93CSOC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W71_LONG</attrlabl>
+</attr>
+<attr>
+<attrlabl>W72_LAT</attrlabl>
+</attr>
+<attr>
+<attrlabl>W73_QHPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W74_QPPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W75_RHPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W76_RPPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W77_PHPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W78_PPPROV</attrlabl>
+</attr>
+<attr>
+<attrlabl>W79_PXIAN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W80_GBXIAN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W101_20C_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W102_20C_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W103_20C_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W104_20C_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W105_20CDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W106_20CDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W107_20CDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W108_20CIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W109_20P_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W110_20P_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W111_20P_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W112_20P_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W113_20PDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W114_20PDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W115_20PDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W116_20PIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W117_20X_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W118_20X_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W119_20X_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W120_20X_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W121_20XDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W122_20XDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W123_20XDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W124_20XIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W125_20APX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W131_93C_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W132_93C_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W133_93C_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W134_93C_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W135_93CDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W136_93CDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W137_93CDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W138_93CIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W139_93P_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W140_93P_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W141_93P_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W142_93P_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W143_93PDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W144_93PDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W145_93PDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W146_93PIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W147_93X_C</attrlabl>
+</attr>
+<attr>
+<attrlabl>W148_93X_F</attrlabl>
+</attr>
+<attr>
+<attrlabl>W149_93X_P</attrlabl>
+</attr>
+<attr>
+<attrlabl>W150_93X_N</attrlabl>
+</attr>
+<attr>
+<attrlabl>W151_93XDP</attrlabl>
+</attr>
+<attr>
+<attrlabl>W152_93XDH</attrlabl>
+</attr>
+<attr>
+<attrlabl>W153_93XDX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W154_93XIR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W155_93APX</attrlabl>
+</attr>
+<attr>
+<attrlabl>W161_16TRA</attrlabl>
+</attr>
+<attr>
+<attrlabl>W162_16POG</attrlabl>
+</attr>
+<attr>
+<attrlabl>W163_16POS</attrlabl>
+</attr>
+<attr>
+<attrlabl>W164_16POC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W165_16OMN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W166_POPCL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W170_WALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W171_W_LI</attrlabl>
+</attr>
+<attr>
+<attrlabl>W172_W_KM</attrlabl>
+</attr>
+<attr>
+<attrlabl>W173_W_KM2</attrlabl>
+</attr>
+<attr>
+<attrlabl>W174_GATES</attrlabl>
+</attr>
+<attr>
+<attrlabl>W175_GMIS1</attrlabl>
+</attr>
+<attr>
+<attrlabl>W176_GMIS2</attrlabl>
+</attr>
+<attr>
+<attrlabl>W177_WH_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W178_WH_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W179_WBT_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W180_WBT_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W181_WTT_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W182_WTT_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W183_WTU_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W184_WTU_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W185_WT_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W186_WT_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W187_WMAT</attrlabl>
+</attr>
+<attr>
+<attrlabl>W188_TWRG</attrlabl>
+</attr>
+<attr>
+<attrlabl>W189_TWRC</attrlabl>
+</attr>
+<attr>
+<attrlabl>W190_TWRO</attrlabl>
+</attr>
+<attr>
+<attrlabl>W191_TWTN</attrlabl>
+</attr>
+<attr>
+<attrlabl>W192_MOON</attrlabl>
+</attr>
+<attr>
+<attrlabl>W193_BATTL</attrlabl>
+</attr>
+<attr>
+<attrlabl>W194_CNNON</attrlabl>
+</attr>
+<attr>
+<attrlabl>W195_SNTRY</attrlabl>
+</attr>
+<attr>
+<attrlabl>W196_MOAT</attrlabl>
+</attr>
+<attr>
+<attrlabl>W197_MD_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W198_MD_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W199_MW_Z</attrlabl>
+</attr>
+<attr>
+<attrlabl>W200_MW_M</attrlabl>
+</attr>
+<attr>
+<attrlabl>W201_WGATE</attrlabl>
+</attr>
+<attr>
+<attrlabl>W301_PMR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W302_93FR</attrlabl>
+</attr>
+<attr>
+<attrlabl>W303_CP19T</attrlabl>
+</attr>
+<attr>
+<attrlabl>W304_CP16T</attrlabl>
+</attr>
+<attr>
+<attrlabl>W305_NOTES</attrlabl>
+</attr>
+</detailed>
+<overview>
+<eaover>w1 ChinaW ID
+Since provincial affiliations within China Proper did not change appreciably during the period 1820-1893, we elected to use two-letter province abbreviations as the initial portion of the IDs. However, note that prior to 1884 most of Xinjiang was treated administratively as an extension of Gansu province, and that prior to 1887 Taiwan was a prefecture of Fujian province.
+w1 prefix
+AH .. Anhui
+CR ... Chaha'er
+FJ .. Fujian
+GD .. Guangdong
+GS .. Gansu
+GX .. Guangxi
+GZ .. Guizhou
+HA .. Henan
+HB .. Hubei
+HL ... Heilongjiang
+HN .. Hunan
+JL .. Jilin
+JS .. Jiangsu
+JX .. Jiangxi
+NM ... Nei Menggu
+SA .. Shaanxi
+SC .. Sichuan
+SD .. Shandong
+SJ .. Shengjing
+SX .. Shanxi
+TW .. Taiwan
+XJ .. Xinjiang
+YN .. Yunnan
+ZJ .. Zhejiang
+ZL ..(..) Zhili (Hebei)
+
+The province abbreviation is followed by a sequential 3-digit number.  Before final numbering was assigned, all units in each province were ordered as follows.  Prefectural-level units are listed in pinyin alphabetical order. Within each prefecture first comes the prefectural unit itself, and in the case of fu (prefectures per se) the record(s) immediately following are those of metropolitan xian, that is the counties whose yamens are in the prefectural city.  (If there are multiple metropolitan xian, they are listed in pinyin alphabetical order.)  Metropolitan counties take the same integer as the fu, plus one decimal digit (.1, .2, or .3).  We give a similar treatment to benzhou and benting (the unnamed unit surrounding the zhilizhou or zhiliting capital.  These units are administered directly from the zhilizhou or zhiliting yamen, and do not appear as separate entities in imperial gazetteers. We add records for benzhou/benting  (with .1 added to the ID for the zhilizhou/zhiliting) because they are in effect county-level units, which our tabular file is also designed to cover. The remaining county-level units (those lacking decimal suffixes) follow in pinyin alphabetical order. In cases where an ordinary county was carved out from a prefectural-level unit or another county and the new county yamen remained in the capital of the original unit, the spun-off county uses the same integer as the original unit, plus one decimal digit (.4 if the original unit is of prefectural-level or.5 if the original unit is a county). Circuit-level units seated in prefectural-level capitals also use the same integer as the fu, plus one decimal digit (.6, .7, .8 or .9). (Circuit yamens located in county-level units use the same integer as the xian, plus one same decimal digit).  These ID number conventions mean that when the datafile for 1820 (w9) or 1893 (w10) is selected, a simple sort on w1 ascending puts the file in an order that reveals the position of the unit in the field administrative hierarchy of its province.
+
+w2, w3  Name (hanzi and pinyin)
+Asterisks (*) refer to annotations in the Comments column at the end of the dataset. Alternate names are in parentheses.
+
+w4 CHGIS Point Link
+Georeferenced points for capital cities were taken, whenever available, from CHGIS map files  (China Historical GIS: http://www.fas.harvard.edu/~chgis/data/chgis/) CHGIS distributes its GIS points as three separate files: for prefectural capitals, county seats, and other settlements (cunzhen).  To date, CHGIS has issued three versions of its files, each using a distinct set of IDs. Version 1 is now superseded.  The annotations in this column take the following forms:
+county2 + 4-digit numerical code County seat file, Version 2
+county3 + 5-digit numerical code    County seat file, Ver 3
+pref2 + 4-digit numerical code Prefectural capital file, Ver 2
+pref3 + 5-digit numerical code Prefectural capital file, Ver 3
+town2 + 5-digit numerical code  Other settlements (cunzhen) file, Ver 2 CHGIS version 3 IDs are used where available. Since the CHGIS files are pinned to particular dates, some of the capital cities included in the ChinaW dataset are not listed in the CHGIS files for prefectural capitals and county seats, hence the occasional recourse to the cunzhen file. Five meng "capitals" in Nei Monggu appear to have had no fixed location in the 19th century; the points plotted for these cases are centroids of the polygon for the meng and  are annotated here as "centroid." Cities not listed in any of the CHGIS files were georeferenced by the compilers at UC-Davis, using all available resources, and are annotated in this column as "ucd + 8 digits."
+w5, w6, w7 Fully differentiated types of adm. units (and of their capitals and their yamens). Those coded 11 are provincial-level. Code 12 is used for administrative circuits whose jurisdictions are groupings of prefectures (in a few cases, only one).  Those coded 13-20 are considered prefectural-level units; others are treated as county-level units.
+
+w5 w6 w7
+11 ... Fuguo fu Metropolitan Prefecture (prefecture whose yamen is in a  provincial capital)
+12 . Dao Circuit (jurisdictions are groupings of 1-5 prefectures)
+13 . Fu Ordinary Prefecture
+14 ... Zhilizhou Autonomous Department
+15 ... Zhiliting Autonomous Subprefecture
+16 . Meng League
+17 ... Mengjiqi Independent banner (de facto meng-level unit)
+18 ..... Fuguo fudutong Metropolitan Deputy Military Lieutenant-Governorship
+19 ... Fudutong Deputy Military Lieutenant-Governorship 20 . Dao Circuit as prefecture (anomalous) 21 ... Fuguo xian Metropolitan County (county whose yamen is in a prefectural  capital) 22 ... Tongcheng xian Ordinary (non-metropolitan) county whose yamen is in a city that is also the capital of another ordinary county or of a department.
+23 . Xian Ordinary County 24 . Zhou Department 25 . Ting Subprefecture 26 . Qi Banner 27 .. Tufu Non-Han Prefecture (anomalous; actually at the county-level) 28 .. Tuzhou Non-Han Department  29 .. Tuxian Non-Han County 31 .. Benfu Root fu (anomalous) 32 .. Benzhou Root zhou (county-level unit surrounding a Zhilizhou capital  and governed directly from the Zhilizhou yamen)
+33 .. Benting Root ting (anomalous)
+34 .. Tusi Non-Han chieftainships
+35 .. Canling Banner commandery
+36 .. Xieling Brigade (regiment?) commandery
+37 ... Fangshouyu Garrison commandery
+38 .. Muchang Imperial pasturage
+39 ... Yanjingsi Salt production and distribution center
+
+
+w8  Categorization of territorial adm. units by level
+1  Provincial-level
+2  Circuit level
+3  Prefectural level
+4  County level
+
+w9 1820: Units included in the field administration of 1820 w9=1 when 1820, otherwise . (Does not apply).
+
+w10  1893: Units included in the field administration of 1893 w10=1 when 1893, otherwise . (Does not apply).
+
+w11  Change events, 1820-1893
+0 No change, 1820-1893 1 Establishment of new adm. unit 2 Abolition of an existing adm. unit 3 Change in administrative status 4 Change in proper name 5 Change in proper name and in adm. status 6 Change in jurisdiction (superordinate unit to which attached) 7 Change in adm. status and in jurisdiction  8 Change in proper name and in jurisdiction  9 Change in proper name, in adm. status and in jurisdiction 10 Yamen moved to another capital city  11 Change in jurisdiction; yamen also moved to another capital city  12 Change in proper name and in territorial jurisdiction 13 Change in proper name and in territorial jurisdiction; yamen also moved to another city
+
+w12  End-record year (if ends between 1820 and 1893)
+Asterisks (*) refer to discrepancies between sources in w14 annotated in the Comments column at the end of the dataset.
+
+w13  Begin-record year (if begins between 1820 and 1893)
+Asterisks (*) refer to discrepancies between sources in w14 annotated in the Comments column at the end of the dataset.
+
+w14  Documentation of change event
+JSQ .... Jinshen Quanshu
+QHD ... Qing Huidian
+QSG ... Qingshi Gao
+STZ ... Sheng Tongzhi (provincial gazetteer)
+XZ .. Xian Zhi (county Gazetteer)
+YTZ (..)... (Jiaqing) Yitongzhi
+QZB (... 1990).....(Niu Pinghan 1990) Qingdai Zhengqu Yange ... Zongbiao
+
+w21  Capitals: Records for capital cities When a city has yamens at both the county level and the prefectural level, the record for the prefecture is the record for the city per se. Metropolitan xian and benzhou (and also the oddball benfu and benting) are coded with dots.
+
+w22  Yamens: Records for yamens in the regular field administration at the county, prefectural and circuit levels. (Benzhou are administered from the zhilizhou yamen and so are coded with dots)
+
+w23  Xian: Records for territorial administrative units at the xian level Benzhou (and the occasional benfu and benting) count as xian-level units. Prefectural-level units are coded with dots unless (as in many zhiliting and an occasional fu and zhilizhou) there are no subordinate units, in which case it counts as a prefectural capital and a prefectural-level yamen but as a xian-level admistrative unit.
+
+w24, w25  Prefectural-level unit (hanzi and pinyin) The prefectural-level unit in which a county-level unit falls. Also filled out for prefectural-level units (a repeat of the w2 name).
+
+w26  Overlapping Mongol/Han jurisdictions Along the northern frontier of Zhili and Shanxi provinces, the territory of borderland Mongol banners and leagues were, in the mid-18th century, partially incorporated into prefectures of the provinces. In effect, the Han population was administered by the provincial administration while Mongol affairs were handled by the Mongol units.  The territorial overlap is shown striped on our GIS maps, and within that territory both the Mongol and Han "capitals" are included in this dataset. This code identifies county-level units involved in the overlap. Details are in the Comments in w303
+1 Han county-level units in Zhili and Shanxi whose territory overlaps that of Mongol qi. 2 Mongol qi whose territory overlaps that of Han county-level units in Zhili and Shanxi
+
+w31-38  1820 Analytical Data files Selection (sortkey)
+Code 1 indicates a record included in the datafile in question; dot means excluded.
+
+w31  1820 Capitals: All those in the traditional 18 provinces This file includes records for every locale that served as any kind of administrative center, capital, including tusi and other non-Han units.
+
+w32  1820 Capitals: Traditional 18 provinces but excluding those tu (Non-Han, Native) units not assimilated to the regular field administration This file is limited to capitals assimilated to the regular field administration; it includes the administrative centers of non-Han units that have proper yamens (including post designations and importance ratings).
+
+w33  1820 Capitals: Traditional 18 provinces but excluding all tu (Non-Han, Native) units This file is limited to capitals in the regular field administrative system, excluding all non-Han units (tufu, tuzhou, tuxian, and tusi),
+
+w34  1820 Capitals: Empirewide, all types This file includes records for every locale that served as any kind of administrative center throughout the empire (including the Northeast, Inner Mongolia, Xinjiang. and Taiwan)
+
+w35  1820 Capitals: Empirewide, but excluding units not assimilated to the regular   administration This file is limited to capitals assimilated to the regular field administrative system, including those outside the traditional 18 provinces.  Units outside the regular field administration but assimilated to it to the point of having established yamens (with post designations and importance ratings) are included, whether military capitals in the Northeast, banners in Inner Mongolia or non-Han units in the Southwest.
+
+w36  1820 Yamens: All those in the traditional 18 provinces This file is the counterpart to w32. All prefectural and county-level yamens in w32 capital cities are included. Many prefectural capitals have two or more administrative yamens, and in this file every yamen has a separate record.
+
+w37  1820 Yamens: All those in the empire This file is the counterpart to w36, including a record for every yamen in w35 capitals.
+
+w38  1820 County-level units: Traditional 18 provinces only This file aims to include all de facto county-level units, in theory exhausting the territory of the 18 traditional provinces. Thus, it includes the benzhou and other root  units that are directly administered by the zhilizhou or other prefectural-level non-Han county-level units: tuzhou, tuxian, and tusi. Prefectural-level units are excluded.
+
+w41-49  1893 Analytical Data files Selection (sortkey) Code 1 indicates a record included in the datafile in question; dot means excluded. Descriptions parallel those given above for w31-38.
+
+w41  1893 w4 Capitals: All those in the traditional 18 provinces w42  1893 Capitals: Traditional 18 provinces but excluding those tu (Non-Han, Native) units not assimilated to the regular field administration
+
+w43  1893 Capitals: Traditional 18 provinces but excluding all tu (Non-Han, Native) units
+
+w44  1893 Capitals: Empire-wide, all types
+
+w45  1893 Capitals: Empire-wide, but excluding units not assimilated to the regular administration
+
+w46  1893 Yamens: All those in the traditional 18 provinces
+
+w47  1893 Yamens: All those in the empire
+
+w48  1893 County-level units: Traditional 18 provinces only
+
+w49  1893 County-level units: 18 provinces plus Shengjing Xinjiang and Taiwan This file parallels w48, but is expanded to include the new provinces of Xinjiang and Taiwan, as well as Shengjing, whose administrative system was largely regularized in 1877.
+
+w51  Administrative status of capital cities, 1820 cities are classified according to the highest level in the hierarchy of administrative units  of which it is the capital.  (w21 capitals only)
+1  .........  Sheng yiji zongdu huo  Provinces and/or  xunfu ji  governor-generalships
+2  .  Fu  Prefectures
+3  .....  Jingji siluting  Sectors of the imperial  prefecture
+4  ...  Zhilizhou  Autonomous zhou
+5  ...  Zhiliting  Autonomous ting
+6  .......  Fu shu sanzhou ji  Zhou in prefecture (san zhou tuzhou  and tuzhou)
+7  .......... Zhilizhou suoshu  Zhou in autonomous zhou  sanzhou ji tuzhou  (san zhou and tuzhou)
+8  .......... Zhiliting suoshu  Zhou in autonomous ting  sanzhou ji tuzhou  (san zhou and tuzhou)
+9  ....  Fu shu santing  Ting in prefecture (san ting)
+10  .....(.... Fu shu fuguo xian (you  Metropolitan xian in .)  duli chengqiang)  prefecture with independent walls
+11  ...(......)Fu shu xian (bu baokuo  Nonmetropolitan xian in fuguo xian)  prefecture
+12  ......  Zhilizhou suoshu xian  Xian in autonomous zhou
+13  ......  Zhiliting suoshu xian  Xian in autonomous ting
+
+
+w52, w53  Name of Administrative circuit (Dao) to which this unit belongs, 1820  (hanzi and pinyin)
+Administrative circuits consisted of groupings of prefectural-level units.  This coding
+specifies the administrative Dao to which each prefectural-level unit and its county-level
+components belong.
+
+w54  Number of Circuit (Dao) yamen in capital cities, 1820
+
+w55  Type of Circuit (Dao) yamens in capital cities, 1820 The yamens of administrative circuits were often located in the capital of one of the component prefectures, but could also be sited in xian capitals.  The yamens of Dao with specialized functions (3-8) could, in the case of Yanfa Dao (Salt trade circuits) be located in the same city as the yamen of an administrative dao. A given dao yamen could also be responsible for two or three distinct functions. These multi-function dao are coded 9-24.  In early and middle Qing, many of the dao in provincial capitals (w5=12, Fuguo fu) were single special function (Liang or Yanfa) Dao with jurisdiction over the entire province (in some cases, over several provinces). In due course, these were transformed to multi-function administrative circuits with jurisdiction over one or more prefectural-level units. Nonetheless, with respect to their specialized functions their jurisdiction continued to be the entire province. In a few cases, the specialized functional name (e.g., Yanfa Dao and Liangchu Dao) of these circuits remain unchanged, and the functional names came to be the proper names of the administrative circuits.  In these cases the de facto territorial administrative jurisdiction is specified in parentheses after the functional proper name.
+0  .... No circuit yamen  .....Single Administrative Circuit
+1  .(...............Dao (including both Fenxun Dao and Fenshou Dao.) General Surveillance and Administration for prefectural-level units)
+2  ...(.............Bingbei Dao (including both Fenxun Dao and Fenshou  ......) Dao. General Surveillance and Administration for both prefectural-level and military units )   .......Single Special Function Circuit
+3  ..(....) Liang Dao (Provisions)
+4  ...(.......) Yanfa Dao (Salt-trade regulation)
+5  ..(.........) He Dao (River regulation)
+6  ...(.......,....) Haifang Dao (also called HaifangBingbei Dao, Sea  Defense)
+7  ...(......) Haiguan Dao (Customs)
+8  ...(.....) Yichuan Dao (Postal and Courier Service)  .........Administrative Circuit also responsible for specialized  function(s)
+9  .(1)....(8) Both Dao (1) and Yichuan Dao (8)
+10  .(1)....(4) Both Dao (1) and Yanfa Dao (4)
+11  .(1)...(5) Both Dao (1) and He Dao (5)
+12  .(1)...(3) Both Dao (1) and Liang Dao (3)
+13  ...(2)...(3) Both Bingbei Dao (2) and Liang Dao (3)
+14  ....... Both Bingbei Dao (2) and Yanfa Dao (4)
+15  ...(2)...(5) Both Bingbei Dao (2) and He Dao (5)
+16  ...(2)....(7) Both Bingbei Dao (2) and Haiguan Dao (7)
+17  ...(2)....(8) Both Bingbei Dao (2) and Yichuan Dao (8)
+18  ...(2)....(6) Both Bingbei Dao (2) and Haifang Dao (6)
+19  .(1),..(3)....(8) Dao (1), Liang Dao (3) and Yichuan Dao (8)
+20  .(1),...(4)...(5) Dao (1), Yanfa Dao (4) and He Dao (5)
+21  ...(2), ...(4) ....(8)Bingbei Dao (2), Yanfa Dao (4) and Yichuan Dao (8)
+22  ...(2),..(5)....(7)Bingbei Dao (2), He Dao (5) and Haiguan Dao (7)
+23  ...(2),..(5)....(8)Bingbei Dao (2), He Dao (5) and Yichuan Dao (8)
+24  ...(2), ...(6) ....(7)Bingbei Dao (2), Haifang Dao (6) and Haiguan Dao (7)  .......Circuit with two specialized functions
+25  ..(3)....(4) Both Liang Dao (3) and Yanfa Dao (4)
+26  ...(4)....(8) Both Yanfa Dao (4) and Yichuan Dao (8)
+12
+
+w56  Span of control, prefectural level, 1820 No. of county-level yamens supervised by this prefectural-level yamen. (Calculated on the basis of records coded w32=1, including w5=32 and w5=33 for prefectural-level units.)
+
+w57  Span of control, county level, 1820 No. of county-level yamens supervised by the yamen of the prefectural-level unit to which this county-level unit belongs. (Calculated on the basis of records coded w32=1, including w5=32 and w5=33 for prefectural-level units.)
+
+w58  Structural type of prefectural-level units by span of control, 1820
+(Calculated on the basis of records coded w32=1, w35=1, and/or w36=1 only)
+1 Metropolitan prefectures
+2 Ordinary prefectures and structural analogs
+3 Autonomous Zhou and structural analogs
+4 Autonomous Ting and structural analogs
+
+Provincial capitals were invariably capitals of fu (prefectures per se).  Metropolitan prefecture is the term for a fu whose capital city is also a provincial capital.  Most had very wide spans of control, and none had fewer than 6 subordinate county-level units.  Ordinary prefectures also had relatively wide spans of control (and a wide range) but the mean/mode was 7-8 subordinate units. Autonomous zhou all had relatively narrow spans of control, with 1-5 subordinate units, not counting the benzhou (the county-like territory surrounding the zhou capital that was directly administered by the zhilizhou yamen).  Autonomous ting usually lacked any subordinate units, in which case its territory is considered a county-level unirt. A few zhiliting have one or two dependent xian, in which case we create a benting record for the county-like territory directly adminstered from the zhiliting yamen.
+What this coding does is count anomalous cases (units that diverge from the customary administrative arrangement for that type) according to their structural type. So, in the oddball case where a zhiliting contained a xian or two, its structure (a  benting plus one or more counties)  resembles that of a zhilizhou, and those cases are coded as having a zhilizhou-type structure. Similarly, in the rare case where a Fu capital supports no xian-level yamen (i.e., the fu has no metropolitan xian), its structure (a  benfu plus one or more counties)  resembles that of a zhilizhou and is so coded here.  The two sectoral capitals of the imperial prefecture (Shuntian Fu) that also served as capitals of administrative Dao are coded here as ordinary prefectures.
+
+w59  Categorization of county-level units by the structural type of their prefectural-level unit (as defined in w56), 1820. (Calculated on the basis of records coded w32=, including w5=32 and w5=33 for prefectural-level units.)
+
+w61  Administrative status of capital cities, 1893 (Codes as in w51)
+
+w62, w63  Name of Administrative circuit (Dao) to which this unit belonged, 1893                  (hanzi and pinyin)
+Administrative circuits consisted of groupings of prefectural-level units.  This coding specifies the administrative Dao to which each prefectural-level unit and its county-level components belong.
+
+w64  Number of Circuit (Dao) yamen in capital cities, 1893 w65  Type of Circuit (Dao) yamens in capital cities, 1893
+(Codes as in w55)
+
+w66  Span of control, prefectural level, 1893
+(Calculated on the basis of records coded w42=1, including w5=32 and w5=33 for prefectural-level units.)
+
+w67  Span of control, county level, 1893
+(Calculated on the basis of records coded w42=1, including w5=32 and w5=33 for prefectural-level units.)
+
+w68  Structural type of adm. unit by span of control, 1893
+(Calculated on the basis of records coded w42=1 only. Codes as in w56.)
+
+w69  Categorization of county-level units by the structural type of their prefectural-level unit (as defined in w66), 1893 (Calculated on the basis of records coded w42=1, including w5=32 and w5=33 for prefectural-level units.)
+
+w71  Latitude of capital cities
+(capitals only: w21=1)
+
+w72  Longitude of capital cities
+(capitals only: w21=1)
+
+w73, w74  Late Qing province, Hanzi and Pinyin abbreviation
+(as defined in w1)
+
+w75, w76  Republican province (1937), Hanzi and Pinyin abbreviation w77, w78  PRC province (2000), Hanzi and Pinyin abbreviation
+w75  w76  w77  w78
+..  AH  Anhui  ..  AH  Anhui
+..  BP  Beiping  ..  BJ  Beijing
+...  CR  Chahaer  ..  CQ  Chongqing
+..  FJ  Fujian  ..  FJ  Fujian
+..  GD  Guangdong  ..  GD  Guangdong
+..  GS  Gansu  ..  GS  Gansu
+..  GX  Guangxi  ..  GX  Guangxi
+..  GZ  Guizhou  ..  GZ  Guizhou
+..  HA  Henan  ..  HA  Henan
+..  HB  Hubei  ..  HB  Hubei
+..  HE  Hebei  ..  HE  Hebei  Heilongjian
+...  HL  g  ..  HI  Hainan  Heilongjian
+..  HN  Hunan  ... HL  g
+..  JL  Jilin  ..  HN  Hunan
+..  JS  Jiangsu  ..  JL  Jilin
+..  JX  Jiangxi  ..  JS  Jiangsu
+..  LN  Liaoning  ..  JX  Jiangxi
+..  NJ  Nanjing  ..  LN  Liaoning
+..  NX  Ningxia  ..  NM  Nei Menggu
+..  QH  Qinghai  ..  NX  Ningxia
+..  RH  Rehe  ..  QH  Qinghai
+..  SA  Shaanxi  ..  SA  Shaanxi
+..  SC  Sichuan  ..  SC  Sichuan
+..  SD  Shandong  ..  SD  Shandong
+..  SH  Shanghai  ..  SH  Shanghai
+..  SX  Shanxi  ..  SX  Shanxi
+..  SY  Suiyuan  ..  TJ  Tianjin
+..  TJ  Tianjin  ..  XZ  Xizang
+..  XJ  Xinjiang  ..  XJ  Xinjiang
+..  XK  Xikang  ..  YN  Yunnan
+..  YN  Yunnan  ..  ZJ  Zhejiang
+..  ZJ  Zhejiang
+15
+
+w79  PRC county-level unit or shixiaqu (2000) in which the 19th-century capital now falls  (capitals only: w21=1).
+
+w80  Guobiao code of w79 unit
+RAW-DATA AND CATEGORICAL VARIABLES
+
+w101 1820 Circuit-level post designations: Chong ( ., "thoroughfare, frequented")
+Binary variable: C if designated, otherwise dash.
+
+w102 1820  Circuit-level post designation: Fan (., "troublesome, abundant")
+Binary variable: F if designated, otherwise dash.
+
+w103 1820  Circuit-level post designation: Pi (., "fatiguing, wearisome")
+Binary variable: P if designated, otherwise dash.
+
+w104 1820  Circuit-level post designation: Nan (., "difficult, vexatious")
+Binary variable: N if designated, otherwise dash.
+
+w105, w106  1820 Circuit-level post designations: Complete post designations
+w105 w106
+-.. No characters (the absence of all four) C . Chong F . Fan P . Pi N . Nan CF .. ChongFan CN .. ChongNan CP .. ChongPi FN .. FanNan FP .. FanPi PN .. PiNan CFN ... ChongFanNan CFP ... ChongFanPi CPN ... ChongPiNan FPN ... FanPiNan CFPN .... ChongFanPiNan
+
+w107  1820 Number of Circuit-level post-designation characters
+0 No character 1-4 Number of characters
+
+w108  1820 Importance rating of Circuit-level posts
+  1 Zuiyao  (.., greatest importance)
+  2 Yao  (., considerable importance)
+3 Zhong  (., middling importance
+4 Jian  (., little importance)
+
+ .   No circuit-level importance rating available
+
+w 109 through w115  1820 Prefectural-level post designations
+Same codes as w101 through w107 for circuit-level.
+
+w116  1820 Importance rating of Prefectural-level posts
+Same codes as w108.
+
+w117 through w123  1820 County-level post designations
+Same codes as w101 through w107 for circuit-level.
+
+w124  1820 Importance rating of County-level posts
+Same codes as w108
+
+w125  1820 Post-designation characters included in those of all yamens in the capital city
+Same codes as w105
+
+w131  through w155  1893 Circuit-level, prefectural-level and county-level post-designations and importance rating
+Same codes as w101 through w125 for 1820.
+
+w161  Center of trade, as designated by Shina Shobetsu Zenshi (1915)
+Binary variable: T if so designated, otherwise -
+
+w162  Post office, 1915: presence and grade
+A First-class post office B Second-class post office C Third-class post office D Postal agency 0 No post office or agency
+
+w163  Post office services, 1915
+1 Handles insured packages and COD packages
+2 Handles money orders; locality has steamship or rail traffic
+3 Handles money orders; locality has no steamship or rail traffic
+4 Provides express delivery service
+5 Ships mail by steamship
+6 Handles certified mail
+7 Handles packages according to international postal regulations
+0 No special services
+
+
+w164 Post offices: Grade and special services, 1915
+1 A Offers all kinds of special services 2 B Offers three or more special services including #4 and/or #5 3 B Offers two or more special services including #4; or #4 alone. 4 B Offers two or more special services including #3 but  not #4; or one special service
+other than #3 or #4.
+5 B Offers special service #3 only
+6 B Offers no special service
+7 C
+8 D
+0 No post office or agency
+
+
+w165  Omnibus coding of trade center and post office
+1 T A  Offers all kinds of special services
+2 T B  Offers three or more special services including #4 and or #5
+3 B Offers three or more special services including #4 and or #5
+4 T B  Offers two or more special services including #4; or #4 alone.
+5 B Offers two or more special services including #4; or #4 alone.
+6 T B Offers two or more special services including #3 but  not #4;
+
+or one special service other than #3 or #4.
+7 B Offers two or more special services including #3 but not #4;
+
+or one special service other than #3 or #4.
+8 T B Offers special service #3 only
+9 B Offers special service #3 only
+
+10 T B Offers no special service
+11 B Offers no special service
+12 T C
+13 C
+14 T D
+15 D
+16 T -
+
+w166  Population class of capital cities, estimated 1893 1 512,000+ 2 256,000-3 128,000-4 64,000-5 32,000-6 16,000-7 8,000-8 4,000-9 2,000-10 1,000-11 500-. Not estimated
+
+w170  Presence or absence of wall and gates 1 The city had a wall and gates, with at least some data on both  2 The city had gates but no wall 3 The city lacked both wall and gates (confirmed) -8 The city had a wall and gates, but details have not been ascertained -9 Whether or not the city had a wall and gates is not known
+
+w171, w172  Wall circumference (in li and in kilometers)
+
+w173  Estimated intramural area (sq. kilometers)
+
+
+w174  Number of gates
+
+w175  (If only 2 or 3 gates) direction of missing gate (or one of the two missing gates) Directional code, one or two letters: e.g. N W NW SE
+
+w176  (If only 2 gates) direction of second missing gate
+
+w177, w178  Height of wall  (in zhang and in meters)
+
+w179, w180  Thickness of wall at base (in zhang and in meters)
+
+w181, w182  Thickness of wall at top (in zhang and in meters)
+
+w183, w184  Thickness of wall, unspecified base or top (in zhang and in meters)
+
+w185, w186  Reconciled single relative measure of thickness of base (in zhang and in meters)
+
+w187  Construction material of wall
+1 Earth only 2 Stone only 3 Brick only 4 Earth faced with brick 5 Earth faced with stone 6 Brick with stone base 7 Earth, brick and stone, unspecified 8 Wood only 9 Wood, earth and stone, unspecified mixture
+
+w188  Number of gate towers w189  Number of corner towers w190  Number of towers other than gate or corner towers w191  Number of towers of all kinds w192 Number of moon walls or jar walls around gates w193  Number of battlements w194  Number of cannon emplacements w195  Number of sentry posts on the wall w196  Presence of moat
+ 0 None
+1 Partial moat: natural river
+2 Partial moat: constructed
+3 Full moat: natural river plus ditch
+4 Full moat: all constructed
+
+w197, w198  Depth of moat (in zhang and in meters)
+
+w199, w200  Width of moat (in zhang and in meters)
+
+w201  Number of water gates
+REGIONAL SYSTEMS VARIABLES
+
+w301  Physiographic macroregions On our analysis, 20th-century China has nine macroregional economies/societies, excluding Inner Asian territories. We have analyzed the urban and the associated local and regional system hierarchies of these macroregions during the 1982-2000 period.  In contemporary China, all nine macroregions exhibit fully developed hierarchies of cities and regional systems.  A century earlier, however, two of them, Manchuria and Yungui, were merely emergent, their hierarchical relationships in flux.  While the apex metropolises of the nine macroregions have not changed since the late 19th century, their territorial extant most certainly has. Therefore, the macroregional boundaries  revealed for the late 20th-century Reform era do not apply to the 19th-century. In our analyses of contemporary China, we let the socioeconomic data pinpoint the boundaries among macroregional systems, but for the nineteenth century we lack data of sufficient quality and detail to proceed in this fashion. Prior to any consequential transport modernization, the logic of regional systems suggests that the human transactions that give rise to the systems hierarchy would be largely contained within physiographic macroregions.  Thus, we believe that physiographic regions are the closest possible approximation of 19th-century socioeconomic macroregional systems. Our GIS map of physiographic macroregions specifies our informed decisions as to
+(1) the precise location of cutpoints in river systems that extend across regional systems, (2) the macroregional affiliation of small coastal river systems, and (3) which internal drainage basins along the Inner Asian frontier should be included in China Proper. The coding here reflects the mapped data.  In the case of three macroregions (Northwest China, Middle Yangzi, and Southeast Coast), the internal physiography that structures subregional systems is sharp and clear, and in these cases the physiographic subregions are mapped and coded.   The other six macroregions are coded as if they were internally undifferentiated.
+10  Northeast China (Manchuria)  ...
+20  North China  ...
+3  Northwest China  ...
+31 Wei-Fen Basins  ......
+32 Upper Huang Basin  ......
+33 Gansu Corridor  ..(..)....
+40  Upper Yangzi  .....
+5  Middle Yangzi  .....
+51 Middle Yangzi proper  ......
+52 Gan Basin  ......
+53 Yuan Basin  ......
+54 Upper Han Basin  ......
+60  Lower Yangzi  .....
+7  Southeast Coast  .....
+71 Ou-Ling Basins  ......
+72 Min Basin  ......
+73 Zhang-Quan  ....
+74 Han Basin  ......
+75 Taiwan  ....
+80  Lingnan  ...
+90  Yungui  ...
+
+w302  Location in relation to frontiers of various kinds
+1  South and Southwest international frontiers
+2  Inner Asian frontiers
+3  Internal frontiers: Macroregional only
+4  Internal frontiers: Macroregional and Provincial
+5  Internal frontiers: Provincial only
+6  Provincial and Maritime frontiers
+7  Maritime frontiers
+8  Removed from any frontier
+
+w303  Core-periphery dichotomy, late 19th century [not included in this version of the dataset] This is a crude dichotomization of units by position in the core-periphery structure of macroregions and subregions, inferred from population and other data for the last few decades of the empire.
+C Core
+P Periphery
+w304  Core-periphery dichotomy, late 16th century [not included in this version of the dataset] This is an even cruder approximation of  core-periphery structures, based on Ming-period data in Liang Fangzhong, Zhongguo lidai hukou, tiandi, tianfu (Quantitative Data on Households, Land, and Taxation in Imperial China), and on other data for late Ming. C Core P Periphery
+w305  Comments: Explications, explanations, and justifications.</eaover>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>CHGIS - Harvard Yenching Institute Center for Geographic Analysis</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1737 Cambridge Street, Suite N321</address>
+<city>Cambridge</city>
+<state>MA</state>
+<postal>02138</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-496-6222</cntvoice>
+<cntemail>chgis@fas.harvard.edu</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>chgis_chinaw_points_gbk</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize>0.050</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.fas.harvard.edu/~chgis/</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20070601</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>dssc.data@columbia.edu</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
