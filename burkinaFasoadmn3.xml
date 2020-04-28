@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Agency for International Development</origin>
+<origin>Famine Early Warning System Network</origin>
+				<pubdate>1996</pubdate>
+				<title>Burkina Faso Level 2 Administrative Boundaries, 1996</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/BurkinaFasoAdmn3.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This ARC/INFO polygon coverage contains the third Level administrative boundaries at a 1:1000000 scale. The coverage is part of the Famine Early Warning System (FEWS) / Associates in Rural Development (ARD) African series. Burkina Faso is associated with the Sahel region of Africa. Keywords: Boundary, Burkina Faso, UV, BF, Sahel Region, Africa</abstract>
+			<purpose>This data set is to be used in conjunction with other layers of Burkina Faso data. The data are intended to show the spatial distribution of the third Level administrative boundaries for Burkina Faso. The data are to be used in modeling, targeting and demonstration projects. The data are also used in natural resource management, inventory, change analysis, policy making, environmental awareness and land use planning.</purpose>
+			<supplinf>Procedures_Used
+    The departmental boundaries were digitized from the following IGN Burkina
+    Faso CARTE AU 1:200000 source map sheets:
+    1980 Tenkodogo
+    1984 Ouagadougou
+    1980 Pama
+    1985 Sikasso
+    1965 Arli
+    1975 Nielle
+    1985 Bobo-Dioulasso
+    1966 Tehini-Bouna
+    1985 Douentza
+    1972 Fada Ngourma
+    1960 Pissila
+    1969 Boulsa
+    1972 Kaya
+    1964 Banfora
+    1985 San
+    1965 Gaoua
+    1969 Ouahigouya
+    1984 Leo
+    1985 Tougan
+    1971 Dedougou
+    1985 Diapaga
+    1960 Sebba
+    1969 Gotheye
+    1985 Djibo
+    1960 Dori
+    1985 Kandi
+    1985 Kirtachi
+    1961 In Tillit
+    1965 Tera
+    1984 Koudougou
+    1971 Hounde
+    1968 Yorosso
+    1968 Po
+     
+    While digitizing, the IGN international boundaries were replaced with arcs
+    from DCW. All vertices of the international boundary match those of
+    adjacent countries. Attributes were checked for consistency with the
+    hard-copy maps distributed to the FEWS field representatives.
+     
+    The administrative boundaries for Burkina Faso were extracted from
+    the "Burkina Faso" database using the ARC/INFO command RESELECT.
+     
+    These country specific sub-national boundaries were then integrated
+    into the DCW master country database using the ARC/INFO command UPDATE.
+     
+    The country specific data set, containing all of the sub-national
+    hierarchy, was extracted from the DCW master data set using the
+    ARC/INFO command RESELECT and the third Level administrative
+    units were extracted from the country specific data set using
+    the ARC/INFO command DISSOLVE.
+     
+    A master data set, based on the Digital Chart of the World (DCW)
+    PONET layer, was created.  Burkina Faso, Mali, Ethiopia, and Eritrea
+    are included in the master data set, however, these countries
+    have international boundaries that have been revised.
+     
+    The changes to Burkina Faso are:
+    The Digital Chart of the World (DCW) International boundary was used
+    for the International boundary for Burkina Faso with the only revisions
+    being those listed below.
+     
+    From : -2 degrees; 55 minutes; 8 seconds Longitude and
+    : 13 degrees;37 minutes; 37 seconds Latitude
+     
+    To : -0 degrees; 57 minutes; 41 seconds Longitude and
+    : 14 degrees; 52 minutes; 14 seconds Latitude
+     
+    AND...
+     
+    From : 0 degrees; 3 minutes; 33 seconds Longitude and
+    : 14 degrees; 58 minutes; 15 seconds Latitude
+     
+    To : 0 degrees; 13 minutes; 55 seconds Longitude and
+    : 14 degrees; 58 minutes; 15 seconds Latitude
+     
+    These changes are defined by FEWS/ARD Washington, DC, USA.
+     
+    The changes to Mali are:
+    The Digital Chart of the World (DCW) International boundary was used
+    for the International boundary for Mali with the only revisions
+    being those listed below.
+     
+    From : -2 degrees; 55 minutes; 8 seconds Longitude and
+    : 13 degrees;37 minutes; 37 seconds Latitude
+     
+    To : -0 degrees; 57 minutes; 41 seconds Longitude and
+    : 14 degrees; 52 minutes; 14 seconds Latitude
+     
+    AND...
+     
+    From : 0 degrees; 3 minutes; 33 seconds Longitude and
+    : 14 degrees; 58 minutes; 15 seconds Latitude
+     
+    To : 0 degrees; 13 minutes; 55 seconds Longitude and
+    : 14 degrees; 58 minutes; 15 seconds Latitude
+     
+     
+    These changes are defined by FEWS/ARD Washington, DC, USA.
+     
+     
+    The changes to Ethiopia are:
+    The Digital Chart of the World (DCW) International boundary was used
+    for the International boundary for Ethiopia with the only revisions
+    being those listed below.
+     
+    From :  36 degrees; 34 minutes; 5 seconds Longitude and
+    :  14 degrees; 14 minutes; 25 seconds Latitude
+     
+    To : 42 degrees; 25 minutes; 22 seconds Longitude and
+    : 12 degrees; 26 minutes; 53 seconds Latitude
+     
+    These changes are defined by FEWS/ARD Washington, DC, USA.
+     
+    The changes to Eritrea are:
+    The Digital Chart of the World (DCW) International boundary was used
+    for the International boundary of Eritrea with the only revisions
+    being those listed below:
+     
+    From : 36 degrees; 34 minutes; 5 seconds Longitude and
+    : 14 degrees; 14 minutes; 25 seconds Latitude
+     
+    To : 42 degrees; 25 minutes; 22 seconds Longitude and
+    : 12 degrees; 26 minutes; 53 seconds Latitude
+     
+    These changes are defined by FEWS/ARD Washington, DC, USA.
+     
+    The international boundary for Burkina Faso was extracted from an
+    ARC/INFO LIBRARY created from the ARC/INFO version of the Digital
+    Chart of the World (DCW) using the ARC/INFO tool LIBRARIAN.
+     
+     
+     
+    Revisions
+    During ARC/INFO coverage development modifications were made to the digital
+    files to generate a database with a common scale, uniform Level of
+    resolution, consistent coding scheme and comparable (standardized)
+    measurement data.
+     
+    The only revision from the original data sets was the addition
+    of certain attributes.
+     
+     
+     
+     
+    Reviews_Applied_to_Data
+    Peer review, 03/96, FEWS/ARD Washington, D.C.
+     
+    Digital line work and attribute data checked for discrepancies and
+    approved for release to FEWS in-country and
+    regional field representatives.
+     
+     
+     
+     
+    Related_Spatial_and_Tabular_Data_Sets
+    None
+     
+     
+     
+     
+    References_Cited
+    I''Institut Geographique National (IGN) - France,  1960?,
+    "Burkina Faso,"  33 Sheets,  IGN, France.  Scale 1:200000.
+     
+    Environmental Systems Research Institute (ESRI), Inc., 1993,
+    "Digital Chart of the World (DCW),"  PONET Layer.
+    ESRI.  Redlands, CA, USA.  Scale - 1:1000000.
+     
+     
+     
+     
+     
+    Notes
+    USAID - United States Agency for International Development.
+    FEWS - Famine Early Warning System
+    ARD - Associates in Rural Development
+    EDC - EROS Data Center
+    USGS - United States Geological Survey</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1996</begdate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-5.518916</westbc>
+				<eastbc>
+2.405395</eastbc>
+				<northbc>
+15.082593</northbc>
+				<southbc>
+9.401108</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Tertiary administrative boundaries</themekey>
+				<themekey>Third Level national borders</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>Africa</placekey>
+				<placekey>Burkina Faso</placekey>
+			</place>
+			<stratum>
+				<stratkt>None</stratkt>
+			</stratum>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1996</tempkey>
+			</temporal>
+		</keywords><accconst>None</accconst>
+<useconst>None</useconst>
+		
+		
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/BurkinaFasoAdmn30.bmp</browsen>
+			<browsed>Thumbnail Image</browsed>
+			<browset>BMP</browset>
+		</browse>
+		<datacred>The USAID/FEWS Project and EDC International Program deserve
+credit for this data set.</datacred>
+		<secinfo>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+		<crossref>
+			<citeinfo>
+				<origin>'I''Institut Geographique National (IGN) - France'</origin>
+				<pubdate>1960?</pubdate>
+				<title>Burkina Faso</title>
+				<geoform>map</geoform>
+				<pubinfo>
+					<pubplace>France</pubplace>
+					<publish>IGN</publish>
+				</pubinfo>
+				<othercit>Scale-1:200000(33 Sheets)</othercit>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<attracc>
+		</attracc>
+		<logic>Polygon topology present.</logic>
+		<complete>All data were found to be topologically correct. No duplicate features are present. All polygons are closed, and all lines intersect where intended. No undershoots or overshoots are present. To the best knowledge of USAID/FEWS and EDC the data compiled in this data set meets the codes and/or procedures established for completeness and consistency.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The absolute horizontal accuracy of the DCW for all features derived from Operational Navigation Charts (ONC) is 2040 meters (6700 feet) World Geodetic System (WGS84). The absolute horizontal accuracy of the DCW for all features derived from Jet Navigation Charts (JNC) is 4270 meters (14006 feet) at 90% Circular Error.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>The absolute vertical accuracy of the DCW is the same as for the original ONC and JNC lithographs at 90% Linear Error (LE), Mean Sea Level (MSL).</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin></origin>
+						<pubdate></pubdate>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>301</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_Clarke_1880_RGS</horizdn>
+				<ellips>Clarke_1880_RGS</ellips>
+				<semiaxis>6378249.145000</semiaxis>
+				<denflat>293.465000</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+BurkinaFasoAdmn3</enttypl>
+				<enttypd>Polygon Attribute Table</enttypd>
+				<enttypds>FEWS/ARD Washington, DC, USA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of poly/region in square coverage units</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of poly/region in coverage units</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>UVADMN3_</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>UVADMN3_ID</attrlabl>
+				<attrdef>User-assigned feature number</attrdef>
+				<attrdefs>User-defined</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique administrative unit code</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CNT_ABB</attrlabl>
+				<attrdef>Unique country abbreviation</attrdef>
+				<attrdefs>Federal Information Processing Standard (FIPS)</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ADMIN2</attrlabl>
+				<attrdef>Second Level administrative unit names</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ADMIN3</attrlabl>
+				<attrdef>Third Level administrative unit names</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NUM_CODE</attrlabl>
+				<attrdef>Unique numeric administrative unit identifier</attrdef>
+				<attrdefs>EROS Data Center (EDC)</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>REGION</attrlabl>
+				<attrdef>ARD defined region in Africa that Burkina Faso is associated with</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FEWS_ABB</attrlabl>
+				<attrdef>Unique country abbreviation</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FEWSID</attrlabl>
+				<attrdef>Unique administrative unit identifier</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FEWSID2</attrlabl>
+				<attrdef>Unique identifier for the second Level administrative units</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>FEWSID3</attrlabl>
+				<attrdef>Unique identifier for the third Level administrative units</attrdef>
+				<attrdefs>FEWS/ARD</attrdefs>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>The item (ID) defines the unique administrative unit code,
+    as defined by FEWS/ARD.
+    The item (CNT-ABB) defines the unique country abbreviation,
+    as defined by EDC.
+    The item (ADMIN2) defines the second Level administrative
+    unit names, as defined by FEWS/ARD.
+    The item (ADMIN3) defines the third Level administrative
+    unit names, as defined by FEWS/ARD.
+    The item (NUM-CODE) defines the unique numeric administrative
+    unit identifier, as defined by EDC.
+    The item (REGION) defines the African region that Burkina Faso
+    is associated with, as defined by FEWS/ARD.
+    The item (FEWS-ABB) defines the unique country abbreviation,
+    as defined by FEWS/ARD.
+    The item (FEWSID) defines the unique administrative unit
+    identifier, as defined by FEWS/ARD.
+    The item (FEWSID2) defines the unique identifiers for the
+    second Level administrative units, as defined by FEWS/ARD.
+    The item (FEWSID3) defines the unique identifiers for the
+    third Level administrative units, as defined by FEWS/ARD.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<resdesc>burkinafasoadmn3</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.265</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20070522</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metsi>
+		</metsi>
+	</metainfo>
+</metadata>
