@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+<idinfo>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+<themekey>society</themekey>
+</theme>
+<temporal>
+<tempkt>none</tempkt>
+<tempkey>2012</tempkey>
+</temporal>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>New York (N.Y.)</placekey>
+<placekey>Staten Island (New York, N.Y.)</placekey>
+<placekey>Brooklyn (New York, N.Y.)</placekey>
+<placekey>Manhattan (New York, N.Y.)</placekey>
+<placekey>Queens (New York, N.Y.)</placekey>
+<placekey>Bronx (New York, N.Y.)</placekey>
+</place>
+<place>
+<placekt>None</placekt>
+<placekey>NYC</placekey>
+</place>
+<theme>
+<themekey>crime</themekey>
+<themekey>police</themekey>
+<themekey>felonies</themekey>
+<themekey>assaults</themekey>
+<themekey>burglary</themekey>
+<themekey>rape</themekey>
+<themekey>larceny</themekey>
+<themekey>murder</themekey>
+<themekt>None</themekt>
+<themekey>robbery</themekey>
+</theme>
+</keywords>
+<citation>
+<citeinfo>
+<origin>New York City Department of City Planning</origin>
+<title>New York City Monthly Grand Larceny Motor Vehicle by Precinct, 2012</title>
+<origin>Digital Social Science Center (DSSC), Columbia University Libraries</origin>
+<origin>New York (N.Y.). Police Department</origin>
+<pubdate>2014</pubdate>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>New York</pubplace>
+<publish>Digital Social Science Center (DSSC), Columbia University Libraries</publish>
+</pubinfo>
+<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.nyc_glmv_2012&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+</citation>
+<spdom>
+<bounding>
+<westbc>-74.257465</westbc>
+<eastbc>-73.699210</eastbc>
+<northbc>40.915808</northbc>
+<southbc>40.495805</southbc>
+</bounding>
+</spdom>
+<descript>
+<abstract>New York City Monthly Grand Larceny Motor Vehicle, 2012 is a polygon themem representing the number of reported auto thefts by police precinct in New York City for 2012.  Attribute information reports the number of crimes by month for each precinct.</abstract>
+<purpose>For educational, and general research purposes.  This dataset has been formated for use in GIS applications.</purpose>
+<langdata>en</langdata>
+<supplinf>Although boundaries list Rikers Island as part of Pollice Precinct 141, crime numbers for Rikers Island are not included in the data. For further detail, see the NYPD NYC Crime Map Statistical and Technical Notes http://www.nyc.gov/html/nypd/html/crime_mapping/nyc_crime_map_statistical_and_technical_notes.shtml</supplinf>
+</descript>
+<timeperd>
+<current>ground condition</current>
+<timeinfo>
+<sngdate>
+<caldate>2012</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<accconst>None</accconst>
+
+<useconst>None</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Digital Social Science Center (DSSC)</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<metainfo>
+<metd>20140925</metd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metc>
+<cntinfo>
+<cntperp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>dssc.data@columbia.ed</cntemail>
+</cntinfo>
+</metc>
+</metainfo>
+<spdoinfo>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>76</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+<direct>Vector</direct>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Glmv_2012</enttypl>
+<enttypd>Police precincts</enttypd>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>ID number</attrdef>
+</attr>
+<attr>
+<attrlabl>Precinct</attrlabl>
+<attrdef>Precinct number</attrdef>
+</attr>
+<attr>
+<attrlabl>Jan</attrlabl>
+<attrdef>Number of reported incidents in January</attrdef>
+</attr>
+<attr>
+<attrlabl>Feb</attrlabl>
+<attrdef>Number of reported incidents in Febuary</attrdef>
+</attr>
+<attr>
+<attrlabl>Mar</attrlabl>
+<attrdef>Number of reported incidents in March</attrdef>
+</attr>
+<attr>
+<attrlabl>Apr</attrlabl>
+<attrdef>Number of reported incidents in April</attrdef>
+</attr>
+<attr>
+<attrlabl>May</attrlabl>
+<attrdef>Number of reported incidents in May</attrdef>
+</attr>
+<attr>
+<attrlabl>June</attrlabl>
+<attrdef>Number of reported incidents in June</attrdef>
+</attr>
+<attr>
+<attrlabl>July</attrlabl>
+<attrdef>Number of reported incidents in July</attrdef>
+</attr>
+<attr>
+<attrlabl>Aug</attrlabl>
+<attrdef>Number of reported incidents in August</attrdef>
+</attr>
+<attr>
+<attrlabl>Sep</attrlabl>
+<attrdef>Number of reported incidents in September</attrdef>
+</attr>
+<attr>
+<attrlabl>Oct</attrlabl>
+<attrdef>Number of reported incidents in October</attrdef>
+</attr>
+<attr>
+<attrlabl>Nov</attrlabl>
+<attrdef>Number of reported incidents in November</attrdef>
+</attr>
+<attr>
+<attrlabl>Dec</attrlabl>
+<attrdef>Number of reported incidents in December</attrdef>
+</attr>
+<attr>
+<attrlabl>Shape_Leng</attrlabl>
+<attrdef>Perimiter of feature in map units</attrdef>
+</attr>
+<attr>
+<attrlabl>Shape_area</attrlabl>
+<attrdef>Area of feature in square map units</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<dataqual>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<title>NYPD crime map</title>
+<origin>New York (N.Y.). Police Department</origin>
+<pubdate>2014</pubdate>
+<geoform>tabular digital data</geoform>
+<pubinfo>
+<pubplace>New York</pubplace>
+</pubinfo>
+<onlink>http://maps.nyc.gov/crime/</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Web site</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2012</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>CrimeData</srccitea>
+<srccontr>Attribute information</srccontr>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>2012</pubdate>
+<title>New York City Police Precincts (Clipped to Shoreline)</title>
+<origin>New York City Department of City Planning</origin>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>New York</pubplace>
+<publish>New York Dept. of City Planning</publish>
+</pubinfo>
+<onlink>http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Vector digital data</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2011</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>PolicePrecincts</srccitea>
+<srccontr>Geometry</srccontr>
+</srcinfo>
+<procstep>
+<procdate>20140228</procdate>
+<procdesc>Data Service staff pulled the statistics from the javascript in theNYC Crime Map web site and joined them too New York City Planning police pricinct shapefile.</procdesc>
+</procstep>
+</lineage>
+</dataqual>
+<distinfo>
+<resdesc>nyc_glmv_2012</resdesc>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>NY</city>
+<postal>10027</postal>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</distrib>
+</distinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone>3104</spcszone>
+<lambertc>
+<stdparll>40.67791667</stdparll>
+<stdparll>41.03333333</stdparll>
+<longcm>-74</longcm>
+<latprjo>40.16666667</latprjo>
+<feast>984251.97</feast>
+<fnorth>0</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.00001</absres>
+<ordres>0.00001</ordres>
+</coordrep>
+<plandu>feet</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 1980</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+</metadata>
