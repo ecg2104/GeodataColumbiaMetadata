@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+		<descript>
+			<abstract>United States 111th Congressional Districts represents the political boundaries for the U.S. 111th congressional districts. The membership is current as of February 25, 2009.</abstract>
+			<purpose>United States 111th Congressional Districts provides the locations of congressional districts, primarily for national planning applications.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:1,000,000.
+
+This dataset comes with an ESRI layer file representing the party affiliation of the congressman.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>2010</pubdate>
+				<title>United States 111th Congressional Districts, 2010</title>
+				<geoform>vector digital data</geoform>
+				<edition>10</edition>
+				<serinfo>
+					<sername>ESRI Data &amp; Maps</sername>
+					<issue>10 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_us_cd111.zip</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>ground condition: 200901-201101, 200701-200901, 200501–200701, 200301–200501, 200211, 200101–200301, 20040106, 20030702; publication date: 2004, 2006, 20070306, 20080401, 20070423, 20090225, 20080606</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>200901-201101, 200701–200901, 200501–200701, 200301–200501, 200211, 200101–200301, 2004, 20040106, 20030702, 2006, 20070306, 20080401, 20070423, 20090225, 20080606</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-179.147336</westbc>
+				<eastbc>-65.221109</eastbc>
+				<northbc>71.352563</northbc>
+				<southbc>17.884809</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>congressional districts</themekey>
+				<themekey>Congress</themekey>
+				<themekey>House of Representatives</themekey>
+				<themekey>population</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<place>
+				<placekey>United States</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2009-2011</tempkey>
+				<tempkey>2007–2009</tempkey>
+				<tempkey>2005–2007</tempkey>
+				<tempkey>2003–2005</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2001–2003</tempkey>
+				<tempkey>2004</tempkey>
+				<tempkey>2003</tempkey>
+				<tempkey>2006</tempkey>
+				<tempkey>2007</tempkey>
+				<tempkey>2008</tempkey>
+				<tempkey>2009</tempkey>
+			</temporal>
+			<theme>
+				<themekey>boundaries</themekey>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>society</themekey>
+			</theme>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/esri_93_usa_cd110.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>jpg</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<cntinst>In the United States
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20110725</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ESRI_2010_us_cd111</enttypl>
+				<enttypd>An area established by state officials or the courts for the purpose of electing a person to the U.S. House of Representatives. Within each state, these areas must contain, as nearly as possible, an equal number of inhabitants. The number of congressional districts in each state may change after each decennial census, and the boundaries may be changed more than once during a decade.</enttypd>
+				<enttypds>Department of Commerce, Census Bureau</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The name of the representative for the congressional district.</attrdef>
+				<attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PARTY</attrlabl>
+				<attrdef>The political party of the representative for the congressional district.</attrdef>
+				<attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Democrat</edomv>
+						<edomvd>The representative is a Democrat.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Independent</edomv>
+						<edomvd>The representative is an Independent.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Republican</edomv>
+						<edomvd>The representative is a Republican.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Vacant</edomv>
+						<edomvd>The representative has resigned, died, or declined to serve.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICTID</attrlabl>
+				<attrdef>The congressional district code (four-digit number).</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards (PUB 9-1)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>The FIPS code (two-digit number) for the state in which the congressional district is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STATE_ABBR</attrlabl>
+				<attrdef>The two-letter abbreviation for the state in which the congressional district is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP2008</attrlabl>
+				<attrdef>The 2008 estimated population of the congressional district.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Populations for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SQMI</attrlabl>
+				<attrdef>The area of the congressional district in square miles.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>3.478</transize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt/>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2010_usa_cd111</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI Offices</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>U.S. 110th Congressional Districts, 2010</title>
+						<origin>ESRI</origin>
+						<pubdate>20080401</pubdate>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<publish>ESRI</publish>
+							<pubplace>Redlands, California, USA</pubplace>
+						</pubinfo>
+						<onlink>http://www.esri.com/</onlink>
+						<edition>2008</edition>
+						<serinfo>
+							<sername>ESRI® Data &amp; Maps</sername>
+							<issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+						</serinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>200701-200901</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200501–200701</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200301–200501</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200211</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200101–200301</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2004</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20040106</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20030702</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2006</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20070306</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20080401</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition: 200701-00901, 200501-200701, 200301–200501, 200211, 200101–200301, 20040106, 20030702; publication date: 2004, 2006, 20070306, 20080401</srccurr>
+				</srctime>
+				<srccitea>ESRI Data &amp; Maps 2008</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+				<typesrc>DVD-ROM</typesrc>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau, Geography Division</origin>
+						<title>2006 Second Edition TIGER/Line Files; 110th Congressional Districts, 2010</title>
+						<serinfo>
+							<sername>TIGER/Line® Files; Congressional Districts</sername>
+							<issue>2006 Second Edition; 110th, Jan. 2007 - Jan. 2009</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>U.S. Census Bureau, Geography Division</publish>
+						</pubinfo>
+						<pubdate>20070306; 20070423</pubdate>
+						<edition>2006 Second Edition; Jan. 2007 - Jan. 2009</edition>
+						<geoform>tabular digital data; vector digital data</geoform>
+						<othercit>Provided the congressional district boundaries for Pennsylvania, Georgia, and Texas. Provided a correction to Hawaii.</othercit>
+						<onlink>ftp://www2.census.gov/geo/tiger/tiger2006se/</onlink>
+						<onlink>http://www.census.gov/geo/www/tiger/tiger2006se/tgr2006se.html</onlink>
+						<onlink>http://www.census.gov/geo/www/cob/cd110.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srccontr>Attribute and geospatial data</srccontr>
+				<typesrc>online</typesrc>
+				<srccitea>U.S. Census Bureau, Geography Division</srccitea>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>20070306</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20070423</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<typesrc>online</typesrc>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>Clerk of the U.S. House of Representatives</origin>
+						<title>MEMBER INFORMATION</title>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>Clerk of the U.S. House of Representatives</publish>
+						</pubinfo>
+						<pubdate>20090225</pubdate>
+						<geoform>document</geoform>
+						<onlink>http://clerk.house.gov/member_info/olm111.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srccitea>http://clerk.house.gov</srccitea>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20090225</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>ESRI Data</title>
+						<origin>ESRI</origin>
+						<pubdate>20080606</pubdate>
+						<edition>2008</edition>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>ESRI® Data</sername>
+							<issue>2008</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Redlands, California, USA</pubplace>
+							<publish>ESRI</publish>
+						</pubinfo>
+						<onlink>http://www.esri.com</onlink>
+						<othercit>Provides the POP2008 attribute.</othercit>
+					</citeinfo>
+				</srccite>
+				<srccitea>ESRI Data</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20080606</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<typesrc>DVD–ROM</typesrc>
+			</srcinfo>
+			<procstep>
+				<procdate>20090305</procdate>
+				<procdesc>The following steps were performed by ESRI: Copied the ESRI Data &amp; Maps 2008 Update U.S. 110th Congressional Districts shapefile. Verified that there were no boundary changes. Compared NAME and PARTY attribute values to information at http://clerk.house.gov/member_info/olm111.html, and updated any necessary values. Added POP2008 from ESRI Data.
+Converted the data set to SDC. Created projection file (.prj) and spatial indices.</procdesc>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>The positional accuracy is unknown.</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.
+
+Line simplification and smoothing was performed with a tolerance of 0.005 decimal degrees and a coordinate reduction using the Douglas-Peucker method with a tolerance of 0.0003 decimal degrees. Very small polygons were eliminated when the combination of geographic codes existed elsewhere.</complete>
+	</dataqual>
+</metadata>

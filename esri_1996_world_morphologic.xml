@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+<pubdate>1996</pubdate>
+<title>Morphologic Structure, 1996</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>ArcAtlas</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, Calif.</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_1996_world_morphologic.zip</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Morphologic Structure, 1996 is a polygon theme representing morphostructure worldwide.  Attribute information includes the morphologic type,  group, class and subclass.</abstract>
+<purpose>For educational, non-commercial purposes.  This dataset is appropriate for use in a GIS.</purpose>
+<supplinf>Morphostructure is the study of large or global landforms such as plains, highlands, ranges, plateaus, and tablelands. These landforms result from the historic interaction of endogenic and exogenic processes, with endogenic factors predominating.
+
+The largest morphostructural elements (geotectures) are (1) plain and platform areas, (2) orogens, and (3) marginal and intermontane troughs, which are transitional zones between the first two geotectures. Geotectures are classified into types, often based on their genesis.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-180</westbc>
+<eastbc>
+180</eastbc>
+<northbc>
+85</northbc>
+<southbc>
+-85</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>geoscientificinformation</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Morphologic structure</themekey>
+<themekey>Morphostructure</themekey>
+<themekey>Landforms</themekey>
+<themekey>Plains</themekey>
+<themekey>Highlands</themekey>
+<themekey>Ranges</themekey>
+<themekey>Plateaus</themekey>
+<themekey>Tablelands</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>Earth</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>1996</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI</cntorg>
+<cntper>Data Team</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>909-793-2853</cntvoice>
+<cntfax>909-793-5953</cntfax>
+<cntemail>info@esri.com</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, MondayFriday</hours>
+<cntinst>n the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. Outside the United States Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/m_struct.jpg</browsen>
+<browsed>Thumbnail</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>The maps display the morphostructural and morphosculptural approach to geomorphology developed by the Russian geographical school, beginning with the work of I.P. Gerasimov and Y.A. Meshheryakov. With this approach, the unified relief of the earth's surface is classified into two components formed by endogenic (morphostructure) and exogenic (morphosculpture) factors. These components are shown on separate maps.
+
+The legend of the morphostructure maps is framed by the typological principle. The morphostructural types of plain and platform areas are classified by a leading relief-forming process into two main categories: denudation (structurally controlled denudation) and deposition. Denudation plains consist of two groups: plains on complicated deformed crystalline and metamorphic rocks (socle) and plains on slightly deformed sedimentary rocks in horizontal strata. Deposition (aggradation) plains are areas composed by loose unconsolidated thick deposits.
+
+In mountains, basement lithology is not shown because of the diversity of rocks. However, it can be clearly seen from the types of rock deformation caused by orogenic processes. Such information is given by the classification of mountains into three types: block (typically composed of crystalline and metamorphic rocks), fold-block (composed of consolidated sedimentary rocks), and fold (composed of slightly consolidated sedimentary rocks).
+
+The morphostructural types of orogens are classified by recent rejuvenated processes and type of manifestation (block, arch-block, fold, etc.). Because the morphostructure of orogens is mainly determined by the recent relief development, it is described by the terms "epiplatformian" and "epigeosyncline" mountains. Orogens are mountains that are built in geosynclines at the final stages of their formations (epigeosyncline orogens) or in platforms at the stages of their activation (epiplatformian orogens).
+
+It is difficult to classify orogenic and platformian morphostructures within fragmentary activated platforms. For example, the Appalachian Mountains are often classified as an area of weak recent orogeny or, sometimes, as a plain-tableland area, that is, ancient mountains (as in this atlas).
+
+The morphostructural types on the maps also involve hypsometric characteristics in addition to morphogenetic characteristics. Mountains are classified by altitude into four groups: low (600 to 1,000 meters), middle (from approximately 1,000 to 2,500 meters), high (from approximately 2,500 to 5,500 meters), and very high (over 5,500 meters). Plains are classified into lowlands (0 to 100 meters), middle plains (100 to 175 meters), and uplands (over 175 meters). Variable scales are used for high plains (Africa, Central Asia) where the altitude range is greater.
+
+The morphostructure maps of continents were compiled by recent regional materials of various scales (cartographic and textual) that include information on hypsometry, geology, tectonics, history of relief development, and so on.
+
+Morphologic Structure -- References
+
+de Almeida, V.J. 1981. Geomorfologia de Estado Acre. Revista brasileira de geografia,
+43, 1. pp. 87-97.
+
+Ananiev, G.S., and O.K. Leontiev. 1987. Geomorfologiya materikov i okeanov
+(Geomorphology of the continents and oceans). Moscow Univ. Publ. House, Moscow. 276
+pp.
+
+Aprodov, V.A. 1982. Vulkany (Volcanoes). Mysl', Moscow. 367 pp.
+
+Atlas de la Republica de Chile. Mapa Geomorfologico, 1:4,530,000. 1970. Instituto
+Geografico Militar, Santiago. 2 ed. pp. 203-204.
+
+Atlas del Ecuador, Geomorfologia, 1:4,000,000. 1979. Les editions Jeuene Afrique, Paris.
+
+Atlas Estado de Maranhao, Geomorfologia, 1:2,000,000. 1984. Instituto Brasileiro de
+Geografia e Estatistica, Rio de Janeiro. p. 5.
+
+Atlas of Australian Resources. Landforms (including maps: Relief, Morphostructure,
+Contours, Landform types), 1:12,000,000. 1973. Dept. Min. and Energy, Canberra. 4 s.
+
+Atlas Regional Pacifico, Geomorfoestructura, 1:2,500,000. 1983. Instituto Geografico
+"Augustin Codazzi," [Bogota]. p. 17.
+
+Berrange, J.P. 1977. The geology of southern Guyana, South America. H. M. Stat. Off.,
+London. 112 pp.
+
+Blagovolin, N.S. Cherty skhodstva i pazlichiya v morfostrukture molodykh i drevnikh
+platformennykh ravnin (Similar and different features in morphostructures of young and
+ancient platformian plains). Geomorfologiya, 3, 1988. pp. 8-20.
+
+Braun, O.P.G. and R. Ramalho. Geomorfologia do Estado Bahia. Revista brasileira de
+geografia, 42, 4. 1980. pp. 822-857.
+
+Capitanelli, R.G. M. Zamorano, M. Geografia regional de la provincia de San Luis. Boletin
+de estudios geograficos, 19, 74-77. 1972. pp. 5-320.
+
+Dobrynin, B.F. Fizicheskaya geografiya Zapadnoy Evropy (Physical geography of West
+Europe). 1948. Uchpedgiz, Moscow. 416 p.
+
+Ehntsiklopediya regional'noy geologii mira (Encyclopedia of regional geology of the world).
+1980. Nedra, Leningrad.
+
+Embleton, C., gen. ed. Geomorphology of Europe. 1984. The Macmillan Press Ltd., New
+York. 465 pp.
+
+Fernandez, R.F. 1973. Notas acerca de varios feumenos geomorfologicos de la provincias
+de Mendoza y San Juan (Argentina). Revista geofisica, 32, 2. pp. 215-225.
+
+Geodynamic map of China and adjacent seas. 1986. China Cartographic Publ. House,
+Beijing. 2 s.
+
+Geomorfologicheskaya karta Mongol'skoy Naropnoy Respubliki (Geomorphological map of
+Mongolian People's Republic), 1:1,500,000. 1987. GUGK, Moscow. 2 s.
+
+Geomorfologicheskaya karta SSSR (Geomorphological map of the USSR), 1:2,500,000.
+1987. GUGK, Moscow. 16 s.
+
+Geomorphological map of China and adjacent area. 1993. China Geological Map
+Printing House, Beijing. 1 s.
+
+Gert, G. Geologiya And. Stroyeniye Yuzhnoamerikanskiye Kordil'ery (Geology of the Andes.
+Structure of the South-American Cordilleras). 1959. Foreign Literature Publ. House,
+Moscow. 291 pp.
+
+Gornyye strany Evropeyskoy chasty SSSR i Kavkaza (Mountain areas of the European USSR
+and Caucasus). 1974. Nauka, Moscow. 360 pp.
+
+Karta noveyshey tektoniki yuga Azii i sopredel'nykh oblastey (Neotectonic map of Asia and
+adjacent areas), 1:5,000,000. 1978. Zarubezhgeologiya, Moscow. 8 s.
+
+Kehrer, W., and G. van der Kaaden. Notes on the geology of Ecuador with special
+reference to the Western Cordillera. 1979. Schweizerbart, Hannover. 57 p.
+
+Kempbell, K. Kolumbiyskiye Andy (The Colombian Andes). In: Mezozoysko-Kaynozoyskiye
+skladchatyye poyasa. Materialy po sravnitel'noy tektonike (Mesozoic-Cenozoic fold belts.
+Materials for comparative tectonics). 1977. Mir, Moscow. pp. 371-395.
+
+Khain, V.E. Megarel'ef Zemli i tektonika litosfernykh plit (Megarelief of the Earth and
+tectonics of lithospheric plates). Geomorfologiya, 3. 1989. pp. 5-16.
+
+King, F.B. Geologicheskoye stroyeniye Severnoy Ameriki (Geological structure of North
+America). 1959. Foreign Literature Publ. House, Moscow. 300 p.
+
+King, F.B. Dokembriyskaya geologiya SShA (Precambrian geology of the U.S.A.) --
+commentary to the geological map. 1979. Mir, Moscow. 96 p.
+
+La Guyane. Atlas des departements d'outre-mer, Planche 3, Relief, 1:1,000,000. 1979.
+Office de la Recherche Scientifique et Technique Outre-mer, [Paris].
+
+Milanovsky, E.E. Riftogennyye zony kontinentov (Rifting zones of the continents). 1976.
+Nedra, Moscow. 280 p.
+
+Milanovsky, E.E. Riftogenez v istorii Zemli (Rifting in the Earth history). Nedra, Moscow.
+1983. 290 p.
+
+Mon, R. The structure of the eastern border of the Andes in northwestern Argentina.
+Geologische Rundschau, 65, 1. 1976. pp. 211-222.
+
+Morfostruktura i morfoskul'ptura platformennykh ravnin SSSR i dna omyvayuzhhikh ego
+morey (Morphostructure and morphosculpture of the platformian plains of the USSR and
+bottoms of adjoining seas). 1986. Nauka, Moscow. 192 pp.
+
+Morfostruktura i morfoskul'ptura orogrnov i obshhiye zakonomernosty rel'efa SSSR
+(Morphostructure and morphosculpture of orogenes and common features of the relief of
+the USSR). 1986. Nauka, Moscow. 192 pp.
+
+Mabbutt, G.A. Landforms (Commentary to the map-sheep Landforms of the Atlas of
+Australian Resources, Second series). 1973. Dep. Min. and Energy, Canberra.
+
+Noveyshaya tektonika kontinental'nykh, perekhodnykh i okeanicheskikh oblastey Zemli --
+ob'yasnitel'naya zapiska k Karte noveyshey tektoniki mira masshtaba 1:15,000,000
+(Neotectonics of continental, transitional, and oceanic regions of the Earth -- commentary
+to Neotectonic Map of the world). 1984. Zarubezhgeologiya, Moscow.
+
+Ravniny Evropeyskoy chasti SSSR (Plains of the European USSR). 1974. Nauka, Moscow.
+255 pp.
+
+Rel'ef Zemli -- morfostruktura i morfoskul'ptura (Relief of the Earth -- morphostructure and
+morphosculpture). 1967. Nauka, Moscow, 327 pp.
+
+Seliverstov, Yu.P. Ehvolyutsiya rel'efa i pokrovnykh obrazovaniy vlazhnykh tropikov
+Sakharskoy platformy (Evolution of relief and covering structures of humid tropics of the
+Sahara platform). 1978. Nedra, Leningrad. 239 pp.
+
+Tektonicheskaya karta Mira (Tectonic map of the World), 1:25,000,000. 1977.
+Zarubezhgeologiya, Moscow. 4 s.
+
+Trifonov, V.G. Pozdnechetvertichnyy tektogenez (Late Quaternary tectogenesis). 1983.
+Nauka, Moscow. 224 pp.</procdesc>
+<srcused>See process description</srcused>
+<procdate>Unknown</procdate>
+<proccont>
+<cntinfo>
+<cntaddr>
+</cntaddr>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Datasets for eacch continent were converted from ESRI coverage to the ESRI shapefile format using the 'copy features' tool and merged into one layer using the 'merge' tool.</procdesc>
+<procdate>20090507</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>GIS/MapLibrarian</cntper>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>4664</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>D_Clarke_1866</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+m_struct</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area</attrdef>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter</attrdef>
+</attr>
+<attr>
+<attrlabl>SAMORFDD_</attrlabl>
+<attrdef>South America</attrdef>
+</attr>
+<attr>
+<attrlabl>SAMORFDD_I</attrlabl>
+<attrdef>South America</attrdef>
+</attr>
+<attr>
+<attrlabl>GROUP</attrlabl>
+<attrdef>Group of morphostructure</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>no group</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>socle</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>built on horizontal strata</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>volcanic</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>block and arch-block</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>rift</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>block</edomvd>
+</edom>
+<edom>
+<edomv>7</edomv>
+<edomvd>fold-block</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>block and fold-block</edomvd>
+</edom>
+<edom>
+<edomv>9</edomv>
+<edomvd>fold</edomvd>
+</edom>
+<edom>
+<edomv>10</edomv>
+<edomvd>degraded</edomvd>
+</edom>
+<edom>
+<edomv>11</edomv>
+<edomvd>block</edomvd>
+</edom>
+<edom>
+<edomv>12</edomv>
+<edomvd>fold-block</edomvd>
+</edom>
+<edom>
+<edomv>13</edomv>
+<edomvd>fold</edomvd>
+</edom>
+<edom>
+<edomv>14</edomv>
+<edomvd>fold-block and block</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>structural</edomvd>
+</edom>
+<edom>
+<edomv>16</edomv>
+<edomvd>volcanic</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>TYPE</attrlabl>
+<attrdef>Contains a code for the type of morphologic structure. (See code list in the overview description)</attrdef>
+</attr>
+<attr>
+<attrlabl>SUBCLASS</attrlabl>
+<attrdef>Subclass of morphostructure</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>no subclass</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>denudation and structurally controlled denudation plains and uplands</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>erosion-deposition plains</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>deposition plains</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>erosion-deposition and deposition plains</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>epiplatformian mountains</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>epigeosyncline mountains rejuvenated by Cenozoic orogenesis</edomvd>
+</edom>
+<edom>
+<edomv>7</edomv>
+<edomvd>epigeosyncline mountains built by Cenozoic orogenesis and volcanism</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>epigeosyncline mountains built by Late Cenozoic orogenesis and volcanism</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>CLASS</attrlabl>
+<attrdef>Class of morphostructure</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>no class</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>platform plains</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>orogenic zones</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>marginal troughs and intermountain depressions</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAMORFDD_</attrlabl>
+<attrdef>North America</attrdef>
+</attr>
+<attr>
+<attrlabl>NAMORFDD_I</attrlabl>
+<attrdef>North America</attrdef>
+</attr>
+<attr>
+<attrlabl>EUMORFDD_</attrlabl>
+<attrdef>Europe</attrdef>
+</attr>
+<attr>
+<attrlabl>EUMORFDD_I</attrlabl>
+<attrdef>Europe</attrdef>
+</attr>
+<attr>
+<attrlabl>AUMORFDD_</attrlabl>
+<attrdef>Australia</attrdef>
+</attr>
+<attr>
+<attrlabl>AUMORFDD_I</attrlabl>
+<attrdef>Australia</attrdef>
+</attr>
+<attr>
+<attrlabl>ASMORFDD_</attrlabl>
+<attrdef>Asia</attrdef>
+</attr>
+<attr>
+<attrlabl>ASMORFDD_I</attrlabl>
+<attrdef>Asia</attrdef>
+</attr>
+<attr>
+<attrlabl>AFMORFDD_</attrlabl>
+<attrdef>Africa</attrdef>
+</attr>
+<attr>
+<attrlabl>AFMORFDD_I</attrlabl>
+<attrdef>Africa</attrdef>
+</attr>
+</detailed>
+<overview>
+<eaover>Morphologic structure type codes
+
+Class 1. MORPHOSTRUCTURE OF PLATFORM PLAINS
+Subclass 1. Denudation and structurally controlled denudation plains and uplands
+Group 1. Socle (on deformed crystalline and metamorphic rocks of shields and
+elevations of folded basement)
+1 low plains
+2 middle plains
+3 high plains
+4 half-buried middle plains
+5 tablelands
+6 ridges
+7 arch-block uplands, massifs, low mountains
+
+Group 2. Built on horizontal strata (on horizontal and gently inclined strata of
+sedimentary platform cover)
+8 low plains
+9 middle plains
+10 high plains
+11 plateaus (undifferentiated by altitude)
+12 plateaus low and middle
+14 plateaus high
+15 stratified and step uplands
+16 monocline plateaus and uplands
+
+Group 3. Volcanic
+17 low trapp plateaus
+18 middle step and degraded-table trapp plateaus
+19 high step trapp plateaus and tablelands
+20 step lava plateaus
+
+Subclass 2. Erosion-deposition (on horizontal sedimentary strata) plains
+21 low
+22 middle
+23 high
+
+Subclass 3. Deposition plains
+24 low
+25 middle
+26 high
+
+Subclass 4. Erosion-deposition (on horizontal sedimentary strata) and deposition plains
+27 low
+28 middle
+29 low and middle
+30 high
+103 inland depressions
+
+Class 2. MORPHOSTRUCTURE OF OROGENIC ZONES
+Subclass 5. Epiplatformian mountains
+Group 4. Block and arch-block
+31 very high plains
+32 plateaus
+33 tablelands
+34 highlands
+35 hills and uplands
+36 low ranges and massifs
+37 middle ranges and massifs
+38 low and middle ranges and massifs (undifferentiated)
+39 high and very high ranges and massifs
+40 very large intermontane basins
+41 denudation and structurally controlled denudation low plains
+42 denudation and structurally controlled denudation middle plains
+43 denudation and structurally controlled denudation high plains
+44 volcanic massifs and plateaus, Pre-quaternary
+45 volcanic massifs and plateaus, Recent
+
+Group 5. Rift
+46 plains and plateaus
+47 tablelands and highlands
+48 low ranges
+49 middle ranges
+50 high ranges and massifs
+51 ranges and massifs of different altitudes
+52 grabens, intermontane basins
+Subclass 6. Epigeosyncline mountains rejuvenated by Cenozoic orogenesis
+
+Group 6. Block
+53 low highlands
+54 middle highlands
+55 low ranges and massifs
+
+Group 7. Fold-block
+56 tablelands
+57 middle highlands
+58 low ranges
+59 middle ranges
+60 high and very high ranges
+
+Group 8. Block and fold-block
+61 low and middle ranges
+
+Group 9. Fold
+62 low ranges
+63 middle ranges
+
+Group 10. Degraded
+64 uplands and hills
+65 plateaus
+66 intermontane basins
+Subclass 7. Epigeosyncline mountains, built by Cenozoic orogenesis and volcanis
+
+Group 11. Block
+67 low ranges
+68 middle ranges
+69 low and middle ranges
+70 high ranges
+71 very high ranges
+
+Group 12. Fold-block
+72 tablelands
+73 highlands
+74 low ranges
+75 middle ranges
+76 high and very high ranges
+
+Group 13. Fold
+77 low ranges
+78 middle ranges
+79 high and very high ranges
+
+Group 14. Block and fold-block
+80 low ranges
+81 middle ranges
+
+Group 15. Structural
+82 low plateaus
+83 middle plateaus
+84 high plateaus
+85 denudation plains
+
+Group 16. Volcanic
+86 middle plains
+87 plateaus
+88 highlands
+89 ranges and massifs
+90 intermontane basins
+Subclass 8. Epigeosyncline mountains, built by Late Cenozoic orogenesis and
+volcanism
+91 volcanic highlands, plateaus, tablelands and massifs
+92 low and middle ranges
+93 high ranges
+94 very high ranges
+95 intermontane basins
+104 Tectono-volcanic plateaus and massifs
+
+Class 3. MORPHOSTRUCTURE OF MARGINAL TROUGHS AND INTERMONTANE
+DEPRESSIONS
+96 erosion-deposition (on horizontal sedimentary strata and deposition plains)
+97 structurally controlled erosion plains and socle plains
+98 structurally controlled erosion and erosion-deposition (on horizontal sedimentary
+strata) plateaus and plains
+99 fold ranges of different altitudes
+100 block ranges of different altitudes
+
+OTHER
+101 volcanic islands
+102 glaciers</eaover>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI; ESRI International Distributors</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>800-447-9778</cntvoice>
+<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>esri_1996_world_morphologic</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<formspec>zip</formspec>
+<transize>13.639</transize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20090701</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

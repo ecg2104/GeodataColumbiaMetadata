@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>district91</enttypl>
+				<enttypd>India Historical District Map 1991</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DIST91_ID</attrlabl>
+				<attrdef>Unique Identification Number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>DIST91_</attrlabl>
+				<attrdef>Unique Identification Number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>DIST_CODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FLAG</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of the District</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATE_UT</attrlabl>
+				<attrdef>STATE_UT</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_AREA</attrlabl>
+				<attrdef>Total Area of District</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_AREA</attrlabl>
+				<attrdef>Rural Area of District</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_AREA</attrlabl>
+				<attrdef>Urban Area of District</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_AREA</attrlabl>
+				<attrdef>Percentage Rural Area (R_AREA / TOT_AREA * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_AREA</attrlabl>
+				<attrdef>Percentage Urban Area (U_AREA / TOT_AREA * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_HOUSE</attrlabl>
+				<attrdef>Total Number of Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_NM_HOUSE</attrlabl>
+				<attrdef>Rural Number of Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_NM_HOUSE</attrlabl>
+				<attrdef>Urban Number of Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_HOUSE</attrlabl>
+				<attrdef>Percent Rural Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_HOUSE</attrlabl>
+				<attrdef>Percent Urban Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>T_NM_HH</attrlabl>
+				<attrdef>Total Number of Household</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_NM_HH</attrlabl>
+				<attrdef>Rural Number of Household</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_NM_HH</attrlabl>
+				<attrdef>Urban Number of Household</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_NM_HH</attrlabl>
+				<attrdef>Percent Rural Household (R_NM_HH / T_NM_HH * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_NM_HH</attrlabl>
+				<attrdef>Percent Urban Household (U_NM_HH / T_NM_HH * 100</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_POP</attrlabl>
+				<attrdef>Total Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_POP</attrlabl>
+				<attrdef>Rural Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_POP</attrlabl>
+				<attrdef>Rural Male Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_POP</attrlabl>
+				<attrdef>Rural Female Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_POP</attrlabl>
+				<attrdef>Urban Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_POP</attrlabl>
+				<attrdef>Urban Male Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_POP</attrlabl>
+				<attrdef>Urban Female Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_POP</attrlabl>
+				<attrdef>Percent Rural Population (R_POP / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_POP</attrlabl>
+				<attrdef>Percent Rural Male Population (R_M_POP / R_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_POP</attrlabl>
+				<attrdef>Percent Rural Female Population (R_F_POP / R_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_POP</attrlabl>
+				<attrdef>Percent Urban Population (U_POP / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_POP</attrlabl>
+				<attrdef>Percent Urban Male Population (U_M_POP / U_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_POP</attrlabl>
+				<attrdef>Percent Urban Female Population (U_F_POP / U_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_POP_L6</attrlabl>
+				<attrdef>Total Population Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_POP_L6</attrlabl>
+				<attrdef>Rural Population Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_L6</attrlabl>
+				<attrdef>Rural Male Pop Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_L6</attrlabl>
+				<attrdef>Rural Female Pop Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_POP_L6</attrlabl>
+				<attrdef>Urban Population Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_L6</attrlabl>
+				<attrdef>Urban Male Pop Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_L6</attrlabl>
+				<attrdef>Urban Female Pop Below 6 Years</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_L6</attrlabl>
+				<attrdef>Percent Total Below 6 Years (TOT_POP_L6 / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_L6</attrlabl>
+				<attrdef>Percent Rural Below 6 Years (R_POP_L6 / TOT_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_L6</attrlabl>
+				<attrdef>Percent Rural Male Below 6 Years (R_M_POP_L6 / R_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_L6</attrlabl>
+				<attrdef>Percent Rural Female Below 6 Years (R_F_POP_L6 / R_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_L6</attrlabl>
+				<attrdef>Percent Urban Below 6 Years (U_POP_L6 / TOT_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_L6</attrlabl>
+				<attrdef>Percent Urban Male Below 6 Years (U_M_POP_L6 / U_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_L6</attrlabl>
+				<attrdef>Percent Urban Female Below 6 Years (U_F_POP_L6 / U_POP_L6 * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_SC</attrlabl>
+				<attrdef>Total Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_SC</attrlabl>
+				<attrdef>Rural Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_SC</attrlabl>
+				<attrdef>Rural Male Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_SC</attrlabl>
+				<attrdef>Rural Female Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_SC</attrlabl>
+				<attrdef>Urban Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_SC</attrlabl>
+				<attrdef>Urban Male Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_SC</attrlabl>
+				<attrdef>Urban Female Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_SC</attrlabl>
+				<attrdef>Percent Total Scheduled Caste (TOT_SC / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_SC</attrlabl>
+				<attrdef>Percent Rural Scheduled Caste (R_SC / TOT_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_SC</attrlabl>
+				<attrdef>Percent Rural Male Scheduled Caste (R_M_SC / R_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_SC</attrlabl>
+				<attrdef>Percent Rural Female Scheduled Caste (R_F_SC / R_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_SC</attrlabl>
+				<attrdef>Percent Urban Scheduled Caste (U_SC / TOT_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_SC</attrlabl>
+				<attrdef>Percent Urban Male Scheduled Caste (U_M_SC / U_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_SC</attrlabl>
+				<attrdef>Percent Urban Female Scheduled Caste (U_F_SC / U_SC * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_ST</attrlabl>
+				<attrdef>Total Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_ST</attrlabl>
+				<attrdef>Rural Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_ST</attrlabl>
+				<attrdef>Rural Male Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_ST</attrlabl>
+				<attrdef>Rural Female Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_ST</attrlabl>
+				<attrdef>Urban Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_ST</attrlabl>
+				<attrdef>Urban Male Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_ST</attrlabl>
+				<attrdef>Urban Female Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_ST</attrlabl>
+				<attrdef>Percent Total Scheduled Tribe (TOT_ST / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_ST</attrlabl>
+				<attrdef>Percent Rural Scheduled Tribe (R_ST / TOT_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_ST</attrlabl>
+				<attrdef>Percent Rural Male Scheduled Tribe (R_M_ST / R_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_ST</attrlabl>
+				<attrdef>Percent Rural Female Scheduled Tribe (R_F_ST / R_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_ST</attrlabl>
+				<attrdef>Percent Urban Scheduled Tribe (U_ST / TOT_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_ST</attrlabl>
+				<attrdef>Percent Urban Male Scheduled Tribe (U_M_ST / U_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_ST</attrlabl>
+				<attrdef>Percent Urban Female Scheduled Tribe (U_F_ST / U_ST * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_LIT</attrlabl>
+				<attrdef>Total Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_LIT</attrlabl>
+				<attrdef>Rural Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_LIT</attrlabl>
+				<attrdef>Rural Male Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_LIT</attrlabl>
+				<attrdef>Rural Female Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_LIT</attrlabl>
+				<attrdef>Urban Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_LIT</attrlabl>
+				<attrdef>Urban Male Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_LIT</attrlabl>
+				<attrdef>UrbanFemale Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_LIT</attrlabl>
+				<attrdef>Percent Total Literates (TOT_LIT / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_LIT</attrlabl>
+				<attrdef>Percent Rural Literates (R_LIT / R_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_LIT</attrlabl>
+				<attrdef>Percent Rural Male Literates (R_M_LIT / R_LIT * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_LIT</attrlabl>
+				<attrdef>Percent Rural Female Literates (R_F_LIT / R_LIT * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_LIT</attrlabl>
+				<attrdef>Percent Urban Literates (U_LIT / U_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_LIT</attrlabl>
+				<attrdef>Percent Urban Male Literates (U_M_LIT / U_LIT * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_LIT</attrlabl>
+				<attrdef>Percent Urban Female Literates (U_F_LIT / U_LIT * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_W</attrlabl>
+				<attrdef>Total Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_W</attrlabl>
+				<attrdef>Rural Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_W</attrlabl>
+				<attrdef>Rural Male Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_W</attrlabl>
+				<attrdef>Rural Female Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_W</attrlabl>
+				<attrdef>Urban Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_W</attrlabl>
+				<attrdef>Urban Male workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_W</attrlabl>
+				<attrdef>Urban Female Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_W</attrlabl>
+				<attrdef>Percent Total Workers (TOT_W / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_W</attrlabl>
+				<attrdef>Percent Rural Workers (R_W / TOT_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_W</attrlabl>
+				<attrdef>Percent Rural Male Workers (R_M_W / R_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_W</attrlabl>
+				<attrdef>Percent Rural Female Workers (R_F_W / R_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_W</attrlabl>
+				<attrdef>Percent Urban Workers (U_W / TOT_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_W</attrlabl>
+				<attrdef>Percent Urban Male Workers (U_M_W / U_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_W</attrlabl>
+				<attrdef>Percent Urban Female Workers (U_F_W / U_W * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_MNW</attrlabl>
+				<attrdef>Total main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_MNW</attrlabl>
+				<attrdef>Rural main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_MNW</attrlabl>
+				<attrdef>Rural male main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_MNW</attrlabl>
+				<attrdef>Rural female main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_MNW</attrlabl>
+				<attrdef>Urban main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_MNW</attrlabl>
+				<attrdef>Urban male main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_MNW</attrlabl>
+				<attrdef>Urban female main workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_MNW</attrlabl>
+				<attrdef>Percent total main workers (TOT_MNW / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_MNW</attrlabl>
+				<attrdef>Percent rural main workers (R_MNW / TOT_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_MNW</attrlabl>
+				<attrdef>Percent rural male main workers (R_M_MNW / R_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_MNW</attrlabl>
+				<attrdef>Percent rural female main workers (R_F_MNW / R_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_MNW</attrlabl>
+				<attrdef>Percent urban main workers (U_MNW / TOT_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_MNW</attrlabl>
+				<attrdef>Percent urban male main workers (U_M_MNW / U_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_MNW</attrlabl>
+				<attrdef>Percent urban female main workers (U_F_MNW / U_MNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_MRW</attrlabl>
+				<attrdef>Total marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_MRW</attrlabl>
+				<attrdef>Rural marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_MRW</attrlabl>
+				<attrdef>Rural male marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_MRW</attrlabl>
+				<attrdef>Rural female marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_MRW</attrlabl>
+				<attrdef>Urban marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_MRW</attrlabl>
+				<attrdef>Urban male marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_MRW</attrlabl>
+				<attrdef>Urban female marginal workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_MRW</attrlabl>
+				<attrdef>Percent total marginal workers (TOT_MRW / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_MRW</attrlabl>
+				<attrdef>Percent rural marginal workers (R_MRW / TOT_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_MRW</attrlabl>
+				<attrdef>Percent rural male marginal workers (R_M_MRW / R_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_MRW</attrlabl>
+				<attrdef>Percent rural female marginal workers (R_F_MRW / R_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_MRW</attrlabl>
+				<attrdef>Percent urban marginal workers (U_MRW / TOT_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_MRW</attrlabl>
+				<attrdef>Percent urban male marginal workers (U_M_MRW / U_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_MRW</attrlabl>
+				<attrdef>Percent urban female marginal workers (U_F_MRW / U_MRW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_NNW</attrlabl>
+				<attrdef>Total non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_NNW</attrlabl>
+				<attrdef>Rural non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_NNW</attrlabl>
+				<attrdef>Rural male non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_NNW</attrlabl>
+				<attrdef>Rural female non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_NNW</attrlabl>
+				<attrdef>Urban non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_NNW</attrlabl>
+				<attrdef>Urban male non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_NNW</attrlabl>
+				<attrdef>Urban female non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_TOT_NNW</attrlabl>
+				<attrdef>Percent total non-workers (TOT_NNW / TOT_POP * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_NNW</attrlabl>
+				<attrdef>Percent rural non-workers (R_NNW / TOT_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_M_NNW</attrlabl>
+				<attrdef>Percent rural male non-workers (R_M_NNW / R_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_R_F_NNW</attrlabl>
+				<attrdef>Percent rural female non-workers (R_F_NNW / R_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_NNW</attrlabl>
+				<attrdef>Percent urban non-workers (U_NNW / TOT_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_M_NNW</attrlabl>
+				<attrdef>Percent urban male non-workers (U_M_NNW / U_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>P_U_F_NNW</attrlabl>
+				<attrdef>Percent urban female non-workers (U_F_NNW / U_NNW * 100)</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>India : District Boundaries, 1991</title>
+				<origin>ML InfoMap (Firm)</origin>
+				<pubdate>2008</pubdate>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>New Delhi</pubplace>
+					<publish>ML InfoMap Pvt. Ltd.</publish>
+				</pubinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mlinfomap_india_district_census_1991.zip</onlink>
+			</citeinfo>
+		</citation>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<theme>
+				<themekey>Census</themekey>
+				<themekt>None</themekt>
+				<themekey>Population Statistics</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>India</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1991</tempkey>
+			</temporal>
+		</keywords>
+		<descript>
+			<abstract>India : District Boundaries, 1991 is a polygon theme representing district boundaries of India for 1991. Includes district socio-demographic Census attribute data such as total population, population by sex, and rural/urban populations. This layer is part of the India HistoricMap dataset showing decadal change in district boundaries of India since 1951. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. Scale 1:1,000,000.</abstract>
+			<purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+		</descript>
+		<timeperd>
+			<current>ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>1991</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>68.196831</westbc>
+				<eastbc>97.409096</eastbc>
+				<northbc>37.121712</northbc>
+				<southbc>6.767454</southbc>
+			</bounding>
+		</spdom>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/district1991.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ML InfoMap</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>124 - A Katwaria Sarai</address>
+					<city>New Delhi</city>
+					<postal>110 016</postal>
+				</cntaddr>
+				<cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+				<cntfax>+ 91 - 11 - 4168 8593</cntfax>
+				<cntemail>post@mlinfomap.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>World Geodetic System 1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries.</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20120322</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ML InfoMap</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>124 - A Katwaria Sarai</address>
+					<city>New Delhi</city>
+					<postal>110 016</postal>
+					<country>India</country>
+				</cntaddr>
+				<cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+				<cntfax>+ 91 - 11 - 4168 8593</cntfax>
+				<cntemail>post@mlinfomap.com</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>mlinfomap_india_district_census_1991</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formspec>zip</formspec>
+					<transize>16.2</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+</metadata>

@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+		<descript>
+			<abstract>World Water Bodies represents the open water rivers, lakes, seas, and oceans of the world.</abstract>
+			<purpose>World Water Bodies provides a base map layer for lakes, seas, oceans, and large rivers of the world.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:250,000.
+
+This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>2010</pubdate>
+				<title>World Water Bodies, 2010</title>
+				<geoform>vector digital data</geoform>
+				<edition>10</edition>
+				<serinfo>
+					<sername>ESRI Data &amp; Maps</sername>
+					<issue>10 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<origin>DeLorme Publishing Company, Inc.</origin>
+				<origin>Economic and Social Research Institute (Reston, Va.)</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_world_hydropolys.zip</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-180.000000</westbc>
+				<eastbc>180.000000</eastbc>
+				<northbc>85</northbc>
+				<southbc>-60.004464</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>lakes</themekey>
+				<themekey>seas</themekey>
+				<themekey>oceans</themekey>
+				<themekey>inlandWaters</themekey>
+			</theme>
+			<place>
+				<placekey>World</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2010</tempkey>
+			</temporal>
+			<theme>
+				<themekey>	inlandWaters</themekey>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>oceans</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+			</theme>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/WorldWater.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>jpg</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20110729</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ESRI_2010_world_hydropolys</enttypl>
+				<enttypd>The polygons represent the open water rivers, lakes, seas, and oceans of the world.</enttypd>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>The type of water feature.</attrdef>
+				<attrdefs>DeLorme Publishing Company, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Perennial</edomv>
+						<edomvd>The water feature contains water year round.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Intermittent</edomv>
+						<edomvd>The water feature contains water for part of the year.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>92.768</transize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS® software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt/>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2010_world_hydropolys</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI Offices</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>Hydropolys.sdc</title>
+						<origin>DeLorme Publishing Company, Inc.</origin>
+						<pubdate>2010</pubdate>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<publish>DeLorme Publishing Company, Inc.</publish>
+							<pubplace>Yarmouth, Maine, USA</pubplace>
+						</pubinfo>
+						<serinfo>
+							<sername>A subset of DeLorme World Base Map (DWBM).</sername>
+							<issue>2010</issue>
+						</serinfo>
+						<onlink>http://www.delorme.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DeLorme World Base Map 2010</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdate>20100126</procdate>
+				<procdesc>The following steps were performed by ESRI: Downloaded the data set from the Delorme FTP site. Added field TYPE and calculated its values using the source DFCC code and descriptive look up table. Deleted all fields except TYPE. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>The level of detail for each feature is generally better than what is traditionally utilized in a 1:500,000 scale product. The positional accuracy is typical of a 1:100,000 scale map, or +/-50 meters 95% of the time.</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+		<attracc>
+			<attraccr>All data has been reviewed for correct application of attributes and is accurate to current conditions.</attraccr>
+		</attracc>
+	</dataqual>
+</metadata>

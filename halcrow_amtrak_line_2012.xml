@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<descript>
+			<abstract>Northeast Amtrak Rail Lines 2012 is a line theme representing Amtrak Rail Routes at a regional scale as of 2012. Includes lines in the northeast US which serve New York and New Jersey stations. Attribute information includes the name of the line and length of the segment.</abstract>
+			<purpose>For research purposes only.</purpose>
+			<langdata>EN</langdata>
+		</descript>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Halcrow</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>22 Cortlandt Street</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>212-608-3990</cntvoice>
+				<cntfax>212-566-5059</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<citation>
+			<citeinfo>
+				<title>Northeast Amtrak Rail Lines, 2012</title>
+				<origin>Halcrow Group Limited</origin>
+				<pubdate>2012</pubdate>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>New York</pubplace>
+					<publish>Halcrow</publish>
+				</pubinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/halcrow_amtrak_line_2012.zip</onlink>
+			</citeinfo>
+		</citation>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 topic categories</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekey>Amtrak</themekey>
+				<themekey>Passenger trains</themekey>
+				<themekey>Railroad</themekey>
+				<themekt>None</themekt>
+				<themekey>Rail lines</themekey>
+			</theme>
+			<place>
+				<placekey>New York</placekey>
+				<placekey> New Jersey</placekey>
+				<placekey> Pennsylvania</placekey>
+				<placekey> Connecticut</placekey>
+				<placekey> Rhode Island</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Washington (D.C.)</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (N.Y.)</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2012</tempkey>
+			</temporal>
+		</keywords>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2012</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-80.396815</westbc>
+				<eastbc>-70.903473</eastbc>
+				<northbc>45.004574</northbc>
+				<southbc>38.800842</southbc>
+			</bounding>
+		</spdom>
+		<browse>
+		</browse>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>CommunityCartography</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>The New Jersey rail data is derived from MapInfo files from the New Jersey Port Authority with a source scale of 1:100,000. Data were projected and converted to shapefiles.</procdesc>
+				<srcused>MapInfo files from the New Jersey Port Authority</srcused>
+				<procdate>June 1999</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It’s developed from 1:100,000 TIGER files, and amended by them.</procdesc>
+				<procdate>May 1999</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>CommunityCartography</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>Data reprojected to NAD83 NY-Long Island (feet) to align with new NYC data. Separate file created for Port Authority facilities.</procdesc>
+				<procdate>Navoember 2005</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>CommunityCartography</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>Several updates: New shapefiles were obtained from New Jersey Transit and reprojected. The original source file was created by NJ Transit in March 2001 by tracing from 1995/97 USGS 1-meter resolution orthophotography. Separated passenger lines from freight/inactive lines. Separate shapefiles created for NJT Rail, NJT Hudson-Bergen Light Rail, NJT Newark Subway, NJT Riverline, Amtrak, PATCO, and SEPTA lines. Lines were snapped to station points and split. Features at transit hubs were redrawn based on the NJ DEP Orthophotos (2002). </procdesc>
+				<procdate>October 2007</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>CommunityCartography</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>ComCarto recreated the Amtrak lines from National Atlas data. Lines and stations were extracted from the 2005 national files and projected to NAD83 NJSP feet. Lines were snapped to station points. Lines sharing tracks with NJ Transit were replaced with the NJ Transit shapes. Attributes were added. Lines were duplicated for each service route, each split where stops are made, based on service information from the Amtrak website.
+</procdesc>
+				<procdate>October 2007</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Halcrow</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>Updated stations served by each line. Added Vermont stations and lines.</procdesc>
+				<procdate>December 2009</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Amtrak</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>Rail system map and descriptions from the Amtrak website
+</procdesc>
+				<procdate>November 2009</procdate>
+			</procstep>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Halcrow / CH2M Hill</cntorg>
+						</cntorgp>
+					</cntinfo>
+				</proccont>
+				<procdesc>Route file renamed with "_line". Metadata was updated to 10.1 format. Checked routes and stations against the current Amtrak website. No changes to the following routes: Acela; Adirondak; Cardinal; Carolinian; Crescent; Empire State; Keystone; Maple Leaf; Silver/Palmetto; Vermonter; NE Regional. Changes were made to these routes: Ethan Allen (Fairhaven VT station changed to Castleton VT); Lake Shore (added Poughkeepsie stop); Pennsylvanian (removed Princeton stop, removed Downington stop). Geometry edits included: fixed line endpoint snapping; recalculate geometry fields.</procdesc>
+				<procdate>November 2012</procdate>
+			</procstep>
+			<srcinfo>
+				<srcscale>100000</srcscale>
+				<srccitea>MapInfo files from the New Jersey Port Authority</srccitea>
+				<srccontr>geography</srccontr>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0</absres>
+						<ordres>0</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<cordsysn>
+				<geogcsn>State Plane Coordinate System</geogcsn>
+				<projcsn>NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</projcsn>
+			</cordsysn>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Amtrak</enttypl>
+				<enttypd>Rail Line</enttypd></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LINE</attrlabl>
+				<attrdef>service line name</attrdef>
+				<attrdefs>ComCarto</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>length in feet</attrdef>
+				<attrdefs>ComCarto</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LENGTH_MI</attrlabl>
+				<attrdef>length in miles</attrdef>
+				<attrdefs>ComCarto</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Halcrow / CH2M Hill</cntorg>
+				</cntorgp>
+				<cntpos>Geomatics</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>22 Cortlandt Street</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>212-608-3990</cntvoice>
+				<cntfax>212-566-5059</cntfax>
+			</cntinfo>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Esri shapefile</formname>
+					<formspec>zip</formspec>
+					<transize>0.339</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc>halcrow_amtrak_line_2012</resdesc></distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20130108</metd>
+	</metainfo>
+	<spdoinfo><direct>Vector</direct><ptvctinf><sdtsterm><sdtstype>String</sdtstype><ptvctcnt>213</ptvctcnt></sdtsterm></ptvctinf></spdoinfo></metadata>

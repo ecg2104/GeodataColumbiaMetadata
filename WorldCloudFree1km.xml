@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>United States. National Aeronautics and Space Administration</origin>
+<origin>Economic and Social Research Institute</origin>
+<origin>Economic and Social Research Institute</origin>
+<pubdate>2008</pubdate>
+<title>World Cloud Free Earth Image, 2008</title>
+<edition>2008</edition>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername>ESRI Data &amp; Maps</sername>
+<issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, California, USA</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+</citeinfo>
+</citation>
+<descript>
+<abstract>World Cloud Free Earth Image is a raster theme providing a true-color cloud-free view of the earth produced by mosaicking hundreds of individual 2001 NASA Moderate Resolution Imaging Spectroradiometer (MODIS) satellite images. These satellites orbit the earth at an altitude of 700 km (435 miles). The image has a cell size of one square kilometer (0.386 sq. mi.) at the equator. The image was enhanced with shaded relief imagery derived from the USGS GTOPO30 digital elevation data. ESRI georeferenced these data to a real-world coordinate system.</abstract>
+<purpose>World Cloud Free provides an informational and educational cloud-free view of our planet.</purpose>
+<supplinf>This dataset is available via the ArcSDE from the EDS lab via the .lyr file 
+
+https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/WorldCloudFree1km.zip</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>200106</begdate>
+<enddate>200109</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-180</westbc>
+<eastbc>
+180</eastbc>
+<northbc>
+85</northbc>
+<southbc>
+-85</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>climatologyMeteorologyAtmosphere</themekey>
+<themekey>imageryBaseMapsEarthCover</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>World</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>2001</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI</cntorg>
+<cntper>Data Team</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>909-793-2853</cntvoice>
+<cntfax>909-793-5953</cntfax>
+<cntemail>info@esri.com</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/WorldCloudFree.jpg</browsen>
+<browsed>Thumbnail</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+</idinfo>
+<dataqual>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>NASA - Visible Earth</origin>
+<origin>Economic and Social Research Institute</origin>
+<title>The Blue Marble: Land Surface, Shallow Water, and Shaded Topography</title>
+<geoform>raster digital data</geoform>
+<serinfo>
+<sername>ESRI Data &amp; Maps</sername>
+<issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, California, USA</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>200106</begdate>
+<enddate>200109</enddate>
+</rngdates>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>NASA - Visible Earth</srccitea>
+<srccontr>NASA - Visible Earth</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>This spectacular image is the most detailed true-color image of the entire Earth to date. Using a collection of satellite-based observations, scientists and visualizers stitched together months of observations of the land surface, oceans, sea ice, and clouds into a seamless, true-color mosaic of every square kilometer (.386 square mile) of our planet. These images are freely available to educators, scientists, museums, and the public. This record includes preview images and links to full resolution versions up to 21,600 pixels across.
+ 
+Much of the information contained in this image came from a single remote- sensing device-NASA's Moderate Resolution Imaging Spectroradiometer, or MODIS. Flying over 700 km above the Earth onboard the Terra satellite, MODIS provides an integrated tool for observing a variety of terrestrial, oceanic, and atmospheric features of the Earth. The land and coastal ocean portions of these images are based on surface observations collected from June through September 2001 and combined, or composited, every eight days to compensate for clouds that might block the sensor's view of the surface on any single day. Two different types of ocean data were used in these images: shallow water true-color data, and global ocean color (or chlorophyll) data. Topographic shading is based on the GTOPO 30 elevation dataset compiled by the U.S. Geological Survey's EROS Data Center. MODIS observations of polar sea ice were combined with observations of Antarctica made by the National Oceanic and Atmospheric Administration's AVHRR sensor-the Advanced Very High Resolution Radiometer. The cloud image is a composite of two days of imagery collected in visible light wavelengths and a third day of thermal infra-red imagery over the poles. Global city lights, derived from 9 months of observations from the Defense Meteorological Satellite Program, are superimposed on a darkened land surface map.</procdesc>
+<srcused>NASA - Visible Earth</srcused>
+<procdate>2009</procdate>
+</procstep>
+<procstep>
+<procdesc>The following steps were performed by ESRI: Downloaded the data from http://visibleearth.nasa.gov/cgi-bin/viewrecord?11656. Uncompressed LZW compression using Corel? software. Mosaicked two component images together. Created the header file to georeference the image to WGS84.</procdesc>
+<srcused>NASA - Visible Earth</srcused>
+<procdate>20020531</procdate>
+</procstep>
+<procstep>
+<procdesc>The following steps were performed by ESRI: Reduced the size of the data set by converting it to JPEG 2000 format. Began with the earth_1km.img (ERDAS IMAGINE format) raster data set and used the CopyRaster geoprocessing tool in ArcGIS 9.2 to convert it to an 8-bit unsigned JPEG 2000 format raster using a compression quality of 20.</procdesc>
+<srcused>NASA - Visible Earth</srcused>
+<procdate>20060725</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Raster</direct>
+<rastinfo>
+<rasttype>Pixel</rasttype>
+<rowcount>21600</rowcount>
+<colcount>43200</colcount>
+<vrtcount>1</vrtcount>
+</rastinfo>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>D_WGS_1984</horizdn>
+<ellips>WGS_1984</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257224</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altres>1.000000</altres>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
+</spref>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI; ESRI International Distributors</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+</cntaddr>
+<cntvoice>800-447-9778</cntvoice>
+<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>esri_2008_worldcloudfree1km</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>JPEG 2000</formname>
+<transize>297.469</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/WorldCloudFree1km.zip</networkr>
+</networka>
+</computer>
+<accinstr>This dataset is available via the ArcSDE from the EDS lab via the .lyr file</accinstr>
+</onlinopt>
+</digtopt>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20100104</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>eds@columbia.edu</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

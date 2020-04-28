@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>district61</enttypl>
+				<enttypd>India Historical District Map 1961</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DIST61_ID</attrlabl>
+				<attrdef>Unique Identification Number</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>DIST61_</attrlabl>
+				<attrdef>Unique Identification Number</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of the District</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATE_UT</attrlabl>
+				<attrdef>Name of Administrative State or Union Territory</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_AREA</attrlabl>
+				<attrdef>Total Area in Square Miles</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_AREA</attrlabl>
+				<attrdef>Rural Area in Square Miles</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_AREA</attrlabl>
+				<attrdef>Urban Area in Square Miles</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_POP_SQ</attrlabl>
+				<attrdef>Population Per Square Mile</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_POP_SQ</attrlabl>
+				<attrdef>Rural Population Per Square Mile</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_POP_SQ</attrlabl>
+				<attrdef>Urban Population Per Square Mile</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>INHA_VIL</attrlabl>
+				<attrdef>Total Inhabited Villages</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>UNHA_VIL</attrlabl>
+				<attrdef>Total Un-inhabited Villages</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NO_TOWN</attrlabl>
+				<attrdef>Number of Towns</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_HOUSE</attrlabl>
+				<attrdef>Number of Occupied Residential Houses</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_HOUS</attrlabl>
+				<attrdef>Number of Occupied Residential Houses in Urban Areas</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_HOUS</attrlabl>
+				<attrdef>Number of Occupied Residential Houses in Urban Areas</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_POP</attrlabl>
+				<attrdef>Total Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>T_R_POP</attrlabl>
+				<attrdef>Total Rural Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>T_U_POP</attrlabl>
+				<attrdef>Total Urban Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_M_POP</attrlabl>
+				<attrdef>Total Male Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_M_POP</attrlabl>
+				<attrdef>Rural Male Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_M_POP</attrlabl>
+				<attrdef>Urban Male Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TOT_F_POP</attrlabl>
+				<attrdef>Total Female Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>R_F_POP</attrlabl>
+				<attrdef>Rural Female Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>U_F_POP</attrlabl>
+				<attrdef>Urban Female Population</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_SC</attrlabl>
+				<attrdef>Male Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_SC</attrlabl>
+				<attrdef>Female Scheduled Caste</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_ST</attrlabl>
+				<attrdef>Male Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_ST</attrlabl>
+				<attrdef>Female Scheduled Tribe</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_LIT</attrlabl>
+				<attrdef>Male Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_LIT</attrlabl>
+				<attrdef>Female Literates</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_MNW</attrlabl>
+				<attrdef>Male Main Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_MNW</attrlabl>
+				<attrdef>Female Main Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_CULT</attrlabl>
+				<attrdef>Male Cultivators</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_CULT</attrlabl>
+				<attrdef>Female Cultivators</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_AGLB</attrlabl>
+				<attrdef>Male Agricultural Laborers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_AGLB</attrlabl>
+				<attrdef>Female Agricultural Laborers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_MNFR</attrlabl>
+				<attrdef>Male Mine and Forestry Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_MNFR</attrlabl>
+				<attrdef>Female Mine and Forestry Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_MFHH</attrlabl>
+				<attrdef>Male Manufacturing and Household Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_MFHH</attrlabl>
+				<attrdef>Female Manufacturing and Household Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_MFNH</attrlabl>
+				<attrdef>Male Manufacturing and Non Household Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_MFNH</attrlabl>
+				<attrdef>Female Manufacturing and Non Household Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_CNST</attrlabl>
+				<attrdef>Male Construction Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_CNST</attrlabl>
+				<attrdef>Female Construction Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_COM</attrlabl>
+				<attrdef>Male Commerce Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_COM</attrlabl>
+				<attrdef>Female Commerce Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_TRNS</attrlabl>
+				<attrdef>Male Transport Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_TRNS</attrlabl>
+				<attrdef>Female Transport Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_SERV</attrlabl>
+				<attrdef>Male Service Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_SERV</attrlabl>
+				<attrdef>Female Service Workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>M_NNW</attrlabl>
+				<attrdef>Male Non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>F_NNW</attrlabl>
+				<attrdef>Female Non-workers</attrdef>
+				<attrdefs>ML Infomap</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>India : District Boundaries, 1961</title>
+				<origin>ML InfoMap (Firm)</origin>
+				<pubdate>2008</pubdate>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>New Delhi</pubplace>
+					<publish>ML InfoMap Pvt. Ltd.</publish>
+				</pubinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mlinfomap_india_district_census_1961.zip</onlink>
+			</citeinfo>
+		</citation>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<theme>
+				<themekey>Census</themekey>
+				<themekt>None</themekt>
+				<themekey>Population Statistics</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>India</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1961</tempkey>
+			</temporal>
+		</keywords>
+		<descript>
+			<abstract>India : District Boundaries, 1961 is a polygon theme representing district boundaries of India for 1961. Includes district socio-demographic Census attribute data such as total population, population by sex, and rural/urban populations. This layer is part of the India HistoricMap dataset showing decadal change in district boundaries of India since 1951. This data layer is sourced from secondary government sources, chiefly Survey of India, Census of India, Election Commission, etc. Scale 1:1,000,000.</abstract>
+			<purpose>These data are intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</purpose>
+		</descript>
+		<timeperd>
+			<current>ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>1961</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>68.196831</westbc>
+				<eastbc>97.409096</eastbc>
+				<northbc>37.121712</northbc>
+				<southbc>6.767454</southbc>
+			</bounding>
+		</spdom>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/district1961.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ML InfoMap</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>124 - A Katwaria Sarai</address>
+					<city>New Delhi</city>
+					<postal>110 016</postal>
+				</cntaddr>
+				<cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+				<cntfax>+ 91 - 11 - 4168 8593</cntfax>
+				<cntemail>post@mlinfomap.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>World Geodetic System 1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries.</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20120322</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ML InfoMap</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>124 - A Katwaria Sarai</address>
+					<city>New Delhi</city>
+					<postal>110 016</postal>
+					<country>India</country>
+				</cntaddr>
+				<cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+				<cntfax>+ 91 - 11 - 4168 8593</cntfax>
+				<cntemail>post@mlinfomap.com</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>mlinfomap_india_district_census_1961</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formspec>zip</formspec>
+					<transize>13.4</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+</metadata>

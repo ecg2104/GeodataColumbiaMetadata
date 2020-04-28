@@ -1,0 +1,180 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics</origin>
+				<title>United States 113th Congressional Districts Boundaries, 2013</title>
+				<geoform>vector digital data</geoform>
+				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_cd113&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Congressional Districts are the 435 areas from which people are elected to the U.S. House of Representatives. After the apportionment of congressional seats among the States based on census population counts, each State is responsible for establishing congressional districts for the purpose of electing representatives. Each congressional district is to be as equal in population to all other congressional districts in a State as practicable. The congressional districts for the 113th Congress (January 2013 to 2015) are the first Congressional Districts based on 2010 Census data. The TIGER/Line shapefiles for the District of Columbia, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands) each contain a single record for the non-voting delegate district in these areas. The boundaries of all other congressional districts are provided to the Census Bureau through the Redistricting Data Program (RDP).</abstract>
+			<purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
+		</descript>
+		<spdom>
+			<bounding>
+				<westbc>-179.147340</westbc>
+				<eastbc>179.778470</eastbc>
+				<northbc>71.352561</northbc>
+				<southbc>17.884813</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2013</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<timeperd><timeinfo><sngdate><caldate>2013</caldate></sngdate></timeinfo><current>publication date</current></timeperd></idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>437</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>8.983152841195215e-009</latres>
+				<longres>8.983152841195215e-009</longres>
+				<geogunit>Decimal Degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>cd113</enttypl>
+				<enttypd>113th Congressional District National</enttypd>
+				<enttypds>U.S. Census Bureau</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT</attrlabl>
+				<attrdef>Congressional District Code</attrdef>
+				<attrdefs>U.S. Bureau of the Census (BOC)</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name the congress person that represents the congressional district</attrdef>
+				<attrdefs>Techpolitics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PARTY</attrlabl>
+				<attrdef>The party affiliation</attrdef>
+				<attrdefs>Techpolitics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>US Postal Service State Abbreviation</attrdef>
+				<attrdefs>U.S. Bureau of the Census (BOC)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official US Postal Service State Abbreviations</codesetn>
+						<codesets>US Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS code</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportaion Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>10.1</formvern>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+				</digtinfo>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<resdesc>ntad_2013_cd113</resdesc></distinfo>
+	<metainfo>
+		<metd>20140925</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

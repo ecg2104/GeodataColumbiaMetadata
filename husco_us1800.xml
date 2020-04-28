@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Louisiana State University (Baton Rouge, La.).; Dept. of Geography and Anthropology.</origin>
+				<origin>Earle, Carville.</origin>
+				<origin>Heppen, John.</origin>
+				<origin>Otterstrom, Samuel.</origin>
+				<pubdate>1999</pubdate>
+				<title>United States County Boundary Files, 1800</title>
+				<geoform>vector digital data</geoform>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/husco_us1800.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The Historical United States County Boundary Files 1800 contains ArcView shapefile format U.S. county boundary files for 1800. Files include county and state names and FIPS identification numbers.</abstract>
+			<purpose>For research purposes only. May only be used by current members of Columbia University.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1999</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-93.513948</westbc>
+				<eastbc>-65.873135</eastbc>
+				<northbc>50.067708</northbc>
+				<southbc>27.870575</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekey>County</themekey>
+				<themekey>Counties</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<place>
+				<placekey>United States</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1800</tempkey>
+			</temporal>
+		</keywords>
+				<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Louisiana State University (Baton Rouge, La.).; Dept. of Geography and Anthropology.</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>227 Howe Russell Bldg.</address>
+					<city>Baton Rouge</city>
+					<state>LA</state>
+					<postal>70803</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(225) 578-5942</cntvoice>
+				<cntfax>(225) 578-4420</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/us1800_Project0.bmp</browsen>
+			<browsed>Thumbnail image of shapefile in full extent</browsed>
+			<browset>BMP</browset>
+		</browse>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+	</idinfo>
+	<dataqual>
+		<lineage><procstep><proccont><cntinfo><cntaddr><address>420 W.118th ST</address><address>215 IAB, MC 3301</address><addrtype>mailing and physical address</addrtype><city>New York</city><state>NY</state><postal>10027</postal><country>USA</country></cntaddr><cntorgp><cntorg>Digital Social Sciences Center (DSSC) Data Service, Columbia University</cntorg></cntorgp><cntpos>GIS Librarian</cntpos><cntvoice>(212)854-6012</cntvoice><cntemail>dssc.data@columbia.edu</cntemail></cntinfo></proccont><procdesc>Shapefile was projected to Albers Conical Equal Area</procdesc><procdate>20061026</procdate></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>429</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>37.500000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.004096</absres>
+						<ordres>0.004096</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>baltcico1860to1880</enttypl>
+				<enttypd>County boundaries</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Internally calculated area of the feature</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Internally calculated perimiter of the feature</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>County name. Indian territories and some unnamed counties are blank in the "County" field due to the fact that they were unorganized or Indian territories</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State Name. Some counties or territories are identified by the present name in the 'State' field rather than the territory name in certain decades before the particular territory achieved statehood.</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>1970 FIPS code number (counties created after 1970 are given their new official FIPS code) save for counties disestablished prior to 1970. In these cases, we assign them the first available even number in accordance with the alphabetical/numerical order of the counties/FIPS codes. Some very rare exceptions will include Indian Territories, phantom counties, and territories and states not parceled into counties at that time. These exceptions are usually given the FIPS code numbers of **999 or **000</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CNTY_AREA</attrlabl>
+				<attrdef>Estimated area of the County in square miles</attrdef>
+				<attrdefs>LSU Geoscience Publications</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>GAVPRIMARY</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>ID1</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Louisiana State University (Baton Rouge, La.).; Dept. of Geography and Anthropology.</cntper>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>227 Howe Russell Bldg.</address>
+					<city>Baton Rouge</city>
+					<state>LA</state>
+					<postal>70803</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(225) 578-5942</cntvoice>
+				<cntfax>(225) 578-4420</cntfax>
+			</cntinfo>
+		</distrib>
+		<resdesc>husco_us1800</resdesc>
+	</distinfo>
+	<metainfo>
+		<metd>20070327</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Sciences Center (DSSC) Data Service, Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>
+420 W. 118th St.
+215 IAB, MC 3301
+</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

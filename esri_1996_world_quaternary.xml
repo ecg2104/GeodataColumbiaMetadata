@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+<pubdate>1996</pubdate>
+<title>World Quaternary Deposits, 1996</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>ArcAtlas</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, Calif.</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_1996_world_quaternary.zip</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>World Quaternary Deposits, 1996 is a polygon theme representing quaternary deposits worldwide.  Attribute information includes the type and age of the deposits.</abstract>
+<purpose>For educational, non-commercial purposes.  This dataset is appropriate for use in a GIS.</purpose>
+<supplinf>Quaternary deposits characterize the youngest period (the Quaternary) of the earth's geological history. This period began approximately 1.6 million years ago. The principal features of the period are as follows:
+
+1. A cyclic recurrence of landscape and climatic changes including the recurrence of warm (interglacial) and cold (glacial) periods
+2. A cooling climatic trend (recent glacial and interglacial periods were colder than more ancient periods.)
+3. A high level of tectonic activity and seismicity (mountains were uplifted several kilometers in some parts of the youngest orogenic zone -- the Alpine zone)
+4. The appearance of humans and the settlement of tropical and extratropical areas
+
+The earth's landscape was transformed during the Quaternary. Glacial periods were distinguished by specific natural zones. As a result of the degradation of forest zones, hyperzonal structures with prevailing open areas appeared in the temperate and tropical belts. The glacial periods were dry periods, so relief formation and sedimentation were more active during these times. These processes were further encouraged by reductions in the level of the world ocean by 100 meters or more during glacial periods.
+
+The last glacial period (known as the Wisconsin or Valdai Ice Age) ended about ten thousand years ago, which is not long ago on the geological time scale. It was replaced by the present interglacial period called the Holocene.
+
+As a result of warmer and wetter conditions, forest zones and the contemporary polyzonal structure of the landscape were re-established and the level of the world ocean rose. All these changes facilitated development of denser vegetation cover and a sharp decrease in sedimentation rate. The rate of soil formation increased.
+
+Therefore, the lithogenic base of the processes occurring in the components of the present day landscape (soil, vegetation, and animal life) and economy (construction, reservoirs, etc.) is the deposits formed in the last glacial period. These deposits have been exposed and transformed by soil formation in the upper few meters of the earth's surface (shown on the soil maps). Along with these deposits, older Quaternary deposits and, locally, Prequaternary rocks are exposed. However, the basic landscape is formed by complicated Late Quaternary deposits.
+
+The complex structure of Quaternary deposits is the result of the wide range of genetic types of deposits formed under different lithoclimatic and geomorphologic conditions.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-180</westbc>
+<eastbc>
+180</eastbc>
+<northbc>
+85</northbc>
+<southbc>
+-85</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>geoscientificinformation</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Quaternary deposits</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>Earth</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>1996</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI</cntorg>
+<cntper>Data Team</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>909-793-2853</cntvoice>
+<cntfax>909-793-5953</cntfax>
+<cntemail>info@esri.com</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>n the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. Outside the United States Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/quat_dep.jpg</browsen>
+<browsed>Thumbnail</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>The maps of Quaternary Deposits were compiled from published maps of Quaternary deposits on larger scales, as well as new materials. The map legend combines two basic Quaternary deposit characteristics: the genesis of a deposit and its time of formation (age).  In the classes, genesis is indicated with letters and age is indicated with numbers.
+
+The deposits are classified by genesis into several types, both simple and complicated, and complexes. Simple genetic types include deposits formed by one prevailing factor of transfer and accumulation (examples are alluvial, lacustrine, marine, and eolian).  Complicated genetic types include deposits formed by two or more factors of sedimentation (examples are alluvial-proluvial, lacustrine-alluvial, lacustrine-chemical, decerptional, defluctional, deluvial, and colluvial). Undifferentiated complexes of various geneses include deposits that are closely connected in space and cannot be differentiated on the map due to its small scale (examples are eluvial and slope, glacial and slope). The group includes loess deposits as well, because, although they were mainly formed by eolian processes, in some cases they were redeposited by deluvial and fluvial processes.
+
+Deposit ages are classified into 15 categories. Such differentiation results from the use of various chronological ranges in particular regions that have been differently explored.  Moreover, the lower boundary of the Quaternary varies in different systems. In some systems, it is 3.3 to 3.5 million years ago, as determined by the occurrence of cooling events. In other systems, it is 0.7 to 0.8 million years ago as determined by the formation of sheet glaciations. In most countries, the boundary of the Quaternary is taken as 1.6 million years ago, when the climatic cyclic recurrence became regular.
+
+The most accepted classification of the Quaternary was taken as a stratigraphical base for compiling the maps of deposits for most of the continents. The Quaternary is subdivided into four major periods: the Lower Quaternary (Early Pleistocene), Middle Quaternary (Middle Pleistocene), Upper Quaternary (Late Pleistocene), and Recent (Holocene). The most ancient deposits of the Pleistocene remain on the earth's surface only in some places.  They are either buried (and not shown on the maps) or form common structures with more recent Pliocene deposits (in this case they are shown with multiple classes).
+
+Quaternary deposits of the continents have been explored to different levels of detail. Europe, which has the longest history of exploration, is characterized by detailed spatial and temporal data. North America and, to some extent, Africa (the rift zone in particular), are well characterized by spatial data. In Africa, undifferentiated Pliocene to Lower Quaternary or Lower to Middle Quaternary deposits are classified in some places. In some key sections (Oldyvai, Casablanca, Omo, and others), the boundary of the Lower Pleistocene is fixed at 1.8 million years by (1) by the occurrence of tools of primitive Oldyvai, Kafue, and pebble culture among hominid remains (Homo habilis, Homo erectus), (2) decreasing volcanism, and (3) reduction of typical Pliocene forms and appearance of Pleistocene forms in the mammals.
+
+Vast archaeological data were used to compile the maps as well. For example, Middle to Upper Pleistocene deposits are dated by the tools of the Acheulian and Mousterian cultures while Upper Pleistocene deposits are dated by the tools of Mousterian and Late Paleolithic cultures. Volcanogenic deposits are classified by radiometric data.
+
+The exploration of Quaternary deposits of north Asia, China, and the Near East has advanced during recent decades. Quaternary deposits of south Asia, Australia, and South America are irregularly explored.
+
+Quaternary Deposits -- References
+
+Atlas de Colombia, 3rd ed. 1977. Instituto Geografico Augustin Codazzi, Bogota. 283 pp.
+
+Atlas de la Republica de Chile. 1970. Instituto Geografico Militar, Santiago. 246 pp.
+
+Atlas del Ecuador. 1982. Instituto Geografico Militar, Paris. 80 pp.
+
+Bigarels, J. J. Slope development in southeastern Brazil. Zeitschrift fur Geomorph. N. F.,
+Suppl-Bd. 10. 1966. Berlin- Stuttgart. pp. 150-160
+
+Carte Geologique du departement de la Guyne, 1:100,000. 1966. Carte geologique
+detailee de la France. Ministere de Industrie, Paris.
+
+Chetvertichnoye oledeneniye na territorii SSSR (Quaternary glaciation in territory of the
+USSR). 1987. Nauka, Moscow. 130 pp.
+
+Claperton, C. M. The Pleistocene moraine stages of west central Peru. 1972. J. Glaciol,
+v. 11, 62.
+
+Claperton, C. M. The Glaciation of the Andes. Quaternary science reviews. 1983. v. 2, 2/3
+David, S. S. Thomas. Aeolian sand deposits. Arid zone. In: Geomorphology. 1993.
+Belhaven Press, London.
+
+Dreseh, J. Geomorphologie des Andes Chiliennes et Argentines. Revue de geographie
+phyzique et de geologie dynamique. 1973.
+
+Etchevehere, P. H. Bosquejo de regiones geomorfologicas y de drenaje de la Republica
+Argentina. 1961. Le IDIA, Buenos Aires. 25 pp.
+
+Flint, R. F. Glacial and Quaternary Geology. 1971. New York. 892 pp.
+
+Geologia del Uruguay. 1966.
+
+Geologicheskaya karta Yuzhnoy Ameriki (Geological map of South America), 1:5,000.000.
+1979. GUGK, Moscow.
+
+Geology of Australia, 1:2,500,000. 1976. Canberra. 4 s.
+
+Glukhovskaya, N. B., V. I. Konopleva, and O. M. Filatov. Karta chetvertichnykh otlozheniy
+Afriki (Map of Quaternary deposits of Africa), 1:5,000,000. 1986. Leningrad. 9 s.
+
+Hidrogeologia de la region de Bahia Blanca. Boletin 96. 1964. Buenos Aires.
+
+Karta chetvertichnykh otlozheniy aziatskoy chasti regiona ESKATO (Map of Quaternary
+deposits of the Asian part of ESKATO region), 1:5,000,000. 1983. Ed. N. A. Marinov.
+GUGK, Moscow. 6 s.
+
+Karta chetvertichnykh otlozheniy aziatskoy chasti regiona ESKATO (Map of Quaternary
+deposits of the Asian part of ESKATO region), 1:5,000,000. 1982. Comments.
+VNIIZarubezhgeologiya, Moscow. 70 pp.
+
+Karta chetvertichnykh otlozheniy Evrazii (Map of Quaternary deposits of Eurasia),
+1:5,000,000. 1982. Eds. G. S. Ganeshin at al. Mingeo SSSR, Leningrad.
+
+Karta chetvertichnykh otlozheniy Evropeyskoy chasti SSSR i prilegayushikh k ney territoriy
+(Map of Quaternary deposits of the European part of the USSR and adjacent areas),
+1:1,500,000. 1971. Mingeo SSSR, Leningrad. 16 pp.
+
+Karta chetvertichnykh otlozheniy SSSR (Map of Quaternary deposits of the USSR),
+1:2,500,000. 1973. Eds. G. S. Ganeshim and I. I. Krasnov. Mingeo SSSR, Leningrad.
+
+Konopleva, V. I., Y. P. Seliverstov, and O. M. Filatov. Chetvertichnyy pokrov Afriki. I.
+Obshhiye problemy. Metodika vydeleniya i izobrazheniya chetvertichnykh obrazovaniy na
+svodnykh kartakh (Quaternary cover of Africa. I. General problems. Methods of classification
+and presentation of Quaternary deposits on general maps). 1983. Vestnik MGU, 12. pp.
+38-48.
+
+Konopleva, V. I., Y. P. Seliverstov, and O. M. Filatov. Chetvertichnyy pokrov Afriki. II. Karta
+chetvertichnykh otlozheniy i voprosy geologicheskoy korrelyatsii Pliotsen-Chetvertichnykh
+tolshh ((Quaternary cover of Africa. II. Map of Quaternary deposits and problems of
+geological correlation of Pliocene-Quaternary deposits). 1983. Vestnik MGU, 18. pp. 41-
+53.
+
+Late Quaternary environments of the United States. 1983. Eds. H. Wright and S. Porter.
+Univ. of Minnesota Press. 407 pp.
+
+Lauer, V., and M. Rabiapoor. Die jung pleisstozan Vergletscherung in Vorband der
+Apolobamba -- Kordillere (Bolivien). 1986. Erkunder, Bd. 40, 2. pp. 125-145.
+
+Mapa Geologico generalizado del Peru, 1:4,000,000. 1969. Servicio de geologia y
+mineria, Lima.
+
+Markov, K., and A. Velichko. The Quaternary period. 1987. Nedra, Moscow. v. 3. 490 pp.
+
+Mercer, I. H. Glacial history of southernmost South America. 1976. Quaternary Res., v. 6,
+2. pp. 125-166.
+
+Quaternary geology and environment in China. 1991. Ed. L. Tunshong. Science Press,
+Beijing. 505 pp.
+
+Quaternary Stratigraphy of Canada. 1984. Ed. R. Fulton. Ecological Survey of Canada,
+paper 84-10. 210 pp.
+
+Rozycki, S. Z. Loess and Loess-like deposits. 1991. Ossolineum, Publ. House of Polish
+Academy of Sci., Wraclaw. 187 pp.
+
+Schubert, C. Late Pleistocene Merida glaciation, Venezuelan Andes. 1974. Boreas, v. 3,
+4.
+
+Soil map of the world, 1:5,000,000. 1970. FAO -- UNESCO, Paris. v. IV, South America.
+2 s.
+
+Tricart, J. 1966. Geomorfologia del area de Mucuchies. Revista geografica (Merida-
+Venezuela), v. 7, 16/17.
+
+Tricart, J. Existence de periodes seches on Quaternaire en Amazon et dans les regions
+voisines. 1974. Revue de geomorfologie dynamique, 4, pp. 145-158.
+
+Tricart, J. Existencia de medanos cuaternarios eh los Llanos del Orinoco (Colomia y
+Venezuela). 1977. Colomb. geogr. Rev. Inst. Geogr. Augustin Codazzi, ano 4, v. 5, 1.
+
+Wasson, R. J. 1983. Late Quaternary palaeoenvironments in the desert dunefields of
+Australia. Ed. S. C. Vogel. In: Late Cainozoic Palaeoclimates of the Southern
+Hemisphere, Proceedings of International Symposium held by the South African Society for
+Quaternary Research (Swaziland), pp. 419-431.
+
+Williams, M. A., D. Dunkerley, P. De Deckker, A. Kershaw, and T. Stokes. Quaternary
+environments. 1993. Edward Arnold Rubl. House, London and Melbourne. 330 pp.
+
+Wright, H. E., and J. A. D. Freyt, eds. The Quaternary of the United States. 1965. Prinston
+Univ. Press, New Jersey. 920 pp.</procdesc>
+<srcused>See process description</srcused>
+<procdate>Unknown</procdate>
+<proccont>
+<cntinfo>
+<cntaddr>
+</cntaddr>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Datasets for each continent were converted from ESRI coverage to the ESRI shapefile format using the 'copy features' tool and merged into one layer using the 'merge' tool.</procdesc>
+<procdate>20090507</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>GIS/Map Librarian</cntper>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>8509</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>D_Clarke_1866</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+quat_dep</enttypl>
+<enttypd>Quaternary deposits</enttypd>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area</attrdef>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter</attrdef>
+</attr>
+<attr>
+<attrlabl>SAQDD_</attrlabl>
+<attrdef>South America</attrdef>
+</attr>
+<attr>
+<attrlabl>SAQDD_ID</attrlabl>
+<attrdef>South America</attrdef>
+</attr>
+<attr>
+<attrlabl>TYPE</attrlabl>
+<attrdef>Contains a code for the type of quatenary deposits</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Lake</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Eluvial</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Colluvial and outcrops of Pre-Quaternary rocks</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Alluvial</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>Lacustrine</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>Glacial (in the mountains including fluvioglacial and lacustrine-glacial)</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>Fluvioglacial</edomvd>
+</edom>
+<edom>
+<edomv>7</edomv>
+<edomvd>Marine</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Eolian</edomvd>
+</edom>
+<edom>
+<edomv>9</edomv>
+<edomvd>Loess</edomvd>
+</edom>
+<edom>
+<edomv>10</edomv>
+<edomvd>Loess-like with fossil ices</edomvd>
+</edom>
+<edom>
+<edomv>11</edomv>
+<edomvd>Volcanic</edomvd>
+</edom>
+<edom>
+<edomv>12</edomv>
+<edomvd>Deluvial, decerptional, defluctional</edomvd>
+</edom>
+<edom>
+<edomv>13</edomv>
+<edomvd>Solifluctional tropical</edomvd>
+</edom>
+<edom>
+<edomv>14</edomv>
+<edomvd>Proluvial and deluvial-proluvial</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>Outcrops of Pre-Quaternary rocks</edomvd>
+</edom>
+<edom>
+<edomv>16</edomv>
+<edomvd>Marine biogenic</edomvd>
+</edom>
+<edom>
+<edomv>19</edomv>
+<edomvd>Colluvial, glacial and solifluctional (cryogenic)</edomvd>
+</edom>
+<edom>
+<edomv>24</edomv>
+<edomvd>Deluvial and colluvial with outcrops of Pre-Quaternary rocks</edomvd>
+</edom>
+<edom>
+<edomv>25</edomv>
+<edomvd>Eluvial and deluvial</edomvd>
+</edom>
+<edom>
+<edomv>26</edomv>
+<edomvd>Eluvial and outcrops of Pre-Quaternary rocks</edomvd>
+</edom>
+<edom>
+<edomv>27</edomv>
+<edomvd>Eluvial and solifluctional (cryogenic) with deluvial</edomvd>
+</edom>
+<edom>
+<edomv>28</edomv>
+<edomvd>Glacial, deluvial and cryogenic solifluctional</edomvd>
+</edom>
+<edom>
+<edomv>29</edomv>
+<edomvd>Glacial and colluvial with outcrops of Pre-Quaternary rocks</edomvd>
+</edom>
+<edom>
+<edomv>30</edomv>
+<edomvd>Alluvial and deluvial</edomvd>
+</edom>
+<edom>
+<edomv>34</edomv>
+<edomvd>Lacustrine-alluvial</edomvd>
+</edom>
+<edom>
+<edomv>35</edomv>
+<edomvd>Lacustrine-glacial</edomvd>
+</edom>
+<edom>
+<edomv>36</edomv>
+<edomvd>Alluvial-marine</edomvd>
+</edom>
+<edom>
+<edomv>37</edomv>
+<edomvd>Alluvial-proluvial</edomvd>
+</edom>
+<edom>
+<edomv>38</edomv>
+<edomvd>Lacustrine-chemical</edomvd>
+</edom>
+<edom>
+<edomv>40</edomv>
+<edomvd>Eluvial and eolian</edomvd>
+</edom>
+<edom>
+<edomv>42</edomv>
+<edomvd>Volcanic-sedimentary (terrigenous)</edomvd>
+</edom>
+<edom>
+<edomv>43</edomv>
+<edomvd>Solifluctional (tropical) and deluvial</edomvd>
+</edom>
+<edom>
+<edomv>44</edomv>
+<edomvd>Deluvial-colluvial and proluvial</edomvd>
+</edom>
+<edom>
+<edomv>45</edomv>
+<edomvd>Deluvial and cryogenic solifluctional</edomvd>
+</edom>
+<edom>
+<edomv>46</edomv>
+<edomvd>Deluvial-colluvial and solifluctional</edomvd>
+</edom>
+<edom>
+<edomv>55</edomv>
+<edomvd>Recent glacier</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AGE</attrlabl>
+<attrdef>Contains a code for the age of deposits</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Neogene-Upper Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Miocene - Lower Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Pliocene - Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>Pliocene - Lower Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>Pliocene - Middle Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>7</edomv>
+<edomvd>Pliocene - Upper Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Lower Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>9</edomv>
+<edomvd>Lower - Middle Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>10</edomv>
+<edomvd>Middle Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>11</edomv>
+<edomvd>Middle - Upper Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>12</edomv>
+<edomvd>Upper Quaternary</edomvd>
+</edom>
+<edom>
+<edomv>13</edomv>
+<edomvd>Upper Quaternary - Recent</edomvd>
+</edom>
+<edom>
+<edomv>14</edomv>
+<edomvd>Recent</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>Quaternary undifferentiated</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAQDD_</attrlabl>
+<attrdef>North America</attrdef>
+</attr>
+<attr>
+<attrlabl>NAQDD_ID</attrlabl>
+<attrdef>North America</attrdef>
+</attr>
+<attr>
+<attrlabl>EUQDD_</attrlabl>
+<attrdef>Europe</attrdef>
+</attr>
+<attr>
+<attrlabl>EUQDD_ID</attrlabl>
+<attrdef>Europe</attrdef>
+</attr>
+<attr>
+<attrlabl>AUQDD_</attrlabl>
+<attrdef>Australia</attrdef>
+</attr>
+<attr>
+<attrlabl>AUQDD_ID</attrlabl>
+<attrdef>Australia</attrdef>
+</attr>
+<attr>
+<attrlabl>ASQDD_</attrlabl>
+<attrdef>Asia</attrdef>
+</attr>
+<attr>
+<attrlabl>ASQDD_ID</attrlabl>
+<attrdef>Asia</attrdef>
+</attr>
+<attr>
+<attrlabl>AFQDD_</attrlabl>
+<attrdef>Africa</attrdef>
+</attr>
+<attr>
+<attrlabl>AFQDD_ID</attrlabl>
+<attrdef>Africa</attrdef>
+</attr>
+</detailed>
+<overview>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI; ESRI International Distributors</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>800-447-9778</cntvoice>
+<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>esri_1996_world_quaternary</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<formspec>zip</formspec>
+<transize>16.794</transize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20090701</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

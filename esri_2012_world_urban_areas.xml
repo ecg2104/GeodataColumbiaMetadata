@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; Esri ArcCatalog 9.3.1.3500</native>
+		<descript>
+			<langdata>en</langdata>
+			<abstract>World Urban Areas is a polygon theme representing the major urban areas of the world.</abstract>
+			<purpose>World Urban Areas provides a base map layer for the major urban areas of the world.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:250,000.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>2012</pubdate>
+				<title>World Urban Areas, 2012</title>
+				<ftname>urban_area.sdc</ftname>
+				<geoform>vector digital data</geoform>
+				<edition>2012</edition>
+				<serinfo>
+					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<issue>2012 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>Esri</publish>
+				</pubinfo>
+				<origin>DeLorme Publishing Company, Inc.</origin>
+				<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+				<onlink>	https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_urban_areas.zip</onlink></citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-175.214133</westbc>
+				<eastbc>178.468749</eastbc>
+				<northbc>69.365621</northbc>
+				<southbc>-53.184814</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc>-175.214133</leftbc>
+				<rightbc>178.468749</rightbc>
+				<bottombc>-53.184814</bottombc>
+				<topbc>69.365621</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>urban areas</themekey>
+				<themekey>cities</themekey>
+				<themekey>location</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<place>
+				<placekey>World</placekey>
+				<placekt>None</placekt>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2010</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<natvform>SDC Feature Database</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Esri</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
+
+For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse><browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ESRI_2010_world_urban_areas.jpg</browsen><browsed>Thumbnail</browsed><browset>jpg</browset></browse></idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20130205</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<esriterm Name="urban_area">
+				<efeatyp>Simple</efeatyp>
+				<efeageom>Polygon</efeageom>
+				<esritopo>FALSE</esritopo>
+				<efeacnt>3637</efeacnt>
+				<spindex>TRUE</spindex>
+				<linrefer>FALSE</linrefer>
+				<featdesc>World Urban Area</featdesc>
+			</esriterm>
+			<sdtsterm Name="urban_area">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>3637</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn>GCS_WGS_1984</geogcsn>
+			</cordsysn>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="urban_area">
+			<enttyp>
+				<enttypl>urban_area</enttypl>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>3637</enttypc>
+				<enttypd>The polygons represent the major urban areas of the world.</enttypd>
+				<enttypds>Esri</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attalias>ObjectID</attalias>
+				<attrtype>OID</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrtype>Geometry</attrtype>
+				<attwidth>0</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Name</attrlabl>
+				<attalias>Name</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>80</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>The urban area name. If more than one feature exists with an urban extent, the populated place point with the higher RANK value is used to name the urban area.</attrdef>
+				<attrdefs>DeLorme Publishing Company, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RANK</attrlabl>
+				<attalias>RANK</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>4</atprecis>
+				<attscale>0</attscale>
+				<attrdef>The rank of the urban area based on its Level of Importance. The lower the number, the more important the feature is.</attrdef>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>4</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdefs>DeLorme Publishing Company, Inc.</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.389</transize>
+					<dssize>1.389</dssize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS® software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVD–ROM</offmedia>
+						<reccap>
+							<recden>4.38 or 7.95</recden>
+							<recdenu>GB (gigabytes)</recdenu>
+						</reccap>
+						<recfmt>UDF (Universal Disc Format)</recfmt>
+					</offoptn>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.ArcGIS.com</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Esri; Esri Offices</cntorg>
+				</cntorgp>
+				<cntinst>In the United States, contact the Esri Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.</cntinst>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+			</cntinfo>
+		</distrib>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2012_world_urban_areas</resdesc>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>UrbanAreas, 2012</title>
+						<origin>DeLorme Publishing Company, Inc.</origin>
+						<pubdate>2010</pubdate>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<publish>DeLorme Publishing Company, Inc.</publish>
+							<pubplace>Yarmouth, Maine, USA</pubplace>
+						</pubinfo>
+						<serinfo>
+							<sername>A subset of DeLorme World Base Map (DWBM).</sername>
+							<issue>2010</issue>
+						</serinfo>
+						<onlink>http://www.delorme.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>DVD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DeLorme World Base Map 2010</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The following steps were performed by Esri: Extracted the data set from the subset of DeLorme World Base Map (DWBM). Added field RANK and calculated its values based on the source field LOI which numerically ranks feature importance using a DeLorme numbering scheme. Deleted all fields except NAME and RANK. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdate>20110113</procdate>
+				<procsv>ArcGIS® 10, ArcGIS 9</procsv>
+				<srcused>DeLorme World Base Map 2010</srcused>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>The level of detail for each feature is generally better than what is traditionally utilized in a 1:500,000 scale product. The positional accuracy is typical of a 1:100,000 scale map, or +/-50 meters 90% of the time.</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using tools in ArcGIS.  The SDC data set is then imported into a file geodatabase to verify, validate, and if needed repair the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+		<attracc>
+			<attraccr>All data has been reviewed for correct application of attributes and is accurate to current conditions.</attraccr>
+		</attracc>
+	</dataqual>
+</metadata>

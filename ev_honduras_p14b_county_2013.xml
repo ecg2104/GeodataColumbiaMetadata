@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<metadata>
+<idinfo>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+<themekey>boundaries</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Republic of Honduras</placekey>
+<placekey>Honduras</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>2013</tempkey>
+</temporal>
+</keywords>
+<spdom>
+<bounding>
+<westbc>-89.356610</westbc>
+<eastbc>-83.149552</eastbc>
+<northbc>16.518630</northbc>
+<southbc>12.984875</southbc>
+</bounding>
+</spdom>
+<descript>
+<abstract>
+Honduras Resident County 5 Years Ago Census Data, 2013 is a polygon theme representing Manzanas (6th level administrative units) in Honduras as of 2013. This map is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. Attribute data include summary results of the 2013 Hondurasian census questions regarding the county the individual lives five years ago. The documentation of these variables can be found in the "P14B_COUNTY" section from the accompanying code book. This dataset is part of Honduras 2013 Census collection. Further information can also be found in another dataset "Honduras Residence 5 Years Ago Census Data, 2013 and Honduras Resident City 5 Years Ago Census Data, 2013".
+</abstract>
+</descript>
+<citation>
+<citeinfo>
+<title>Honduras Resident County 5 Years Ago Census Data, 2013</title>
+<origin>East View Cartographic, Incorporated</origin>
+<pubdate>2019</pubdate>
+<geoform>map</geoform>
+<pubinfo>
+<publish>East View Cartographic, Incorporated</publish>
+</pubinfo>
+<origin>East View Cartographic, Incorporated</origin>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_honduras_p14b_county_2013.zip
+</onlink>
+</citeinfo>
+</citation>
+<timeperd>
+<current>Ground condition</current>
+<timeinfo>
+<sngdate>
+<caldate>2013</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Unknown</update>
+</status>
+<accconst>For current Columbia affiliates only.</accconst>
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntorg>East View Cartographic, Incorporated</cntorg>
+</cntperp>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<metainfo>
+<metd>20190901</metd>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metc>
+<cntinfo>
+<cntperp>
+<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</metc>
+</metainfo>
+<distinfo>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>shapefile</formname>
+<formspec>zip</formspec>
+</digtinfo>
+</digform>
+</stdorder>
+<resdesc>ev_honduras_p14b_county_2013</resdesc>
+<distrib>
+</distrib>
+</distinfo>
+</metadata>

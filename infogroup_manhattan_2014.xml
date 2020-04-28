@@ -1,0 +1,707 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/infogroup_manhattan_2014.zip</onlink>
+				<origin>infoUSA</origin>
+				<pubdate>2018</pubdate>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Omaha, NE</pubplace>
+					<publish>infoUSA</publish>
+				</pubinfo>
+				<title>Manhattan Businesses, 2014</title>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>New York City Manhattan Businesses, 2014 is a point theme representing business locations in Manhattan (New York County, NY) as of 2014. Includes a wide array of attribute information including business name, industry classification, annual revenue and number of employees.</abstract>
+			<purpose>Use of the data is for analytic and cartographic purposes.</purpose>
+			<langdata>en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-74.047751</westbc>
+				<eastbc>-73.906786</eastbc>
+				<northbc>40.879138</northbc>
+				<southbc>40.683884</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekey>business</themekey>
+				<themekey>industry</themekey>
+				<themekey>referenceUSA</themekey>
+				<themekey>infogroup</themekey>
+			</theme>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2014</tempkey>
+			</temporal>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (N.Y.)</placekey>
+				<placekey>Manhattan (New York, N.Y.)</placekey>
+			</place>
+			<place>
+				<placekt>None</placekt>
+				<placekey>NYC</placekey>
+			</place>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>economy</themekey>
+			</theme>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Infogroup</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1020 E 1st Street</address>
+					<city>Papillion</city>
+					<state>NE</state>
+					<postal>68046</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<title>Wharton Research Data Services</title>
+</citeinfo>
+</srccite>
+<typesrc>Online database</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2014</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>WRDS</srccitea>
+<srccontr>All attribute and location data</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>RDS staff downloaded all the 2014 business data for the five counties on New York City (New York, Kings, Queens, Bronx, Richmond) from the Infogroup database in WRDS.  The locations were displayed in ArcMap 10.5 using the longitude and latitude coordinates from the Infogroup data. The locations for Manhattan (New York County) were extracted by the county code and saved in the shapefile format.  NOTE: all locational and county designations were used as found in WRDS, no additional verification or testing was conducted.</procdesc>
+<srcused>WRDS</srcused>
+<procdate>20180515</procdate>
+</procstep>
+</lineage>
+</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>192658</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000100</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="infogroup_manhattan_2014">
+			<enttyp>
+				<enttypl>infogroup_manhattan_2014</enttypl>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>0</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attalias>FID</attalias>
+				<attrtype>OID</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrtype>Geometry</attrtype>
+				<attwidth>0</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Company</attrlabl>
+				<attalias>Company</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Company Name</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Address_Li</attrlabl>
+				<attalias>Address_Li</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Address</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>City</attrlabl>
+				<attalias>City</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>City</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attalias>State</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>State</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>ZipCode</attrlabl>
+				<attalias>ZipCode</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Zip COde</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Zip4</attrlabl>
+				<attalias>Zip4</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Zip code +4</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>County_Cod</attrlabl>
+				<attalias>County_Cod</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>County code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Area_Code</attrlabl>
+				<attalias>Area_Code</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Area Code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>IDCode</attrlabl>
+				<attalias>IDCode</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>ID</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Location_E</attrlabl>
+				<attalias>Location_E</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>Location_S</attrlabl>
+				<attalias>Location_S</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>Primary_SI</attrlabl>
+				<attalias>Primary_SI</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Primary SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Descr</attrlabl>
+				<attalias>SIC6_Descr</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC Description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Primary_NA</attrlabl>
+				<attalias>Primary_NA</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Primary NACIS code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>NAICS8_Des</attrlabl>
+				<attalias>NAICS8_Des</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Primary NACIS code Description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC_Code</attrlabl>
+				<attalias>SIC_Code</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Des_1</attrlabl>
+				<attalias>SIC6_Des_1</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC_Code_1</attrlabl>
+				<attalias>SIC_Code_1</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Des_2</attrlabl>
+				<attalias>SIC6_Des_2</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC_Code_2</attrlabl>
+				<attalias>SIC_Code_2</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Des_3</attrlabl>
+				<attalias>SIC6_Des_3</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC_Code_3</attrlabl>
+				<attalias>SIC_Code_3</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Des_4</attrlabl>
+				<attalias>SIC6_Des_4</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC_Code_4</attrlabl>
+				<attalias>SIC_Code_4</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SIC6_Des_5</attrlabl>
+				<attalias>SIC6_Des_5</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>SIC code description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Yellow_Pag</attrlabl>
+				<attalias>Yellow_Pag</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Yellow page code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Business_S</attrlabl>
+				<attalias>Business_S</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>Industry_S</attrlabl>
+				<attalias>Industry_S</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>Office_Siz</attrlabl>
+				<attalias>Office_Siz</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Office Size</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Company_Ho</attrlabl>
+				<attalias>Company_Ho</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>ABI</attrlabl>
+				<attalias>ABI</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>One per ABI</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Subsidiary</attrlabl>
+				<attalias>Subsidiary</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Subsidary Number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Parent_Num</attrlabl>
+				<attalias>Parent_Num</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Parent number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Parent_Emp</attrlabl>
+				<attalias>Parent_Emp</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Parent employee code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Parent_Sal</attrlabl>
+				<attalias>Parent_Sal</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Parent sales code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Site_Numbe</attrlabl>
+				<attalias>Site_Numbe</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Site number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Address_Ty</attrlabl>
+				<attalias>Address_Ty</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Address type flag</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Population</attrlabl>
+				<attalias>Population</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Population code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Census_Tra</attrlabl>
+				<attalias>Census_Tra</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Census tract</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Census_Blo</attrlabl>
+				<attalias>Census_Blo</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Census block</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Match_Code</attrlabl>
+				<attalias>Match_Code</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Match code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>CBSA_Code</attrlabl>
+				<attalias>CBSA_Code</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Core based statistical area code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>CBSA_Level</attrlabl>
+				<attalias>CBSA_Level</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>CBSA code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>CSA_Code</attrlabl>
+				<attalias>CSA_Code</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>CSA code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>FIPS_Code</attrlabl>
+				<attalias>FIPS_Code</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>County FIPS code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>archive_ve</attrlabl>
+				<attalias>archive_ve</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Archive year</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>year_estab</attrlabl>
+				<attalias>year_estab</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Year established</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>employee_s</attrlabl>
+				<attalias>employee_s</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Actual emploee code</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>sales_volu</attrlabl>
+				<attalias>sales_volu</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Actual sales volume</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>parent_act</attrlabl>
+				<attalias>parent_act</attalias>
+				<attrtype>Integer</attrtype>
+				<attwidth>10</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Parent actual employees</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>parent_a_1</attrlabl>
+				<attalias>parent_a_1</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Parent actual sales</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>latitude</attrlabl>
+				<attalias>latitude</attalias>
+				<attrtype>Double</attrtype>
+				<attwidth>19</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>latitude</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>longitude</attrlabl>
+				<attalias>longitude</attalias>
+				<attrtype>Double</attrtype>
+				<attwidth>19</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Longitude</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Ticker</attrlabl>
+				<attalias>Ticker</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Ticker</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Infogroup</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1020 E 1st Street</address>
+					<city>Papillion</city>
+					<state>NE</state>
+					<postal>68046</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtinfo/>
+			</digform>
+		</stdorder>
+		<resdesc>infogroup_manhattan_2014</resdesc>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<addrtype>mailing and physical address</addrtype>
+					<address>MS-561</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>11217</postal>
+				</cntaddr>
+				<cntperp>
+					<cntper>GIS/Metadata Librarian</cntper>
+					<cntorg>Digital Social Science Center (DSSC)</cntorg>
+				</cntperp>
+				<cntvoice>(212)854-601</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20180514</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+	</metainfo>
+	</metadata>

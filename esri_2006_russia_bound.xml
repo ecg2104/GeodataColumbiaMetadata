@@ -1,0 +1,985 @@
+<?xml version="1.0"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>ESRI</origin>
+				<pubdate>2006</pubdate>
+				<title>Russia Administrative Boundaries Level 1, 2006</title>
+				<edition>2006</edition>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>ESRI® Data &amp; Maps</sername>
+					<issue>2006 World, Europe, United States, Canada, and Mexico</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2006_russia_bound.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Russia Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of Russia.</abstract>
+			<purpose>This dataset can be used in a GIS for creation of basemaps or other applications.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:15,000,000.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate><caldate>2006</caldate></sngdate></timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>20</westbc>
+				<eastbc>179</eastbc>
+				<northbc>81</northbc>
+				<southbc>
+34.132171</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>administrative units</themekey>
+				<themekey>countries</themekey>
+				<themekey>international boundaries</themekey>
+				<themekey>coastlines</themekey>
+				<themekey>population</themekey>
+				<themekey>English and local names</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>society</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>Russia</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1996</tempkey>
+				<tempkey>1998</tempkey>
+				<tempkey>1993/1994</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>1994</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2001</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2003</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>Data Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>7:00 a.m.- 5:30 p.m. Pacific time, Monday - Friday</hours>
+				<cntinst>In the United States?
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded.
+
+Outside the United States?
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/RS.bmp</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>bmp</browset>
+		</browse>
+		<datacred>National Geographic Society</datacred>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+	</idinfo>
+	<dataqual>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE® to verify and validate the geometry.  The data set is created directly from a topologically correct ArcInfo® coverage.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The geospatial part of this data set was originally extracted from the ArcWorld Supplement database and then generalized (tolerance unknown). The positional accuracy is unknown.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>ESRI</origin>
+						<pubdate>2006</pubdate>
+						<title>World Administrative Units</title>
+						<edition>2006</edition>
+						<serinfo>
+							<sername>ESRI® Data &amp; Maps</sername>
+							<issue>2006 World, Europe, United States, Canada, and Mexico</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Redlands, California, USA</pubplace>
+							<publish>ESRI</publish>
+						</pubinfo>
+						<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2006_world_admin.zip</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>3000000</srcscale>
+				<typesrc>Shapefile</typesrc>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>1996</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>1998</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>Winter 1993/1994</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20000101</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2000</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20000225</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20010128</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20000612</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>1994</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>19990401</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20020314</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20021115</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2000</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2003</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>2006 World Administrative Units</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>This dataset was extracted from the 2006 World Administrative Units dataset from ESRI by the two letter FIPS Code.</procdesc>
+				<srcused>2006 World Administrative Units</srcused>
+				<procdate>20070827</procdate>
+			</procstep>
+			<procstep><procdesc>The dataset was reprojected</procdesc><procsv>ArcCatalog 9.2</procsv><procdate>20070828</procdate></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>87</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Azimuthal Equal Area</mapprojn>
+					<lamberta>
+						<longpc>100.000000</longpc>
+						<latprjc>45.000000</latprjc>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</lamberta>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+RS</enttypl>
+				<enttypd>The polygons represent the boundaries for the first-level administrative units of Russia.</enttypd>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FIPS_ADMIN</attrlabl>
+				<attrdef>The FIPS code (two-letter country code, two-number administrative unit code) for the administrative unit.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GMI_ADMIN</attrlabl>
+				<attrdef>The administrative unit code (three-letter country code, three-letter administrative unit code) for the administrative unit.</attrdef>
+				<attrdefs>Global Mapping International</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Global Mapping International Codes</codesetn>
+						<codesets>Global Mapping International</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ADMIN_NAME</attrlabl>
+				<attrdef>The name of the administrative unit.</attrdef>
+				<attrdefs>Global Mapping International</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Global Mapping International Names</codesetn>
+						<codesets>Global Mapping International</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FIPS_CNTRY</attrlabl>
+				<attrdef>The FIPS code (two-letter) for the country in which the administrative unit is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GMI_CNTRY</attrlabl>
+				<attrdef>The country code (three-letter) for the country in which the administrative unit is located.</attrdef>
+				<attrdefs>Global Mapping International</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Global Mapping International Codes</codesetn>
+						<codesets>Global Mapping International</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CNTRY_NAME</attrlabl>
+				<attrdef>The name for the country in which the administrative unit is located.</attrdef>
+				<attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP_ADMIN</attrlabl>
+				<attrdef>The 1994 estimated population of the administrative unit.</attrdef>
+				<attrdefs>National Center for Geographic Information and Analysis</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-99999</edomv>
+						<edomvd>No population data available.</edomvd>
+						<edomvds>t</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TYPE_ENG</attrlabl>
+				<attrdef>The English name for the type of administrative unit.</attrdef>
+				<attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Administrative Region, Administrative Subdivision, Area, Autonomous Community, Autonomous Municipality, Autonomous Region, Canton, Capital City, Capital Municipality, Capital Territory, City, Constitutional Province, County, Department, District, Division, Economic Prefecture, Emirate, Federal Dependencies, Federal District, Federal Status City, Federal Territory, Governorate, Independent Town, Intendancy, Municipality, National District, National Territory, Pakistan-administered, Parish, Prefecture, Province, Region, Republic, Special City, Special District, Special Municipality, Special Region, State, Territory, Town, Union Territory, Zone</edomv>
+						<edomvd>The types (English) of administrative units.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TYPE_LOC</attrlabl>
+				<attrdef>The local name for the type of administrative unit.</attrdef>
+				<attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Amt</edomv>
+						<edomvd>County.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Anchal</edomv>
+						<edomvd>Zone.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Astedader Akababi</edomv>
+						<edomvd>Administrative Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Aymag</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Baladiyah</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Bundesland</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Canton (French), Cantone (Italian), Kanton (German)</edomv>
+						<edomvd>Canton.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Cercle</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Changwat</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Circonscription</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Comunidad Autonoma</edomv>
+						<edomvd>Autonomous Community.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Concelho</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>County</edomv>
+						<edomvd>County.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Daerah Istimewa</edomv>
+						<edomvd>Special Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Daerah Khusus Ibukota</edomv>
+						<edomvd>Special District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Departamento</edomv>
+						<edomvd>Department.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Departement</edomv>
+						<edomvd>Department.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Dependencias Federales</edomv>
+						<edomvd>Federal Dependencies.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>District</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Distrikt</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Distrito</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Distrito Especial</edomv>
+						<edomvd>Special District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Distrito Federal</edomv>
+						<edomvd>Federal District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Do</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Dzongkhag</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Estado</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Faritanin'</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Fovaros</edomv>
+						<edomvd>Capital City.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Fuken</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Fylke</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gobolka</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Hot</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Imarah</edomv>
+						<edomvd>Emirate.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Intendencia</edomv>
+						<edomvd>Intendancy.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Iqlim</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Jikhalsi</edomv>
+						<edomvd>Special City.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Judet</edomv>
+						<edomvd>County.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Kaupstadir</edomv>
+						<edomvd>Independent Town.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Khet</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Khoueng</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Krai</edomv>
+						<edomvd>Territory.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Kraj</edomv>
+						<edomvd>Region (Czech Republic, Slovakia).</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Laani</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Lan</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Land</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Megye</edomv>
+						<edomvd>County.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Mehoz</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Mintaqah</edomv>
+						<edomvd>Emirate.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Muhafazah</edomv>
+						<edomvd>Governorate (Egypt, Iraq, Jordan, Kuwait, Lebanon, Yemen), Province (Syria).</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Municipio Especial</edomv>
+						<edomvd>Special Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Municipiu</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Negeri</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Oblast</edomv>
+						<edomvd>Province (Bulgaria), Region (Kyrgyzstan, Russia, Ukraine).</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Oblys</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Okrug</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Ostan</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Prefecture</edomv>
+						<edomvd>Prefecture.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Prefecture Economique</edomv>
+						<edomvd>Economic Prefecture.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Prefecture(French), Prefegitura(Kinyarwanda)</edomv>
+						<edomvd>Prefecture.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Propinsi</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Province</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Province (French), Provincie (Flemish)</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Provincia</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Provincia Constitucional</edomv>
+						<edomvd>Constitutional Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Provincie</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Pyine</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rasgez Akababi</edomv>
+						<edomvd>Autonomous Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Regiao</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Regiao Autonoma</edomv>
+						<edomvd>Autonomous Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Region</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Region Administrative</edomv>
+						<edomvd>Administrative Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Regione</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Respublik</edomv>
+						<edomvd>Republic.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Respublika</edomv>
+						<edomvd>Republic.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rottatheanei</edomv>
+						<edomvd>Autonomous Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rreth</edomv>
+						<edomvd>District.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Sheng</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Shi</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Shih</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Staden</edomv>
+						<edomvd>City.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>State</edomv>
+						<edomvd>State.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Territorio</edomv>
+						<edomvd>Territory.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Territorio Nacional</edomv>
+						<edomvd>National Territory.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Territory</edomv>
+						<edomvd>Territory.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Thanh Pho</edomv>
+						<edomvd>Municipality.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Tinh</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Velayat</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Ville</edomv>
+						<edomvd>Town.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Viloyat</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Voblast</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Welayat</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Wilaya</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Wilayah</edomv>
+						<edomvd>Governorate.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Wiloyat</edomv>
+						<edomvd>Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Wojewodztwo</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yin</edomv>
+						<edomvd>Division.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>Zizhiqu</edomv>
+						<edomvd>Autonomous Region.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+					<edom>
+						<edomv>il</edomv>
+						<edomvd>Province.</edomvd>
+						<edomvds>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook, Nunavut Planning Commission (NPC), Global Mapping International</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SQKM</attrlabl>
+				<attrdef>The administrative unit area in square kilometers using an equal area projection.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SQMI</attrlabl>
+				<attrdef>The administrative unit area in square miles using an equal area projection.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COLORMAP</attrlabl>
+				<attrdef>The number allows the administrative unit to be shaded unique from its neighbors.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>12</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LABEL_FLAG</attrlabl>
+				<attrdef>The indicator that assists in the display of the map documents (.mxd).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>This name is not duplicated in another layer.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>This name is duplicated in another layer.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI International Distributors</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>esri_2006_russia_bound</resdesc>
+		<distliab>See use constraints.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SDC</formname>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+					<filedec>ArcGIS® software</filedec>
+					<transize>2.204</transize>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVD?ROM</offmedia>
+						<reccap>
+							<recden>4.38</recden>
+							<recdenu>GB (gigabytes)</recdenu>
+						</reccap>
+						<recfmt>UDF (Universal Disc Format)</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20070829</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+</metadata>

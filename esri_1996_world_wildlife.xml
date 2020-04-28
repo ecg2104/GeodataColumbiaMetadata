@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+<pubdate>1996</pubdate>
+<title>World Wildlife, 1996</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>ArcAtlas</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, Calif.</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_1996_world_wildlife.zip</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>World Wildlife, 1996 is a polygon theme representing the habitat for a number of animal species.  Attribute information includes the Latin and common name of the animal.</abstract>
+<purpose>For educational, non-commercial purposes.  This dataset is appropriate for use in a GIS.</purpose>
+<supplinf>The areas of systematic animal groups are shown on the maps of wildlife. The contemporary geographic distribution pattern of animals is the result of the development of animal life, the geological history of the earth, and anthropogenic biosphere changes.  The terrestrial animals are classified into zoogeographical (faunistic) realms according to similarity of species composition. However, it is impossible to define boundaries for such realms that are appropriate for all the systematic groups of animals. Various faunistic groups require different habitats and have different ways of dispersing and clearing obstacles. Moreover, they have different geological ages, centers of origin, and periods of prosperity and extinction. Various faunistic groups appeared and dispersed from different centers at different times when the continental outlines and landscapes were different.
+
+Mammals and birds are the animals with the most similar patterns of distribution over the whole earth. They attained prosperity and began dispersing during the Tertiary under more or less similar physical geographical conditions. These faunistic groups were used as bases for determining zoogeographical realms that correspond closely to the distribution of amphibians, reptiles, freshwater fish, and many insect groups.
+
+Each faunistic realm is characterized by systematic groups or species of animals inhabiting only that realm (endemics). At the same time, many groups of animals occur on more than one continent, which is evidence of the historical relationships of the continents. Large spatial complexes of organisms whose ranges are closely connected with landscape and climatic zones were also classified together with the faunistic realms. Such complexes of flora and fauna within their habitats are called biomes (for example, the biomes of tundra, taiga, steppe, and wet tropical forest). Each biome is characterized by specific natural and climatic conditions that determine the appearance and evolution of fauna.
+
+A systematic group or species is characterized by its own area of distribution within the continent or biome. The boundaries of such ranges can change over time when they are affected by various natural and anthropogenic factors. Areas of animal distribution can expand, for example, through dispersal, or diminish, for example, through species competition, habitat destruction, or extinction.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-179.9</westbc>
+<eastbc>
+179.9</eastbc>
+<northbc>
+83.623032</northbc>
+<southbc>
+-55.902229</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>biota</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Wildlife</themekey>
+<themekey>Animals</themekey>
+<themekey>Zoology</themekey>
+<themekey>Habitat</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>Earth</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>1996</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI</cntorg>
+<cntper>Data Team</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>909-793-2853</cntvoice>
+<cntfax>909-793-5953</cntfax>
+<cntemail>info@esri.com</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>n the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. Outside the United States Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/wildlife.jpg</browsen>
+<browsed>Thumbnail</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>The majority of animal range boundaries are shown as of the end of the twentieth century.  The dynamics of particular species areas are shown on some maps. They mainly show the processes caused by the anthropogenic impact on the environment or recovering rare species of animals.
+
+Mammals and birds are preferentially shown over all other faunistic systematic groups because their continental distribution is well studied. Other groups of fauna are represented by the ranges of some insects, fish, amphibians, and reptiles.
+
+The areas of faunistic systematic groups of the continents are typically classified into three categories.
+
+The first category includes the areas of animals (species, genera, families) that are characteristic of the main faunistic realms and biomes of the continents. For example, they are African elephant, hippopotamuses, and gorillas in Africa, kangaroos in Australia, and guanaco and armadillos in South America. The category also includes the ranges of endemics of biomes of the continents. Centers of species diversity are shown for some faunistic groups in Africa and Asia. They are presented on the maps by species distribution of some genera or species of birds and mammals. They are antelopes, hyraxes, and guinea fowl in Africa, and wild oxen, rhinoceroses, snowcocks, and ground jays in Asia.
+
+The second category includes the areas of animals that have great significance for humans as commercial species, are used for medicine, or are harmful to agriculture or forestry. The areas of animals introduced by humans to various continents are included in this category is well. It includes various systematic groups of fauna including insects, fish, birds, and mammals.
+
+The third category includes the areas of endangered species that are listed in the IUCN or regional Red Data Books.
+
+The maps were compiled using numerous textual and cartographic sources:
+
+Aldrich, J.W. and A.J. Duvall. 1955. Game birds. Distribution of American Gallinaceous.
+Circular 34. Fish and Wildlife Service. Washington, D.C. pp. 3-23.
+
+Banfild, A.W.F. The mammals of Canada. 1974. Univ. of Toronto Press. 438 pp.
+
+Bannikov, A.G., ed. Zemnovodnyye i presmykayushhiyesya SSSR (Amphibians and reptiles
+of the USSR). 1971. Mysl', Moscow. 303 pp.
+
+Birds of South America. 1979. New York.
+
+Bosevear, D.R.Checklist and Atlas of Nigerian Mammals. 1953. Lagos.
+
+Cogger, H.G. Reptiles and Amphibians of Australia. 1975. Reed, Sydney. 584 pp.
+
+Corbet, G.B. The mammals of the Palaearctic region. A taxonomic review. 1978. Brit.
+Mus. 314 pp.
+
+D'Abrera, B. Butterflies of Australian Region. 1971. Landsdowne Press, Melbourne. 416
+pp.
+
+Darevsky, I.S. Redkiye i ischezayushhiye zhivotnyye. Zemnovodnyye i presmykayushhiyesya
+(Rare and endangered animals. Amphibians and reptiles). 1986. Vysshaya shkola,
+Moscow. 519 pp.
+
+Dementiev, G.P. and N.A. Gladkov, eds. Ptitsy Sovetskogo Soyuza (Birds of the Soviet
+Union). Six volumes. 1951-1954. Sovetskaya Nauka, Moscow.
+
+Dorst, J. and P. Dandelot. 1970. A field guide to the langer mammals of Africa. London.
+310 pp.
+
+Fiziko-geograficheskiy atlas mira (Physical geographical atlas of the world). 1964. GUGK,
+Moscow.
+
+Flint, V.E., R.L. Beme, Y.V. Kostin, and A.A. Kuznetsov. Ptitsy SSSR, spravochnikopredelitel'
+(Birds of the USSR, field guide). 1968. Mysl', Moscow. 438 pp.
+
+Formozov, A.N., ed. Mlekopitayushhiye SSSR (Mammals of the USSR). 1965. Mysl',
+Moscow. 438 pp.
+
+Frost, D.R., ed. Amphibian species of the World. 1985. Allen Press and Assn. Syst. Coll.
+Lawrence, Kansas. 732 pp.
+
+Galushiev, V.M. et al. Fauna mira. Ptitsy. Spravochnik (Fauna of the World. Birds.
+Handbook). Ed. V.D. Ilichev. 1991. Agropromizdat, Moscow. 311 pp.
+
+Geptner, V.G. and N. P. Naumov, eds. Mlekopitayushhiye Sovetskogo Soyuza (Mammals of
+the Soviet Union). v. 2, part 1, Morskiye korovy i khishhnye (Steller's sea cows and
+predators). 1967. Vysshaya shkola, Moscow. 1,004 pp.
+
+Geptner, V.G. and N.P. Naumov, eds. Mlekopitayushhiye Sovetskogo Soyuza (Mammals of
+the Soviet Union). v. 2, part 2, Khishhnye -- gieny i koshki (Predators -- hyenas and cats).
+1972. Vysshaya shkola, Moscow. 552 pp.
+
+Geptner, V.G., ed. Mlekopitayushhiye Sovetskogo Soyuza (Mammals of the Soviet Union).
+v. 2, part 3, Lastonogiye i zubatyye kity (Pinnipeds and toothed whale). 1976. Vysshaya
+shkola, Moscow. 718 pp.
+
+Hall, E.R. The mammals of North America. v. 1-2. 1981. New York. 1,265 pp.
+Jolly, A., P. Oberle, and R. Albigmic, eds. Madagascar. Foreword by HKH The Duke of
+Edinburgh. 1984. Pergamon Press.
+
+Kozlova, E.V. Ptitsy zonal'nykh stepey i pustyn' Tsentral'noy Azii (Birds of zonal steppe and
+desert of Central Asia). 1975. Trudy ZIN AN SSSR, 59. Nauka, Leningrad. 252 pp
+.
+Krasnaya kniga SSSR. Redkiye i nakhodyashhiyesya pod ugrozoy ischeznoveniya vidy
+zhivotnykh i rasteniy. (The USSR Red Book. Rare and endangered species of animals and
+plants). 1984. v. 1, Zhivotnyye (Animals). Lesnaya promyshlennost', Moscow. 392 pp.
+
+Leme, J. Osnovy biogeografii (Principles of biogeography). 1976. Progress, Moscow. 310
+pp.
+
+Lurche und Kriechtiere Europas. 1985. Neumann, Verlag, Leipzig, Radebeul. 420 pp.
+
+Maberley, C.T.A. The Game Animals of Southern Africa. 1963. Nelson, Johannesburg.
+
+Makeeva, V.M., M.I. Nepoklonova, and D.V. Panfilov. Ekosistemnyy podkhod k izucheniyu
+zhivotnogo mira priridnykh zon (Ecosystem approach to study animal life of natural zones).
+1994. Moscow Univ. Publ. House. 80 pp.
+
+Malbrant, R. Faune du Centre africain francais (Mammiferes et Oiseaux). 2nd ed. 1952.
+Paris.
+
+Mlekopitayushhiye Rossii i sopredel'nykh regionov: Zaytseobraznyye (Mammals of Russia
+and adjacent regions: Lagomorphs). 1994. Nauka, Moscow. 272 pp.
+
+National Geographic. 1976, 2, pp. 161-173.
+
+Ovington, D. Australian Endangered Species (Mammals, Birds, and Reptiles). 1978.
+Cassell, Melbourne. 184 pp.
+
+Palmer, R.S. Handbook of North American Birds. v. 2, waterfowl (p.1). 1976. New York.
+521 pp.
+
+Peters, J.L. Check-list of birds of the World. 1931-1951. Harvard Univ. Press, Cambridge. v.
+1-7.
+
+Potapov, R.L. Otryad kuroobraznykh (Galliformes), part 2, semeystvo teterevinykh
+(Tetraonidae). Fauna SSSR, ptitsy (Fauna of the USSR, birds). v. 3, issue 1. 1985. Nauka,
+Leningrad. 638 pp.
+
+Potapov, R.L. Teterevinyye ptitsy (Tetraonidae). 1990. Leningrad Univ. Publ. House. 240
+pp.
+
+Ptitsy Rossii i sopredel'nykh regionov. Ryabkoobraznyye, Golubeobraznyye, Sovoobraznyye
+(Birds of Russia and adjacent regions. Pterocletes, Columbiformes, Strigiformes). 1993.
+Nauka, Moscow. 400 pp.
+
+Ptitsy SSSR. Kuroobraznyye, Zhuravleobraznyye (Birds of the USSR. Galliformes,
+Gruiformes). 1987. Nauka, Leningrad. 528 pp.
+
+Ptitsy SSSR. Chaykovyye (Birds of the USSR. Laridae). 1987. Nauka, Moscow. 416 pp.
+Robbins, C.S., B. Bruun, and H.S. Zim. A guide to field identification. Birds of North
+America. 1966. Golden Press, New York. 360 pp.
+
+Sabath, M.D., Boughton, W.C., Easteal, S. Expansion of the range of the introduced toad
+Bufo marinus in Australia from 1935 to 1974. 1981. Copeia, 3, pp. 676-680.
+
+Cloudsley-Thomson, J.L., ed. Sahara desert. Foreword by HKH The Duke of Edinburgh.
+1984. Pergamon Press.
+
+Saint-Giron, H. The Sphenodon: ecological features and some hypotheses concerning its
+evolution. 1985. Bull. Chicago Herpetd. Soc., 20, pp. 48-51.
+
+Seddon, G. Biological pollution in Australia. Res. Manag. And Optimiz., 1983. v. 2, 3, pp.
+243-258.
+
+Slater, P., ed. Field Guide to Australian Birds. 1970. Rigby, Sydney. v. 1, 416 pp.
+
+Slater, P., ed. Field Guide to Australian Birds. 1975. Scottish Acad. Press, Edingburgh. v.
+2, 310 pp.
+
+Slatyer, R.O. and R.A. Perry, eds. Arid Lands of Australia. 1969. Austr. Nat. Univ. Press,
+Canberra. 322 pp.
+
+Sokolov, V.E. Sistematika mlekopitayushhikh (Classification of the mammals). v. 1. 1973.
+Vysshaya shkola, Moscow. 432 pp.
+
+Sokolov, V.E. Sistematika mlekopitayushhikh (Classification of the mammals). v. 2. 1977.
+Vysshaya shkola, Moscow. 494 pp.
+
+Sokolov, V.E. Sistematika mlekopitayushhikh (Classification of the mammals). v. 3. 1979.
+Vysshaya shkola, Moscow. 528 pp.
+
+Sokolov, V.E. Redkiye i ischezayushhiye zhivotnyye. Mlekopitayushhiye (Rare and
+endangered animals. Mammals). 1986. Vysshaya shkola, Moscow. 519 pp.
+
+Sokolov, V.E. Fauna mira. Mlekopitayushhiye. Spravochnik (Fauna of the World. Mammals.
+Handbook). 1990. Agropromizdat, Moscow. 254 pp.
+
+Sokolov, V.E. et al., eds. Zhizn' zhivotnykh (Animal life). 2nd ed. v. 4. Ryby (Fish). 1983.
+Prosveshheniye, Moscow. 575 pp.
+
+Sokolov, V.E. et al., eds. Zhizn' zhivotnykh (Animal life). 2nd ed. v. 5. Zemnovodnyye i
+presmykayushhiyesya (Amphibians and reptiles). 1985. Prosveshheniye, Moscow. 399 pp.
+
+Sokolov, V.E. et al., eds. Zhizn' zhivotnykh (Animal life). 2nd ed. v. 6. Ptitsy (Birds). 1986.
+Prosveshheniye, Moscow. 527 pp.
+
+Sokolov, V.E. et al., eds. Zhizn' zhivotnykh (Animal life). 2nd ed. v. 7. Mlekopitayushhiye
+(Mammals). 1989. Prosveshheniye, Moscow. 558 pp.
+
+Sussman, R.W. and W. C. Kinzey. The ecological role of the Callitrichidae. A review.
+Amer. J. Anthropol., 1984. v. 64, 4, pp. 419-449.
+
+Voronov, A.G., N.N. Drozdov, and E.G. Myalo. Biogeografiya mira (Biogeography of the
+World). 1985. Vysshaya Shkola, Moscow. 272 pp.
+
+Walker, E.P. Mammals of the World. 1975. Baltimore.</procdesc>
+<srcused>See process description</srcused>
+<procdate>Unknown</procdate>
+<proccont>
+<cntinfo>
+<cntaddr>
+</cntaddr>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Datasets for each continent were converted from ESRI coverage to the ESRI shapefile format using the 'copy features' tool and merged into one layer using the 'merge' tool.</procdesc>
+<procdate>20090705</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>GIS/Map Librarian</cntper>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>eds@columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>D:\MyDocs\Eric2\NewXML\landscape.shp.xml</srcused>
+<procdate>20090707</procdate>
+<proctime>10155400</proctime>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>344</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>D_Clarke_1866</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+wildlife</enttypl>
+<enttypd>Habitats</enttypd>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area</attrdef>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter</attrdef>
+</attr>
+<attr>
+<attrlabl>LATIN_NAME</attrlabl>
+<attrdef>The latin name of an animal</attrdef>
+</attr>
+<attr>
+<attrlabl>COMM_NAME</attrlabl>
+<attrdef>An animal's English common name</attrdef>
+</attr>
+</detailed>
+<overview>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI; ESRI International Distributors</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>800-447-9778</cntvoice>
+<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>esri_1996_world_wildlife</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<formspec>zip</formspec>
+<transize>14.247</transize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20090707</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>eds@columbia.edu</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

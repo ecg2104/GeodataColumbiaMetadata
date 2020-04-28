@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States Geological Survey (USGS).</origin>
+				<pubdate>1997</pubdate>
+				<title>Alaska Geologic Formations, 1997</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Anchorage, AK</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/landinfo_alaska_geology_1997.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Alaska Geologic Formations is a polygon theme representing geologic formations throughout Alaska.  This dataset consists of a polygon coverage and associated attribute data derived from the 1980 Geologic Map of Alaska compiled by H.M.  Beikman and published by the US Geological Survey.  The map is a regional summary of geologic formations and units that can be shown cartographically at 1:2,500,000.  This digital dataset includes all (184) map units from the original map.  182 are geologic units; the others are polygons for large glaciers and lakes. This coverage is not intended to be a complete representation of the printed geologic map.  It does NOT include the following features:  faults, locations of volcanoes or volcanic vents, the map explanation, correlation charts or description of map units.</abstract>
+			<purpose>This coverage is intended to provide digital features (polygons) representing generalized geologic units in Alaska for use in small-scale spatial analysis (statewide) with other coverages such as vegetation types, soils, geochemical values etc.</purpose>
+			<supplinf>The linework was digitized from a paper copy of the 1980 map at the EROS Data Center in Sioux Falls, South Dakota, and the resulting coverage (ARC/INFO version 5) transferred to the EROS Alaska Field Office.  Although the latitude/ longitude grid shown on the published Beikman map was an Albers equal area projection, the geologic polygons were not in the same projection since they did not align with an Albers equal area coverage of the Alaskan coastline.  A rubber-sheeting operation was performed on the geologic polygons using points along the coastline and major rivers to match an Albers equal area projection.  In 1997, this coverage was imported into ARC/INFO version 7.0.4, and edited by the Alaska Section, Geologic Divsion, USGS.  Map unit (polygon)locations and attributes were checked by three reviewers, by comparing a printed copy of the coverage to the original map.  Metadata were collected using document.aml v.  7.1.1, distributed by ESRI, Inc.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1980</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-179.142214</westbc>
+				<eastbc>
+-129.993750</eastbc>
+				<northbc>
+71.392025</northbc>
+				<southbc>
+51.217292</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories.</themekt>
+				<themekey>geoscientificinformation</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Geology</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>Alaska</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>1997</tempkey>
+				<tempkey>1980</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>LAND INFO Worldwide Mapping, LLC</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>PO Box 261961</address>
+					<city>Highlands Ranch</city>
+					<state>CO</state>
+					<postal>80163-1951</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-790-9730</cntvoice>
+				<cntemail>sales@landinfo.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/alaska_geo.jpg</browsen>
+			<browsed>Thumbnail Image</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+		</attracc>
+		<logic>Polygon and chain-node topology present.</logic>
+		<complete>The following map features are not included in the digital representation: faults; locations of volcanoes and vents; explanation; and description of map units.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>1980</pubdate>
+						<title>Geologic Map of Alaska</title>
+						<serinfo>
+							<sername>Special publication</sername>
+							<issue>SG0002-1T and SG0002-2T</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington, D.C.</pubplace>
+							<publish>U.S. Government Printing Office</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>2,500,000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1980</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Beikman 1980</srccitea>
+				<srccontr>Direct copy</srccontr>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>4303</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1927</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.400000</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+alaska_geo</enttypl>
+				<enttypd>Geologic formations</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of polygon/region in square coverage units (square meters)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of polygon/region in coverage units (meters)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>BEIKMANGEN</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>GENERALIZE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>DESC</attrlabl>
+				<attrdef>Description</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIOD</attrlabl>
+				<attrdef>Period</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>LAND INFO Worldwide Mapping, LLC</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>PO Box 261961</address>
+					<city>Highlands Ranch</city>
+					<state>CO</state>
+					<postal>80163-1961</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-790-9730</cntvoice>
+				<cntemail>sales@landinfo.com</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>landinfo_alaska_geology_1997</resdesc>
+	</distinfo>
+	<metainfo>
+		<metd>20081001</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

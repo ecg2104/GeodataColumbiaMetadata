@@ -1,0 +1,196 @@
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Southeastern Pennsylvania Transportation Authority (SEPTA) Rail Lines, 2012</title>
+				<origin>Halcrow Group Limited</origin>
+				<pubdate>2012</pubdate>
+				<geoform>vector digital data</geoform>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/halcrow_septalines_2012.zip</onlink>
+			</citeinfo>
+		</citation>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Halcrow / CH2M Hill</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>22 Cortlandt St</address>
+					<city>New York</city>
+					<state>NY </state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>212-608-3990</cntvoice>
+				<cntfax>212-566-5059</cntfax>
+				<cntemail>maps@halcrow.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 topic categories</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekey>Passenger trains</themekey>
+				<themekey>Rail lines</themekey>
+				<themekey>Railroad</themekey>
+				<themekey>Public Transit</themekey>
+				<themekey>SEPTA</themekey>
+				<themekt>None</themekt>
+				<themekey>Southeastern Pennsylvania Transportation Authority </themekey>
+			</theme>
+			<place>
+				<placekey>New Jersey</placekey>
+				<placekey>Philadelphia (Pa.)</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>Pennsylvania</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2012</tempkey>
+			</temporal>
+		</keywords>
+		<descript>
+			<abstract>Southeastern Pennsylvania Transportation Authority (SEPTA) Rail Lines, 2012 is a line theme representing the SEPTA rail lines in the Philadelphia metropolitan region. Attribute information includes the name and route number of the line.</abstract>
+			<purpose>For research purposes only.</purpose>
+			<supplinf>See http://www.septa.org for more information.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2012</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-75.385977</westbc>
+				<eastbc>-74.751593</eastbc>
+				<northbc>40.506225</northbc>
+				<southbc>39.875205</southbc>
+			</bounding>
+		</spdom>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+		</browse>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>MapInfo files from the New Jersey Port Authority</title>
+						<origin>New Jersey Port Authority</origin>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>GIS vector layers</typesrc>
+				<srccitea>MapInfo files from the New Jersey Port Authority</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It’s developed from 1:100,000 TIGER files, and amended by them.</procdesc>
+				<srcused>MapInfo files from the New Jersey Port Authority</srcused>
+				<procdate>May 1999</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Several updates: New shapefiles were obtained from New Jersey Transit and reprojected. The original source file was created by NJ Transit in March 2001 by tracing from 1995/97 USGS 1-meter resolution orthophotography. Separated passenger lines from freight/inactive lines. Separate shapefiles created for NJT Rail, NJT Hudson-Bergen Light Rail, NJT Newark Subway, NJT Riverline, Amtrak, PATCO, and SEPTA lines. SEPTA rail line records were merged and attributes standardized where appropriate. </procdesc>
+				<procdate>October 2007</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated metadata contacts.</procdesc>
+				<procdate>December 2009</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Halcrow / CH2M Hill</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>22 Cortlandt St</address>
+					<city>New York</city>
+					<state>Ny</state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>212-608-3990</cntvoice>
+				<cntfax>212-566-5059</cntfax>
+				<cntemail>maps@halcrow.com</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>halcrow_septalines_2012</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formvern>ESRI Shapefile</formvern>
+					<formspec>zip</formspec>
+					<transize>0.339</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC)</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20140317</metd>
+	</metainfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Transverse Mercator</mapprojn>
+					<transmer>
+						<sfctrmer>0.9999</sfctrmer>
+						<longcm>-74.500000</longcm>
+						<latprjo>38.833333</latprjo>
+						<feast>492125.000000</feast>
+						<fnorth>0</fnorth>
+					</transmer>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0</absres>
+						<ordres>0</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<cordsysn>
+				<geogcsn>State Plane Coordinate System</geogcsn>
+			</cordsysn>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+</metadata>

@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Community Studies of New York, Inc.,</origin>
+				<pubdate>2007</pubdate>
+				<title>New York City Neighborhoods, 2007</title>
+				<geoform>vector digital data</geoform>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/infoshare_neighborhoods.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>New York City Neighborhoods is a polygon theme representing neighborhood areas in New York City.  The neighborhoods are as used and defined by Community Studies of New York in the Infoshare Online database.  The neighborhood boundaries were originally defined by a City informal taskforce, the boundaries are not official, but are meant to define the neighborhoods in which residents believe they live.  Attribute data includes the name and the approximate perimeter and area of the neighborhood.</abstract>
+			<purpose>NYC neighborhoods can be used with neighborhood level data provided through Infoshare Online.  For research purposes only.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-74.258865</westbc>
+				<eastbc>
+-73.699729</eastbc>
+				<northbc>
+40.915161</northbc>
+				<southbc>
+40.496856</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>society</themekey>
+			</theme>
+			<place><placekey>New York (N.Y.)</placekey><placekey>Brooklyn (New York, N.Y.)</placekey><placekey>Bronx (New York, N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey><placekey>Manhattan (New York, N.Y.)</placekey><placekt>Library of Congress Subject Headings</placekt><placekey>Staten Island (New York, N.Y.)</placekey></place><theme><themekt>None</themekt><themekey>neighborhood</themekey></theme></keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+		<browse><browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/NEIGHNYC0.bmp</browsen><browsed>Thumbnail image of shapefile in full extent</browsed><browset>bmp</browset></browse><ptcontac><cntinfo><cntorgp><cntorg>Community Studies of New York, Inc.,</cntorg></cntorgp><cntemail>email@infoshare.org</cntemail></cntinfo></ptcontac></idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>295</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1927</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.400000</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+NEIGHNYC</enttypl>
+				<enttypd>Neighborhood areas</enttypd>
+				<enttypds>Infoshare Online</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NEIGHNYC_I</attrlabl>
+				<attrdef>Neighborhood Identifier</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Neighborhood identifier</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Numerical neighborhood identifier</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>NAME2</attrlabl>
+				<attrdef>Name of the neighborhood</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of the neighborhood in square miles</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Perimeter of the area in miles</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>LAYER</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib><cntinfo><cntorgp><cntorg>Community Studies of New York, Inc.,</cntorg></cntorgp><cntemail>email@infoshare.org</cntemail></cntinfo></distrib><resdesc>infoshare_neighborhoods</resdesc></distinfo>
+	<metainfo>
+		<metd>20070424</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>420 W. 118th St., 215 IAB, MC 3301</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

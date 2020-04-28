@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+<pubdate>1996</pubdate>
+<title>World Present Landscapes, 1996</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>ArcAtlas</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Redlands, Calif.</pubplace>
+<publish>ESRI</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_1996_world_landscapes.zip</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Present Landscapes is a polygon theme representing a geographical summary of the current state of the earth's environment.
+
+Human activity has transformed the appearance and use of the land in many regions around the world. The maps of present landscapes are a geographical summary of the current state of the earth's environment. They show several related topics. First, the locations of natural landscape structures, such as plains, mountains, and plateaus are shown. Second, these natural landscapes are classified by the extent of anthropogenic transformation. Third, the various geographical belts, the more detailed zones within them, and geographical sectors are shown. Geographical belts and zones generally vary with latitude. Geographical sectors are generally longitudinal and result from the influence of the oceans along the margins of a continent.
+
+In this atlas, plain landscapes are divided into three subclasses based on the altitude of the plain: very low, low, and high. These subclasses also indicate the origin of a plain. Very low plains result from depositing of material. Low plains can result from either deposition or denudation of material (denudational plains). High plains typically result from the denudation of material.  Anthropogenic landscapes are classified according to the degree and type of transformation resulting from human activity. The major classes of anthropogenic landscapes are described below.
+
+Quasi-Primary Quasi-Primary landscapes correspond to zonal landscapes. These areas have not been directly influenced by humans, or they have local casual influences that do not change the landscapes in kind. Quasi-Primary landscapes are found in the Arctic and sub-Arctic glacial and stone deserts, and some arid and extra-arid landscapes. Protected areas (national parks, etc.) are included in this classification as well. At the present time, all landscapes on the earth are affected by chemicals created by human technology because they move without regard to boundaries. Therefore, even landscapes that appear to be unchanged (primary) can be considered quasi-primary.
+
+Natural-Anthropogenic Natural-Anthropogenic landscapes are those that have been transformed to varying degrees by economic activity. Natural-anthropogenic landscapes are subdivided into two groups (secondary-transformed and anthropogenic-modified) according to the changes to natural components, as follows:
+
+Secondary-transformed landscapes are rather sustainable complexes that are similar to natural ones. They are able to develop by themselves and exist without human help. They result from the overuse of natural landscapes in the past by such activities as overgrazing, regular fires, and overcutting. Typically, these landscapes are more arid in the tropical and equatorial belts and more continental in the temperate belts than would be expected in primary landscapes. This group also includes present landscapes in which existing extensive land use can result in some reversible changes, if they cease being used. Anthropogenic-modified landscapes are highly changed natural complexes that are directly affected by economic activity. The most widespread of these landscapes are modified by agriculture (arable, plantation, and pasture landscapes) and forestry (which
+occupy as much as 80 to 90 percent of certain world regions), as well as their combinations (forestry-arable and pasture arable landscapes).</abstract>
+<purpose>For educational, non-commercial purposes.  This dataset is appropriate for use in a GIS.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>1996</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+-180</westbc>
+<eastbc>
+180</eastbc>
+<northbc>
+85</northbc>
+<southbc>
+-85</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>society</themekey>
+<themekey>geoscientificinformation</themekey>
+<themekey>environment</themekey>
+<themekey>farming</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Present Landscapes</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>Earth</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>1996</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI</cntorg>
+<cntper>Data Team</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>909-793-2853</cntvoice>
+<cntfax>909-793-5953</cntfax>
+<cntemail>info@esri.com</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>n the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. Outside the United States Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/landscape.jpg</browsen>
+<browsed>Thumbnail</browsed>
+<browset>JPEG</browset>
+</browse>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+</idinfo>
+<dataqual>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>United Nations Environment Programme</origin>
+<pubdate>1992</pubdate>
+<title>Atlas of desertification</title>
+<geoform>atlas</geoform>
+<pubinfo>
+<pubplace>London</pubplace>
+<publish>United Nations Environment Programme</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>paper</typesrc>
+<srccitea>Atlas of desertification</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Geographic Society</origin>
+<pubdate>1987</pubdate>
+<title>Atlas of North America: Space Age Portrait of a Continent</title>
+<geoform>atlas</geoform>
+<pubinfo>
+<pubplace>Washington, D. C.</pubplace>
+<publish>National Geographic Society</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>paper</typesrc>
+<srccitea>Atlas of North America: Space Age Portrait of a Continent</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Comite europeen pour la sauvegarde de la nature et des ressources naturelles</origin>
+<pubdate>1979</pubdate>
+<title>Carta de la vegetation des Etats membres du Conseil a l'Europe.</title>
+<geoform>map</geoform>
+<pubinfo>
+<pubplace>Strasbourg</pubplace>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>30000000</srcscale>
+<typesrc>paper</typesrc>
+<srccitea>Carta de la vegetation des Etats membres du Conseil a l'Europe.</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>1988</pubdate>
+<title>Geomorfologicheskaja karta Mira (dlja vysshykh uchebnykh zavedenij).</title>
+<geoform>map</geoform>
+<pubinfo>
+<pubplace>Moscow</pubplace>
+<publish>GUGK</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>15000000</srcscale>
+<typesrc>paper</typesrc>
+<srccitea>Geomorfologicheskaja karta Mira</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>1985</pubdate>
+<title>Karta chetvertichnykh otlozhenij Evrazii</title>
+<geoform>map</geoform>
+<pubinfo>
+<pubplace>Leningrad</pubplace>
+<publish>VSEGEN</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>2500000</srcscale>
+<typesrc>paper</typesrc>
+<srccitea>Karta chetvertichnykh otlozhenij Evrazii</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>1986</pubdate>
+<title>Pochvennaja karta Mira (dlja vysshykh uchebnykh zavedenij).</title>
+<geoform>map</geoform>
+<pubinfo>
+<pubplace>Moscow</pubplace>
+<publish>GUGK</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>15000000</srcscale>
+<typesrc>paper</typesrc>
+<srccitea>Pochvennaja karta Mira</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>FAO/UNESCO</origin>
+<pubdate>197701981</pubdate>
+<title>Soil Map of the World</title>
+<pubinfo>
+<pubplace>Paris</pubplace>
+<publish>FAO/UNESCO.</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<srcscale>5000000</srcscale>
+<typesrc>paper</typesrc>
+<srccitea>Soil Map of the World</srccitea>
+</srcinfo>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>1969-1976</pubdate>
+<title>World atlas of agriculture under the aegis of the International association of agricultural economists</title>
+<pubinfo>
+<publish>Novara</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>paper</typesrc>
+<srccitea>World atlas of agriculture under the aegis of the International association of agricultural economists</srccitea>
+</srcinfo>
+<procstep>
+<procdesc>Inventory and synthesis of the contemporary scientific knowledge of the earth's terrestrial landscape structure and its various modifications by economic activity were conducted by the Department of Physical Geography and Geoecology of Moscow State University. The natural landscapes were mapped for the atlas according to a complex analysis of a world landscape map and component maps (soil, geomorphology, Quaternary deposits, vegetation, etc.), as well as interpretation of satellite images.
+
+The impact, intensity, and character of anthropogenic changes to natural landscape subsystems were also determined by a complex analysis of the world maps of land use and soil transformation, in addition to numerous national cartographic, aerial, and space data. Because the availability of cartographic, aerial, and space data varies for different parts of the earth, the level of detail that could be compiled for the maps also varies. The landscape locations and characteristics shown in the atlas are highly generalized because of the global and continental map scale.
+
+Zonal types of landscapes are classified by combinations of phytocoenoses and soils caused by climate. In some cases, characteristic of moisture regimes are used as well.
+
+ Zones are characterized by soil-geographic, geobotanic, and hydrothermal unity. Belts are distinguished by macroclimatic parameters such as athmospheric circulation, thermal regimes in extratropical latitudes, and moisture regimes in tropical latitudes.
+
+Ranges of altitudinal belts are classified by combinations of lower and upper beltswithin macroslopes of mountains.
+
+Areas of zonal types of landscapes are classified into plains, low mountains, plateaus and tablelands. Areas of altitudinal types of landscapes are classified into middle mountains and high mountains.</procdesc>
+<srcused>Atlas of desertification</srcused>
+<srcused>Atlas of North America: Space Age Portrait of a Continent</srcused>
+<srcused>Carta de la vegetation des Etats membres du Conseil a l'Europe.</srcused>
+<srcused>Geograficheskie pojasa i zonal'nye tipy landshaftov Mira</srcused>
+<srcused>Geomorfologicheskaja karta Mira</srcused>
+<srcused>Karta chetvertichnykh otlozhenij Evrazii</srcused>
+<srcused>Pochvennaja karta Mira</srcused>
+<srcused>Soil Map of the World</srcused>
+<srcused>World atlas of agriculture under the aegis of the International association of agricultural economists</srcused>
+<srcused>Zemel'nye ugod'ja Mira</srcused>
+<procdate>Unknown</procdate>
+<proccont>
+<cntinfo>
+<cntaddr>
+</cntaddr>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Datasets for each continent were converted from ESRI coverage to the ESRI shapefile format using the 'copy features' tool and merged into one layer using the 'merge' tool.</procdesc>
+<procdate>20090507</procdate>
+<proccont>
+<cntinfo>
+<cntperp>
+<cntper>GIS/Map Librarian</cntper>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>6518</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>D_Clarke_1866</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.400000</semiaxis>
+<denflat>294.978698</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>
+landscape</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>AREA</attrlabl>
+<attrdef>Area</attrdef>
+</attr>
+<attr>
+<attrlabl>PERIMETER</attrlabl>
+<attrdef>Perimeter</attrdef>
+</attr>
+<attr>
+<attrlabl>SALANDDD_</attrlabl>
+<attrdef>South America</attrdef>
+</attr>
+<attr>
+<attrlabl>SALANDDD_I</attrlabl>
+<attrdef>South America ID</attrdef>
+</attr>
+<attr>
+<attrlabl>TYPE</attrlabl>
+<attrdef>Contains a code for the type of present landscape (see entity attributr overview description section)</attrdef>
+</attr>
+<attr>
+<attrlabl>ANTHROP</attrlabl>
+<attrdef>Contains a code for the specific anthropogenic landscape modification (see entity attributr overview description section)</attrdef>
+<attrdomv>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>ZONE</attrlabl>
+<attrdef>The natural landscape zone</attrdef>
+</attr>
+<attr>
+<attrlabl>ANTH_IMP</attrlabl>
+<attrdef>The general type of human activity transforming the landscape.</attrdef>
+</attr>
+<attr>
+<attrlabl>RELIEF</attrlabl>
+<attrdef>Natural relief.</attrdef>
+</attr>
+<attr>
+<attrlabl>MOD_CLASS</attrlabl>
+<attrdef>The class of an anthropogenic landscape modification</attrdef>
+</attr>
+<attr>
+<attrlabl>BELT</attrlabl>
+<attrdef>The natural landscape belt</attrdef>
+</attr>
+<attr>
+<attrlabl>NALANDDD_</attrlabl>
+<attrdef>North America</attrdef>
+</attr>
+<attr>
+<attrlabl>NALANDDD_I</attrlabl>
+<attrdef>North America ID</attrdef>
+</attr>
+<attr>
+<attrlabl>EULANDDD_</attrlabl>
+<attrdef>Europe</attrdef>
+</attr>
+<attr>
+<attrlabl>EULANDDD_I</attrlabl>
+<attrdef>Europe ID</attrdef>
+</attr>
+<attr>
+<attrlabl>AULANDDD_</attrlabl>
+<attrdef>Australia</attrdef>
+</attr>
+<attr>
+<attrlabl>AULANDDD_I</attrlabl>
+<attrdef>Australia ID</attrdef>
+</attr>
+<attr>
+<attrlabl>ASLANDDD_</attrlabl>
+<attrdef>Asia</attrdef>
+</attr>
+<attr>
+<attrlabl>ASLANDDD_I</attrlabl>
+<attrdef>Asia ID</attrdef>
+</attr>
+<attr>
+<attrlabl>AFLANDDD_</attrlabl>
+<attrdef>Africa</attrdef>
+</attr>
+<attr>
+<attrlabl>AFLANDDD_I</attrlabl>
+<attrdef>Africa ID</attrdef>
+</attr>
+</detailed>
+<overview>
+<eaover>Present landscape type codes
+POLAR BELT
+ZONE: POLAR DESERT
+Zonal types of landscapes
+1 Ice desert (continental ice cover and outlet glaciers)
+2 Stony desert
+Types of altitudinal landscape ranges
+101 Polar desert
+ZONE: ARCTIC TUNDRA
+Zonal types of landscapes
+3 Arctic tundra on gelic regosols
+Types of altitudinal landscape ranges
+101 Polar desert
+SUBPOLAR BELTS
+ZONE: TUNDRA
+Zonal types of landscapes
+4 Dwarf-shrub-forb-grass tundra on foli-humic leptosols
+5 Meadow-moss, moss-lichen-dwarf-shrub, and dwarf-shrub tundra on foli-humic
+leptosols, gelic and dystric gleysols
+Types of altitudinal landscape ranges
+102 Meadow tundra and open woodland -- tundra
+103 Tundra -- polar desert
+ZONE: FOREST-TUNDRA AND PRETUNDRA
+Zonal types of landscapes
+6 Meadow-dwarf-shrub, dark and light coniferous forest-tundra on haplic and leptic
+podzols, and gleysols
+Types of altitudinal landscape ranges
+104 Open woodland -- shrub tundra
+105 Shrub tundra -- golets desert
+TEMPERATE BELT
+ZONE: OPEN WOODLAND
+Zonal types of landscapes
+7 Small-leafed tall-grass-meadow open woodland on foli-humic leptosols, ochric
+andosols, and humic podzols
+Types of altitudinal landscape ranges
+106 Meadow tundra and open woodland -- tundra
+ZONE: TAIGA
+Zonal types of landscapes
+8 Dark and light coniferous moderately humid and humid taiga (northern) on haplic
+and leptic podzols, and gleysols
+9 Light and dark coniferous moderately humid taiga (middle) on podzols, dystric
+podzoluvisols, and calci-gelic cambisols
+10 Light coniferous taiga (middle) on gelic gleysols and calci-gelic cambisols
+11 Light and dark coniferous moderately humid taiga (southern) on albic luvisols
+12 Light coniferous taiga (southern) on albic luvisols
+Types of altitudinal landscape ranges
+107 Taiga -- meadow tundra
+108 Taiga -- tundra
+109 Taiga -- tundra -- golets desert
+ZONE: FOREST
+Mixed Forest
+Zonal types of landscapes
+13 Coniferous-broad-leafed and coniferous-small-leafed humid and moderately humid
+mixed forest on albic luvisols, orthic greyzems, and dystric cambisols
+Broad-leafed Forest
+Zonal types of landscapes
+14 Humid broad-leafed forest on eutric cambisols
+15 Moderately humid broad-leafed forest on albic luvisols, orthic greyzems, and dystric
+cambisols
+16 Moderately humid open broad-leafed forest with conifers on solonetzi-umbric
+gleysols
+Types of altitudinal landscape ranges
+110 Mixed forest -- coniferous forest
+111 Mixed forest -- coniferous forest -- tundra
+112 Mixed forest -- coniferous forest -- meadow
+ZONE: FOREST-STEPPE
+Zonal types of landscapes
+17 Small-leafed, coniferous-small-leafed, and coniferous-deciduous forest-steppe on
+Luvic chernozems and orthic greyzems
+18 Broad-leafed forest-steppe (including prairie) on orthic greyzems, haplic
+phaeozems, and chernozems
+19 Small-leafed-coniferous forest-steppe on chernozems and haplic kastanozems
+Types of altitudinal landscape ranges
+113 Forest-steppe -- coniferous forest -- meadow tundra (or alpine meadow)
+ZONE: STEPPE
+Zonal types of landscapes
+20 Forb-grass and grass steppe on calcic and deep calcic chernozems
+21 Forb-turf and turf steppe on calcic chernozems and haplic kastanozems, including
+solonetzi-mollic calcisols
+22 Turf-grass-shrub steppe on luvic kastanozems, including solonetzi-mollic calcisols
+and solonetz
+23 Undershrub-grass steppe on kastanozems and haplic xerosols
+Types of altitudinal landscape ranges
+114 Steppe -- coniferous forest -- tundra
+115 Steppe -- mixed (or coniferous) forest -- (alpine) meadow
+ZONE: SEMIDESERT AND DESERT
+Zonal types of landscapes
+24 Grass-dwarf-shrub, dwarf-shrub, and undershrub semidesert and desert on haplic
+xerosols and yermosols
+ZONE: DESERT
+Zonal types of landscapes
+25 Dwarf-shrub and undershrub desert on yermosols and calcic xerosols
+26 Virtually unvegetated desert
+Types of altitudinal landscape ranges
+116 Semidesert -- forest -- meadow
+117 Semidesert -- steppe -- forest -- meadow
+SUBTROPICAL BELT
+ZONE: FOREST
+Mixed Forest
+Zonal types of landscapes
+27 Excessively humid coniferous-broad-leafed forest (hemi- hylaea) on dystric
+cambisols
+28 Permanently humid coniferous-deciduous forest on chromic luvisols and nitosols
+29 Seasonally humid coniferous-broad-leafed forest on chromic and eutric cambisols
+30 Seasonally humid broad-leafed-coniferous forest on ferrallic cambisols and nitosols
+Types of altitudinal landscape ranges
+118 Evergreen mixed forest -- meadow
+119 Mixed forest -- meadow
+Semievergreen Deciduous Forest
+Zonal types of landscapes
+31 Humid semievergreen deciduous forest on ferrallic cambisols and nitosols
+32 Humid open woodland (parkland) on haplic chernozems
+Types of altitudinal landscape ranges
+120 Mixed forest -- coniferous forest -- alpine meadow
+121 Forest -- open woodland -- meadow
+Coniferous Forest
+Zonal types of landscapes
+33 Moderately humid and moderately arid coniferous open woodland on chromic
+cambisols
+ZONE: EVERGREEN SCLEROPHYLLOUS (MEDITERRANEAN) FOREST,
+OPEN WOODLAND, SHRUBLAND
+Zonal types of landscapes
+34 Summer-dry open woodland and shrubland on chromic cambisols
+35 Summer-dry forest and shrubland on chromic cambisols and haplic nitosols
+Types of altitudinal landscape ranges
+122 Sclerophyllous forest -- mixed forest -- coniferous forest -- steppe (or meadow)
+123 Sclerophyllous forest -- shrubland -- open woodland -- steppe -- meadow
+ZONE: SEMIDESERT AND DESERT
+Zonal types of landscapes
+36 Shrub, dwarf-shrub, and undershrub semidesert and desert on calcic cambisols and
+calcic xerosols
+Types of altitudinal landscape ranges
+124 Steppe -- mixed forest -- alpine meadow
+125 Steppe (or semidesert) -- coniferous forest -- alpine meadow (or steppe)
+ZONE: DESERT
+Zonal types of landscapes
+37 Succulent desert on chromic xerosols
+38 Tree-dwarf-shrub desert on sand and chromic xerosols
+39 Shrub and undershrub, including succulent and ephemeral, desert on chromic and
+calcic xerosols and haplic yermosols
+40 Grass-dwarf-shrub desert of cold high mountains on eutric leptosols
+Types of altitudinal landscape ranges
+126 Semidesert (or desert) -- shrubland -- open woodland -- steppe (or meadow)
+127 Semidesert -- steppe -- semidesert
+ZONE: OPEN WOODLAND AND SHRUBLAND
+Zonal types of landscapes
+41 Seasonally humid open woodland and shrubland on chromic cambisols and
+chromic xerosols
+Types of altitudinal landscape ranges
+128 Sclerophyllous shrubland -- open woodland -- steppe (or meadow)
+ZONE: STEPPE
+Zonal types of landscapes
+42 Shrub-grass and dwarf-shrub-grass steppe on chromic xerosols
+43 Cold meadow steppe (of interior tablelands) on mollic cambisols
+44 Meadow steppe on haplic and chromi-haplic phaeozems
+Types of altitudinal landscape ranges
+129 Steppe -- mixed forest -- alpine meadow
+130 Steppe (or semidesert) -- coniferous forest -- alpine meadow (or steppe)
+ZONE: PRAIRIE
+Zonal types of landscapes
+45 Seasonally humid prairie on chromic cambisols and chromi-haplic phaeozems
+46 Permanently humid prairie on haplic phaeozems
+Types of altitudinal landscape ranges
+130 Steppe (or semidesert) -- coniferous forest -- alpine meadow (or steppe)
+TROPICAL BELT
+ZONE: DESERT
+Zonal types of landscapes
+47 Virtually unvegetated desert
+48 Ephemeral-bulbaceous-succulent desert with high relative humidity on eutric
+leptosols
+49 Grass and dwarf-shrub-grass desert on calcic leptosols and calcic xerosols
+50 Shrub and dwarf-shrub desert on eutric leptosols and sand (including cold high
+tablelands)
+51 Dwarf-shrub and shrub desert on chromic xerosols
+52 Dwarf-shrub and shrub desert on calcic cambisols
+ZONE: SEMIDESERT
+Zonal types of landscapes
+53 Grass-shrub succulent semidesert with high relative humidity on chromic xerosols
+54 Grass-shrub semidesert on chromic xerosols
+55 Grass-shrub semidesert of cold high tablelands on eutric leptosols
+Types of altitudinal landscape ranges
+131 Desert -- (loma) -- desert
+132 Desert (or semidesert) -- open woodland -- semidesert
+ZONE: STEPPE
+Zonal types of landscapes
+56 Shrub steppe of cold high plateaus on mollic cambisols
+Types of altitudinal landscape ranges
+133 Steppe -- montane xerophytes -- meadow
+ZONE: OPEN WOODLAND, SHRUBLAND, SAVANNA
+Zonal types of landscapes
+57 Semidesert savanna and open woodland on chromic xerosols
+58 xerophytic open woodland and shrubland on haplic nitosols and calci-chromic
+cambisols
+59 Evergreen open woodland and shrubland on rhodic and haplic nitosols
+Types of altitudinal landscape ranges
+134 Open woodland -- steppe (or montane xerophytes)
+135 Open woodland -- forest -- steppe (or meadow)
+ZONE: EVERGREEN AND SEMIEVERGREEN FOREST
+Zonal types of landscapes
+60 Seasonally and permanently humid forest on acric ferralsols and rhodic nitosols
+Types of altitudinal landscape ranges
+136 Semievergreen forest -- coniferous forest -- meadow
+137 Evergreen forest -- mixed forest -- coniferous forest -- (alpine) meadow
+138 Evergreen forest -- semievergreen forest -- meadow
+SUBEQUATORIAL BELT
+ZONE: FOREST
+Evergreen Forest
+Zonal types of landscapes
+61 Humid and seasonally humid evergreen forest on acric ferralsols
+62 Semidry evergreen forest and shrubland on rhodic nitosols and chromic xerosols
+Types of altitudinal landscape ranges
+139 Evergreen forest -- meadow (or paramo)
+Semievergreen Forest
+Zonal types of landscapes
+63 Humid and seasonally humid semievergreen forest on acric ferralsols and rhodic
+nitosols
+Types of altitudinal landscape ranges
+140 Deciduous forest -- evergreen forest -- meadow
+Deciduous Forest
+Zonal types of landscapes
+64 Seasonally humid and dry deciduous forest on rhodic and haplic nitosols and Pellic
+Vertisols
+Types of altitudinal landscape ranges
+140 Deciduous forest -- evergreen forest -- meadow
+ZONE: SAVANNA AND OPEN WOODLAND
+Zonal types of landscapes
+65 Humid evergreen open woodland and tall-grass savanna on rhodic and haplic
+nitosols
+66 Seasonally humid open woodland and low-tree savanna on rhodic and haplic
+nitosols and chromic xerosols
+67 Semidry savanna, open woodland, and shrubland on chromic xerosols
+Types of altitudinal landscape ranges
+141 Savanna -- forest -- paramo (or meadow)
+EQUATORIAL BELT
+ZONE: EVERGREEN FOREST
+Rain Forest (Hylaea)
+Zonal types of landscapes
+68 Excessively humid evergreen rain forest on xantic and gleyic ferralsols
+69 Humid rain forest on acric ferralsols
+Evergreen - Deciduous Forest
+Zonal types of landscapes
+70 Seasonally humid evergreen-deciduous forest on acric ferralsols
+Types of altitudinal landscape ranges
+142 Hylaea -- paramo
+INTRAZONAL LANDSCAPES
+River Valleys
+71 River valley
+Hydromorphic Landscapes
+Coastal
+72 Temperate marshes
+73 Tropical, subequatorial, and equatorial mangroves
+74 River delta
+Plain
+75 Temperate wetland
+76 Tropical, subequatorial, and equatorial wetland
+Other Intrazonal Landscapes
+77 Halophytic landscapes
+78 Glaciers
+MISCELLANEOUS LANDSCAPES
+94 No data (appears on volcanic islands in Oceania)
+999 Lakes
+Landscape modification codes
+Anthropogenic Modified Landscapes (100-series codes)
+101 Arable irrigated highly fertilized
+102 Arable irrigated little fertilized
+103 Arable non-irrigated highly fertilized
+104 Arable non-irrigated little fertilized
+105 Horticultural reclaimed
+106 Meadow and arable intensively reclaimed
+107 Improved pasture
+108 Degrading pasture
+109 Pasture and arable reclaimed
+110 Pasture and arable unreclaimed
+111 Forest and pasture and arable highly reclaimed
+112 Forest and arable
+113 Forest and pasture
+114 Forest and horticultural
+115 Forestry reclaimed
+116 Degrading forestry
+117 Local (including oasis) agricultural
+118 Recreational
+Secondary-Transformed Landscapes (200-series codes)
+The type of transformation is indicated by the third digit and the anthropogenic impact is
+indicated by the third digit. For example, 236 is forest-steppe impacted by grazing and
+forestry activities.
+Type of transformation--indicated by second digit
+210 Tundra
+220 Forest
+230 Forest-steppe
+240 Steppe
+250 Savanna and open woodland
+260 Desert
+270 Meadow
+Anthropogenic impact--indicated by third digit
+201 Cultivation
+202 Grazing
+203 Forestry
+204 Grazing and cultivation
+205 Cultivation and forestry
+206 Grazing and forestry
+Quasi-Primary Landscapes
+300 Quasi-primary landscapes
+Other codes
+0 no modification code (for lakes, not applicable; for volcanic islands in Australia and
+Oceania; no data)</eaover>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>ESRI; ESRI International Distributors</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>380 New York Street</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>800-447-9778</cntvoice>
+<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+</cntinfo>
+</distrib>
+<resdesc>esri_1996_world_landscapes</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<formspec>zip</formspec>
+<transize>14.247</transize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20090619</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+		<descript>
+			<abstract>United States Airports is a polygon theme representing airport grounds and airport runways within the United States. All airports have a boundary, and most have at least one runway.</abstract>
+			<purpose>U.S. Airports provides the boundaries for thousands of airports and runways. There are many attributes that describe each airport, for example, location id (airport code), owner, elevation, congestion level, large certified air carrier enplanements, foreign enplanements, hub size, and tower type.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:50,000.
+
+This dataset includes two ESRI layer files symbolizing airport size and congestion level.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>Tele Atlas North America, Inc.</origin>
+				<pubdate>2010</pubdate>
+				<title>United States Airports, 2010</title>
+				<geoform>vector digital data</geoform>
+				<edition>10</edition>
+				<serinfo>
+					<sername>ESRI® Data &amp; Maps</sername>
+					<issue>10 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<othercit>Location: \usa\trans</othercit>
+				<origin>ESRI</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_us_airportp.zip</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<sngdate><caldate>2010</caldate></sngdate></timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-171.744183</westbc>
+				<eastbc>-65.981677</eastbc>
+				<northbc>71.289058</northbc>
+				<southbc>18.003798</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>airports</themekey>
+				<themekey>runways</themekey>
+				<themekey>enplanements</themekey>
+				<themekey>hubs</themekey>
+				<themekey>control towers</themekey>
+				<themekey>airport codes</themekey>
+				<themekey>transportation</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Puerto Rico</placekey>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkey>2010</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2003</tempkey>
+				<tempkt>None</tempkt>
+				<tempkey>1994</tempkey>
+				<tempkey>1992</tempkey>
+				<tempkey>1991</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ESRI_2010_us_airportp.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>jpg</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20110725</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ESRI_2010_us_airportp</enttypl>
+				<enttypd>The polygons represent the airport grounds and airport runways within the United States.</enttypd>
+				<enttypds>Tele Atlas North America, Inc.</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The official name of the airport.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FCC</attrlabl>
+				<attrdef>The Feature Classification Code of the airport/runway.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Census Feature Classification Codes (also called "FCC")</codesetn>
+						<codesets>Department of Commerce, Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATTYPE</attrlabl>
+				<attrdef>The feature type description of the airport/runway.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>MultiNet Feature Code Descriptions</codesetn>
+						<codesets>Tele Atlas North America, Inc.</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MNFC</attrlabl>
+				<attrdef>The MultiNet feature code of the airport/runway.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>MultiNet Feature Codes</codesetn>
+						<codesets>Tele Atlas North America, Inc.</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LOC_ID</attrlabl>
+				<attrdef>The three- or four-character international identifier of the airport/runway.</attrdef>
+				<attrdefs>International Air Transport Association (IATA)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Airport Codes</codesetn>
+						<codesets>International Air Transport Association (IATA)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>USE</attrlabl>
+				<attrdef>The identification of the use of the airport/runway.</attrdef>
+				<attrdefs>National Flight Data Center (NFDC)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>PU</edomv>
+						<edomvd>Public use.</edomvd>
+						<edomvds>National Flight Data Center (NFDC)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PR</edomv>
+						<edomvd>Private use.</edomvd>
+						<edomvds>National Flight Data Center (NFDC)</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OWNERNAME</attrlabl>
+				<attrdef>The owner name of the airport/runway.</attrdef>
+				<attrdefs>National Flight Data Center (NFDC)</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ELEVATION</attrlabl>
+				<attrdef>The elevation in feet above sea level of the airport/runway.</attrdef>
+				<attrdefs>National Flight Data Center (NFDC)</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-999</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CONGES_LEV</attrlabl>
+				<attrdef>The congestion level of the airport.</attrdef>
+				<attrdefs>National Plan of Integrated Airport Systems (NPIAS)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Severe.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Moderate.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>Uncongested.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Entry missing.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SERV_LEV</attrlabl>
+				<attrdef>The service level of the airport.</attrdef>
+				<attrdefs>National Plan of Integrated Airport Systems (NPIAS)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>PR</edomv>
+						<edomvd>Primary commercial service airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CM</edomv>
+						<edomvd>Commercial service other than primary airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CR</edomv>
+						<edomvd>Commercial service airport that also serves as a reliever airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GA</edomv>
+						<edomvd>General aviation airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RL</edomv>
+						<edomvd>General aviation airport that serves as a reliever airport or heliport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GP</edomv>
+						<edomvd>General aviation airport that meets the criteria for a primary airport (PR), but has been declared ineligible to be a primary airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GC</edomv>
+						<edomvd>General aviation airport that meets the criteria for a commercial service other than a primary airport (CM), but has been declared ineligible to be a commercial airport.</edomvd>
+						<edomvds>National Plan of Integrated Airport Systems (NPIAS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LRGCERTENP</attrlabl>
+				<attrdef>The total domestic and foreign enplanements on large certificated U.S. air carriers during calendar year 1992.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMM_ENP</attrlabl>
+				<attrdef>The total enplanements by small certificated air carriers during calendar year 1992 operating scheduled service.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AIRTAXIENP</attrlabl>
+				<attrdef>The total enplanements on air taxis during calendar year 1992.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FOREIGNENP</attrlabl>
+				<attrdef>The total enplanements by foreign carriers during calendar year 1992.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>INTRANENP</attrlabl>
+				<attrdef>The 1992 total passengers onboard international flights that transit the airport for purposes other than boarding and de-boarding passengers; limited to airports in the 48 contiguous states.</attrdef>
+				<attrdefs>Tele Atlas North America, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HUB_SIZE</attrlabl>
+				<attrdef>The hub size of the airport based on percent of national enplanements.</attrdef>
+				<attrdefs>Air Carrier Activity Information System (ACAIS)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>L</edomv>
+						<edomvd>Large.</edomvd>
+						<edomvds>Air Carrier Activity Information System (ACAIS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Medium.</edomvd>
+						<edomvds>Air Carrier Activity Information System (ACAIS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Small.</edomvd>
+						<edomvds>Air Carrier Activity Information System (ACAIS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Non-hub.</edomvd>
+						<edomvds>Air Carrier Activity Information System (ACAIS)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>G</edomv>
+						<edomvd>General aviation.</edomvd>
+						<edomvds>Air Carrier Activity Information System (ACAIS)</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TOWER_TYPE</attrlabl>
+				<attrdef>The tower type code of the airport.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Terminal Radar Approach Control Facility (TRACON), Radar Approach Control Facility (RAPCON), Combined Center and Radar Approach Control Facility (CERAP).</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Radar tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Limited radar tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Non-radar tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Visual Flight Rule (VFR) tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Non-Federal Aviation Administration (FAA) facility.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Contract tower.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>2.246</transize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt/>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2010_usa_airports</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI Offices</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>Tele Atlas MultiNet North America</title>
+						<origin>Tele Atlas North America, Inc.</origin>
+						<pubdate>201003</pubdate>
+						<edition>Version 2010.03</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Tele Atlas® MultiNet® North America</sername>
+							<issue>Version 2010.03</issue>
+						</serinfo>
+						<pubinfo>
+							<publish>Tele Atlas North America, Inc.</publish>
+							<pubplace>Lebanon, New Hampshire, USA</pubplace>
+						</pubinfo>
+						<onlink>http://www.teleatlas.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>DVD–ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201003</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Tele Atlas MultiNet North America v. 2010.03</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Bureau of Transportation Statistics, (comp.)</origin>
+						<pubdate>2002</pubdate>
+						<title>Public Use Airports, 2010</title>
+						<edition>2002</edition>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Bureau of Transportation Statistics</publish>
+						</pubinfo>
+						<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD–ROM.</othercit>
+						<onlink>http://www.bts.gov/gis/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD–ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NTAD 2002 - Airports</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<typesrc>online</typesrc>
+				<srccitea>AirNav, LLC</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>AirNav, LLC</origin>
+						<title>Airport Information</title>
+						<geoform>tabular digital data</geoform>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>AirNav, LLC</publish>
+						</pubinfo>
+						<othercit>Accessed web site in 2003.</othercit>
+						<onlink>http://www.airnav.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2003</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdate>20100426</procdate>
+				<procdesc>The following steps were performed by ESRI: Extracted the Land Use data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Selected the airport ground and runway features. Removed all fields except FEATTYP, NAME, and ACRON. Renamed field FEATTYP to MNFC. Renamed field ACRON to LOC_ID. Attached and formatted the fields from 2009 Data Update U.S. Airports (source dates - 1991, 1992, and 1994). Put a "-999" value into all records that did not find a match for the field ELEVATION. Put a "0" value into all records that did not find a match for the fields LRGCERTENP, COMM_ENP, AIRTAXIENP, FOREIGNENP and INTRANENP. Added field FEATTYPE and copied its values from MultiNet FEATTYP descriptions. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>Horizontal positional accuracy is dependent on geographic area. In most areas, accuracy is between 5 and 25 meters (16 and 82 feet). In some areas, accuracy is off by up to several tens of meters (100 feet or more). In the poorest areas, accuracy is off by up to 100 meters (328 feet).</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+	</dataqual>
+</metadata>

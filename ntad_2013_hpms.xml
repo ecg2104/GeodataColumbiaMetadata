@@ -1,0 +1,744 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics</origin>
+				<origin>United States. Federal Highway Administration.</origin>
+				<pubdate>2011</pubdate>
+				<title>United States Highway Performance Monitoring System, 2013</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>1200 New Jersey Ave, Washington, DC, 20590</pubplace>
+					<publish>Federal Highway Administration (FHWA)</publish>
+				</pubinfo>
+				<othercit>The HPMS 2011 shapefile was created by using linear referencing techniques to overlay the HPMS data with the NHPN. A shapefile was created from the linearly refenced data.</othercit>
+				<lworkcit>
+					<citeinfo>
+						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+						<pubdate>20110101</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2013</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington DC</pubplace>
+							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+						</pubinfo>
+					</citeinfo>
+				</lworkcit>
+			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The Federal Highway Administration (FHWA) has the responsibility to assure that adequate highway transportation information is available to support its functions and responsibilities, including those of the Administration and the Congress. The primary purpose of the Highway Performance Monitoring System (HPMS) is to serve these data and information needs. The HPMS provides data that reflects the extent, condition, performance, use, and operating characteristics of the nation's highways. The HPMS by itself is not geospatial data. It is linked to another FHWA dataset, the National Highway Planning Network (NHPN), through linear referencing. The NHPN provides the geospatial component of this dataset. The hpms data on the 2013 NTAD represents 2011 hpms. 2011 is the latest complete compilation of hpms data.</abstract>
+			<purpose>The HPMS provides data that reflects the extent, condition, performance, use, and operating characteristics of the nation's highways. It supports informed highway planning, policy making, and decision making at the national, state, and local levels.  FHWA is undertaking a number of significant changes to the hpms.  During this time, hpms should be considered a work in progress and some differences in the data will be apparent from one year to the next.  FHWA is aware of this and making every effort to ensure each release of the hpms is the best product possible.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-176.650128</westbc>
+				<eastbc>-66.980046</eastbc>
+				<northbc>71.343723</northbc>
+				<southbc>19.058095</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>Roads</themekt>
+				<themekey>Network</themekey>
+				<themekey>Highways</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2011</tempkey>
+				<tempkey>2009</tempkey>
+				<tempkey>2006</tempkey>
+				<tempkey>2010</tempkey>
+				<tempkey>2012</tempkey>
+				<tempkey>2013</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Highway Administration (FHWA)</cntorg>
+					<cntper>Tom Roff</cntper>
+				</cntorgp>
+				<cntpos>HPMS Program Manager</cntpos>
+				<cntaddr>
+					<addrtype>unknown</addrtype>
+					<address>1200 New Jersey Ave</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+				</cntaddr>
+				<cntvoice>(202) 366-5035</cntvoice>
+				<cntemail>Thomas.Roff@dot.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration/Bureau of Transportation Statistics</cntorg>
+					<cntper>National Transportation Atlas Database (NTAD) 2013</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Information Systems</cntpos>
+				<cntaddr>
+					<addrtype>unknown</addrtype>
+					<address>1200 New Jersey Ave. SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@BTS.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>20110101</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2013</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attributes contained in the HPMS are reported to the FHWA on an annual basis by the individual State DOTs.</attraccr>
+		</attracc>
+		<complete>HPMS, for calendar year 2008, is provided for each State, the District of Columbia, and Puerto Rico.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>US Department of Transportation, Federal Highway Administration, Office of Highway Policy Information, HPPI-20</origin>
+						<pubdate>20110101</pubdate>
+						<title>Highway Performance Monitoring System 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Federal Highway Administration (FHWA)</publish>
+						</pubinfo>
+						<onlink>http://www.fhwa.dot.gov/ohim/hpmsmanl/hpms.htm</onlink>
+					</citeinfo></srccite>
+				<typesrc>None</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20080101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Unknown</srccurr>
+				</srctime>
+				<srccitea>Highway Performance Monitoring System 2011</srccitea>
+			</srcinfo>
+			<procstep>
+				<procdesc>Shapefile created from the geodatabase.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Linear Referencing utilized to overlay the HPMS data on the NHPN. Results stored in a geodatabase.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>HPMS data submitted to the FHWA by the individual State DOTs.</procdesc>
+				<procdate>20080101</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>2937768</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>8.983152841195215e-009</latres>
+				<longres>8.983152841195215e-009</longres>
+				<geogunit>Decimal Degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>hpms</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Year_Recor</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>state_code</attrlabl>
+				<attrdef>State FIPS Code *this field is numeric*</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>route_id</attrlabl>
+				<attrdef>An alphanumeric route identifier that is part of the State's LRS and used to identify locations along the State's roadway network.</attrdef>
+				<attrdefs>HPMS Field Manual Chapter 4</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Begin_Poin</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>End_Point</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>AADT</attrlabl>
+				<attrdef>Annual Average Daily Traffic</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>COUNTY_COD</attrlabl>
+				<attrdef>County FIPS Code (3 digit).  Can be combined with STFIPS to obtain 5-digit County FIPS C</attrdef>
+				<attrdefs>HPMS Field Manual, Appendix B</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>HPMS Field Manual, Appendix B</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>F_SYSTEM</attrlabl>
+				<attrdef>the functional system upon which the section is located.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Rural Principal Arterial - Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Rural Principal Arterial - Other</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Rural Minor Arterial</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Rural Major Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Rural Minor Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Rural Local</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Urban Principal Arterial - Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Urban Principal Arterial - Other Freeways and Expressways</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Urban Principal Arterial - Other</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Urban Minor Arterial</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Urban Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Urban Local</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FACILITY_T</attrlabl>
+				<attrdef>This item is used to determine whether a roadway or structure is a one- or two-way operation</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>One-Way Roadway</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Two-Way Roadway</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>One-Way Structure (Bridge, Tunnel, Causeway, etc.)</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Two-Way Structure (Bridge, Tunnel, Causeway, etc.)</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HOV_LANES</attrlabl>
+				<attrdef>This item is used to identify number of lanes for the roadway section used in HOV operations.  The Code given to this field best reflect the nature of existing HOV operations.</attrdef>
+				<attrdefs>HPMS Field ManualChapter 4</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>NHS</attrlabl>
+				<attrdef>Indicates whether the section is on the National Highway System (NHS) or is an NHS connector to an intermodal facility.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<udom>Unique route number.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OWNERSHIP</attrlabl>
+				<attrdef>The level of government that best represents the highway owner irrespective of whether agreements exist for maintenance or other purposes.  The purpose of this item is to identify the owner of public roads.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Not signed</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>U.S.</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>State</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>County</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Parkway Marker or Forest Route Marker</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>None of the Above</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ROUTE_NUMB</attrlabl>
+				<attrdef>Alphanumeric value for the signed route number shown on the marker described in the attributes SIGNING and QUALIFIER.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<udom>Unique route number.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ROUTE_NU_1</attrlabl>
+				<attrdef>Textual description of route</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ROUTE_QUAL</attrlabl>
+				<attrdef>The value which best represents the manner in which the highway segment is signed on the route marker described in the SIGNING attribute</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No Qualifier or Not Signed or Not Applicable</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Alternate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Bypass</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Proposed</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Temporary</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>None of the Above</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ROUTE_SIGN</attrlabl>
+				<attrdef>The value which best represents the manner in which the highway segment is signed with route markers.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Not signed</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>U.S.</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>State</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>County</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Parkway Marker or Forest Route Marker</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>None of the Above</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>THROUGH_LA</attrlabl>
+				<attrdef>Number of Through Lanes</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>State Highway Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>County Highway Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Town or Township Highway Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Municipal Highway Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Other State Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Other Local Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Federal Agency</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Other</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TOLL_ID</attrlabl>
+				<attrdef>Unique Toll ID</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>URBAN_CODE</attrlabl>
+				<attrlabl>AADT</attrlabl>
+				<attrdef>The numeric urbanized area code for sections within an urbanized area boundary when the RUR_URB attribute is coded "3" or "4".</attrdef>
+				<attrdefs>HPMS Field Manual, Appendix B</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>HPMS Field Manual, Appendix B</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>National_L</attrlabl>
+				<attrdef>National LRS ID.  This ID includes the LRS and State codes appended.</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Leng</attrlabl>
+				<attrdef>Leng of Shape feature.</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave. S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>202-366-3282</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>ntad_2013_hpms</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2013</formvern>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+					<transize>141.7</transize>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>dvd</offmedia>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>20110101</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20140925</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

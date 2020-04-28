@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+		<descript>
+			<abstract>Europe NUTS 1 Demographics is a polygon theme representing areas of aggregated socioeconomic and demographic information at the NUTS 1 level for Europe. NUTS 1 units have an average population between three million and seven million people.
+
+NUTS (Nomenclature des Unités Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.</abstract>
+			<purpose>Europe NUTS 1 Demographics provides NUTS 1 level demographic information for Europe.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:200,000.
+
+This dataset comes with an ESRI Layer file that symbolized the number of dwellings. </supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>Michael Bauer Research GmbH</origin>
+				<pubdate>2010</pubdate>
+				<title>Europe NUTS 1 Demographics, 2010</title>
+				<geoform>vector digital data</geoform>
+				<edition>10</edition>
+				<serinfo>
+					<sername>ESRI Data &amp; Maps</sername>
+					<issue>10 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<othercit>Location: \europe\data</othercit>
+				<origin>Environmental Systems Research Institute (Redlands, Calif.) </origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_eu_nuts1.zip</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>201005</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-31.268789</westbc>
+				<eastbc>69.068487</eastbc>
+				<northbc>77.001794</northbc>
+				<southbc>27.638029</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>countries</themekey>
+				<themekey>boundaries</themekey>
+				<themekey>demographics</themekey>
+				<themekey>NUTS</themekey>
+				<themekey>regions</themekey>
+				<themekey>society</themekey>
+				<themekey>economy</themekey>
+			</theme>
+			<place>
+				<placekey>Europe</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2010</tempkey>
+			</temporal>
+			<place>
+				<placekt>None</placekt>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+			</theme>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/esri_93_europe_nuts1.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20100519</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ESRI_2010_eu_nuts1</enttypl>
+				<enttypd>The polygons represent areas of aggregated socioeconomic and demographic information at the NUTS 1 level for Europe.</enttypd>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NUTS</attrlabl>
+				<attrdef>The NUTS 1 code or the NUTS 0 code if there are no NUTS 1 geographical units for this country.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Nomenclature of Territorial Units for Statistics (NUTS)</codesetn>
+						<codesets>Regulation of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The name of the NUTS geographical unit or the country if there are no NUTS 1 geographical units for this country.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NUTS0</attrlabl>
+				<attrdef>The NUTS 0 code for the country the NUTS graphical unit is in.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Nomenclature of Territorial Units for Statistics (NUTS)</codesetn>
+						<codesets>Regulation of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POPULATION</attrlabl>
+				<attrdef>The population for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MALES</attrlabl>
+				<attrdef>The number of males for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEMALES</attrlabl>
+				<attrdef>The number of females for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HOUSEHOLDS</attrlabl>
+				<attrdef>The number of households for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERS_HH</attrlabl>
+				<attrdef>The average number of persons per household for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP_GROWTH</attrlabl>
+				<attrdef>The population growth rate for the NUTS geographical unit from 2005 to 2010 in percent.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP_DENSIT</attrlabl>
+				<attrdef>The population per square kilometer for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Calculated populations per square kilometer for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DWELLINGS</attrlabl>
+				<attrdef>The number of dwellings for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AGE_0_14</attrlabl>
+				<attrdef>The number of people 0 to 14 years of age for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AGE_15_29</attrlabl>
+				<attrdef>The number of people 15 to 29 years of age for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AGE_30_44</attrlabl>
+				<attrdef>The number of people 30 to 44 years of age for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AGE_45_59</attrlabl>
+				<attrdef>The number of people 45 to 59 years of age for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AGE_60_</attrlabl>
+				<attrdef>The number of people 60 years of age and over for the NUTS geographical unit in 2010.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PP_INCNTRY</attrlabl>
+				<attrdef>The yearly amount of purchasing power (i.e. disposable income) for the NUTS geographical unit in Euro, in 2010, with ranges specific to each country.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Number ranges for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PP_CATEGOR</attrlabl>
+				<attrdef>The yearly amount of purchasing power (i.e. disposable income) for the NUTS geographical unit in Euro, in 2010, with ranges based on all European countries.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>below 2500</edomv>
+						<edomvd>Below 2,500 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2500 - 5000</edomv>
+						<edomvd>2,500 to 4,999 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5000 - 10000</edomv>
+						<edomvd>5,000 to 9,999 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10000 - 15000</edomv>
+						<edomvd>10,000 to 14,999 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15000 - 20000</edomv>
+						<edomvd>15,000 to 19,999 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20000 - 25000</edomv>
+						<edomvd>20,000 to 24,999 Euro.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25000 and more</edomv>
+						<edomvd>25,000 Euro and above.</edomvd>
+						<edomvds>Michael Bauer Research GmbH</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PP_GROWTH</attrlabl>
+				<attrdef>The purchasing power growth rate for the NUTS geographical unit from 2005 to 2010 in percent ranges.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Number ranges for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>blank</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GDP</attrlabl>
+				<attrdef>The Gross Domestic Product in millions of Euro for the NUTS geographical unit in 2009.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EMPLOYED</attrlabl>
+				<attrdef>The number of employed persons for the NUTS geographical unit in 2009.</attrdef>
+				<attrdefs>Michael Bauer Research GmbH</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SQKM</attrlabl>
+				<attrdef>The area of the NUTS geographical unit in square kilometers.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>2.621</transize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt/>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2010_europe_nuts1</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI Offices</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Michael Bauer Research GmbH</origin>
+						<pubdate>201005</pubdate>
+						<pubinfo>
+							<publish>Michael Bauer Research GmbH; EuroGeographics</publish>
+							<pubplace>Nürnberg, Germany; Champs-sur-Marne, France</pubplace>
+						</pubinfo>
+						<onlink>http://www.mb-research.de/</onlink>
+						<title>[Custom package for ESRI Data &amp; Maps]</title>
+						<geoform>vector digital data and tabular digital data</geoform>
+						<origin>EuroGeographics</origin>
+						<othercit>Michael Bauer Research GmbH provided the attribute data and boundary data.
+
+EuroGeographics was the primary source for the boundary data.
+
+The custom package included:
+MBR - Economic and Sociodemographic Data for Europe and EuroBoundaryMap boundary data from EuroGeographics in the NUTS 0, NUTS 1, NUTS 2, and NUTS 3 shapefiles and table.</othercit>
+						<onlink>http://www.eurogeographics.org/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>MBR and EuroGeographics</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+				<srcscale>100000 [EuroGeographics]</srcscale>
+			</srcinfo>
+			<procstep>
+				<srcused>MBR and EuroGeographics</srcused>
+				<procdesc>Michael Bauer Research GmbH established the data by reviewing relevant regional data and projecting the respective trends. For providing the most possible value to the user regarding comparability, all country results were projected by mathematical methods to the required geographical level, homogeneous base years, categories (e.g. age bands) and currency (Euro).
+ 
+Other remarks:
+ - For Azerbaijan the number of households, dwellings and purchasing power growth rate are not surveyed.
+ - For Vatican City only total population and population density are surveyed.
+ - For Andorra, Liechtenstein, Georgia and San Marino the number of dwellings and purchasing power growth rate are not surveyed.
+ - For Gibraltar the number of dwellings, purchasing power growth rate and gross domestic product are not surveyed.
+ - For Monaco and Kosovo the purchasing power growth rate is not surveyed.
+ - In Russia only the European part of the country is surveyed (in accordance with the maps).
+ 
+Michael Bauer Research GmbH provided ESRI with:
+MBR - Economic and Sociodemographic Data for Europe and EuroBoundaryMap boundary data from EuroGeographics in the NUTS 0, NUTS 1, NUTS 2, and NUTS 3 shapefiles and table.</procdesc>
+				<procdate>2010</procdate>
+			</procstep>
+			<procstep>
+				<procdate>20100519</procdate>
+				<procdesc>The following steps were performed by ESRI: Started with the data in the custom package from Michael Bauer Research GmbH and EuroGeographics. The data included the four NUTS shapefiles and an Excel file that contained data for each of the four NUTS shapefiles. Converted the Excel file data into four geodatabase (.gdb) tables using Feature Manipulation Engine (FME). Joined each .gdb table to its corresponding NUTS shapefile. For data sets NUTS 1, NUTS 2, and NUTS 3, added and coded the NUTS0 field. Renamed some fields. Added the SQKM field to each of the four data sets and calculated its values. Converted the data sets to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices for each data set.</procdesc>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>The positional accuracy is unknown.</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+	</dataqual>
+</metadata>

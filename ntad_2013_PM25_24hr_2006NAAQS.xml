@@ -1,0 +1,374 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics</origin>
+				<origin>United States. Federal Highway Administration. </origin>
+				<pubdate>2011</pubdate>
+				<title>United States Non-Attainment Areas: Particulate Matter 2.5 24 Hour, 2013</title>
+				<geoform>vector digital data</geoform>
+			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_pm25_24hr_2006naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Non-attainment and maintenance areas for the United States and its territories. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
+			<purpose>To establish the spatial boundaries of each nonattainment and maintenance area. The standard for the PM-2.5 24 hour NAA is 35 micrograms per meter cubed.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-148.016946</westbc>
+				<eastbc>-71.856640</eastbc>
+				<northbc>64.978943</northbc>
+				<southbc>31.332719</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>Air Quality</themekt>
+				<themekey>Maintenance area</themekey>
+				<themekey>Nonattainment area</themekey>
+				<themekey>Particulate Matter</themekey>
+				<themekey>Criteria Pollutant</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2007</tempkey>
+				<tempkey>2011</tempkey>
+				<tempkey>2008</tempkey>
+				<tempkey>2009</tempkey>
+				<tempkey>2010</tempkey>
+				<tempkey>2012</tempkey>
+				<tempkey>2013</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>1 202 366 DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+			<qattracc>
+				<attraccv>None</attraccv>
+				<attracce>Unknown</attracce>
+			</qattracc>
+		</attracc>
+		<logic>None</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>20050101</pubdate>
+						<title>40 Code of Federal Regulations Part 81</title>
+						<othercit>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</othercit>
+						<onlink>http://www.epa.gov/epahome/cfr40.htm</onlink>
+					</citeinfo></srccite>
+				<typesrc>None</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20110101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>40 CFR</srccitea>
+				<srccontr>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency</origin>
+						<pubdate>20050101</pubdate>
+						<title>Green Book</title>
+						<onlink>http://www.epa.gov/oar/oaqps/greenbk/</onlink>
+					</citeinfo></srccite>
+				<typesrc>None</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20050101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Green Book</srccitea>
+				<srccontr>The United States Environmental Protection Agency's (EPA) "Green Book" defines Criteria Pollutants. EPA uses six "criteria pollutants" as indicators of air quality, and has established for each of them a maximum concentration above which adverse effects on human health may occur. These threshold concentrations are called National Ambient Air Quality Standards (NAAQS).</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data collected from the Environmental Protection Agency or created using base geographic reference layers and physical descriptions provided by EPA and contained in in 40 Code of Federal Regulations Part 81.</procdesc>
+				<procdate>20040101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated with information from the EPA Green Book.</procdesc>
+				<procdate>20050101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Spatial data edited and cleaned to more closely match shorelines.</procdesc>
+				<procdate>20060101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Standard quality control processes performed in preparation for publication.</procdesc>
+				<procdate>20090101</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Geospatial Information Program</cntper>
+						</cntorgp>
+						<cntvoice>1 202 366 DATA</cntvoice>
+						<cntfax>1 202 366 3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>32</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>8.983152841195215e-009</latres>
+				<longres>8.983152841195215e-009</longres>
+				<geogunit>Decimal Degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>PM25_24hr_2006NAAQS</enttypl>
+				<enttypd>Non-Attainment Areas: Particulate Matter 2.5</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMPOSID</attrlabl>
+				<attrdef>Composite ID of area. Pollutant name, year of designation, and text name of area</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Pollutant</attrlabl>
+				<attrdef>Type of pollutant</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>PM-2.5 (2006)</edomv>
+						<edomvd>Areas of Particulate Matter 2.5, in 2006</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA_NAME</attrlabl>
+				<attrdef>Name of the NAA as designated by the EPA</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attrdef>Primary state in which NAA is found</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Current_At</attrlabl>
+				<attrdef>Current Attainment</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Nonattainment</edomv>
+						<edomvd>any area that does not meet (or that contributes to ambient air quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant.</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Maintenance</edomv>
+						<edomvd>Under supervision</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CLASSIFICA</attrlabl>
+				<attrdef>Severity classification as identified by the EPA.</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Redesignat</attrlabl>
+				<attrdef>Date of redesignation</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>Air pollutants called particulate matter include dust, dirt, soot, smoke and liquid droplets directly emitted into the air by sources such as factories, power plants, cars, construction activity, fires and natural windblown dust. Particles formed in the atmosphere by condensation or the transformation of emitted gases such as SO2 and VOCs are also considered particulate matter. 
+
+Based on studies of human populations exposed to high concentrations of particles (sometimes in the presence of SO2) and laboratory studies of animals and humans, there are major effects of concern for human health. These include effects on breathing and respiratory symptoms, aggravation of existing respiratory and cardiovascular disease, alterations in the body's defense systems against foreign materials, damage to lung tissue, carcinogenesis and premature death. The major subgroups of the population that appear to be most sensitive to the effects of particulate matter include individuals with chronic obstructive pulmonary or cardiovascular disease or influenza, asthmatics, the elderly and children. Particulate matter also soils and damages materials, and is a major cause of visibility impairment in the United States. 
+
+Annual and 24-hour National Ambient Air Quality Standards (NAAQS) for particulate matter were first set in 1971. Total suspended particulate (TSP) was the first indicator used to represent suspended particles in the ambient air. Particles less than 2.5 micrometers in diameter (PM2.5) are referred to as "fine" particles and are believed to pose the largest health risks. Because of their small size (less than one-seventh the average width of a human hair), fine particles can lodge deeply into the lungs.
+
+Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for particulate matter.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>1 202 366 DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>ntad_2013_pm25_24hr_2006naaqs</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2013</formvern>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+					<transize>5.098</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.bts.gov/programs/geographic_information_services/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>dvd</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>megabytes</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>20110101</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20140925</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

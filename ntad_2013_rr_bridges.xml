@@ -1,0 +1,569 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics</origin>
+				<pubdate>2011</pubdate>
+				<title>United States Railroad Bridges, 2013</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Federal Railroad Administration (FRA)</publish>
+				</pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics</origin>
+						<pubdate>20110101</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2013</title>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					
+				</citeinfo></lworkcit>
+			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_rr_bridges&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Railroad Bridges is a spatial file containing the locations of railroad bridges. The data set includes all rail bridges over the navigable and non-navigable waterways for the contiguous United States.</abstract>
+			<purpose>Railroad Bridges is a spatial file maintained by the Federal Railroad Administration (FRA) and Research and Innovative Technology Adminstraiton (RITA)/Bureau of Transportation Statistics (BTS) for use in national and regional spatial analysis</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-150.119942</westbc>
+				<eastbc>-67.292014</eastbc>
+				<northbc>64.843569</northbc>
+				<southbc>25.768478</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>Rail</themekt>
+				<themekey>Bridges</themekey>
+				<themekey>Rail Bridges</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>economy</themekey>
+				<themekey>intelligenceMilitary</themekey>
+				<themekey>planningCadastre</themekey>
+				<themekey>transportation</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2011</tempkey>
+				<tempkey>2010</tempkey>
+				<tempkey>2012</tempkey>
+				<tempkey>2013</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Railroad Administration (FRA)</cntorg>
+				</cntorgp>
+				<cntpos>GIS - Office of Policy</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntemail>judah.lynam@dot.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntpos>National Transportation Atlas Database (NTAD) 2013</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave. S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntpos>National Transportation Atlas Database (NTAD) 2013</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave. S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+	</idinfo>
+	<dataqual>
+		<complete>This dataset contain all existing rail bridges that cross the hydro features in NTAD's hydropolygon and waterways shapefiles. It should not be considered fully comprehensive as it does not include bridges over hydro features which are not in the two shapefiles mentioned above. It also does not contain rail bridges that crossover non-hydro features.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Federal Railroad Administration (FRA)</origin>
+						<pubdate>20110101</pubdate>
+						<title>Railroad Bridges</title>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Federal Railroad Administration (FRA)</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo></srccite>
+				<typesrc>onLine</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20110101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>FRA</srccitea>
+				<srccontr>Federal Railroad Administration (FRA)</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Using a customized GIS tool, a point was placed where the NTAD 100K rail network dataset intersected NTAD's hydrolin (polygon) and waterway (polylin) datasets (when the rail lines crossed the hydroline dataset, two points were created). Each point(s) was then reviewed individually by an analyst, and there was the ability to accept, reject, or have someone else look at the point. If the point was accepted, that point would then be placed in a point shapefile (when there were two points and after it had been accepted, another point was added in the middle of the two originally points). Specific attribute data from the 100K rail line and the hydrolin/waterway datasets were then populated into the new rail bridge shapefile.</procdesc>
+				<procdate>20110101</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Office of Geospatial Information Systems</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical</addrtype>
+							<address>1200 New Jersey Ave. S.E.</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>2279</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>8.983152841195215e-009</latres>
+				<longres>8.983152841195215e-009</longres>
+				<geogunit>Decimal Degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>rr_bridges</enttypl>
+				<enttypd>Where railroad bridges are over water</enttypd>
+				<enttypds>FRA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>UniqueId</attrlabl>
+				<attrdef>Unique ID for each record</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character and Numeric Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>StName</attrlabl>
+				<attrdef>State Name</attrdef>
+				<attrdefs>The Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CntyName</attrlabl>
+				<attrdef>County Name</attrdef>
+				<attrdefs>The Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CityName</attrlabl>
+				<attrdef>City Name</attrdef>
+				<attrdefs>The Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Region</attrlabl>
+				<attrdef>FRA Region</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>CT, MA, ME, NH, NJ, NY, RI, VT</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>DC, DE, MD, OH, PA, VA, WV</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>AL, FL, GA, KY, MS, NC, SC, TN</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>IL, IN, MI, MN, WI</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>AR, LA, NM, OK, TX</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>CO, IA, KS, MO, NE</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>AZ, CA, HI, NV, UT</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>AK, ID, MT, ND, OR, SD, WA, WY</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Division</attrlabl>
+				<attrdef>FRA divison, if available</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SubDivsn</attrlabl>
+				<attrdef>FRA subdivision, if available</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FeatXed</attrlabl>
+				<attrdef>Name of the feature crossed</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FeatTypXed</attrlabl>
+				<attrdef>Type of feature crossed</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Water</edomv>
+						<edomvd>The bridge crossed over a body of water</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STCNTYFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State and County Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (NIST)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS) State and County Code</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FRAARCID</attrlabl>
+				<attrdef>FRA's ArcID in NTAD's rail_lines shapefile</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Numeric Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NET</attrlabl>
+				<attrdef>Known track type</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Abandoned</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Main Sub Network</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Non-mainline Active Track</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>X</edomv>
+						<edomvd>Out of Service</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RROWNER1</attrlabl>
+				<attrdef>Track Owner, first level. RR codes used</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RROWNER2</attrlabl>
+				<attrdef>Track Owner, second level. RR codes used</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RROWNER3</attrlabl>
+				<attrdef>Track Owner, third level. RR codes used</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Wway_FID</attrlabl>
+				<attrdef>Feature identifier from intersect with Waterway from USACE</attrdef>
+				<attrdefs>FRA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Numeric Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STPOSTAL</attrlabl>
+				<attrdef>U.S. Postal Service two letter state abbreviation.</attrdef>
+				<attrdefs>USPS</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (NIST)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS) State Code</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave. S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>ntad_2013_rr_bridges</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2013</formvern>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+				</digtinfo>
+			</digform>
+			<ordering>call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>20110101</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20140925</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>

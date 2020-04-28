@@ -1,0 +1,552 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
+		<descript>
+			<abstract>United States Populated Places is a polygon theme representing populated place areas such as census designated places, consolidated cities, and incorporated places within United States identified by the U.S. Census Bureau. Attribute information includes the name, class, population classification, population density, number of housing units and size of the areas. This dataset is a part of the 2010 ESRI Data &amp; Maps collection.</abstract>
+			<purpose>United States Populated Places provides areal locations for populated places including attributes—name, FIPS code, census class, area, and selected demographic data from the U.S. Census.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:50,000.
+
+This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>2010</pubdate>
+				<title>United States Populated Places, 2000</title>
+				<geoform>vector digital data</geoform>
+				<edition>10</edition>
+				<serinfo>
+					<sername>ESRI Data &amp; Maps</sername>
+					<issue>10 - World, Europe, and United States</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<origin>Tele Atlas North America, Inc.</origin>
+				<origin>Economic and Social Research Institute (Reston, Va.)</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_us_placeply.zip</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>ground condition</current>
+			<timeinfo>
+				<sngdate><caldate>2000</caldate></sngdate></timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-176.810434</westbc>
+				<eastbc>-65.292632</eastbc>
+				<northbc>71.338727</northbc>
+				<southbc>17.881242</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>places</themekey>
+				<themekey>populated places</themekey>
+				<themekey>cities</themekey>
+				<themekey>towns</themekey>
+				<themekey>villages</themekey>
+				<themekey>boroughs</themekey>
+				<themekey>demographics</themekey>
+				<themekey>housing units</themekey>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<place>
+				<placekey>United States</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>Puerto Rico</placekey>
+			</place>
+			<temporal>
+				<tempkey>2010</tempkey>
+				<tempkey>2009</tempkey>
+				<tempkt>None</tempkt>
+				<tempkey>2000</tempkey>
+			</temporal>
+			<theme>
+				<themekey>society</themekey>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/esri_93_usa_urban.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>jpg</browset>
+		</browse>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>ArcGIS Content Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded.
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metd>20110729</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>ESRI_2010_us_placeply</enttypl>
+				<enttypd>The polygons represent concentrations of population within the United States that include census designated places, consolidated cities, and incorporated places identified by the U.S. Census Bureau.</enttypd>
+				<enttypds>Department of Commerce, Census Bureau</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>ObjectID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The populated place name.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CLASS</attrlabl>
+				<attrdef>The class of the populated place.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>borough</edomv>
+						<edomvd>In Connecticut, New Jersey, and Pennsylvania, an incorporated place.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CDP</edomv>
+						<edomvd>Census designated place - A statistical entity, defined for each decennial census according to Census Bureau guidelines, comprising a settled concentration of population that is not legally incorporated, but is locally identified by a name.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>city</edomv>
+						<edomvd>An incorporated place in all states and the District of Columbia. In 23 States and the District of Columbia, some or all cities are not part of any minor civil division, and the Census Bureau also treats these as county subdivisions, statistically equivalent to minor civil divisions.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>city (consolidated, balance)</edomv>
+						<edomvd>The portion of the consolidated city minus the incorporated places. For statistical purposes, these entities are treated as statistically equivalent to a place and have no legal basis or functions.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>city and borough</edomv>
+						<edomvd>A type of incorporated place in Alaska.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>city and county</edomv>
+						<edomvd>A consolidated city-county.</edomvd>
+						<edomvds>Tele Atlas North America, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>municipality</edomv>
+						<edomvd>A type of incorporated place in Alaska.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>town</edomv>
+						<edomvd>An incorporated place in 30 States. In New Jersey, Pennsylvania, and South Dakota, the Census Bureau treats these towns as the equivalent of a minor civil division.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>village</edomv>
+						<edomvd>An incorporated place in 20 States. The Census Bureau treats all villages in New Jersey, South Dakota, and Wisconsin, and some villages in Ohio as county subdivisions.</edomvd>
+						<edomvds>Department of Commerce, Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>unknown</edomv>
+						<edomvd>A populated place in Puerto Rico.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ST</attrlabl>
+				<attrdef>The two-letter abbreviation for the state in which the populated place is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>The FIPS code (two-digit number) for the state in which the populated place is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PLACEFIP</attrlabl>
+				<attrdef>The FIPS code (five-digit number) for the populated place within a state.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Pub 55</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HOUSEUNITS</attrlabl>
+				<attrdef>The 2000 housing unit counts of the populated place.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<udom>Numbers for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>Data not available.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP2000</attrlabl>
+				<attrdef>The 2000 population of the populated place.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<udom>Populations for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>Data not available.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP_CLASS</attrlabl>
+				<attrdef>The code for the 2000 population class of the populated place.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Population from 0 - 249.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Population from 250 - 499.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Population from 500 - 999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Population from 1,000 - 2,499.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Population from 2,500 - 9,999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Population from 10,000 - 49,999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Population from 50,000 - 99,999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Population from 100,000 - 499,999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Population from 500,000 - 999,999.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Population from 1,000,000 and up.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>Population unknown.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POP00_SQMI</attrlabl>
+				<attrdef>The 2000 population of the populated place per square mile.</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau; ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated populations per square mile for the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>Data not available.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SQMI</attrlabl>
+				<attrdef>The area of the populated place in square miles using Albers Equal Area Projection.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>30.991</transize>
+					<formname>SDC</formname>
+					<filedec>ArcGIS® software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt/>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>esri_2010_usa_placeply</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI Offices</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>Tele Atlas MultiNet North America</title>
+						<origin>Tele Atlas North America, Inc.</origin>
+						<pubdate>201003</pubdate>
+						<edition>Version 2010.03</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Tele Atlas® MultiNet® North America</sername>
+							<issue>Version 2010.03</issue>
+						</serinfo>
+						<pubinfo>
+							<publish>Tele Atlas North America, Inc.</publish>
+							<pubplace>Lebanon, New Hampshire, USA</pubplace>
+						</pubinfo>
+						<onlink>http://www.teleatlas.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>DVD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201003</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Tele Atlas MultiNet North America v. 2010.03</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Tele Atlas North America, Inc., ESRI</origin>
+						<title>U.S. Populated Place Areas, 2010</title>
+						<edition>2009 Data Update</edition>
+						<serinfo>
+							<sername>ESRI® Data &amp; Maps</sername>
+							<issue>2009 Data Update - World, Europe, United States, and Mexico</issue>
+						</serinfo>
+						<pubinfo>
+							<publish>ESRI</publish>
+							<pubplace>Redlands, California, USA</pubplace>
+						</pubinfo>
+						<othercit>1) Provides attributes from Summary File 1 (SF1) data that are based on the 2000 Census of Population. 2) Provides other attributes in this data set from the previous release of ESRI Data &amp; Maps.</othercit>
+						<pubdate>20090601</pubdate>
+						<geoform>vector digital data</geoform>
+						<onlink>http://www.esri.com/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>DVD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>200907</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200004</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>publication date: 200907; ground condition: 200004</srccurr>
+				</srctime>
+				<srccitea>ESRI Data &amp; Maps 2009 Data Update</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdate>20100513</procdate>
+				<procdesc>The following steps were performed by ESRI: Extracted the Administrative Place data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Clipped the coastline with the Tele Atlas MultiNet North America water data set. Removed all MultiNet fields but APCODE. Attached and formatted the fields from the 2009 Data Update U.S. Populated Place Areas. Removed some records with corrupt APCODE values. Calculated new values for fields POP00_SQMI and SQMI. Removed and rearranged fields to match last release. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+			</procstep>
+		</lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>Horizontal positional accuracy is dependent on geographic area. In most areas, accuracy is between 5 and 25 meters (16 and 82 feet). In some areas, accuracy is off by up to several tens of meters (100 feet or more). In the poorest areas, accuracy is off by up to 100 meters (328 feet).</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+	</dataqual>
+	<mdDateSt>20110729</mdDateSt>
+</metadata>

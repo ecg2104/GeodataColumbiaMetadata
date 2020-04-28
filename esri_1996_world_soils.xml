@@ -1,0 +1,351 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en"><Esri><MetaID>{9AD0D84C-58A2-4217-B3CA-F51D6D75A3F2}</MetaID><CreaDate>20090529</CreaDate><CreaTime>14320100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20090618</SyncDate><SyncTime>11244500</SyncTime><ModDate>20090625</ModDate><ModTime>13580600</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20090529" Time="143202">CopyFeatures d:\mydocs\jt2118\arcatlas\originaldata\world\resource\soils\sasoildd\polygon D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp # 0 0 0</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20090529" Time="143511">Merge D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp;D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp;D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp;D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp;D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp;D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\soils.shp "AREA 'AREA' true true false 13 Float 0 0 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,AREA,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,AREA,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,AREA,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,AREA,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,AREA,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,AREA,-1,-1;PERIMETER 'PERIMETER' true true false 13 Float 0 0 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,PERIMETER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,PERIMETER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,PERIMETER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,PERIMETER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,PERIMETER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,PERIMETER,-1,-1;SASOILDD_ 'SASOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,SASOILDD_,-1,-1;SASOILDD_I 'SASOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,SASOILDD_I,-1,-1;MAJ_TYPE 'MAJ_TYPE' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,MAJ_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,MAJ_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,MAJ_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,MAJ_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,MAJ_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,MAJ_TYPE,-1,-1;MIN_TYPE 'MIN_TYPE' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,MIN_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,MIN_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,MIN_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,MIN_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,MIN_TYPE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,MIN_TYPE,-1,-1;NOSOIL 'NOSOIL' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,NOSOIL,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,NOSOIL,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,NOSOIL,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,NOSOIL,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,NOSOIL,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,NOSOIL,-1,-1;SOIL_FAM 'SOIL_FAM' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,SOIL_FAM,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,SOIL_FAM,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,SOIL_FAM,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,SOIL_FAM,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,SOIL_FAM,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,SOIL_FAM,-1,-1;WATER 'WATER' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,WATER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,WATER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,WATER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,WATER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,WATER,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,WATER,-1,-1;RELIEF 'RELIEF' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,RELIEF,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,RELIEF,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,RELIEF,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,RELIEF,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,RELIEF,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,RELIEF,-1,-1;TEXTURE 'TEXTURE' true true false 5 Long 0 5 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,TEXTURE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,TEXTURE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,TEXTURE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,TEXTURE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,TEXTURE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,TEXTURE,-1,-1;SR 'SR' true true false 3 Short 0 3 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,SR,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,SR,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,SR,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,SR,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,SR,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,SR,-1,-1;FE 'FE' true true false 10 Text 0 0 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,FE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,FE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,FE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,FE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,FE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,FE,-1,-1;PB 'PB' true true false 10 Text 0 0 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,PB,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,PB,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,PB,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,PB,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,PB,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,PB,-1,-1;SE 'SE' true true false 10 Text 0 0 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\sasoildd_polygon.shp,SE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,SE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,SE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,SE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,SE,-1,-1,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,SE,-1,-1;NASOILDD_ 'NASOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,NASOILDD_,-1,-1;NASOILDD_I 'NASOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\nasoildd_polygon.shp,NASOILDD_I,-1,-1;EUSOILDD_ 'EUSOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,EUSOILDD_,-1,-1;EUSOILDD_I 'EUSOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\eusoildd_polygon.shp,EUSOILDD_I,-1,-1;AUSOILDD_ 'AUSOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,AUSOILDD_,-1,-1;AUSOILDD_I 'AUSOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\ausoildd_polygon.shp,AUSOILDD_I,-1,-1;ASSOILDD_ 'ASSOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,ASSOILDD_,-1,-1;ASSOILDD_I 'ASSOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\assoildd_polygon.shp,ASSOILDD_I,-1,-1;AFSOILDD_ 'AFSOILDD_' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,AFSOILDD_,-1,-1;AFSOILDD_I 'AFSOILDD_I' true true false 9 Long 0 9 ,First,#,D:\MyDocs\jt2118\ArcAtlas\ModifiedData\RESOURCE\SOILS\afsoildd_polygon.shp,AFSOILDD_I,-1,-1"</Process></lineage></DataProperties></Esri><idinfo><native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native><descript><langdata>en</langdata><purpose>For educational, non-commercial purposes.  This dataset is appropriate for use in a GIS.</purpose><abstract>Soils is a polygon theme representing soil types worldwide.</abstract><supplinf>Soil is a surface layer of the land that is formed by the influence of vegetation, animals, organic residues, solar radiation, and atmospheric precipitation on rocks. Soil is central to a natural landscape and its geochemical system because soil is related to all other landscape systems, such as the cycles of water, air, and other geochemicals. Soil accumulates technogenic substances delivered through precipitation, both liquid and solid. Such substances include industrial, communal, and agricultural wastes, and toxic microelements contained in fertilizers and chemicals.
+
+The soil maps show (1) the soil cover of the continents, (2) soil-bioclimatic regions of the world, and (3) the technogenic contamination hazard of soils including (a) soil exidation and resistance to acid threats, (b) pollution of soils by lead compounds, and (c) pollution of soils by selenium compounds.
+
+The soil distributions were based on the following concepts: (1) The bioclimatic latitudinal and altitudinal zonality of soils, (2) the facies and provinces of soils (due to climate and other features of atmospheric circulation), (3) the lithogenic diversity of soils within zones, facies and provinces, and (4) soil age (time causes different "maturity" of soil profiles, evolution variety of soil, and relict climatic and hydrologic features).</supplinf></descript><citation><citeinfo><origin>Environmental Systems Research Institute (Redlands, Calif.)</origin><pubdate>1996</pubdate><title>World Soils, 1996</title><ftname>soils</ftname><geoform>vector digital data</geoform><onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_1996_world_soils.zip</onlink><serinfo><sername>ArcAtlas</sername></serinfo><pubinfo><pubplace>Redlands, Calif.</pubplace><publish>ESRI</publish></pubinfo></citeinfo></citation><timeperd><current>publication date</current><timeinfo><sngdate><caldate>1996</caldate></sngdate></timeinfo></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><bounding><westbc>-180</westbc><eastbc>180</eastbc><northbc>85</northbc><southbc>-85</southbc></bounding><lboundng><leftbc>-180.000000</leftbc><rightbc>180.000000</rightbc><bottombc>-55.902229</bottombc><topbc>83.623032</topbc></lboundng></spdom><keywords><theme><themekt>ISO 19115 Topic Categories</themekt><themekey>geoscientificinformation</themekey></theme><theme><themekt>None</themekt><themekey>soils</themekey></theme><place><placekt>Library of Congress Subject Headings</placekt><placekey>Earth</placekey></place><temporal><tempkt>None</tempkt><tempkey>1996</tempkey></temporal></keywords><accconst>For current Columbia affiliates only.</accconst>
+<useconst>For educational, non-commercial use only.</useconst><natvform>Shapefile</natvform><ptcontac><cntinfo><cntorgp><cntorg>ESRI</cntorg><cntper>Data Team</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>	380 New York Street</address><city>Redlands</city><state>California</state><postal>92373-8100</postal><country>	USA</country></cntaddr><cntvoice>909-793-2853</cntvoice><cntfax>909-793-5953</cntfax><cntemail>info@esri.com</cntemail><hours>7:00 a.m.-5:30 p.m. Pacific time, Monday¿Friday</hours><cntinst>n the United States- Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office. For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. Outside the United States¿ Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm. For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst></cntinfo></ptcontac><browse><browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/soils.jpg</browsen><browsed>Thumbnail</browsed><browset>JPEG</browset></browse></idinfo><dataIdInfo><envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</envirDesc><dataLang><languageCode value="en"></languageCode></dataLang><idCitation><resTitle>soils</resTitle><presForm><PresFormCd value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL>-180</westBL><eastBL>180</eastBL><northBL>83.623032</northBL><southBL>-55.902229</southBL><exTypeCode>1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL>-180</westBL><eastBL>180</eastBL><northBL>83.623032</northBL><southBL>-55.902229</southBL><exTypeCode>1</exTypeCode></geoBox></dataIdInfo><metainfo><langmeta>en</langmeta><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc><metc><cntinfo><cntorgp><cntper>GIS/Metadata Librarian</cntper><cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><city>New York</city><state>NY</state><postal>10027</postal><address>420 W. 118th St. 215 IAB, MC 3301</address><country>USA</country></cntaddr><cntvoice>(212) 854-6012</cntvoice><cntemail>data@library.columbia.edu</cntemail><hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours></cntinfo></metc><metd>20090625</metd></metainfo><mdLang><languageCode value="en"></languageCode></mdLang><mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer>DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd value="005"></ScopeCd></mdHrLv><mdHrLvName>dataset</mdHrLvName><distinfo><resdesc>esri_1996_world_soils</resdesc><stdorder><digform><digtinfo><transize>15.200</transize><dssize>15.200</dssize><formname>Shapefile</formname><formspec>zip</formspec></digtinfo></digform></stdorder><distrib><cntinfo><cntorgp><cntorg>ESRI; ESRI International Distributors</cntorg></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>380 New York Street</address><city>Redlands</city><state>California</state><postal>92373-8100</postal><country>USA</country></cntaddr><cntvoice>800-447-9778</cntvoice><cntinst>	In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data. Outside the United States, please direct all inquiries to your local ESRI International Distributor. This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst></cntinfo></distrib></distinfo><distInfo><distributor><distorTran><onLineSrc><orDesc>002</orDesc><linkage>file://\\iab215pc12\D\MyDocs\ArcAtlas\ModifiedData\RESOURCE\soils.shp</linkage><protocol>Local Area Network</protocol></onLineSrc><transSize>15.200</transSize></distorTran><distorFormat><formatName>Shapefile</formatName></distorFormat></distributor></distInfo><spdoinfo><direct>Vector</direct><ptvctinf><esriterm Name="soils"><efeatyp>Simple</efeatyp><efeageom>Polygon</efeageom><esritopo>FALSE</esritopo><efeacnt>5710</efeacnt><spindex>TRUE</spindex><linrefer>FALSE</linrefer></esriterm><sdtsterm Name="soils"><sdtstype>G-polygon</sdtstype><ptvctcnt>5710</ptvctcnt></sdtsterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn>GCS_Clarke_1866</geogcsn></cordsysn><geograph><geogunit>Decimal degrees</geogunit><latres>0.000000</latres><longres>0.000000</longres></geograph><geodetic><horizdn>D_Clarke_1866</horizdn><ellips>Clarke 1866</ellips><semiaxis>6378206.400000</semiaxis><denflat>294.978698</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode>GCS_Clarke_1866</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd value="001"></TopoLevCd></topLvl><geometObjs Name="soils"><geoObjTyp><GeoObjTypCd value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt>5710</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="soils"><enttyp><enttypl>soils</enttypl><enttypt>Feature Class</enttypt><enttypc>5710</enttypc></enttyp><attr><attrlabl>FID</attrlabl><attalias>FID</attalias><attrtype>OID</attrtype><attwidth>4</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>Shape</attrlabl><attalias>Shape</attalias><attrtype>Geometry</attrtype><attwidth>0</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Feature geometry.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl>AREA</attrlabl><attalias>AREA</attalias><attrtype>Float</attrtype><attwidth>13</attwidth><atnumdec>11</atnumdec><attrdef>Area</attrdef></attr><attr><attrlabl>PERIMETER</attrlabl><attalias>PERIMETER</attalias><attrtype>Float</attrtype><attwidth>13</attwidth><atnumdec>11</atnumdec><attrdef>Perimeter</attrdef></attr><attr><attrlabl>SASOILDD_</attrlabl><attalias>SASOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>South America</attrdef></attr><attr><attrlabl>SASOILDD_I</attrlabl><attalias>SASOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>South America ID</attrdef></attr><attr><attrlabl>MAJ_TYPE</attrlabl><attalias>MAJ_TYPE</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>Contains a code for the major soil type.</attrdef><attrdefs>See Entity Attribute Overview Description</attrdefs></attr><attr><attrlabl>MIN_TYPE</attrlabl><attalias>MIN_TYPE</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>Contains a code for the minor (secondary) soil type.</attrdef><attrdefs>See Entity Attribute Overview Description</attrdefs></attr><attr><attrlabl>NOSOIL</attrlabl><attalias>NOSOIL</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>Nonsoil inclusions and their type, if present.</attrdef><attrdomv><edom><edomv>0</edomv><edomvd>Soil</edomvd></edom><edom><edomv>301</edomv><edomvd>Sand</edomvd></edom><edom><edomv>302</edomv><edomvd>ferruginous sand</edomvd></edom><edom><edomv>303</edomv><edomvd>protrusion of bedrock</edomvd></edom><edom><edomv>304</edomv><edomvd>stone fields</edomvd></edom><edom><edomv>305</edomv><edomvd>loess</edomvd></edom><edom><edomv>306</edomv><edomvd>lateritic crust</edomvd></edom><edom><edomv>307</edomv><edomvd>ferruginous concretions</edomvd></edom><edom><edomv>308</edomv><edomvd>limestone crust</edomvd></edom><edom><edomv>309</edomv><edomvd>gypsum crust</edomvd></edom><edom><edomv>310</edomv><edomvd>flinty crust</edomvd></edom><edom><edomv>311</edomv><edomvd>glaciers</edomvd></edom><edom><edomv>312</edomv><edomvd>lakes</edomvd></edom></attrdomv></attr><attr><attrlabl>SOIL_FAM</attrlabl><attalias>SOIL_FAM</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>Contains a code for the soil genetic group (family)</attrdef><attrdomv><edom><edomv>0</edomv><edomvd>No soil family (primitive soils, nonsoil areas)</edomvd></edom><edom><edomv>1</edomv><edomvd>Detritus-and humus-accumulative, unsaturated</edomvd></edom><edom><edomv>2</edomv><edomvd>Humus-accumulative, weakly saturated, residual-calcareous</edomvd></edom><edom><edomv>3</edomv><edomvd>Iron-humus-impregnative-illuvial</edomvd></edom><edom><edomv>4</edomv><edomvd>Podzols, iron-humus-illuvial</edomvd></edom><edom><edomv>5</edomv><edomvd>Gley, unsaturated</edomvd></edom><edom><edomv>6</edomv><edomvd>Peaty-gley and peaty, unsaturated and weakly unsaturated</edomvd></edom><edom><edomv>7</edomv><edomvd>Detritus- and humus-accumulative, weakly unsaturated, sometimes solodized</edomvd></edom><edom><edomv>8</edomv><edomvd>Low-humus, xero-calcaric</edomvd></edom><edom><edomv>9</edomv><edomvd>Fluvial</edomvd></edom><edom><edomv>10</edomv><edomvd>Siallitic, unsaturated</edomvd></edom><edom><edomv>11</edomv><edomvd>Siallitic, clay-differentiated, unsaturated</edomvd></edom><edom><edomv>12</edomv><edomvd>Gley-eluvial, unsaturated</edomvd></edom><edom><edomv>13</edomv><edomvd>Humus-accumulative, weakly unsaturated</edomvd></edom><edom><edomv>14</edomv><edomvd>Strongly humus-accumulative, weakly unsaturated and saturated</edomvd></edom><edom><edomv>15</edomv><edomvd>Humus-accumulative, saturated, sometimes solonetzic</edomvd></edom><edom><edomv>16</edomv><edomvd>Gleyic, humus-accumulative, neutral and alkaline</edomvd></edom><edom><edomv>17</edomv><edomvd>Solods and solonetzes</edomvd></edom><edom><edomv>18</edomv><edomvd>Solonchaks</edomvd></edom><edom><edomv>19</edomv><edomvd>Low-humus solonetzic, gypsiferous</edomvd></edom><edom><edomv>20</edomv><edomvd>Humus allophane</edomvd></edom><edom><edomv>21</edomv><edomvd>Ferralitized and ferrallitic unsaturated</edomvd></edom><edom><edomv>22</edomv><edomvd>Weakly developed lateritic and laterized</edomvd></edom><edom><edomv>23</edomv><edomvd>Ferralitized and ferrallitic, clay-differentiated</edomvd></edom><edom><edomv>24</edomv><edomvd>Ferralitized and ferrallitic, weakly unsaturated and neutral, locally lessive</edomvd></edom><edom><edomv>25</edomv><edomvd>Vertic and vertisols</edomvd></edom><edom><edomv>26</edomv><edomvd>Low-humus, ferruginated, locally residual ferrallitic</edomvd></edom><edom><edomv>27</edomv><edomvd>Low-humus, desertic, sometimes strongly calcareous, and gypsiferous</edomvd></edom><edom><edomv>28</edomv><edomvd>Anthropogenically changed soils</edomvd></edom></attrdomv></attr><attr><attrlabl>WATER</attrlabl><attalias>WATER</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>The type of soil water regime.</attrdef><attrdomv><edom><edomv>0</edomv><edomvd>No soil water regime (primitive soils and nonsoil areas)</edomvd></edom><edom><edomv>1</edomv><edomvd>Percolative water regime</edomvd></edom><edom><edomv>2</edomv><edomvd>Percolative water regime with periodic surface or ground water stagnation</edomvd></edom><edom><edomv>3</edomv><edomvd>Stagnant water regime</edomvd></edom><edom><edomv>4</edomv><edomvd>Periodically non-percolative water regime</edomvd></edom><edom><edomv>5</edomv><edomvd>Extremely non-percolative water regime</edomvd></edom><edom><edomv>6</edomv><edomvd>Fluvial water regime</edomvd></edom><edom><edomv>7</edomv><edomvd>Non-percolative water regime</edomvd></edom><edom><edomv>8</edomv><edomvd>Fluctuating water regime</edomvd></edom><edom><edomv>9</edomv><edomvd>Exudative water regime</edomvd></edom><edom><edomv>10</edomv><edomvd>Man-induced water regime</edomvd></edom></attrdomv></attr><attr><attrlabl>RELIEF</attrlabl><attalias>RELIEF</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>The relief of the surface.</attrdef><attrdomv><edom><edomv>0</edomv><edomvd>no relief data (for nonsoil areas and some small islands in Australia)</edomvd></edom><edom><edomv>201</edomv><edomvd>Plains</edomvd></edom><edom><edomv>202</edomv><edomvd>Plateau and tablelands</edomvd></edom><edom><edomv>203</edomv><edomvd>Mountains</edomvd></edom><edom><edomv>204</edomv><edomvd>High mountain plateau and tablelands</edomvd></edom></attrdomv></attr><attr><attrlabl>TEXTURE</attrlabl><attalias>TEXTURE</attalias><attrtype>Number</attrtype><attwidth>5</attwidth><attrdef>Contins a code for the granulometric composition of a soil</attrdef><attrdomv><edom><edomv>0</edomv><edomvd>No soil texture (primitive soils and nonsoil areas)</edomvd></edom><edom><edomv>401</edomv><edomvd>Sand and loamy sand</edomvd></edom><edom><edomv>402</edomv><edomvd>Sand and loamy sand, gravel and rock debris</edomvd></edom><edom><edomv>403</edomv><edomvd>Loamy sand and light loam</edomvd></edom><edom><edomv>404</edomv><edomvd>Loamy sand and light loam, gravel and rock debris</edomvd></edom><edom><edomv>405</edomv><edomvd>Medium loam</edomvd></edom><edom><edomv>406</edomv><edomvd>Medium loam and rock debris</edomvd></edom><edom><edomv>407</edomv><edomvd>Light and medium loam</edomvd></edom><edom><edomv>408</edomv><edomvd>Light and medium loam, gravel and rock debris</edomvd></edom><edom><edomv>409</edomv><edomvd>Medium and heavy loam</edomvd></edom><edom><edomv>410</edomv><edomvd>Medium loam and clay</edomvd></edom><edom><edomv>411</edomv><edomvd>Medium loam and clay, boulder and gravel and rock debris</edomvd></edom><edom><edomv>412</edomv><edomvd>Heavy loam and clay</edomvd></edom><edom><edomv>413</edomv><edomvd>Heavy clay</edomvd></edom><edom><edomv>414</edomv><edomvd>Layered</edomvd></edom><edom><edomv>415</edomv><edomvd>Rock debris and stone</edomvd></edom><edom><edomv>416</edomv><edomvd>Silt and rock debris</edomvd></edom><edom><edomv>417</edomv><edomvd>Heterogeneous, frequently varying</edomvd></edom></attrdomv></attr><attr><attrlabl>SR</attrlabl><attalias>SR</attalias><attrtype>Number</attrtype><attwidth>3</attwidth><attrdef>Contains a code for the soil bioclimatic region</attrdef><attrdomv><edom><edomv>11</edomv><edomvd>Very humid and humid regions</edomvd></edom><edom><edomv>12</edomv><edomvd>Moderately humid and moderately dry regions</edomvd></edom><edom><edomv>13</edomv><edomvd>moderately dry regions</edomvd></edom><edom><edomv>14</edomv><edomvd>Regions with various moisture regimes</edomvd></edom><edom><edomv>21</edomv><edomvd>Very humid and humid regions</edomvd></edom><edom><edomv>22</edomv><edomvd>Moderately humid and moderately dry regions</edomvd></edom><edom><edomv>23</edomv><edomvd>Arid and extra-arid regions</edomvd></edom><edom><edomv>24</edomv><edomvd>Regions with various moisture regimes</edomvd></edom><edom><edomv>31</edomv><edomvd>Very humid and humid regions</edomvd></edom><edom><edomv>32</edomv><edomvd>Moderately humid and moderately dry regions</edomvd></edom><edom><edomv>33</edomv><edomvd>Arid and extra-arid regions</edomvd></edom><edom><edomv>34</edomv><edomvd>Regions with various moisture regimes</edomvd></edom><edom><edomv>44</edomv><edomvd>Regions with various moisture regimes</edomvd></edom><edom><edomv>50</edomv><edomvd>Primitive soils (lithosols) and hard rocks</edomvd></edom><edom><edomv>99</edomv><edomvd>Lakes</edomvd></edom><edom><edomv>0</edomv><edomvd>Nonsoil</edomvd></edom></attrdomv></attr><attr><attrlabl>FE</attrlabl><attalias>FE</attalias><attrtype>String</attrtype><attwidth>10</attwidth><attrdef>Soil susceptibility to acid degradation according to the presence of mobile iron  and aluminium</attrdef></attr><attr><attrlabl>PB</attrlabl><attalias>PB</attalias><attrtype>String</attrtype><attwidth>10</attwidth><attrdef>Soil susceptibility to contamination by mobile lead combinations </attrdef></attr><attr><attrlabl>SE</attrlabl><attalias>SE</attalias><attrtype>String</attrtype><attwidth>10</attwidth><attrdef>Soil susceptibility to contamination by mobile selenium combinations.</attrdef></attr><attr><attrlabl>NASOILDD_</attrlabl><attalias>NASOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>North America</attrdef></attr><attr><attrlabl>NASOILDD_I</attrlabl><attalias>NASOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>North America ID</attrdef></attr><attr><attrlabl>EUSOILDD_</attrlabl><attalias>EUSOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Europe</attrdef></attr><attr><attrlabl>EUSOILDD_I</attrlabl><attalias>EUSOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Europe ID</attrdef></attr><attr><attrlabl>AUSOILDD_</attrlabl><attalias>AUSOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Australia</attrdef></attr><attr><attrlabl>AUSOILDD_I</attrlabl><attalias>AUSOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Australia ID</attrdef></attr><attr><attrlabl>ASSOILDD_</attrlabl><attalias>ASSOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Asia</attrdef></attr><attr><attrlabl>ASSOILDD_I</attrlabl><attalias>ASSOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Asia ID</attrdef></attr><attr><attrlabl>AFSOILDD_</attrlabl><attalias>AFSOILDD_</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Africa</attrdef></attr><attr><attrlabl>AFSOILDD_I</attrlabl><attalias>AFSOILDD_I</attalias><attrtype>Number</attrtype><attwidth>9</attwidth><attrdef>Africa ID</attrdef></attr></detailed><overview><eaover>Soil type codes
+SOILS OF COLD AREAS, USUALLY WITH PERMAFROST
+VERY HUMID AND HUMID REGIONS
+Percolative water regime
+Detritus- and humus-accumulative, unsaturated
+1 Tundra, dry-peaty (gelic leptosols)
+2 Sod, raw-humus, high mountainous ("paramo" soils, andi-umbric leptosols)
+Humus-accumulative, weakly saturated, residual-calcareous
+3 Raw-humus calcareous, cryogenic (gelic rendzinas)
+Iron-humus-impregnative-illuvial
+4 Dry-peat podburs (geli-leptic podzols)
+Podzols, iron-humus-illuvial
+5 Cryogenic podzols (gelic podzols)
+Percolative water regime with periodical surface or ground water stagnation
+Gley, unsaturated
+6 Tundra gley, cryogenic (gelic gleysols)
+7 Tundra gley, (dystric gleysols)
+8 Taiga gley, cryogenic (gelic gleysols)
+Stagnant water regime
+Peaty-gley and peaty, unsaturated and weakly unsaturated
+9 Peaty of bog and peaty mineralized of hummocky bog (dystric histosols)
+10 Peaty-gley and peaty cryogenic (gelic histosols)
+MODERATELY HUMID AND MODERATELY DRY REGIONS
+Periodically nonpercolative water regime
+Detritus-and humus-accumulative, weakly unsaturated, sometimes solodized
+11 Arctic cryogenic (gelic regosols)
+12 Tundra, skeletal (gelic leptosols/regosols)
+13 Dry steppe and steppe (subalpine and alpine) sometimes cryogenic
+14 Pale (calci-gelic cambisols)
+15 Pale podzolized and/or solodic (gelic luvisols)
+Extremely nonpercolative water regime
+Low-humus, xero-calcaric
+16 Arctic desertic (gelic calcisols)
+17 High mountain desertic (eutric leptosols)
+REGIONS WITH VARIOUS MOISTURE REGIMES
+Fluvial water regime
+Fluvial
+18 Alluvial cryogenic (gelic fluvisols)
+SOILS OF MODERATELY COLD AND TEMPERATE AREAS
+VERY HUMID AND HUMID REGIONS
+Percolative water regime
+Detritus- and humus-accumulative, unsaturated
+19 Soddy subarctic and subantarctic (foli-humic leptosols)
+20 Subalpine and alpine meadow, mountainous (umbric leptosols)
+Humus-accumulative, weakly saturated, residual-calcareous
+21 Sod, residual calcareous (rendzinas)
+Iron-humus-impregnative-illuvial
+22 Podburs (leptic podzols)
+23 Dark podburs (eutri-leptic podzols)
+24 Humus-impregnative-illuvial of high mountains (spodi-dystric cambisols)
+25 Volcanic ash, ochreous (ochric andosols)
+Podzols, iron-humus-illuvial
+26 Humic podzols (carbic podzols)
+27 Ferric-humic peaty-gley podzols (carbi-gleyic podzols)
+28 Ferric-humic podzols (haplic podzols)
+29 Ferric podzols (ferric podzols)
+30 Contact-gleyic podzols (stagnic podzols)
+Siallitic, unsaturated
+31 Raw-humus forest acid (modi-dystric cambisols)
+32 Acid brown forest (dystric cambisols)
+33 Typical brown forest (eutric cambisols)
+34 Brown forest, lessive (luvic cambisols)
+35 Brown forest, residual-calcareous (calcaric cambisols)
+36 Gley and gleyic brown forest soils (stagni-gleyic cambisols)
+Siallitic, clay-differentiated, unsaturated
+37 Typical podzolic (dystric podzoluvisols)
+38 Sod-podzolic and sod lessive (albic luvisols)
+Percolative water regime with periodical surface or ground water stagnation
+Gley-eluvial, unsaturated
+39 Gley-podzolic, frequently peaty (albi-stagnic podzoluvisols)
+40 Gley-eluvial (pseudogleys; albi-stagnic luvisols)
+41 Podzolic-gley with peat and peaty (dystri-gleyic podzoluvisols)
+42 Sod-podzolic-gley (albi-gleyic luvisols)
+174 Sod, residually carbonaceous, gley and gleyic (rendzic leptosols)
+Gley, unsaturated
+43 Gley taiga (dystric gleysols)
+44 Gley forest and meadow-forest (mollic gleysols)
+45 Sod-gley (umbric/mollic gleysols)
+46 Meadow-marshy (umbric gleysols)
+Stagnant water regime
+Peaty-gley and peaty, unsaturated and weakly unsaturated
+47 Peaty-gley and peaty of bog (dystric histosols)
+48 Peaty-gley and peaty of fen (eutric histosols)
+MODERATELY HUMID AND MODERATELY DRY REGIONS
+Periodically nonpercolative water regime
+Humus-accumulative, weakly unsaturated, clay-differentiated
+49 Gray forest (greyzems)
+50 Sod taiga (humic cambisols)
+Strongly humus-accumulative, weakly unsaturated and saturated
+51 Dark grey forest (greyzems)
+52 Leached and podzolized chernozems (luvic chernozems)
+53 Chernozem-like prairie, sometimes gleyic and/or solodic
+Nonpercolative water regime
+Humus-accumulative, saturated, sometimes solonetzic
+54 Meadow-steppe and steppe subalpine and alpine, locally cryogenic (mollic
+leptosols)
+55 Typical chernozems (haplic chernozems)
+56 Ordinary chernozems (calcic chernozems)
+57 Ordinary solonetzic chernozems (natri-calcic chernozems)
+58 Southern chernozems (calcic chernozems)
+59 Southern solonetzic chernozems (natri-calcic chernozems)
+60 Solonetzic chernozems (luvic chernozems)
+61 Skeletal chernozems (mollic leptosols)
+62 Dark chestnut (haplic kastanozems)
+63 Dark chestnut solonetzic (luvic kastanozems)
+64 Chestnut (luvi-haplic kastanozems)
+65 Chestnut solonetzic (luvic kastanozems)
+175 Chestnut primitive (mollic kastanozems)
+Fluctuating water regime
+Gleyic, humus-accumulative, neutral and alkaline (solodized, solonetzic)
+66 Meadow, sometimes solonetzic, solodized, solonchakous (umbric gleysols)
+67 Meadow chernozemic (gleyic chernozems)
+68 Dark meadow chestnut, frequently solonetzic (humi-luvic kastanozems)
+69 Meadow chestnut, frequently solonetzic and solonchakous (luvic kastanozems)
+70 Meadow-steppe, frequently solonetzic (gleyic phaeozems)
+71 Meadow brown semidesertic (luvic calcisols)
+Solods and solonetzes
+72 Solods (planosols)
+73 Meadow solonetzes (mollic solonetzes)
+74 Solonetzes (solonetzes)
+ARID AND EXTRA-ARID REGIONS
+Exudative water regime
+Solonchaks
+75 Meadow solonchaks (mollic solonchaks)
+76 Solonchaks (solonchaks)
+Extremely nonpercolative water regime
+Low humus, xero-calcaric
+77 Light chestnut (haplic calcisols)
+78 Light chestnut and brown semidesertic (haplic/gypsic calcisols)
+79 Light chestnut and brown semidesertic stony (haplic/gypsic calcisols)
+80 Brown semidesertic (haplic gypsisols)
+Low-humus solonetzic, gypsiferous
+81 Light chestnut solonetzic (luvic calcisols)
+82 Light chestnut and brown semidesertic solonetzic (luvic calcisols/gypsisols)
+83 Brown semidesertic solonetzic (luvic gypsisols)
+REGIONS WITH VARIOUS MOISTURE REGIMES
+Fluvial water regime
+Fluvial
+84 Alluvial (fluvisols)
+85 Boggy and solonchakous marshy soils, sometimes acid (umbric salic/thionic fluvisols)
+SOILS OF WARM AND HOT AREAS
+VERY HUMID AND HUMID REGIONS
+Percolative water regime
+Humus-accumulative, weakly saturated, residual-calcareous
+86 Tropical and subtropical rendzinas (rendzic leptosols)
+87 Sod skeletal (umbric leptosols)
+Humus allophane
+88 Volcanic ash (andosols)
+Podzols, iron-humus-illuvial
+89 Subtropical and tropical podzols, locally with plinthite (plinthi-haplic podzols)
+Siallitic, unsaturated
+90 Subtropical and tropical brown forest (eutric cambisols)
+Ferrallitized and ferrallitic unsaturated
+91 Yellow-brown (ferrallitic cambisols)
+92 Zheltozems (ferrallitic cambisols)
+93 Zheltozems and yellow-brown lessive (chromic luvisols)
+94 Yellow ferrallitic, locally with plinthite (xanthic/plinthic ferrisols)
+95 Red-yellow ferrallitic, locally with plinthite (acric/plinthic ferrisols)
+96 Krasnozems and dark red ferrallitic (rhodic nitosols/ferrisols)
+97 Concretionary and laterized ferrallitic (plinthic and geric ferrisols)
+98 Ferralitic and allitic, rich in humus (umbric ferrisols)
+99 Allitic, rich in humus (humic alisols)
+100 Dark red ferrallitic, structured (haplic nitosols)
+101 Ferrallitic, sandy (ferrallic arenosols)
+Weakly developed lateritic and laterized
+102 Residual lateritic, strongly eroded (ferrallic regosols)
+103 Weakly developed gravelly-sandy, locally laterized (ferrallic regosols)
+Ferrallitized and ferrallitic, clay-differentiated (lessive and podzolized)
+104 Zheltozems and krasnozems, podzolized (chromic luvisols)
+105 Krasnozems, sometimes podzolized (nitosols/chromic luvisols)
+106 Ferrallitized and ferrallitic podzolized, frequently with plinthite (plinthichromic
+luvisols)
+107 Yellow ferrallitized and ferrallitic, clay-differentiated, surface-gleyic (stagnichromic
+luvisols)
+Percolative water regime with periodical surface or ground water stagnation
+Gley-eluvial, unsaturated
+108 Subtropical and tropical gley-eluvial, frequently with plinthite (albi-stagnic luvisols)
+109 Subtropical and tropical forest gley-eluvial (albi-stagnic luvisols)
+110 Yellow ferrallitic gleyed with plinthite (dystric plinthosols) Gley, unsaturated
+111 Gley, subtropical and tropical, frequently with plinthite (plinthi-dystric gleysols)
+112 Meadow-marshy, subtropical and tropical (umbric gleysols)
+113 Gley, forest, acid, subtropical and tropical (umbric gleysols)
+114 Gley, lateritic (dystric gleysols)
+Stagnant water regime
+Peaty-gley and peaty, unsaturated and weakly unsaturated
+115 Peaty-gley and peaty, subtropical and tropical (dystric histosols)
+116 Peaty-gley and subtropical and tropical (dystric histosols)
+MODERATELY HUMID AND MODERATELY DRY REGIONS
+Periodically nonpercolative water regime
+Strongly humous-accumulative, weakly unsaturated and saturated
+117 Chernozemic and reddish-black prairie, locally gleyic and/or solodic (haplic/gleyic phaeozems)
+Ferrallitized and ferrallitic weakly unsaturated and neutral, locally lessive
+118 Terra rossa (rhodic-rendzic leptosols)
+119 Red-cinnamonic, of dry forest and shrubland (chromic luvisols)
+120 Red and red-cinnamonic, of savanna, seasonally dry and open woodland (rhodic nitosols/chromic luvisols)
+121 Red, residually ferrallitic (ferrallic/chromic cambisols)
+122 Dark red, weakly unsaturated, savanna (rhodic nitisols)
+123 Red, of savanna, xerophyllous forest and open woodland, lessive, with plinthite (plinthi-rhodic nitosols)
+Nonpercolative water regime
+Humus-accumulative, saturated, sometimes solonetzic
+124 Leached mycelium-carbonate chernozems (luvic chernozems)
+125 Mycelium-carbonate chernozems (luvic chernozems)
+126 Argillified subtropical chernozem (chernozem-smolnitza; vertic chernozems)
+127 Dark chestnut and chestnut mycelium-carbonate (haplic kastanozems)
+128 Cinnamonic, of dry forest and shrubland (chromic cambisols)
+129 Cinnamonic and red-cinnamonic, calcareous (calcaric-chromic cambisols)
+130 Subtropical and tropical rendzinas (rendzic leptosols) Vertic and vertisols
+131 Dark vertic (vertisols)
+132 Reddish dark vertic (rhodic vertisols)
+133 Gray vertic, frequently solonetzic, solodized or gleyic (vertisols)
+Fluctuating water regime
+Gleyic, humus-accumulative, neutral and alkaline (solodized, solonetzic)
+134 Meadow, dominantly vertic, sometimes solonetzic, solodized, solonchakous (umbric gleysols)
+135 Meadow-gleyic, saturated (mollic gleysols)
+136 Meadow-gleyic and meadow-marshy (mollic/umbric gleysols)
+137 Meadow-sierozemic, frequently solonetzic and solonchakous (umbric calcic gleysols)
+Solods and solonetzes
+138 Solods, subtropical and tropical (planosols)
+139 Solonetzes, subtropical and tropical (solonetzes)
+ARID AND EXTRA-ARID REGIONS
+Exudative water regime
+Solonchaks
+140 Solonchaks, subtropical and tropical (solonchaks)
+141 Soda solonchaks (solonchaks)
+Extremely nonpercolative water regime
+Low-humus xero-calcaric
+142 Gray-brown desertic (luvic gypsisols)
+143 Gray-cinnamonic (calcaric cambisols)
+144 Sierozems (haplic calcisols)
+Low-humus, ferruginated, locally residual ferrallitic
+145 Red-brown and brown, of dry savanna, thorny open woodland and shrubland (chromic cambisols)
+146 Reddish-brown, of semidesertic savanna (calci-chromic cambisols)
+147 Reddish-brown and brown leached soils of dry savanna (chromic cambisols)
+148 Red- and reddish-brown, with silcrete (petri-chromic cambisols)
+149 Residual ferrallitic and alferritic, frequently with lateritic pans (geric plinthic ferrisols)
+Low-humus solonetzic, gypsiferous
+150 Gray-brown desertic gypsic and solonchakous (salic-luvic gypsisols)
+151 Gray-brown desertic calcareous (calcic gypsisols)
+152 Gray-cinnamonic solonetzic gypsic (natri-calcaric cambisols)
+153 Brown, of semidesert savanna and shrubland (calcic-chromic cambisols)
+154 Brown, strongly calcaric, of desertic savanna and shrubs (calcaric cambisols)
+155 Brown and light brown, gypsiferous (haplic gypsisols)
+156 Light brown, desertic (gypsisols)
+157 Red-brown and grey-brown, solonetzic and gypsic, of dry savanna and shrubland (chromic-gypsic cambisols)
+Low-humus, desertic, sometimes strongly calcareous, and gypsiferous
+158 Sandy desertic (haplic arenosols)
+159 Sandy desertic ferruginated (ferri-haplic arenosols)
+160 Stony desertic (hamadas; regosols)
+161 Stony desertic gypsiferous (gypsic regosols)
+162 Primitive desertic (regosols)
+REGIONS WITH VARIOUS MOISTURE REGIMES
+Fluvial water regime
+Fluvial
+163 Alluvial, subtropical and tropical (fluvisols)
+164 Alluvial, unsaturated (dystric fluvisols)
+165 Alluvial, calcareous and solonetzic (salic-calcaric fluvisols)
+176 Alluvial, gley (gelic fluvisols)
+166 Takyrs and takyr-like (takyric gypsisols)
+167 Gleyic, of prolonged flooding (gleyic fluvisols)
+168 Marshy and solonchakous, of mangroves, sometimes acid (thionic fluvisols)
+ANTHROPOGENIC SOILS OF MODERATELY COLD, TEMPERATE, WARM, AND
+HOT AREAS
+REGIONS WITH VARIOUS MOISTURE REGIMES
+"Man-induced" water regime
+Anthropogenically changed soils
+169 Loessic, of ancient cultivation (cumulic anthrosols)
+170 Irrigated and anciently irrigated (cumulic anthrosols)
+171 Paddy (gleyic anthrosols)
+PRIMITIVE SOILS (LITHOSOLS) AND HARD ROCKS IN COLD, MODERATELY
+COLD, TEMPERATE, WARM, AND HOT AREAS
+172 In humid and semihumid regions (leptosols)
+173 In arid and semiarid regions (leptosols)
+NONSOIL AREAS
+180 Nonsoil
+NO CODE
+0 No soil type code is assigned (for minor soil types only).</eaover></overview></eainfo><mdDateSt>20090625</mdDateSt><dataqual><lineage><procstep><proccont><cntinfo><cntaddr/></cntinfo></proccont><procdesc>The maps have a traditional soil cartography design. Soils are characterized by indexes (numbers) in the legend and the database. The soil contours were laid out using cartographic sources according to geographical situations. In some cases, the boundaries of areas were detailed by the geological, geomorphological, Quaternary, and other maps developed for this atlas. Various cartographic and textual materials were used to compile the maps, as well.
+
+The map legends and the maps were compiled according to the principles of two classification systems: those of M. A. Glazovskaya (1972) and those of V. M. Fridland (1981). According to these systems, soils are classified into types and subtypes with similar chemical, physical, and morphological features, profiles, and hydrothermic regimes. A soil unit (area) can be a single soil that prevails in an area, or it can be a soil that is associated with another and is either the prevailing one or the accompanying one depending on relief, drainage, or bedrock. Moreover, each unit contains information on general features of thermic regimes (3 regions), water regimes (10 types), and granulometric composition (17 categories). The soils are classified by soil formation into families, which are characterized in the legend. Relief conditions of soil formation are shown for each area -- plains and mountains are separated (mountains are classified into 3 types). Landscapes without developed soils (sand, rocks, stone-fields, glaciers, etc.) are shown on the maps, as well.
+
+The map legends are made as arrays of soil families, types, and subtypes. Each array describes soil hydrothermic conditions, water regimes of prevailing soil, and soil family.
+
+The maps also give information about soil characteristics and regimes, which was the basis for assessment of the ecological and geochemical resistance of soil to acid degradation and accumulation of lead and selenium. Soil units were classified into pedobiomes using specific parameters (explained below), then classified into pedogeochemical associations using quantitative characteristics. The defining parameter values were set according to the significance of a parameter as a factor in the resistance of a soil to the hazard in question (acid degradation, lead pollution, or selenium pollution). Classification of these pedobiomes is important for evaluation of these environmental threats as well as for a general assessment of technogenic degradation and pollution of the soil.
+
+Soil units were classified into H-pedobiomes primarily by two parameters: (1) acid and alkaline state and resistance of soil to acid threat and (2) soil bufferability. Pb-pedobiomes and Se-pedobiomes were each classified using four main parameters. The first two were (1) the acid and alkaline state of soil and (2) oxidation and reduction conditions. The combination of these two parameters determines the mobility of lead or selenium combinations in the soil. The other parameters were (3) the absorbing capacity of the soil and (4) the carbonate profile of soil (for lead) and the content of noncrystallized iron  ydroxides (for selenium). The combination of these two parameters characterizes geochemical barriers (sorption and sedimentation for lead, hemosorption for selenium) and the risk of soil accumulation of low mobile lead or selenium combinations and complexes.
+
+
+Afanacieva, T.V., V.I. Vasilenko, T.V. Tereshina, and B.V.Shermet. Pochvy SSSR.
+Spravochnik-opredekitel' geografa i puteshestvennika (Soils of the USSR. Determination
+reference book for a geographer and traveler). 1979. Mysl', Moscow. 380 pp.
+
+Dobrovolskiy, V.V., ed. Tyazhelyye metally v okruzhayushhey srede (Heavy metals in the
+environment). 1980. Moscow University Publ. House, Moscow. 132 p.
+
+Fiziko-geograficheskiy atlas mira (Physical-geographical atlas of the world). 1964. AN
+SSSR Publishing House -- GUGK, Moscow. 298 pp.
+
+Fridland, V.M. Struktura pochvennogo pokrova mira (Structure of the world soil cover).
+1984. Mysl', Moscow. 236 pp.
+
+Fridland, V.M. Osnovy profil'no-geneticheskogo komponenta bazovoy klassifikatsii pochv
+(Basis of profile-genetic component of basic soil classification). 1981. Pochvovedeniye, 6,
+pp.106-118.
+
+Geomorphologicheskaya karta mira (Geomorphological map of the world -- for high
+schools). 1:15,000,000. 1988. GUGK, Moscow. 4 s.
+
+Gerassimov, I.P. Mirovyye pochvennyye edinitsy FAO- Unesco v svetye kontseptsii
+elementarnykh pochvennykh protsessov (EPP) (The world soil units of FAO-UNESCO
+concerning the conception of elementary soil processes). 1980. Pochvovedeniye, 4, pp.
+16-26.
+
+Glazovskaya, M.A. Opyt klassifikatsii pochv mira po ustoychivosti k tekhnogennym kislotnym
+vozdeystviyam (Classification of the world's soils by resistance to technogenic acid threat).
+1990. Pochvovedeniye, 4, pp. 82-96.
+
+Glazovskaya, M.A. Pochvy mira. Osnovnyye semeystva i tipy pochv (Soils of the world.
+Basic soil families and types). 1972. Moscow University Publishing House, Moscow. 231
+pp.
+
+Mongol'skaya Narodnaya Respublika. Natsional'nyy Atlas (Mongolian People's Republic.
+National Atlas). 1990. GUGK SSSR -- GUGK MNR, Moscow -- Ulaanbaatar. 144 pp.
+
+National Agricultural Atlas of the People's Republic of China. 1989. Cartographic
+Publishing House, Beijing. 163 pp.
+
+Pochvennaya karta Mongol'skoy Narodnoy Respubliki (Soil map of the Mongolian People's
+Republic), 1:2,500,000. 1980. GUGK, Moscow. 1 s.
+
+Pochvennaya karta RSFSR (Soil map of RSFSR), 1:2,500,000. 1988. GUGK, Moscow. 16
+s.
+
+Soil map of China. 1:20,000,000. 1988. Science Press, Beijing. 1 s.
+
+Soil Map of the EC. 1:1,000,000. Directorate General for Agriculture -- Coordination of
+Agricultural Research. 1985. EEC, Brussels.
+
+Soil Map of the World. FAO-UNESCO. 1:5,000,000. 1977-1981. UNESCO, Paris. Vols. 1-
+10.
+
+Soil Taxonomy. A Basic System of Soil Classification for Making and Interpreting Soil
+Surveys. 1975. In: Agriculture Handbook, Soil Conservation Service, U.S. Department of
+Agriculture. 436, 754 pp.
+
+World Map on Status of Human-Induced Soil Degradation. 1:10,000,000. 1990.
+UNEP/ISRIC, the Netherlands.</procdesc><procdate>Unknown</procdate><srcused>See references</srcused></procstep><procstep><procdesc>Datasets for eacch continent were converted from ESRI coverage to the ESRI shapefile format using the 'copy features' tool and merged into one layer using the 'merge' tool.</procdesc><procdate>20090507</procdate><proccont><cntinfo><cntperp><cntper>GIS/MapLibrarian</cntper><cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>420 W. 118th St. 215 IAB, MC 3301</address><city>New York</city><state>NY</state><postal>10027</postal><country>USA</country></cntaddr><cntvoice>(212) 854-6012</cntvoice><cntemail>data@library.columbia.edu</cntemail></cntinfo></proccont></procstep></lineage></dataqual></metadata>

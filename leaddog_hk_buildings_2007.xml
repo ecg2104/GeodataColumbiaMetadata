@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>LeadDog Consulting, LLC</origin>
+				<pubdate>2007</pubdate>
+				<title>Hong Kong Building Footprints, 2007</title>
+				<geoform>vector digital data</geoform>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/leaddog_hk_buildings_2007.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Hong Kong Building Footprints is a polygon theme representing building footprints in Hong Kong.  Attribute information includes the name of the building in both English and Chinese.</abstract>
+			<purpose>For educational, non-commercial purposes.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate><caldate>2007</caldate></sngdate></timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+113.853379</westbc>
+				<eastbc>
+114.375108</eastbc>
+				<northbc>
+22.552076</northbc>
+				<southbc>
+22.164253</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories.</themekt>
+				<themekey>structure</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Building footprints</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>China</placekey>
+				<placekey>Hong Kong (China)</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2002</tempkey>
+				<tempkey>2004</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>LeadDog Consulting, LLC</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1743 Morningside Ct</address>
+					<city>Anchorage</city>
+					<state>AK</state>
+					<postal>99501</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>888-750-0309</cntvoice>
+				<cntemail>Jim@GoLeadDog.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/HK_Building_Outlines.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>48070</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>degree</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>World Geodetic System of 1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257223</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+HK_Building_Outlines</enttypl>
+				<enttypd>Building Footprints</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>E_NAME</attrlabl>
+				<attrdef>Name of the building in English</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>C_NAME</attrlabl>
+				<attrdef>Name of the building in Chinese</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>UFI</attrlabl>
+				<attrdef>Identifier</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>LeadDog Consulting, LLC</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>PO Box 261961</address>
+					<city>Highlands Ranch</city>
+					<state>CO</state>
+					<postal>80163-1961</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>888-750-0309</cntvoice>
+				<cntemail>Jim@GoLeadDog.com</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>leaddog_hk_buildings_2007</resdesc></distinfo>
+	<metainfo>
+		<metd>20071107</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>dssc.data@columbia.edu</cntemail>
+				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+	<dataqual><lineage/></dataqual>
+</metadata>

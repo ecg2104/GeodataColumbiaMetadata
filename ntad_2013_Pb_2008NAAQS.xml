@@ -1,0 +1,388 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics</origin>
+				<origin>United States. Environmental Protection Agency.</origin>
+				<pubdate>2011</pubdate>
+				<title>United States Non-Attainment Areas: Lead, 2013</title>
+				<geoform>vector digital data</geoform>
+			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_pb_2008naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Non-attainment and maintenance areas for the United States and its territories. The standard for the Lead NAA is 0.15 micrograms per cubed meter. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
+			<purpose>To establish the spatial boundaries of each nonattainment and maintenance area.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-118.942986</westbc>
+				<eastbc>-66.656315</eastbc>
+				<northbc>44.848096</northbc>
+				<southbc>18.416052</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>Air Quality</themekt>
+				<themekey>Maintenance area</themekey>
+				<themekey>Nonattainment area</themekey>
+				<themekey>Lead</themekey>
+				<themekey>Criteria Pollutant</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2007</tempkey>
+				<tempkey>2011</tempkey>
+				<tempkey>2008</tempkey>
+				<tempkey>2009</tempkey>
+				<tempkey>2010</tempkey>
+				<tempkey>2012</tempkey>
+				<tempkey>2013</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency</cntorg>
+					<cntper>Butch Stackhouse</cntper>
+				</cntorgp>
+				<cntpos>State and Local Programs Group, Air Quality Policy Division, Office of Air Quality Planning and Standards</cntpos>
+				<cntvoice>919.541.5208</cntvoice>
+				<cntemail>stackhouse.butch@epa.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration/Bureau of Transportation Statistics</cntorg>
+					<cntper>National Transportation Atlas Database (NTAD) 2013</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Information Systems</cntpos>
+				<cntaddr>
+					<addrtype>unknown</addrtype>
+					<address>1200 New Jersey Ave. SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@BTS.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>20110101</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2013</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+			<qattracc>
+				<attraccv>None</attraccv>
+				<attracce>Unknown</attracce>
+			</qattracc>
+		</attracc>
+		<logic>None</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>20050101</pubdate>
+						<title>40 Code of Federal Regulations Part 81</title>
+						<othercit>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</othercit>
+						<onlink>http://www.epa.gov/epahome/cfr40.htm</onlink>
+					</citeinfo></srccite>
+				<typesrc>None</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20050101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>40 CFR</srccitea>
+				<srccontr>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency</origin>
+						<pubdate>20050101</pubdate>
+						<title>Green Book</title>
+						<onlink>http://www.epa.gov/oar/oaqps/greenbk/</onlink>
+					</citeinfo></srccite>
+				<typesrc>None</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20050101</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Green Book</srccitea>
+				<srccontr>The United States Environmental Protection Agency's (EPA) "Green Book" defines Criteria Pollutants. EPA uses six "criteria pollutants" as indicators of air quality, and has established for each of them a maximum concentration above which adverse effects on human health may occur. These threshold concentrations are called National Ambient Air Quality Standards (NAAQS).</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data collected from the Environmental Protection Agency or created using base geographic reference layers and physical descriptions provided by EPA and contained in in 40 Code of Federal Regulations Part 81.</procdesc>
+				<procdate>20040101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated with information from the EPA Green Book.</procdesc>
+				<procdate>20050101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Spatial data edited and cleaned to more closely match shorelines.</procdesc>
+				<procdate>20060101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Standard quality control processes performed in preparation for publication.</procdesc>
+				<procdate>20060101</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Geospatial Information Program</cntper>
+						</cntorgp>
+						<cntvoice>1 202 366 DATA</cntvoice>
+						<cntfax>1 202 366 3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>21</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>8.983152841195215e-009</latres>
+				<longres>8.983152841195215e-009</longres>
+				<geogunit>Decimal Degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Pb_2008NAAQS</enttypl>
+				<enttypd>Non-Attainment Areas: Lead</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMPOSID</attrlabl>
+				<attrdef>Composite ID of area. Pollutant name, year of designation, and text name of area</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Pollutant</attrlabl>
+				<attrdef>Type of pollutant</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Lead (2008)</edomv>
+						<edomvd>Areas of Lead, in 2008</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Area_Name</attrlabl>
+				<attrdef>Name of the NAA as designated by the EPA</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attrdef>Primary state in which NAA is found</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Current_At</attrlabl>
+				<attrdef>Current Attainment</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Nonattainment</edomv>
+						<edomvd>any area that does not meet (or that contributes to ambient air quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant.</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Classifica</attrlabl>
+				<attrdef>Severity classification as identified by the EPA.</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Redesignat</attrlabl>
+				<attrdef>Date of redesignation</attrdef>
+				<attrdefs>EPA</attrdefs>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>Exposure to lead (Pb) can occur through multiple pathways, including inhalation of air and ingestion of Pb in food, water, soil or dust. Excessive Pb exposure can cause seizures, mental retardation and/or behavioral disorders. A recent National Health and Nutrition Examination Survey reported a 78% decrease in blood lead levels from 12.8 to 2.8 ug/dL between 1976 and 1980 and from 1988 to 1991. This dramatic decline can be attributed to the reduction of leaded gasoline and to the removal of lead from soldered cans. Although this study shows great progress, infants and young children are especially susceptible to low doses of Pb, and this age group still shows the highest levels. Low doses of Pb can lead to central nervous system damage. Recent studies have also shown that Pb may be a factor in high blood pressure and in subsequent heart disease in middle-aged males. 
+
+Lead gasoline additives, non-ferrous smelters, and battery plants are the most significant contributors to atmospheric Pb emissions. In 1993 transportation sources contributed 33% of the annual emissions, down substantially from 81% in 1985. Total Pb emissions from all sources dropped from 20,100 tons in 1985 to 4,900 tons in 1993. The decrease in Pb emissions from highway vehicles accounts for essentially all of this decline. The reasons for the decrease are noted below. 
+
+Two air pollution control programs implemented by EPA before promulgation of the Pb standard in October 1978 have resulted in lower ambient Pb levels. First, regulations issued in the early 1970's required gradual reduction of the Pb content of all gasoline over a period of many years. The Pb content of the leaded gasoline pool was reduced from an average of 12.0 gram/gallon, to 0.5 gram/gallon on July 1, 1985, and still further to 0.1 gram/gallon on January 1, 1986. Second, as part of the EPA's overall automotive emission control program, unleaded gasoline was introduced in 1975 for automobiles equipped with catalytic control devices. These devices reduce emissions of CO, VOCs and NOx. In 1993, unleaded gasoline sales accounted for 99% of the total gasoline market. In contrast, the unleaded share of the gasoline market in 1984 was approximately 60%. These programs have essentially eliminated violations of the Pb standard in urban areas except those areas with Pb point sources. 
+
+Programs are also in place to control Pb emissions from stationary point sources. Lead emissions from stationary sources have been substantially reduced by control programs oriented toward attainment of the PM-10 and Pb ambient standards. However, significant and ambient problems still remain around some Pb point sources, which are now the focus of new monitoring initiatives. Pb emissions in 1993 from industrial sources, e.g., primary and secondary Pb smelters, dropped by about 91% from levels reported in 1970. Emissions of Pb from solid waste disposal are down about 76% since 1970. In 1993, emissions from solid waste disposal, industrial processes and transportation were: 500, 2,300 and 1,600 short tons, respectively. The overall effect of the control programs for these three categories has been a major reduction in the amount of Pb in the ambient air. Additional reduction in Pb are anticipated as a result of the Agency's Multimedia Lead Strategy issued in February 1991. The goal of the Lead Strategy is to reduce Pb exposures to the fullest extent practicable. 
+
+Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for lead.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>1 202 366 DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>ntad_2013_pb_2008naaqs</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2013</formvern>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+					<transize>5.098</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.bts.gov/programs/geographic_information_services/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>dvd</offmedia>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>20110101</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20140925</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>
