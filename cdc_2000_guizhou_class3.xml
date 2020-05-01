@@ -131,11 +131,11 @@ The population data came from the 5th China Population Census surveyed in 2000. 
 
 The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:  
 
-1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don�t match those names in the Census tables.  
+1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don't match those names in the Census tables.  
 
 2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.  
 
-3) For some virtual townships, which don�t have central locations, we try to find the mostly related locations on the map.  
+3) For some virtual townships, which don't have central locations, we try to find the mostly related locations on the map.  
 
 4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps. 
 

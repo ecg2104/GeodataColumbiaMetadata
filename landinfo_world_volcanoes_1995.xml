@@ -245,8 +245,8 @@ volc</enttypl>
        Geographic coordinates are listed in decimal parts of a degree. This facilitates both computer manipulation of data and rapid
    estimation of distances between points (one degree of latitude being equal to 111 km). To retain some indication of the accuracy of
    original locations, when converting from minutes and seconds we have listed 3 digits to the right of the decimal point only where seconds
-   were originally specified. We list 2 digits if only degrees and minutes were given in the original (e.g., 71�41' = 71.68� whereas 71�41' 01"
-   = 71.684�). Readers should also beware of obviously generalized locations such as X.00� or Y.50�. When different references give
+   were originally specified. We list 2 digits if only degrees and minutes were given in the original (e.g., 7141' = 71.68 whereas 7141' 01"
+   = 71.684). Readers should also beware of obviously generalized locations such as X.00 or Y.50. When different references give
    different positions for the same volcano, we attempt to determine which is most reliable, and list that location here. For some regions,
    where our growing archive of topographic maps permits, we have obtained more precise locations than given in older sources. Newly
    obtained maps for the Kuriles and Kamchatka, for example, have permitted correction of deliberately mislocated volcano positions that
@@ -262,7 +262,7 @@ volc</enttypl>
    Indonesia's Tambora in 1815, for example, contributed to a lowering of global temperatures that brought June snow-storms to New
    England and widespread crop failure to northern latitudes). The Earth's rotation strongly influences stratospheric circulation patterns and
    therefore any concentration of the world's volcanoes by latitude is important in assessing their effect on global climate.
-       Two thirds of the volcanoes are in the northern hemisphere and only about one fifth are between 10�S and the South Pole. The
+       Two thirds of the volcanoes are in the northern hemisphere and only about one fifth are between 10S and the South Pole. The
    northern hemisphere concentration reflects the fact that two-thirds of the world's land area is also north of the equator, but nevertheless
    indicates the greater vulnerability of the northern hemisphere to volcanically induced climate change.
        The most northerly volcano in our list is an unnamed submarine volcano in the Arctic Ocean only 192 km from the North Pole. Three
@@ -300,7 +300,7 @@ Elevation
    when several are given, but caution should be used with all submarine volcano elevations.
        Roughly 30% of the volcanoes in our list are within 1,000 m of sea level, roughly 60% are within 2,000 m and about four-fifths are
    within 3,000 m of sea level. Less than 100 volcanoes have elevations above 5,000 m (16,400 ft): most of these are in the South American
-   Andes and nearly two-thirds of the total are in that chain's central segment (15-28�S).
+   Andes and nearly two-thirds of the total are in that chain's central segment (15-28S).
        The highest volcano with historical eruptions is Llullaillaco (volcano number 1505-11=) in the northern Chilean Andes. Its elevation is
    6,739 m and three eruptions were recorded there in the second half of the last century. Active fumaroles, however, mark the summit crater
    of Nevado Ojos del Salado, 267 km to the south of, and 148 m higher than, Llullaillaco. The youthful nature of Nevado Ojos del Salado

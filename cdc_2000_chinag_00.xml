@@ -19,20 +19,20 @@
 <descript>
 <abstract>REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. China County Boundaries with 2000 Population Census Data is a polygon theme representing counties in China in the year 2000.  Attribute information includes population variables from the 2000 census.</abstract>
 <purpose>The data set was developed for display and analysis using GIS.</purpose>
-<supplinf>Notes on 2000 China Population Census Data 
-(l) For 2000 population Census, the reference time is 0:00AM of November 1, 2000. 
-(2) The population census covered all persons who hold the nationality of, and have permanent residential place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residential place. 
-The following persons should be enumerated in their permanent residential place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being. 
-(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms. 
-(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i.e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data. 
-(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following: 
-    a. Data in the publication do not include population not enumerated in the census.  
-    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.  
-    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.  
-    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.  
-    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.  
-    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit. 
-Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results. 
+<supplinf>Notes on 2000 China Population Census Data
+(l) For 2000 population Census, the reference time is 0:00AM of November 1, 2000.
+(2) The population census covered all persons who hold the nationality of, and have permanent residential place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residential place.
+The following persons should be enumerated in their permanent residential place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i.e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census.
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
 (5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</supplinf>
 </descript>
 <timeperd>
@@ -483,19 +483,19 @@ china00</enttypl>
 </attr>
 <attr>
 <attrlabl>A2000066</attrlabl>
-<attrdef>Birth rate (�)</attrdef>
+<attrdef>Birth rate </attrdef>
 </attr>
 <attr>
 <attrlabl>A2000067</attrlabl>
-<attrdef>Death rate (�)</attrdef>
+<attrdef>Death rate </attrdef>
 </attr>
 <attr>
 <attrlabl>A2000068</attrlabl>
-<attrdef>Natural growth rate (�)</attrdef>
+<attrdef>Natural growth rate </attrdef>
 </attr>
 <attr>
 <attrlabl>A2000069</attrlabl>
-<attrdef>Total fertility rate (�) from 9.5% sample data of Long Table</attrdef>
+<attrdef>Total fertility rate  from 9.5% sample data of Long Table</attrdef>
 </attr>
 <attr>
 <attrlabl>A2000070</attrlabl>

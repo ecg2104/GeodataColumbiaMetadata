@@ -127,7 +127,7 @@
 </citeinfo>
 </srccite>
 <srcscale>1000000</srcscale>
-<typesrc>CD�ROM</typesrc>
+<typesrc>CD-ROM</typesrc>
 <srctime>
 <timeinfo>
 <sngdate>
@@ -145,7 +145,7 @@
 <srcprod>World Wildlife Fund</srcprod>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by ESRI: Extracted the continental data sets from World Wildlife Fund media. Located and removed overlapping features between less dense continents.  Between dense continents, used the Clip tool of the ArcView Geoprocessing Extension to remove overlapping features. Edited each data set to contain similar attributes. Merged all continents into one data set. Calculated Mht_name attribute to "Water" for all records where Ecoregion attribute value was "Water".  Fixed a typographical error in Ecoregion attribute. Increased width of Mht_name attribute to fit its longest length values.  Removed attributes where values were missing or out of domain range.  Recalculated attributes, where possible, to keep within domain range.  Created ArcGIS� layer file (.lyr).  Created ArcView legend file (.avl).  Created projection file (.prj).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
+<procdesc>The following steps were performed by ESRI: Extracted the continental data sets from World Wildlife Fund media. Located and removed overlapping features between less dense continents.  Between dense continents, used the Clip tool of the ArcView Geoprocessing Extension to remove overlapping features. Edited each data set to contain similar attributes. Merged all continents into one data set. Calculated Mht_name attribute to "Water" for all records where Ecoregion attribute value was "Water".  Fixed a typographical error in Ecoregion attribute. Increased width of Mht_name attribute to fit its longest length values.  Removed attributes where values were missing or out of domain range.  Recalculated attributes, where possible, to keep within domain range.  Created ArcGIS layer file (.lyr).  Created ArcView legend file (.avl).  Created projection file (.prj).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
 <srcused>World Wildlife Fund</srcused>
 <procdate>19990709</procdate>
 </procstep>

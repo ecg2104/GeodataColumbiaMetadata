@@ -173,7 +173,7 @@ The population data came from the 5th China Population Census in 2000. The 2000 
 
 (2) Methodology
 
-1) Correct the locations of local government of townships based on 1:250,000 GIS data. For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.  For some virtual townships, which don�t have central locations, we try to find the mostly related locations on the map.  
+1) Correct the locations of local government of townships based on 1:250,000 GIS data. For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.  For some virtual townships, which don't have central locations, we try to find the mostly related locations on the map.  
 2) Input the administrative area size of townships and add them to the population table. Those townships without area size information will be estimated based on the average of the area size of all townships of the same county
 3) Calculate the average population density of all townships by county
 4) Find non-resident areas based on residential areas, elevation, rivers, dissert, and forest. 
