@@ -14,7 +14,7 @@
 					<pubplace>Montevideo</pubplace>
 					<publish>Servicio Geografico Militar</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/UruguayVegetation.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_uruguay_2007_veg_rast.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -322,7 +322,7 @@ vegetation.vat</enttypl>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_ury_vege</resdesc>
+		<resdesc>iscgm_uruguay_2007_veg_rast</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>
