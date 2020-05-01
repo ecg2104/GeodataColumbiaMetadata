@@ -4,18 +4,18 @@
 <citeinfo>
 <origin>U.S. Geological Survey (USGS), EROS Data Center</origin>
 <pubdate>1999</pubdate>
-<title>New York City Area Digital Elevation Model, 1 Arc Second, 1999</title>
+<title>New York City Area Digital Elevation Model, 1 Arc Second (meters), 1999</title>
 <edition>1</edition>
 <geoform>raster digital data</geoform>
 <pubinfo>
 <pubplace>Sioux Falls, SD</pubplace>
 <publish>U.S. Geological Survey</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nyc_1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/usgs_1999_nyc_1arcm.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Area Digital Elevation Model, 1 Arc Second  (feet) is a raster dataset representing elevations in the New York City area.  This layer was clipped from the USGS NED to New York City and its immediate surrounding environment showing elevation (in feet), and ground units in decimal degrees. The resolution is 1 arc second.</abstract>
+<abstract>New York City Area Digital Elevation Model, 1 Arc Second  (meters) is a raster dataset representing elevations in the New York City area.  This layer was clipped from the USGS NED to New York City and its immediate surrounding environment showing elevation (in meters), and ground units in decimal degrees. The resolution is 1 arc second.</abstract>
 <purpose>Geospatial elevation data are utilized by the scientific and resource management communities for global change research, hydrologic modeling, resource monitoring, mapping, and visualization applications.</purpose>
 <supplinf>The U.S. Geological Survey has developed a National Elevation Dataset (NED). The NED is a seamless mosaic of best-available elevation data. The 7.5-minute elevation data for the conterminous United States are the primary initial source data. In addition to the availability of complete 7.5-minute data, efficient processing methods were developed to filter production artifacts in the existing data, convert to the NAD83 datum, edge-match, and fill slivers of missing data at quadrangle seams. One of the effects of the NED processing steps is a much-improved base of elevation data for calculating slope and hydrologic derivatives. The specifications for the NED 1 arc second and 1/3 arc second data are: Geographic coordinate system Horizontal datum of NAD83, except for AK which is NAD27 Vertical datum of NAVD88, except for AK which is NAVD29 Z units of meters</supplinf>
 </descript>
@@ -34,13 +34,13 @@
 <spdom>
 <bounding>
 <westbc>
--74.267048</westbc>
+-74.265278</westbc>
 <eastbc>
--73.689129</eastbc>
+-73.691389</eastbc>
 <northbc>
-40.932635</northbc>
+40.932222</northbc>
 <southbc>
-40.488331</southbc>
+40.488889</southbc>
 </bounding>
 </spdom>
 <keywords>
@@ -106,7 +106,7 @@
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/nyc_1.bmp</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/nyc_1m.bmp</browsen>
 <browsed>Thumbnail</browsed>
 <browset>bmp</browset>
 </browse>
@@ -130,15 +130,21 @@
 </srccite>
 </srcinfo>
 <procstep>
-<procdesc>The following steps were conducted by Digital Social Science Center (DSSC) staff: This layer was clipped from the USGS National Elevation Dataset to New York City and its immediate surrounding area. The layer was reprojected.</procdesc>
+<procdesc>The following steps were conducted by Digital Social Science Center (DSSC) staff: This layer was clipped from the USGS National Elevation Dataset to New York City and its immediate surrounding area.</procdesc>
 <srcused>National Elevation Database</srcused>
 <procdate>20090807</procdate>
 </procstep>
 <procstep>
 <procdesc>Metadata imported.</procdesc>
-<srcused>D:\MyDocs\09-08_NED\NYC_DEM\nyc_1.xml</srcused>
+<srcused>D:\MyDocs\09-08_NED\NYC_DEM\nyc_1m.xml</srcused>
 <procdate>20090811</procdate>
-<proctime>14005500</proctime>
+<proctime>14010200</proctime>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>D:\MyDocs\09-08_NED\NYC_DEM\nyc_1m.xml</srcused>
+<procdate>20090811</procdate>
+<proctime>14011900</proctime>
 </procstep>
 </lineage>
 </dataqual>
@@ -146,34 +152,18 @@
 <direct>Raster</direct>
 <rastinfo>
 <rasttype>Grid Cell</rasttype>
-<rowcount>1828</rowcount>
-<colcount>1805</colcount>
+<rowcount>1596</rowcount>
+<colcount>2066</colcount>
 <vrtcount>1</vrtcount>
 </rastinfo>
 </spdoinfo>
 <spref>
 <horizsys>
-<planar>
-<mapproj>
-<mapprojn>Lambert Conformal Conic</mapprojn>
-<lambertc>
-<stdparll>40.666667</stdparll>
-<stdparll>41.033333</stdparll>
-<longcm>-74.000000</longcm>
-<latprjo>40.166667</latprjo>
-<feast>984250.000000</feast>
-<fnorth>0.000000</fnorth>
-</lambertc>
-</mapproj>
-<planci>
-<plance>row and column</plance>
-<coordrep>
-<absres>88.469489</absres>
-<ordres>88.469489</ordres>
-</coordrep>
-<plandu>survey feet</plandu>
-</planci>
-</planar>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
 <geodetic>
 <horizdn>North American Datum of 1983</horizdn>
 <ellips>Geodetic Reference System 80</ellips>
@@ -202,13 +192,13 @@
 <cntemail>custserv@edcmail.cr.usgs.gov</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>usgs_nyc1999_1</resdesc>
+<resdesc>usgs_1999_nyc_1arcm</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>zip</formspec>
-<transize>14.310</transize>
+<transize>15.617</transize>
 </digtinfo>
 </digform>
 </stdorder>
@@ -218,7 +208,7 @@
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC) (EDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
