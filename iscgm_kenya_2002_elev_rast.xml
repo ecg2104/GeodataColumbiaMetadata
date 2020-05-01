@@ -11,7 +11,7 @@
 <pubplace>Nairobi</pubplace>
 <publish>Survey of Kenya</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/KenyaElevation.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_kenya_2002_elev_rast.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -217,7 +217,7 @@ elevation.vat</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ken_elev</resdesc>
+<resdesc>iscgm_kenya_2002_elev_rast</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

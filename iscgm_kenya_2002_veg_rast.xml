@@ -11,7 +11,7 @@
 <pubplace>Nairobi</pubplace>
 <publish>Survey of Kenya</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/KenyaVegitation.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_kenya_2002_veg_rast.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -218,7 +218,7 @@ vegetation.vat</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ken_veg</resdesc>
+<resdesc>iscgm_kenya_2002_veg_rast</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

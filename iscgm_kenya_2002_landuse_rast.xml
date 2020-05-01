@@ -11,7 +11,7 @@
 <pubplace>Nairobi</pubplace>
 <publish>Survey of Kenya</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/KenyaLanduse.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_kenya_2002_landuse_rast.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -259,7 +259,7 @@ landuse.vat</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ken_use</resdesc>
+<resdesc>iscgm_kenya_2002_landuse_rast</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
