@@ -3,33 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2007</pubdate>
-<title>Canada Water Course, 2007</title>
+<pubdate>2005</pubdate>
+<title>Democratic Republic of the Congo Airports, 2005</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/can_watrcrsl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_drc_2005_aerofacp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Water Course is a line theme representing  rivers and streams in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Democratic Republic of the Congo Airports is a point theme representing airports and airfields in Democratic Republic of the Congo.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
 draft Map Specifications. The project currently involves the participation of many
 interested nations.
 The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
+organizations together to develop and provide easy and open access to global digital
 geographic information at a scale of 1:1 million. This would be used to facilitate the
 implementation of global agreements and conventions for environmental protection,
 for monitoring of major environmental phenomena and to encourage economic
 growth within the context of sustainable development. As part of this objective, a
 Global Map product will be developed to this specification.
 The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2007</caldate>
+<caldate>2005</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,33 +41,31 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
--141.000000</westbc>
+12.350833</westbc>
 <eastbc>
--52.681759</eastbc>
+30.221027</eastbc>
 <northbc>
-83.093048</northbc>
+4.248611</northbc>
 <southbc>
-41.999538</southbc>
+-11.590917</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>inlandWaters.</themekey>
+<themekey>transportation</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Rivers</themekey>
-<themekey>Streams</themekey>
-<themekey>Creeks</themekey>
+<themekey>Airports</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>Canada</placekey>
+<placekey>Congo (Democratic Republic)</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2007</tempkey>
+<tempkey>2005</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -91,7 +89,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_watrcrsl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/caddpc_aerofacp.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -99,10 +97,10 @@ Infrastructure</purpose>
 </idinfo>
 <dataqual>
 <attracc>
-<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</attraccr>
+<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</attraccr>
 </attracc>
 <logic>Logical consistency is a measure of the degree to which data complies with the technical specification. Logical consistency was validated by tests to check that table and file names are set out as in the Data Dictionary. Graphical tests checking such things as intersections, polygon closure, minimum sizes of polygons and length of linear features were also carried out.</logic>
-<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
+<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
 <horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
@@ -110,7 +108,7 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
@@ -120,8 +118,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>210829</ptvctcnt>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>24</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +148,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_watrcrsl</enttypl>
-<enttypd>River/Stream</enttypd>
+caddpc_aerofacp</enttypl>
+<enttypd>Airport/Airfield</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -175,37 +173,59 @@ aze_watrcrsl</enttypl>
 </attr>
 <attr>
 <attrlabl>f_code_des</attrlabl>
-<attrdef>FACC feature code (description)</attrdef>
+<attrdef>FACC feature code description</attrdef>
 </attr>
 <attr>
-<attrlabl>hyc</attrlabl>
-<attrdef>Hydrological Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>6</edomv>
-<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>Perennial/Permanent</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>hyc_descri</attrlabl>
-<attrdef>Hydrological Category (description)</attrdef>
+<attrlabl>iko</attrlabl>
+<attrdef>ICAO Designator</attrdef>
 </attr>
 <attr>
 <attrlabl>nam</attrlabl>
 <attrdef>Name</attrdef>
 </attr>
 <attr>
-<attrlabl>nam_descri</attrlabl>
-<attrdef>Name description</attrdef>
+<attrlabl>use</attrlabl>
+<attrdef>Usage</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Military/Defense</edomvd>
+</edom>
+<edom>
+<edomv>22</edomv>
+<edomvd>Joint Military/Defense/Civilian</edomvd>
+</edom>
+<edom>
+<edomv>49</edomv>
+<edomvd>Civilian/Public</edomvd>
+</edom>
+<edom>
+<edomv>999</edomv>
+<edomvd>Other</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>use_descri</attrlabl>
+<attrdef>Use description</attrdef>
+</attr>
+<attr>
+<attrlabl>zv3</attrlabl>
+<attrdef>Elevation</attrdef>
+<attrdomv>
+<edom>
+<edomv>-500 to 9999</edomv>
+<edomvd>elevation in meters</edomvd>
+</edom>
+<edom>
+<edomv>29999</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -215,7 +235,7 @@ aze_watrcrsl</enttypl>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>end_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -239,19 +259,19 @@ aze_watrcrsl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_can_watrcrsl</resdesc>
+<resdesc>iscgm_drc_2005_aerofacp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
-<formspec>Zip</formspec>
-<transize>64.341</transize>
+<formspec>zip</formspec>
+<transize>0.001</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090903</metd>
+<metd>20090901</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -272,5 +292,9 @@ aze_watrcrsl</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
 </metainfo>
 </metadata>

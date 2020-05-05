@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>Canada Coast Lines, 2007</title>
+<title>Canada Tunnels and Bridges, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/can_coastl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_transtrl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Coast Lines is a line theme representing  coastlines and shorelines in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Canada Tunnels and Bridges is a line theme representing  tunnels and bridges in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,24 +41,25 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
--141.000000</westbc>
+-139.441071</westbc>
 <eastbc>
--52.636292</eastbc>
+-66.030136</eastbc>
 <northbc>
-83.110626</northbc>
+67.463326</northbc>
 <southbc>
-43.391842</southbc>
+41.689487</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>oceans</themekey>
+<themekey>transportation</themekey>
+<themekey>structure</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Coastlines</themekey>
-<themekey>Shorelines</themekey>
+<themekey>Tunnels</themekey>
+<themekey>Bridges</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -90,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_coastl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_transtrl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>17601</ptvctcnt>
+<ptvctcnt>63</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_coastl</enttypl>
-<enttypd>Coastlines</enttypd>
+aze_transtrl</enttypl>
+<enttypd>Tunnel/Bridge/Ferry Route</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -177,72 +178,26 @@ aze_coastl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>acc</attrlabl>
-<attrdef>FACC feature code</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>1</edomv>
-<edomvd>Accurate</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Approximate</edomvd>
-</edom>
-<edom>
-<edomv>3</edomv>
-<edomvd>Tentative</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>acc_descri</attrlabl>
-<attrdef>FACC feature code (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>exs</attrlabl>
-<attrdef>Existence Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>1</edomv>
-<edomvd>Definite</edomvd>
-</edom>
-<edom>
-<edomv>3</edomv>
-<edomvd>Tentative</edomvd>
-</edom>
-<edom>
-<edomv>44</edomv>
-<edomvd>Approximate/About</edomvd>
-</edom>
-<edom>
-<edomv>46</edomv>
-<edomvd>Man-made</edomvd>
-</edom>
-<edom>
-<edomv>55</edomv>
-<edomvd>Unexamined/Unsurveyed</edomvd>
-</edom>
-<edom>
-<edomv>60</edomv>
-<edomvd>Indefinite (Shoreline)</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>exs_descri</attrlabl>
-<attrdef>Existence Category (description)</attrdef>
-</attr>
-<attr>
 <attrlabl>soc</attrlabl>
 <attrdef>Source Country or VMA</attrdef>
+</attr>
+<attr>
+<attrlabl>tuc</attrlabl>
+<attrdef>Transportation Use Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Railroad</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>Road</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>tuc_descri</attrlabl>
+<attrdef>Transportation Use Category (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
@@ -272,13 +227,13 @@ aze_coastl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_can_coastl</resdesc>
+<resdesc>iscgm_canada_2007_transtrl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>9.357</transize>
+<transize>0.017</transize>
 </digtinfo>
 </digform>
 </stdorder>

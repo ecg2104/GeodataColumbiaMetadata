@@ -3,24 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2006</pubdate>
-<title>Canada Political Boundaries (polygons), 2006</title>
+<pubdate>2007</pubdate>
+<title>Canada Roads, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/canBound.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_roadl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Political Boundaries is an area theme representing administrative areas in Canada. This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
-
-The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
-
-The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
+<abstract>Canada Roads is a line theme representing  roadways in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for
+Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
+1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
+draft Map Specifications. The project currently involves the participation of many
+interested nations.
+The main objective of this global project is to bring all nations and concerned
+organisations together to develop and provide easy and open access to global digital
+geographic information at a scale of 1:1 million. This would be used to facilitate the
+implementation of global agreements and conventions for environmental protection,
+for monitoring of major environmental phenomena and to encourage economic
+growth within the context of sustainable development. As part of this objective, a
+Global Map product will be developed to this specification.
+The Global Map will also contribute to the development of a Global Spatial Data
+Infrastructure</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2008</caldate>
+<caldate>2007</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -34,22 +43,23 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <westbc>
 -141.000000</westbc>
 <eastbc>
--52.636292</eastbc>
+-52.647346</eastbc>
 <northbc>
-83.110626</northbc>
+68.421577</northbc>
 <southbc>
-41.676556</southbc>
+41.984940</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>boundaries</themekey>
+<themekey>transportation</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Territories</themekey>
-<themekey>Administrative boundaries</themekey>
+<themekey>Roadways</themekey>
+<themekey>Streets</themekey>
+<themekey>Roads</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -57,7 +67,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2008</tempkey>
+<tempkey>2007</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -65,7 +75,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntorg>Geographical Survey Institute</cntorg>
 <cntper>Global Map Secretariat</cntper>
 </cntorgp>
 <cntaddr>
@@ -81,7 +91,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/canBound.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_roadl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -100,41 +110,18 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
-<lineage>
-<procstep>
-<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class,  and the feature were dissolved to remove the sections created by the tiling of the datasets.</procdesc>
-<procdate>2009</procdate>
-<proccont>
-<cntinfo>
-<cntorgp>
-<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
-</cntorgp>
-<cntaddr>
-<addrtype>mailing address</addrtype>
-<address>420 W. 118th St. 215 IAB, MC 3301</address>
-<city>New York</city>
-<state>NY</state>
-<postal>10027</postal>
-<country>USA</country>
-</cntaddr>
-<cntvoice>(212) 854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
-</cntinfo>
-</proccont>
-</procstep>
-</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>1</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>27601</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -152,12 +139,19 @@ may not be available in areas of high relief.</vertaccr>
 <denflat>298.257224</denflat>
 </geodetic>
 </horizsys>
+<vertdef>
+<altsys>
+<altres>0.000100</altres>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
 </spref>
 <eainfo>
 <detailed>
 <enttyp>
 <enttypl>
-canBound</enttypl>
+aze_roadl</enttypl>
+<enttypd>Road</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -176,56 +170,194 @@ canBound</enttypl>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>laa</attrlabl>
+<attrlabl>f_code</attrlabl>
+<attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_f_co</attrlabl>
+<attrlabl>f_code_des</attrlabl>
+<attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_f__1</attrlabl>
+<attrlabl>acc</attrlabl>
+<attrdef>Accuracy Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
-<attrlabl>FIRST_coc</attrlabl>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>Accuracy Category (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_nam</attrlabl>
+<attrlabl>exs</attrlabl>
+<attrdef>Existence Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Doubtful</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>Under Construction</edomvd>
+</edom>
+<edom>
+<edomv>28</edomv>
+<edomvd>Operational</edomvd>
+</edom>
+<edom>
+<edomv>55</edomv>
+<edomvd>Unexamined/Unsurveyed</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
-<attrlabl>FIRST_soc</attrlabl>
+<attrlabl>exs_descri</attrlabl>
+<attrdef>Existence Category (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>med</attrlabl>
+<attrdef>Median Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>With Median</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Without Median</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>med_descri</attrlabl>
+<attrdef>Median Category (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rst</attrlabl>
+<attrdef>Surface</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Surface</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Not paved</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rst_descri</attrlabl>
+<attrdef>Surface (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rsu</attrlabl>
+<attrdef>Seasonal availability</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>All Year</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>All Year</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rsu_descri</attrlabl>
+<attrdef>Seasonal availability (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rtt</attrlabl>
+<attrdef>Route Intended Use</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>14</edomv>
+<edomvd>Primary route</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>Primary route</edomvd>
+</edom>
+<edom>
+<edomv>16</edomv>
+<edomvd>Limited access route (freeway)</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rtt_descri</attrlabl>
+<attrdef>Route Intended Use (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>soc</attrlabl>
+<attrdef>Source Country or VMA</attrdef>
+</attr>
+<attr>
+<attrlabl>tile_id</attrlabl>
+</attr>
+<attr>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntperp>
 <cntper>Global Map Secretariat</cntper>
-</cntorgp>
+<cntorg>Geographical Survey Institute</cntorg>
+</cntperp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>305-0811</country>
+<country>JAPAN</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntfax>+81-29-864-6923</cntfax>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_canbound</resdesc>
+<resdesc>iscgm_canada_2007_roadl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<transize>0.619</transize>
+<formname>Shapefile</formname>
+<formspec>Zip</formspec>
+<transize>10.575</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090817</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -246,9 +378,5 @@ canBound</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
-<metextns>
-<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-<metprof>ESRI Metadata Profile</metprof>
-</metextns>
 </metainfo>
 </metadata>

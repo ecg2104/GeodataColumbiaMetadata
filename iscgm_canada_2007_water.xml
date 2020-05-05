@@ -3,33 +3,24 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2007</pubdate>
-<title>Canada Tunnels and Bridges, 2007</title>
+<pubdate>2008</pubdate>
+<title>Canada Inland Waters, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/can_transtrl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_water.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Tunnels and Bridges is a line theme representing  tunnels and bridges in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for
-Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
-1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
-draft Map Specifications. The project currently involves the participation of many
-interested nations.
-The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
-geographic information at a scale of 1:1 million. This would be used to facilitate the
-implementation of global agreements and conventions for environmental protection,
-for monitoring of major environmental phenomena and to encourage economic
-growth within the context of sustainable development. As part of this objective, a
-Global Map product will be developed to this specification.
-The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+<abstract>Canada Inland Waters is a polygon theme representing  inland water features in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
+
+The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
+
+The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2007</caldate>
+<caldate>2008</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,25 +32,26 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
--139.441071</westbc>
+-141.000000</westbc>
 <eastbc>
--66.030136</eastbc>
+-52.729694</eastbc>
 <northbc>
-67.463326</northbc>
+83.012993</northbc>
 <southbc>
-41.689487</southbc>
+41.676556</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
-<themekey>structure</themekey>
+<themekey>inlandWaters</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Tunnels</themekey>
-<themekey>Bridges</themekey>
+<themekey>Rivers</themekey>
+<themekey>Streams</themekey>
+<themekey>Creeks</themekey>
+<themekey>Lakes</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -67,7 +59,7 @@ Infrastructure</purpose>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2007</tempkey>
+<tempkey>2008</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -75,7 +67,7 @@ Infrastructure</purpose>
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>Geographical Survey Institute</cntorg>
+<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 <cntper>Global Map Secretariat</cntper>
 </cntorgp>
 <cntaddr>
@@ -91,7 +83,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_transtrl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/canWater.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -110,18 +102,41 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
+<lineage>
+<procstep>
+<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.  If necessary, further geometry repair was done by hand.</procdesc>
+<procdate>2009</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>dssc.data@columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>63</ptvctcnt>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>123134</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +165,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_transtrl</enttypl>
-<enttypd>Tunnel/Bridge/Ferry Route</enttypd>
+indWater</enttypl>
+<enttypd>Water Feature</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,68 +193,74 @@ aze_transtrl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
-</attr>
-<attr>
-<attrlabl>tuc</attrlabl>
-<attrdef>Transportation Use Category</attrdef>
+<attrlabl>hyc</attrlabl>
+<attrdef>Hydrological Category</attrdef>
 <attrdomv>
 <edom>
-<edomv>3</edomv>
-<edomvd>Railroad</edomvd>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
 </edom>
 <edom>
-<edomv>4</edomv>
-<edomvd>Road</edomvd>
+<edomv>6</edomv>
+<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Perennial/Permanent</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>tuc_descri</attrlabl>
-<attrdef>Transportation Use Category (description)</attrdef>
+<attrlabl>hyc_descri</attrlabl>
+<attrdef>Hydrological Category</attrdef>
+</attr>
+<attr>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
+</attr>
+<attr>
+<attrlabl>soc</attrlabl>
+<attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>fac_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntperp>
+<cntorgp>
+<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 <cntper>Global Map Secretariat</cntper>
-<cntorg>Geographical Survey Institute</cntorg>
-</cntperp>
+</cntorgp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>JAPAN</country>
+<country>305-0811</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntfax>+81-29-864-6923</cntfax>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_can_transtrl</resdesc>
+<resdesc>iscgm_canada_2007_water</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>Zip</formspec>
-<transize>0.017</transize>
+<transize>80.090</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090903</metd>
+<metd>20090814</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -260,5 +281,9 @@ aze_transtrl</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
 </metainfo>
 </metadata>

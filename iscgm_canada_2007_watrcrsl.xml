@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>Canada Built-up Areas (points), 2007</title>
+<title>Canada Water Course, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/can_builtupp.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_watrcrsl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Built-up Areas is a point theme representing  built-up areas in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Canada Water Course is a line theme representing  rivers and streams in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,25 +41,25 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
--140.876205</westbc>
+-141.000000</westbc>
 <eastbc>
--52.726273</eastbc>
+-52.681759</eastbc>
 <northbc>
-82.523178</northbc>
+83.093048</northbc>
 <southbc>
-41.749802</southbc>
+41.999538</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>society</themekey>
+<themekey>inlandWaters.</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Built-up Areas</themekey>
-<themekey>Cities</themekey>
-<themekey>Towns</themekey>
+<themekey>Rivers</themekey>
+<themekey>Streams</themekey>
+<themekey>Creeks</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -91,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_builtupp.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_watrcrsl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,8 +120,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>Entity point</sdtstype>
-<ptvctcnt>3540</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>210829</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_builtupp</enttypl>
-<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
+aze_watrcrsl</enttypl>
+<enttypd>River/Stream</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,8 +178,34 @@ aze_builtupp</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
+<attrlabl>hyc</attrlabl>
+<attrdef>Hydrological Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Perennial/Permanent</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>hyc_descri</attrlabl>
+<attrdef>Hydrological Category (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>nam</attrlabl>
 <attrdef>Name</attrdef>
+</attr>
+<attr>
+<attrlabl>nam_descri</attrlabl>
+<attrdef>Name description</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -189,7 +215,7 @@ aze_builtupp</enttypl>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>end_id</attrlabl>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -213,19 +239,19 @@ aze_builtupp</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_can_builtupp</resdesc>
+<resdesc>iscgm_canada_2007_watrcrsl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.149</transize>
+<transize>64.341</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090910</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>

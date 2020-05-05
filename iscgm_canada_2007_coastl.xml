@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>Canada Political Boundaries, 2007</title>
+<title>Canada Coast Lines, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/can_polbndl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_coastl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Canada Political Boundaries is a line theme representing  political boundaries in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Canada Coast Lines is a line theme representing  coastlines and shorelines in Canada.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -43,22 +43,22 @@ Infrastructure</purpose>
 <westbc>
 -141.000000</westbc>
 <eastbc>
--57.105488</eastbc>
+-52.636292</eastbc>
 <northbc>
-78.691910</northbc>
+83.110626</northbc>
 <southbc>
-41.676556</southbc>
+43.391842</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>boundaries</themekey>
+<themekey>oceans</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Territories</themekey>
-<themekey>Administrative boundaries</themekey>
+<themekey>Coastlines</themekey>
+<themekey>Shorelines</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -90,7 +90,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_polbndl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/can_coastl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,7 +120,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>334</ptvctcnt>
+<ptvctcnt>17601</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_polbndl</enttypl>
-<enttypd>Administrative boundary</enttypd>
+aze_coastl</enttypl>
+<enttypd>Coastlines</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,8 +178,12 @@ aze_polbndl</enttypl>
 </attr>
 <attr>
 <attrlabl>acc</attrlabl>
-<attrdef>Accuracy Category</attrdef>
+<attrdef>FACC feature code</attrdef>
 <attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
 <edom>
 <edomv>1</edomv>
 <edomvd>Accurate</edomvd>
@@ -188,19 +192,53 @@ aze_polbndl</enttypl>
 <edomv>2</edomv>
 <edomvd>Approximate</edomvd>
 </edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
+</edom>
 </attrdomv>
 </attr>
 <attr>
 <attrlabl>acc_descri</attrlabl>
-<attrdef>Accuracy Category</attrdef>
+<attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>use</attrlabl>
-<attrdef>Usage</attrdef>
+<attrlabl>exs</attrlabl>
+<attrdef>Existence Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Definite</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
+</edom>
+<edom>
+<edomv>44</edomv>
+<edomvd>Approximate/About</edomvd>
+</edom>
+<edom>
+<edomv>46</edomv>
+<edomvd>Man-made</edomvd>
+</edom>
+<edom>
+<edomv>55</edomv>
+<edomvd>Unexamined/Unsurveyed</edomvd>
+</edom>
+<edom>
+<edomv>60</edomv>
+<edomvd>Indefinite (Shoreline)</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
-<attrlabl>use_descri</attrlabl>
-<attrdef>Usage description</attrdef>
+<attrlabl>exs_descri</attrlabl>
+<attrdef>Existence Category (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -234,13 +272,13 @@ aze_polbndl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_can_polbndl</resdesc>
+<resdesc>iscgm_canada_2007_coastl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>1.524</transize>
+<transize>9.357</transize>
 </digtinfo>
 </digform>
 </stdorder>

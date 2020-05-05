@@ -8,7 +8,7 @@
 				<pubdate>2007</pubdate>
 				<title>Canada Aqueducts, Canals, Flumes and Penstocks, 2007</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/can_aquecanl.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_canada_2007_aquecanl.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -266,7 +266,7 @@ can_aquecanl</enttypl>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_can_aquecanl
+		<resdesc>iscgm_canada_2007_aquecanl
 </resdesc>
 		<stdorder>
 			<digform>
