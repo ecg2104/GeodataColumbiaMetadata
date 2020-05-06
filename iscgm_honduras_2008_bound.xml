@@ -6,7 +6,7 @@
 <pubdate>2006</pubdate>
 <title>Honduras Political Boundaries (polygons), 2006</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hndBound.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_honduras_2008_bound.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -221,7 +221,7 @@ hndBound</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hndbound</resdesc>
+<resdesc>iscgm_honduras_2008_bound</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

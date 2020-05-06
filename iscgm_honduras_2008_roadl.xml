@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2008</pubdate>
-<title>Hong Kong Roads, 2008</title>
+<title>Honduras Roads, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hkg_roadl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_honduras_2008_roadl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Hong Kong Roads is a line theme representing  roadways in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Honduras Roads is a line theme representing  roadways in Honduras.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,13 +41,13 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-113.865200</westbc>
+-89.248581</westbc>
 <eastbc>
-114.319515</eastbc>
+-83.771797</eastbc>
 <northbc>
-22.549195</northbc>
+16.424587</northbc>
 <southbc>
-22.221716</southbc>
+13.063153</southbc>
 </bounding>
 </spdom>
 <keywords>
@@ -63,7 +63,7 @@ Infrastructure</purpose>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>Hong Kong (China)</placekey>
+<placekey>Honduras</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -91,11 +91,11 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_roadl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hnd_roadl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
 <attracc>
@@ -121,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>206</ptvctcnt>
+<ptvctcnt>476</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,7 +150,7 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-hkg_roadl</enttypl>
+aze_roadl</enttypl>
 <enttypd>Road</enttypd>
 </enttyp>
 <attr>
@@ -174,6 +174,10 @@ hkg_roadl</enttypl>
 <attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
+<attrlabl>f_code_des</attrlabl>
+<attrdef>FACC feature code (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>acc</attrlabl>
 <attrdef>Accuracy Category</attrdef>
 <attrdomv>
@@ -186,6 +190,10 @@ hkg_roadl</enttypl>
 <edomvd>Approximate</edomvd>
 </edom>
 </attrdomv>
+</attr>
+<attr>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>Accuracy Category (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>exs</attrlabl>
@@ -210,6 +218,10 @@ hkg_roadl</enttypl>
 </attrdomv>
 </attr>
 <attr>
+<attrlabl>exs_descri</attrlabl>
+<attrdef>Existence Category (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>med</attrlabl>
 <attrdef>Median Category</attrdef>
 <attrdomv>
@@ -226,6 +238,10 @@ hkg_roadl</enttypl>
 <edomvd>Without Median</edomvd>
 </edom>
 </attrdomv>
+</attr>
+<attr>
+<attrlabl>med_descri</attrlabl>
+<attrdef>Median Category (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>rst</attrlabl>
@@ -246,6 +262,10 @@ hkg_roadl</enttypl>
 </attrdomv>
 </attr>
 <attr>
+<attrlabl>rst_descri</attrlabl>
+<attrdef>Surface (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>rsu</attrlabl>
 <attrdef>Seasonal availability</attrdef>
 <attrdomv>
@@ -262,6 +282,10 @@ hkg_roadl</enttypl>
 <edomvd>All Year</edomvd>
 </edom>
 </attrdomv>
+</attr>
+<attr>
+<attrlabl>rsu_descri</attrlabl>
+<attrdef>Seasonal availability (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>rtt</attrlabl>
@@ -284,6 +308,10 @@ hkg_roadl</enttypl>
 <edomvd>Limited access route (freeway)</edomvd>
 </edom>
 </attrdomv>
+</attr>
+<attr>
+<attrlabl>rtt_descri</attrlabl>
+<attrdef>Route Intended Use (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -317,19 +345,19 @@ hkg_roadl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hkg_roadl</resdesc>
+<resdesc>iscgm_honduras_2008_roadl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.041</transize>
+<transize>0.478</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090917</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -350,9 +378,5 @@ hkg_roadl</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
-<metextns>
-<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-<metprof>ESRI Metadata Profile</metprof>
-</metextns>
 </metainfo>
 </metadata>

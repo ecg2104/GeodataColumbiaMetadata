@@ -4,27 +4,27 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2008</pubdate>
-<title>Hong Kong Airports, 2008</title>
+<title>Hong Kong Tunnels and Bridges, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hkg_aerofacp.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_hongkong_2008_transtrl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Hong Kong Airports is a point theme representing airports and airfields in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Hong Kong Tunnels and Bridges is a line theme representing  tunnels and bridges in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
 draft Map Specifications. The project currently involves the participation of many
 interested nations.
 The main objective of this global project is to bring all nations and concerned
-organizations together to develop and provide easy and open access to global digital
+organisations together to develop and provide easy and open access to global digital
 geographic information at a scale of 1:1 million. This would be used to facilitate the
 implementation of global agreements and conventions for environmental protection,
 for monitoring of major environmental phenomena and to encourage economic
 growth within the context of sustainable development. As part of this objective, a
 Global Map product will be developed to this specification.
 The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure.</purpose>
+Infrastructure</purpose>
 </descript>
 <timeperd>
 <timeinfo>
@@ -41,23 +41,25 @@ Infrastructure.</purpose>
 <spdom>
 <bounding>
 <westbc>
-113.919163</westbc>
+114.041546</westbc>
 <eastbc>
-113.919163</eastbc>
+114.249985</eastbc>
 <northbc>
-22.315033</northbc>
+22.414049</northbc>
 <southbc>
-22.315033</southbc>
+22.253531</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
 <themekey>transportation</themekey>
+<themekey>structure</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Airports</themekey>
+<themekey>Tunnels</themekey>
+<themekey>Bridges</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -89,18 +91,18 @@ Infrastructure.</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_aerofacp.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_transtrl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
 </idinfo>
 <dataqual>
 <attracc>
-<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</attraccr>
+<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</attraccr>
 </attracc>
 <logic>Logical consistency is a measure of the degree to which data complies with the technical specification. Logical consistency was validated by tests to check that table and file names are set out as in the Data Dictionary. Graphical tests checking such things as intersections, polygon closure, minimum sizes of polygons and length of linear features were also carried out.</logic>
-<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</complete>
+<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
 <horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
@@ -108,7 +110,7 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
@@ -118,8 +120,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>Entity point</sdtstype>
-<ptvctcnt>1</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>20</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -148,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-hkg_aerofacp</enttypl>
-<enttypd>Airport/Airfield</enttypd>
+aze_transtrl</enttypl>
+<enttypd>Tunnel/Bridge/Ferry Route</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -172,61 +174,36 @@ hkg_aerofacp</enttypl>
 <attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
-<attrlabl>lko</attrlabl>
-</attr>
-<attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
-</attr>
-<attr>
-<attrlabl>use</attrlabl>
-<attrdef>Usage</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>Military/Defense</edomvd>
-</edom>
-<edom>
-<edomv>22</edomv>
-<edomvd>Joint Military/Defense/Civilian</edomvd>
-</edom>
-<edom>
-<edomv>49</edomv>
-<edomvd>Civilian/Public</edomvd>
-</edom>
-<edom>
-<edomv>999</edomv>
-<edomvd>Other</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>zv3</attrlabl>
-<attrdef>Elevation</attrdef>
-<attrdomv>
-<edom>
-<edomv>-500 to 9999</edomv>
-<edomvd>elevation in meters</edomvd>
-</edom>
-<edom>
-<edomv>29999</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-</attrdomv>
+<attrlabl>f_code_des</attrlabl>
+<attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
 <attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
+<attrlabl>tuc</attrlabl>
+<attrdef>Transportation Use Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Railroad</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>Road</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>tuc_descri</attrlabl>
+<attrdef>Transportation Use Category (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>end_id</attrlabl>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -250,19 +227,19 @@ hkg_aerofacp</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hkg_aerofacp</resdesc>
+<resdesc>iscgm_hongkong_2008_transtrl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.000</transize>
+<formspec>Zip</formspec>
+<transize>0.003</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090901</metd>
+<metd>20090923</metd>
 <metc>
 <cntinfo>
 <cntorgp>

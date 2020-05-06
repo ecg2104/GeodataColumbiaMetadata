@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2008</pubdate>
-<title>Hong Kong Built-up Areas (polygons), 2008</title>
+<title>Hong Kong Coast Lines, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hkg_builtupa.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_hongkong_2008_coastl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Hong Kong Built-up Areas (polygon) is a polygon theme representing built-up areas in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Hong Kong Coast Lines is a line theme representing  coastlines and shorelines in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,25 +41,24 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-113.854446</westbc>
+113.835038</westbc>
 <eastbc>
-114.296601</eastbc>
+114.441971</eastbc>
 <northbc>
-22.512276</northbc>
+22.555324</northbc>
 <southbc>
-22.198427</southbc>
+22.153778</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>society</themekey>
+<themekey>oceans</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Built-up Areas</themekey>
-<themekey>Cites</themekey>
-<themekey>towns</themekey>
+<themekey>Coastlines</themekey>
+<themekey>Shorelines</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -91,7 +90,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_builtupa.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_coastl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,8 +119,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>147</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>186</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-hkg_builtupa</enttypl>
-<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
+hkg_coastl</enttypl>
+<enttypd>Coastlines</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -174,18 +173,70 @@ hkg_builtupa</enttypl>
 <attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
+<attrlabl>acc</attrlabl>
+<attrdef>FACC feature code</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>exs</attrlabl>
+<attrdef>Existence Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Definite</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
+</edom>
+<edom>
+<edomv>44</edomv>
+<edomvd>Approximate/About</edomvd>
+</edom>
+<edom>
+<edomv>46</edomv>
+<edomvd>Man-made</edomvd>
+</edom>
+<edom>
+<edomv>55</edomv>
+<edomvd>Unexamined/Unsurveyed</edomvd>
+</edom>
+<edom>
+<edomv>60</edomv>
+<edomvd>Indefinite (Shoreline)</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Country code</attrdef>
+<attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>fac_id</attrlabl>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -209,19 +260,19 @@ hkg_builtupa</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hkg_builtupa</resdesc>
+<resdesc>iscgm_hongkong_2008_coastl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.059</transize>
+<transize>0.176</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090903</metd>
+<metd>20090911</metd>
 <metc>
 <cntinfo>
 <cntorgp>

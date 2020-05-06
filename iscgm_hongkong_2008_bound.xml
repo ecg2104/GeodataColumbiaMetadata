@@ -3,28 +3,19 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2008</pubdate>
-<title>Hong Kong Miscellaneous Hydrographic Features (lines), 2008</title>
+<pubdate>2006</pubdate>
+<title>Hong Kong Political Boundaries (polygons), 2006</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hkg_miscl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_hongkong_2008_bound.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Hong Kong Miscellaneous Hydrographic Features (lines) is a line theme representing dams, weirs, islands, springs and water-holes in Hong Kong.  This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for
-Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
-1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
-draft Map Specifications. The project currently involves the participation of many
-interested nations.
-The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
-geographic information at a scale of 1:1 million. This would be used to facilitate the
-implementation of global agreements and conventions for environmental protection,
-for monitoring of major environmental phenomena and to encourage economic
-growth within the context of sustainable development. As part of this objective, a
-Global Map product will be developed to this specification.
-The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+<abstract>Hong Kong Political Boundaries is an area theme representing administrative areas in Hong Kong. This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
+
+The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
+
+The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
@@ -41,27 +32,24 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-114.235118</westbc>
+113.835038</westbc>
 <eastbc>
-114.248324</eastbc>
+114.441971</eastbc>
 <northbc>
-22.468187</northbc>
+22.561940</northbc>
 <southbc>
-22.455370</southbc>
+22.153778</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>inlandWaters</themekey>
+<themekey>boundaries</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>dams</themekey>
-<themekey>weirs</themekey>
-<themekey>Islands</themekey>
-<themekey>springs</themekey>
-<themekey>water-holes</themekey>
+<themekey>Territories</themekey>
+<themekey>Administrative boundaries</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -77,7 +65,7 @@ Infrastructure</purpose>
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>Geographical Survey Institute</cntorg>
+<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 <cntper>Global Map Secretariat</cntper>
 </cntorgp>
 <cntaddr>
@@ -93,11 +81,11 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_miscl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkgBound.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
 <attracc>
@@ -117,12 +105,35 @@ need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
+<lineage>
+<procstep>
+<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.</procdesc>
+<procdate>2009</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>420 W. 118th St. 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212) 854-6012</cntvoice>
+<cntemail>dssc.data@columbia.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
+<sdtstype>G-polygon</sdtstype>
 <ptvctcnt>1</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
@@ -141,19 +152,12 @@ may not be available in areas of high relief.</vertaccr>
 <denflat>298.257224</denflat>
 </geodetic>
 </horizsys>
-<vertdef>
-<altsys>
-<altres>0.000100</altres>
-<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
-</altsys>
-</vertdef>
 </spref>
 <eainfo>
 <detailed>
 <enttyp>
 <enttypl>
-hkg_miscl</enttypl>
-<enttypd>Hydrographic features</enttypd>
+hkgBound</enttypl>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -172,57 +176,53 @@ hkg_miscl</enttypl>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>f_code</attrlabl>
-<attrdef>FACC feature Code</attrdef>
+<attrlabl>laa</attrlabl>
 </attr>
 <attr>
-<attrlabl>nam</attrlabl>
+<attrlabl>FIRST_f_co</attrlabl>
 </attr>
 <attr>
-<attrlabl>soc</attrlabl>
-<attrdef>FACC feature Code</attrdef>
+<attrlabl>FIRST_nam</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>FIRST_coc</attrlabl>
 </attr>
 <attr>
-<attrlabl>tile_id</attrlabl>
+<attrlabl>FIRST_soc</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntperp>
+<cntorgp>
+<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 <cntper>Global Map Secretariat</cntper>
-<cntorg>Geographical Survey Institute</cntorg>
-</cntperp>
+</cntorgp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>JAPAN</country>
+<country>305-0811</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntfax>+81-29-864-6923</cntfax>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hkg_miscl</resdesc>
+<resdesc>iscgm_hongkong_2008_bound</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>Zip</formspec>
-<transize>0.000</transize>
+<transize>0.619</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090911</metd>
+<metd>20090817</metd>
 <metc>
 <cntinfo>
 <cntorgp>

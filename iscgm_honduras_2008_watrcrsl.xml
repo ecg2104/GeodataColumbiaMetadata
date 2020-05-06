@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2008</pubdate>
-<title>Hong Kong Tunnels and Bridges, 2008</title>
+<title>Honduras Water Course, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/hkg_transtrl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_honduras_2008_watrcrsl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Hong Kong Tunnels and Bridges is a line theme representing  tunnels and bridges in Hong Kong.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Honduras Water Course is a line theme representing  rivers and streams in Honduras.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,29 +41,29 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-114.041546</westbc>
+-89.356651</westbc>
 <eastbc>
-114.249985</eastbc>
+-83.437729</eastbc>
 <northbc>
-22.414049</northbc>
+15.951486</northbc>
 <southbc>
-22.253531</southbc>
+12.999143</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
-<themekey>structure</themekey>
+<themekey>inlandWaters.</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Tunnels</themekey>
-<themekey>Bridges</themekey>
+<themekey>Rivers</themekey>
+<themekey>Streams</themekey>
+<themekey>Creeks</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>Hong Kong (China)</placekey>
+<placekey>Honduras</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -91,11 +91,11 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hkg_transtrl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/hnd_watrcrsl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
 <attracc>
@@ -121,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>20</ptvctcnt>
+<ptvctcnt>371</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_transtrl</enttypl>
-<enttypd>Tunnel/Bridge/Ferry Route</enttypd>
+aze_watrcrsl</enttypl>
+<enttypd>River/Stream</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,26 +178,38 @@ aze_transtrl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
-</attr>
-<attr>
-<attrlabl>tuc</attrlabl>
-<attrdef>Transportation Use Category</attrdef>
+<attrlabl>hyc</attrlabl>
+<attrdef>Hydrological Category</attrdef>
 <attrdomv>
 <edom>
-<edomv>3</edomv>
-<edomvd>Railroad</edomvd>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
 </edom>
 <edom>
-<edomv>4</edomv>
-<edomvd>Road</edomvd>
+<edomv>6</edomv>
+<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Perennial/Permanent</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>tuc_descri</attrlabl>
-<attrdef>Transportation Use Category (description)</attrdef>
+<attrlabl>hyc_descri</attrlabl>
+<attrdef>Hydrological Category (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
+</attr>
+<attr>
+<attrlabl>nam_descri</attrlabl>
+<attrdef>Name description</attrdef>
+</attr>
+<attr>
+<attrlabl>soc</attrlabl>
+<attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
@@ -227,19 +239,19 @@ aze_transtrl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_hkg_transtrl</resdesc>
+<resdesc>iscgm_honduras_2008_watrcrsl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.003</transize>
+<transize>0.543</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090923</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -260,9 +272,5 @@ aze_transtrl</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
-<metextns>
-<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-<metprof>ESRI Metadata Profile</metprof>
-</metextns>
 </metainfo>
 </metadata>
