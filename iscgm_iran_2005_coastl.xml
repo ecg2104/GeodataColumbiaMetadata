@@ -3,33 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2007</pubdate>
-<title>India Aqueducts, Canals, Flumes and Penstocks, 2007</title>
+<pubdate>2005</pubdate>
+<title>Iran Coast Lines, 2005</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_aquecanl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_coastl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Aqueducts, Canals, Flumes and Penstocks is a line theme representing  those inland water features in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Iran Coast Lines is a line theme representing  coastlines and shorelines in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
 draft Map Specifications. The project currently involves the participation of many
 interested nations.
 The main objective of this global project is to bring all nations and concerned
-organizations together to develop and provide easy and open access to global digital
+organisations together to develop and provide easy and open access to global digital
 geographic information at a scale of 1:1 million. This would be used to facilitate the
 implementation of global agreements and conventions for environmental protection,
 for monitoring of major environmental phenomena and to encourage economic
 growth within the context of sustainable development. As part of this objective, a
 Global Map product will be developed to this specification.
 The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure.</purpose>
+Infrastructure</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2007</caldate>
+<caldate>2005</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,36 +41,31 @@ Infrastructure.</purpose>
 <spdom>
 <bounding>
 <westbc>
-70.497955</westbc>
+48.032497</westbc>
 <eastbc>
-88.156998</eastbc>
+61.613270</eastbc>
 <northbc>
-32.351395</northbc>
+38.440067</northbc>
 <southbc>
-10.069545</southbc>
+25.061668</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
-<themekey>inlandWaters</themekey>
-<themekey>structure</themekey>
+<themekey>oceans</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Aqueducts</themekey>
-<themekey>Canals</themekey>
-<themekey>Flumes</themekey>
-<themekey>Penstocks</themekey>
+<themekey>Coastlines</themekey>
+<themekey>Shorelines</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Iran</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2007</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -94,18 +89,18 @@ Infrastructure.</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_aquecanl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_coastl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
 <attracc>
-<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</attraccr>
+<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</attraccr>
 </attracc>
 <logic>Logical consistency is a measure of the degree to which data complies with the technical specification. Logical consistency was validated by tests to check that table and file names are set out as in the Data Dictionary. Graphical tests checking such things as intersections, polygon closure, minimum sizes of polygons and length of linear features were also carried out.</logic>
-<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</complete>
+<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
 <horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
@@ -113,9 +108,9 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
-may not be available in areas of high relief</vertaccr>
+may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
 </dataqual>
@@ -124,7 +119,7 @@ may not be available in areas of high relief</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>705</ptvctcnt>
+<ptvctcnt>100</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -153,8 +148,8 @@ may not be available in areas of high relief</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-ind_aquecanl</enttypl>
-<enttypd>A pipe or artificial channel designed to transport water from a remote source, usually by gravity. A man-made or improved natural waterway used for transportation. An open, inclined channel which carries water for use in such operations as mining or logging. A pipeline or channel generally used by hydroelectric plants or water mills to transport water by gravity or under pressure.</enttypd>
+aze_coastl</enttypl>
+<enttypd>Coastlines</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -174,15 +169,41 @@ ind_aquecanl</enttypl>
 </attr>
 <attr>
 <attrlabl>f_code</attrlabl>
-<attrdef>FACC FEATURE CODE</attrdef>
+<attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
 <attrlabl>f_code_des</attrlabl>
-<attrdef>FACC FEATURE CODE (description)</attrdef>
+<attrdef>FACC feature code (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>acc</attrlabl>
+<attrdef>FACC feature code</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>exs</attrlabl>
-<attrdef>EXISTENCE CATEGORY</attrdef>
+<attrdef>Existence Category</attrdef>
 <attrdomv>
 <edom>
 <edomv>0</edomv>
@@ -193,44 +214,30 @@ ind_aquecanl</enttypl>
 <edomvd>Definite</edomvd>
 </edom>
 <edom>
-<edomv>5</edomv>
-<edomvd>Under Construction</edomvd>
+<edomv>3</edomv>
+<edomvd>Tentative</edomvd>
 </edom>
 <edom>
-<edomv>6</edomv>
-<edomvd>Abandoned/Disused</edomvd>
+<edomv>44</edomv>
+<edomvd>Approximate/About</edomvd>
+</edom>
+<edom>
+<edomv>46</edomv>
+<edomvd>Man-made</edomvd>
+</edom>
+<edom>
+<edomv>55</edomv>
+<edomvd>Unexamined/Unsurveyed</edomvd>
+</edom>
+<edom>
+<edomv>60</edomv>
+<edomvd>Indefinite (Shoreline)</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
 <attrlabl>exs_descri</attrlabl>
-<attrdef>EXISTENCE CATEGORY (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>loc</attrlabl>
-<attrdef>LOCATION CATEGORY</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>4</edomv>
-<edomvd>Below Surface/Submerged Underground</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>On ground surface</edomvd>
-</edom>
-<edom>
-<edomv>25</edomv>
-<edomvd>Suspended or Elevated Above Ground or Water Surface</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>loc_descri</attrlabl>
-<attrdef>LOCATION CATEGORY (description)</attrdef>
+<attrdef>Existence Category (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -247,10 +254,10 @@ ind_aquecanl</enttypl>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntorgp>
-<cntorg>Geographical Survey Institute</cntorg>
+<cntperp>
 <cntper>Global Map Secretariat</cntper>
-</cntorgp>
+<cntorg>Geographical Survey Institute</cntorg>
+</cntperp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
@@ -264,13 +271,13 @@ ind_aquecanl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_aquecanl</resdesc>
+<resdesc>iscgm_iran_2005_coastl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.300</transize>
+<formspec>Zip</formspec>
+<transize>0.550</transize>
 </digtinfo>
 </digform>
 </stdorder>
@@ -297,9 +304,5 @@ ind_aquecanl</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
-<metextns>
-<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-<metprof>ESRI Metadata Profile</metprof>
-</metextns>
 </metainfo>
 </metadata>

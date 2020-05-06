@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>India Water Course, 2007</title>
+<title>Indonesia Political Boundaries, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_watrcrsl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_polbndl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Water Course is a line theme representing  rivers and streams in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Indonesia Political Boundaries is a line theme representing  political boundaries in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,29 +41,28 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-68.492905</westbc>
+95.277100</westbc>
 <eastbc>
-97.245552</eastbc>
+141.021805</eastbc>
 <northbc>
-37.041405</northbc>
+5.601790</northbc>
 <southbc>
-8.087908</southbc>
+-10.199494</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>inlandWaters.</themekey>
+<themekey>boundaries</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Rivers</themekey>
-<themekey>Streams</themekey>
-<themekey>Creeks</themekey>
+<themekey>Territories</themekey>
+<themekey>Administrative boundaries</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Indonesia</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -91,7 +90,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_watrcrsl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_polbndl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -121,7 +120,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>21103</ptvctcnt>
+<ptvctcnt>1575</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_watrcrsl</enttypl>
-<enttypd>River/Stream</enttypd>
+aze_polbndl</enttypl>
+<enttypd>Administrative boundary</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,34 +177,30 @@ aze_watrcrsl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>hyc</attrlabl>
-<attrdef>Hydrological Category</attrdef>
+<attrlabl>acc</attrlabl>
+<attrdef>Accuracy Category</attrdef>
 <attrdomv>
 <edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
 </edom>
 <edom>
-<edomv>6</edomv>
-<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>Perennial/Permanent</edomvd>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>hyc_descri</attrlabl>
-<attrdef>Hydrological Category (description)</attrdef>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>Accuracy Category</attrdef>
 </attr>
 <attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
+<attrlabl>use</attrlabl>
+<attrdef>Usage</attrdef>
 </attr>
 <attr>
-<attrlabl>nam_descri</attrlabl>
-<attrdef>Name description</attrdef>
+<attrlabl>use_descri</attrlabl>
+<attrdef>Usage description</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -239,13 +234,13 @@ aze_watrcrsl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_watrcrsl</resdesc>
+<resdesc>iscgm_indonesia_2007_polbndl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>13.841</transize>
+<transize>4.625</transize>
 </digtinfo>
 </digform>
 </stdorder>

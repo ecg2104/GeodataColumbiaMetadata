@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>India Political Boundaries, 2007</title>
+<title>Indonesia Built-up Areas (polygons), 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_polbndl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_builtupa.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Political Boundaries is a line theme representing  political boundaries in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Indonesia Built-up Areas (polygon) is a polygon theme representing built-up areas in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,28 +41,29 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-68.098434</westbc>
+95.269447</westbc>
 <eastbc>
-97.407837</eastbc>
+140.739304</eastbc>
 <northbc>
-37.089333</northbc>
+5.577194</northbc>
 <southbc>
-8.144100</southbc>
+-8.222500</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>boundaries</themekey>
+<themekey>society</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Territories</themekey>
-<themekey>Administrative boundaries</themekey>
+<themekey>Built-up Areas</themekey>
+<themekey>Cites</themekey>
+<themekey>towns</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Indonesia</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -90,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_polbndl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_builtupa.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -119,8 +120,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>5950</ptvctcnt>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>129</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_polbndl</enttypl>
-<enttypd>Administrative boundary</enttypd>
+aze_builtupa</enttypl>
+<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -177,40 +178,18 @@ aze_polbndl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>acc</attrlabl>
-<attrdef>Accuracy Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>1</edomv>
-<edomvd>Accurate</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Approximate</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>acc_descri</attrlabl>
-<attrdef>Accuracy Category</attrdef>
-</attr>
-<attr>
-<attrlabl>use</attrlabl>
-<attrdef>Usage</attrdef>
-</attr>
-<attr>
-<attrlabl>use_descri</attrlabl>
-<attrdef>Usage description</attrdef>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
+<attrdef>Country code</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>fac_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -234,13 +213,13 @@ aze_polbndl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_polbndl</resdesc>
+<resdesc>iscgm_indonesia_2007_builtupa</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>6.998</transize>
+<transize>0.087</transize>
 </digtinfo>
 </digform>
 </stdorder>

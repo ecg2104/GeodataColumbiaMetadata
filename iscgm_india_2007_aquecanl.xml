@@ -4,27 +4,27 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>India Railyards, 2007</title>
+<title>India Aqueducts, Canals, Flumes and Penstocks, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_rryardp.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_india_2007_aquecanl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Railyards is a point theme representing  Railyards in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>India Aqueducts, Canals, Flumes and Penstocks is a line theme representing  those inland water features in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
 draft Map Specifications. The project currently involves the participation of many
 interested nations.
 The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
+organizations together to develop and provide easy and open access to global digital
 geographic information at a scale of 1:1 million. This would be used to facilitate the
 implementation of global agreements and conventions for environmental protection,
 for monitoring of major environmental phenomena and to encourage economic
 growth within the context of sustainable development. As part of this objective, a
 Global Map product will be developed to this specification.
 The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
@@ -41,25 +41,28 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-69.033012</westbc>
+70.497955</westbc>
 <eastbc>
-95.863640</eastbc>
+88.156998</eastbc>
 <northbc>
-32.039242</northbc>
+32.351395</northbc>
 <southbc>
-8.191930</southbc>
+10.069545</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
 <themekey>transportation</themekey>
+<themekey>inlandWaters</themekey>
 <themekey>structure</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Rail stations</themekey>
-<themekey>Railyards</themekey>
+<themekey>Aqueducts</themekey>
+<themekey>Canals</themekey>
+<themekey>Flumes</themekey>
+<themekey>Penstocks</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -91,18 +94,18 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_rryardp.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_aquecanl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
-<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
 </idinfo>
 <dataqual>
 <attracc>
-<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</attraccr>
+<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</attraccr>
 </attracc>
 <logic>Logical consistency is a measure of the degree to which data complies with the technical specification. Logical consistency was validated by tests to check that table and file names are set out as in the Data Dictionary. Graphical tests checking such things as intersections, polygon closure, minimum sizes of polygons and length of linear features were also carried out.</logic>
-<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
+<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
 <horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
@@ -110,9 +113,9 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
-may not be available in areas of high relief.</vertaccr>
+may not be available in areas of high relief</vertaccr>
 </vertacc>
 </posacc>
 </dataqual>
@@ -120,8 +123,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>Entity point</sdtstype>
-<ptvctcnt>3993</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>705</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +153,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_rryardp</enttypl>
-<enttypd>Railyards</enttypd>
+ind_aquecanl</enttypl>
+<enttypd>A pipe or artificial channel designed to transport water from a remote source, usually by gravity. A man-made or improved natural waterway used for transportation. An open, inclined channel which carries water for use in such operations as mining or logging. A pipeline or channel generally used by hydroelectric plants or water mills to transport water by gravity or under pressure.</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -171,11 +174,63 @@ aze_rryardp</enttypl>
 </attr>
 <attr>
 <attrlabl>f_code</attrlabl>
-<attrdef>FACC feature code</attrdef>
+<attrdef>FACC FEATURE CODE</attrdef>
 </attr>
 <attr>
 <attrlabl>f_code_des</attrlabl>
-<attrdef>FACC feature code (description)</attrdef>
+<attrdef>FACC FEATURE CODE (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>exs</attrlabl>
+<attrdef>EXISTENCE CATEGORY</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Definite</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>Under Construction</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>Abandoned/Disused</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>exs_descri</attrlabl>
+<attrdef>EXISTENCE CATEGORY (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>loc</attrlabl>
+<attrdef>LOCATION CATEGORY</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>4</edomv>
+<edomvd>Below Surface/Submerged Underground</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>On ground surface</edomvd>
+</edom>
+<edom>
+<edomv>25</edomv>
+<edomvd>Suspended or Elevated Above Ground or Water Surface</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>loc_descri</attrlabl>
+<attrdef>LOCATION CATEGORY (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -185,17 +240,17 @@ aze_rryardp</enttypl>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>end_id</attrlabl>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntperp>
-<cntper>Global Map Secretariat</cntper>
+<cntorgp>
 <cntorg>Geographical Survey Institute</cntorg>
-</cntperp>
+<cntper>Global Map Secretariat</cntper>
+</cntorgp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
@@ -209,13 +264,13 @@ aze_rryardp</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_rryardp</resdesc>
+<resdesc>iscgm_india_2007_aquecanl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
-<formspec>Zip</formspec>
-<transize>0.168</transize>
+<formspec>zip</formspec>
+<transize>0.300</transize>
 </digtinfo>
 </digform>
 </stdorder>
@@ -242,5 +297,9 @@ aze_rryardp</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
 </metainfo>
 </metadata>

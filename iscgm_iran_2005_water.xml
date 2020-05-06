@@ -7,7 +7,7 @@
 				<pubdate>2008</pubdate>
 				<title>Iran Inland Waters, 2008</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/irnWater.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_water.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -247,7 +247,7 @@ indWater</enttypl>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_irnwater</resdesc>
+		<resdesc>iscgm_iran_2005_water</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>

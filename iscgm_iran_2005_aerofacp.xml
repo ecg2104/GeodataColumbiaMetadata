@@ -7,7 +7,7 @@
 				<pubdate>2005</pubdate>
 				<title>Iran Airports, 2005</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/irn_aerofacp.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_aerofacp.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -258,7 +258,7 @@ irn_aerofacp</enttypl>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_irn_aerofacp</resdesc>
+		<resdesc>iscgm_iran_2005_aerofacp</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>

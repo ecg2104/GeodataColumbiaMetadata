@@ -5,13 +5,13 @@
 			<citeinfo>
 				<origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 				<pubdate>2005</pubdate>
-				<title>Iran Water Course, 2005</title>
+				<title>Iran Miscellaneous Hydrographic Features (points), 2005</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/irn_watercrsl.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_miscp.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>Iran Water Course is a line theme representing  rivers and streams in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+			<abstract>Iran Miscellaneous Hydrographic Features (points) is a point theme representing dams, weirs, islands, springs and water-holes in Iran.  This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 			<purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -42,25 +42,27 @@ Infrastructure</purpose>
 		<spdom>
 			<bounding>
 				<westbc>
-44.223236</westbc>
+44.599998</westbc>
 				<eastbc>
-63.260899</eastbc>
+61.683300</eastbc>
 				<northbc>
-39.692604</northbc>
+39.266701</northbc>
 				<southbc>
-25.163708</southbc>
+26.016701</southbc>
 			</bounding>
 		</spdom>
 		<keywords>
 			<theme>
 				<themekt>ISO 19115 Topic Categories</themekt>
-				<themekey>inlandWaters.</themekey>
+				<themekey>inlandWaters</themekey>
 			</theme>
 			<theme>
 				<themekt>None</themekt>
-				<themekey>Rivers</themekey>
-				<themekey>Streams</themekey>
-				<themekey>Creeks</themekey>
+				<themekey>dams</themekey>
+				<themekey>weirs</themekey>
+				<themekey>Islands</themekey>
+				<themekey>springs</themekey>
+				<themekey>water-holes</themekey>
 			</theme>
 			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
@@ -91,7 +93,7 @@ Infrastructure</purpose>
 			</cntinfo>
 		</ptcontac>
 		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_watrcrsl.jpg</browsen>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_miscp.jpg</browsen>
 			<browsed>Thumbnail Image</browsed>
 			<browset>JPEG</browset>
 		</browse>
@@ -119,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
-			<sdtsterm><sdtstype>String</sdtstype></sdtsterm></ptvctinf>
+			<sdtsterm><sdtstype>Entity point</sdtstype><ptvctcnt>41</ptvctcnt></sdtsterm></ptvctinf>
 	</spdoinfo>
 	<spref>
 		<horizsys>
@@ -146,8 +148,8 @@ may not be available in areas of high relief.</vertaccr>
 		<detailed>
 			<enttyp>
 				<enttypl>
-aze_watrcrsl</enttypl>
-				<enttypd>River/Stream</enttypd>
+aze_miscp</enttypl>
+				<enttypd>Hydrographic features</enttypd>
 			</enttyp>
 			<attr>
 				<attrlabl>FID</attrlabl>
@@ -167,51 +169,21 @@ aze_watrcrsl</enttypl>
 			</attr>
 			<attr>
 				<attrlabl>f_code</attrlabl>
-				<attrdef>FACC feature code</attrdef>
+				<attrdef>FACC feature Code</attrdef>
 			</attr>
 			<attr>
 				<attrlabl>f_code_des</attrlabl>
-				<attrdef>FACC feature code (description)</attrdef>
-			</attr>
-			<attr>
-				<attrlabl>hyc</attrlabl>
-				<attrdef>Hydrological Category</attrdef>
-				<attrdomv>
-					<edom>
-						<edomv>0</edomv>
-						<edomvd>Unknown</edomvd>
-					</edom>
-					<edom>
-						<edomv>6</edomv>
-						<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
-					</edom>
-					<edom>
-						<edomv>8</edomv>
-						<edomvd>Perennial/Permanent</edomvd>
-					</edom>
-				</attrdomv>
-			</attr>
-			<attr>
-				<attrlabl>hyc_descri</attrlabl>
-				<attrdef>Hydrological Category (description)</attrdef>
-			</attr>
-			<attr>
-				<attrlabl>nam</attrlabl>
-				<attrdef>Name</attrdef>
-			</attr>
-			<attr>
-				<attrlabl>nam_descri</attrlabl>
-				<attrdef>Name description</attrdef>
+				<attrdef>FACC feature Code description</attrdef>
 			</attr>
 			<attr>
 				<attrlabl>soc</attrlabl>
-				<attrdef>Source Country or VMA</attrdef>
+				<attrdef>FACC feature Code</attrdef>
 			</attr>
 			<attr>
 				<attrlabl>tile_id</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>edg_id</attrlabl>
+				<attrlabl>end_id</attrlabl>
 			</attr>
 		</detailed>
 	</eainfo>
@@ -235,13 +207,13 @@ aze_watrcrsl</enttypl>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_irn_watrcrsl</resdesc>
+		<resdesc>iscgm_iran_2005_miscp</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>
 					<formname>Shapefile</formname>
 					<formspec>Zip</formspec>
-					<transize>1.583</transize>
+					<transize>0.002</transize>
 				</digtinfo>
 			</digform>
 		</stdorder>

@@ -3,24 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2008</pubdate>
-<title>India Inland Waters, 2008</title>
+<pubdate>2007</pubdate>
+<title>Indonesia Airports, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/indWater.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_aerofacp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Inland Waters is a polygon theme representing  inland water features in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
-
-The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
-
-The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
+<abstract>Indonesia Airports is a point theme representing airports and airfields in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for
+Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
+1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
+draft Map Specifications. The project currently involves the participation of many
+interested nations.
+The main objective of this global project is to bring all nations and concerned
+organizations together to develop and provide easy and open access to global digital
+geographic information at a scale of 1:1 million. This would be used to facilitate the
+implementation of global agreements and conventions for environmental protection,
+for monitoring of major environmental phenomena and to encourage economic
+growth within the context of sustainable development. As part of this objective, a
+Global Map product will be developed to this specification.
+The Global Map will also contribute to the development of a Global Spatial Data
+Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2008</caldate>
+<caldate>2007</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -32,34 +41,31 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <spdom>
 <bounding>
 <westbc>
-68.750084</westbc>
+95.340279</westbc>
 <eastbc>
-96.417961</eastbc>
+140.515274</eastbc>
 <northbc>
-35.901524</northbc>
+5.873333</northbc>
 <southbc>
-8.323546</southbc>
+-9.672194</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>inlandWaters</themekey>
+<themekey>transportation</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Rivers</themekey>
-<themekey>Streams</themekey>
-<themekey>Creeks</themekey>
-<themekey>Lakes</themekey>
+<themekey>Airports</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Indonesia</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2008</tempkey>
+<tempkey>2007</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -67,7 +73,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntorg>Geographical Survey Institute</cntorg>
 <cntper>Global Map Secretariat</cntper>
 </cntorgp>
 <cntaddr>
@@ -83,7 +89,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/indWater.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_aerofacp.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -91,10 +97,10 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 </idinfo>
 <dataqual>
 <attracc>
-<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</attraccr>
+<attraccr>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</attraccr>
 </attracc>
 <logic>Logical consistency is a measure of the degree to which data complies with the technical specification. Logical consistency was validated by tests to check that table and file names are set out as in the Data Dictionary. Graphical tests checking such things as intersections, polygon closure, minimum sizes of polygons and length of linear features were also carried out.</logic>
-<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
+<complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalized so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
 <horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
@@ -102,41 +108,18 @@ location. In the case of data obtained from satellite images, the maximum error
 is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
+<vertaccr>Vertical accuracy is notionally  within 150 meters for 90% of points. This figure may
 need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
-<lineage>
-<procstep>
-<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.  If necessary, further geometry repair was done by hand.</procdesc>
-<procdate>2009</procdate>
-<proccont>
-<cntinfo>
-<cntorgp>
-<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
-</cntorgp>
-<cntaddr>
-<addrtype>mailing and physical address</addrtype>
-<address>420 W. 118th St. 215 IAB, MC 3301</address>
-<city>New York</city>
-<state>NY</state>
-<postal>10027</postal>
-<country>USA</country>
-</cntaddr>
-<cntvoice>(212) 854-6012</cntvoice>
-<cntemail>data@library.columbia.edu</cntemail>
-</cntinfo>
-</proccont>
-</procstep>
-</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>1131</ptvctcnt>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>80</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -165,8 +148,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-indWater</enttypl>
-<enttypd>Water Feature</enttypd>
+idn_aerofacp</enttypl>
+<enttypd>Airport/Airfield</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -190,33 +173,59 @@ indWater</enttypl>
 </attr>
 <attr>
 <attrlabl>f_code_des</attrlabl>
-<attrdef>FACC feature code (description)</attrdef>
+<attrdef>FACC feature code description</attrdef>
 </attr>
 <attr>
-<attrlabl>hyc</attrlabl>
-<attrdef>Hydrological Category</attrdef>
+<attrlabl>iko</attrlabl>
+<attrdef>ICAO Designator</attrdef>
+</attr>
+<attr>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
+</attr>
+<attr>
+<attrlabl>use</attrlabl>
+<attrdef>Usage</attrdef>
 <attrdomv>
 <edom>
 <edomv>0</edomv>
 <edomvd>Unknown</edomvd>
 </edom>
 <edom>
-<edomv>6</edomv>
-<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+<edomv>8</edomv>
+<edomvd>Military/Defense</edomvd>
 </edom>
 <edom>
-<edomv>8</edomv>
-<edomvd>Perennial/Permanent</edomvd>
+<edomv>22</edomv>
+<edomvd>Joint Military/Defense/Civilian</edomvd>
+</edom>
+<edom>
+<edomv>49</edomv>
+<edomvd>Civilian/Public</edomvd>
+</edom>
+<edom>
+<edomv>999</edomv>
+<edomvd>Other</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>hyc_descri</attrlabl>
-<attrdef>Hydrological Category</attrdef>
+<attrlabl>use_descri</attrlabl>
+<attrdef>Use description</attrdef>
 </attr>
 <attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
+<attrlabl>zv3</attrlabl>
+<attrdef>Elevation</attrdef>
+<attrdomv>
+<edom>
+<edomv>-500 to 9999</edomv>
+<edomvd>elevation in meters</edomvd>
+</edom>
+<edom>
+<edomv>29999</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+</attrdomv>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -226,45 +235,47 @@ indWater</enttypl>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>fac_id</attrlabl>
+<attrlabl>end_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntperp>
 <cntper>Global Map Secretariat</cntper>
-</cntorgp>
+<cntorg>Geographical Survey Institute</cntorg>
+</cntperp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>305-0811</country>
+<country>JAPAN</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntfax>+81-29-864-6923</cntfax>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_indwater</resdesc>
+<resdesc>iscgm_indonesia_2007_aerofacp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<transize>3.314</transize>
+<formname>Shapefile</formname>
+<formspec>zip</formspec>
+<transize>0.003</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090817</metd>
+<metd>20090901</metd>
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -275,7 +286,7 @@ indWater</enttypl>
 <postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>data@library.columbia.edu</cntemail>
+<cntemail>dssc.data@columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

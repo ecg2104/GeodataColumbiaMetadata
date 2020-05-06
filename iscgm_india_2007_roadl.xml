@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>Indonesia Railroads, 2007</title>
+<title>India Roads, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/idn_railrdl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_india_2007_roadl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Indonesia Railroads is a line theme representing  railroads in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>India Roads is a line theme representing  roadways in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,13 +41,13 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-95.292114</westbc>
+68.695778</westbc>
 <eastbc>
-114.875748</eastbc>
+96.361168</eastbc>
 <northbc>
-5.561750</northbc>
+36.896194</northbc>
 <southbc>
--8.342278</southbc>
+8.081396</southbc>
 </bounding>
 </spdom>
 <keywords>
@@ -57,12 +57,13 @@ Infrastructure</purpose>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Railroads</themekey>
-<themekey>Rail lines</themekey>
+<themekey>Roadways</themekey>
+<themekey>Streets</themekey>
+<themekey>Roads</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>Indonesia</placekey>
+<placekey>India</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -90,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_railrdl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_roadl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>String</sdtstype>
-<ptvctcnt>1122</ptvctcnt>
+<ptvctcnt>31684</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_railrdl</enttypl>
-<enttypd>Railroad</enttypd>
+aze_roadl</enttypl>
+<enttypd>Road</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -177,12 +178,30 @@ aze_railrdl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
+<attrlabl>acc</attrlabl>
+<attrdef>Accuracy Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>Accuracy Category (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>exs</attrlabl>
 <attrdef>Existence Category</attrdef>
 <attrdomv>
 <edom>
 <edomv>2</edomv>
-<edomvd>Existence Category</edomvd>
+<edomvd>Doubtful</edomvd>
 </edom>
 <edom>
 <edomv>5</edomv>
@@ -196,10 +215,6 @@ aze_railrdl</enttypl>
 <edomv>55</edomv>
 <edomvd>Unexamined/Unsurveyed</edomvd>
 </edom>
-<edom>
-<edomv>59</edomv>
-<edomvd>Not Useable</edomvd>
-</edom>
 </attrdomv>
 </attr>
 <attr>
@@ -207,26 +222,96 @@ aze_railrdl</enttypl>
 <attrdef>Existence Category (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>fco</attrlabl>
-<attrdef>Feature Configuration</attrdef>
+<attrlabl>med</attrlabl>
+<attrdef>Median Category</attrdef>
 <attrdomv>
 <edom>
 <edomv>0</edomv>
 <edomvd>Unknown</edomvd>
 </edom>
 <edom>
-<edomv>2</edomv>
-<edomvd>Multiple</edomvd>
+<edomv>1</edomv>
+<edomvd>With Median</edomvd>
 </edom>
 <edom>
-<edomv>3</edomv>
-<edomvd>Multiple</edomvd>
+<edomv>2</edomv>
+<edomvd>Without Median</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>fco_descri</attrlabl>
-<attrdef>Feature Configuration (description)</attrdef>
+<attrlabl>med_descri</attrlabl>
+<attrdef>Median Category (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rst</attrlabl>
+<attrdef>Surface</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Surface</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Not paved</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rst_descri</attrlabl>
+<attrdef>Surface (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rsu</attrlabl>
+<attrdef>Seasonal availability</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>All Year</edomvd>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>All Year</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rsu_descri</attrlabl>
+<attrdef>Seasonal availability (description)</attrdef>
+</attr>
+<attr>
+<attrlabl>rtt</attrlabl>
+<attrdef>Route Intended Use</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>14</edomv>
+<edomvd>Primary route</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>Primary route</edomvd>
+</edom>
+<edom>
+<edomv>16</edomv>
+<edomvd>Limited access route (freeway)</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>rtt_descri</attrlabl>
+<attrdef>Route Intended Use (description)</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -260,13 +345,13 @@ aze_railrdl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_idn_railrdl</resdesc>
+<resdesc>iscgm_india_2007_roadl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.296</transize>
+<transize>8.993</transize>
 </digtinfo>
 </digform>
 </stdorder>

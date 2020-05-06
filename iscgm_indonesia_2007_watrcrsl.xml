@@ -3,14 +3,14 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2005</pubdate>
-<title>Iran Built-up Areas (polygons), 2005</title>
+<pubdate>2007</pubdate>
+<title>Indonesia Water Course, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/irn_builtupa.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_watrcrsl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Iran Built-up Areas (polygon) is a polygon theme representing built-up areas in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Indonesia Water Course is a line theme representing  rivers and streams in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -29,7 +29,7 @@ Infrastructure</purpose>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2005</caldate>
+<caldate>2007</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,32 +41,33 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-51.357132</westbc>
+95.244484</westbc>
 <eastbc>
-51.570835</eastbc>
+141.021729</eastbc>
 <northbc>
-35.778351</northbc>
+5.873055</northbc>
 <southbc>
-35.632965</southbc>
+-10.618830</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>society</themekey>
+<themekey>inlandWaters.</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Built-up Areas</themekey>
-<themekey>Cites</themekey>
-<themekey>towns</themekey>
+<themekey>Rivers</themekey>
+<themekey>Streams</themekey>
+<themekey>Creeks</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>Iran</placekey>
+<placekey>Indonesia</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
+<tempkey>2007</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -90,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_builtupa.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_watrcrsl.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -119,8 +120,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>1</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>14131</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_builtupa</enttypl>
-<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
+aze_watrcrsl</enttypl>
+<enttypd>River/Stream</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -177,18 +178,44 @@ aze_builtupa</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
+<attrlabl>hyc</attrlabl>
+<attrdef>Hydrological Category</attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+<edom>
+<edomv>6</edomv>
+<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+</edom>
+<edom>
+<edomv>8</edomv>
+<edomvd>Perennial/Permanent</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>hyc_descri</attrlabl>
+<attrdef>Hydrological Category (description)</attrdef>
+</attr>
+<attr>
 <attrlabl>nam</attrlabl>
 <attrdef>Name</attrdef>
 </attr>
 <attr>
+<attrlabl>nam_descri</attrlabl>
+<attrdef>Name description</attrdef>
+</attr>
+<attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Country code</attrdef>
+<attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>fac_id</attrlabl>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -212,13 +239,13 @@ aze_builtupa</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_irn_builtupa</resdesc>
+<resdesc>iscgm_indonesia_2007_watrcrsl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.001</transize>
+<transize>8.563</transize>
 </digtinfo>
 </digform>
 </stdorder>

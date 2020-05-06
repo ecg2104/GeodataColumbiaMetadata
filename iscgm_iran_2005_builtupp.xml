@@ -3,24 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2006</pubdate>
-<title>India Political Boundaries (polygons), 2006</title>
+<pubdate>2005</pubdate>
+<title>Iran Built-up Areas (points), 2005</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/indBound.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_builtupp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Political Boundaries is an area theme representing administrative areas in India. This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
-
-The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
-
-The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
+<abstract>Iran Built-up Areas is a point theme representing  built-up areas in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for
+Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
+1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
+draft Map Specifications. The project currently involves the participation of many
+interested nations.
+The main objective of this global project is to bring all nations and concerned
+organisations together to develop and provide easy and open access to global digital
+geographic information at a scale of 1:1 million. This would be used to facilitate the
+implementation of global agreements and conventions for environmental protection,
+for monitoring of major environmental phenomena and to encourage economic
+growth within the context of sustainable development. As part of this objective, a
+Global Map product will be developed to this specification.
+The Global Map will also contribute to the development of a Global Spatial Data
+Infrastructure</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2008</caldate>
+<caldate>2005</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -32,32 +41,32 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <spdom>
 <bounding>
 <westbc>
-68.123817</westbc>
+44.234032</westbc>
 <eastbc>
-97.407837</eastbc>
+63.016949</eastbc>
 <northbc>
-37.089333</northbc>
+39.703899</northbc>
 <southbc>
-6.762208</southbc>
+25.294950</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>boundaries</themekey>
+<themekey>society</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Territories</themekey>
-<themekey>Administrative boundaries</themekey>
+<themekey>Built-up Areas</themekey>
+<themekey>Cities</themekey>
+<themekey>Towns</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Iran</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2008</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -65,7 +74,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntorg>Geographical Survey Institute</cntorg>
 <cntper>Global Map Secretariat</cntper>
 </cntorgp>
 <cntaddr>
@@ -81,7 +90,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/indBound.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_builtupp.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -105,36 +114,13 @@ need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
-<lineage>
-<procstep>
-<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.</procdesc>
-<procdate>2009</procdate>
-<proccont>
-<cntinfo>
-<cntorgp>
-<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
-</cntorgp>
-<cntaddr>
-<addrtype>mailing address</addrtype>
-<address>420 W. 118th St. 215 IAB, MC 3301</address>
-<city>New York</city>
-<state>NY</state>
-<postal>10027</postal>
-<country>USA</country>
-</cntaddr>
-<cntvoice>(212) 854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
-</cntinfo>
-</proccont>
-</procstep>
-</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>594</ptvctcnt>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>2227</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -163,7 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-indBound</enttypl>
+aze_builtupp</enttypl>
+<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -182,56 +169,62 @@ indBound</enttypl>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>laa</attrlabl>
+<attrlabl>f_code</attrlabl>
+<attrdef>FACC feature code</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_f_co</attrlabl>
+<attrlabl>f_code_des</attrlabl>
+<attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_f__1</attrlabl>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_coc</attrlabl>
+<attrlabl>soc</attrlabl>
+<attrdef>Source Country or VMA</attrdef>
 </attr>
 <attr>
-<attrlabl>FIRST_nam</attrlabl>
+<attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>FIRST_soc</attrlabl>
+<attrlabl>end_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
 <distinfo>
 <distrib>
 <cntinfo>
-<cntorgp>
-<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+<cntperp>
 <cntper>Global Map Secretariat</cntper>
-</cntorgp>
+<cntorg>Geographical Survey Institute</cntorg>
+</cntperp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>Geographical Survey Institute, Kitasato 1</address>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>305-0811</country>
+<country>JAPAN</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntfax>+81-29-864-6923</cntfax>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_indbound</resdesc>
+<resdesc>iscgm_iran_2005_builtupp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<transize>0.619</transize>
+<formname>Shapefile</formname>
+<formspec>Zip</formspec>
+<transize>0.094</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090817</metd>
+<metd>20090910</metd>
 <metc>
 <cntinfo>
 <cntorgp>
@@ -252,9 +245,5 @@ indBound</enttypl>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
-<metextns>
-<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-<metprof>ESRI Metadata Profile</metprof>
-</metextns>
 </metainfo>
 </metadata>

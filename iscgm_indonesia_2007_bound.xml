@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
 				<origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-				<pubdate>2005</pubdate>
-				<title>Iran Miscellaneous Hydrographic Features (points), 2005</title>
+				<pubdate>2006</pubdate>
+				<title>Indonesia Political Boundaries (polygons), 2006</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/irn_miscp.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_bound.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>Iran Miscellaneous Hydrographic Features (points) is a point theme representing dams, weirs, islands, springs and water-holes in Iran.  This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
-			<purpose>The concept of Global Mapping, and the establishment of an international body for
-Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
-1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
-draft Map Specifications. The project currently involves the participation of many
-interested nations.
-The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
-geographic information at a scale of 1:1 million. This would be used to facilitate the
-implementation of global agreements and conventions for environmental protection,
-for monitoring of major environmental phenomena and to encourage economic
-growth within the context of sustainable development. As part of this objective, a
-Global Map product will be developed to this specification.
-The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+			<abstract>Indonesia Political Boundaries is an area theme representing administrative areas in Indonesia. This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+			<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
+
+The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
+
+The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
 		</descript>
 		<timeperd>
 			<timeinfo>
 				<sngdate>
-					<caldate>2005</caldate>
+					<caldate>2008</caldate>
 				</sngdate>
 			</timeinfo>
 			<current>publication date</current>
@@ -42,34 +34,32 @@ Infrastructure</purpose>
 		<spdom>
 			<bounding>
 				<westbc>
-44.599998</westbc>
+95.009331</westbc>
 				<eastbc>
-61.683300</eastbc>
+141.021805</eastbc>
 				<northbc>
-39.266701</northbc>
+5.904410</northbc>
 				<southbc>
-26.016701</southbc>
+-11.004850</southbc>
 			</bounding>
 		</spdom>
 		<keywords>
 			<theme>
 				<themekt>ISO 19115 Topic Categories</themekt>
-				<themekey>inlandWaters</themekey>
+				<themekey>boundaries</themekey>
 			</theme>
 			<theme>
 				<themekt>None</themekt>
-				<themekey>dams</themekey>
-				<themekey>weirs</themekey>
-				<themekey>Islands</themekey>
-				<themekey>springs</themekey>
-				<themekey>water-holes</themekey>
+				<themekey>Territories</themekey>
+				<themekey>Administrative boundaries</themekey>
 			</theme>
 			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
-				<placekey>Iran</placekey>
+				<placekey>Indonesia</placekey>
 			</place>
 			<temporal>
 				<tempkt>None</tempkt>
+				<tempkey>2008</tempkey>
 			</temporal>
 		</keywords>
 		<accconst>None</accconst>
@@ -77,7 +67,7 @@ Infrastructure</purpose>
 		<ptcontac>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Geographical Survey Institute</cntorg>
+					<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 					<cntper>Global Map Secretariat</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -93,7 +83,7 @@ Infrastructure</purpose>
 			</cntinfo>
 		</ptcontac>
 		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_miscp.jpg</browsen>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idnBound.jpg</browsen>
 			<browsed>Thumbnail Image</browsed>
 			<browset>JPEG</browset>
 		</browse>
@@ -117,11 +107,38 @@ need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 			</vertacc>
 		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class,  and the feature were dissolved to remove the sections created by the tiling of the datasets.</procdesc>
+				<procdate>2009</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>420 W. 118th St. 215 IAB, MC 3301</address>
+							<city>New York</city>
+							<state>NY</state>
+							<postal>10027</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(212) 854-6012</cntvoice>
+						<cntemail>dssc.data@columbia.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
-			<sdtsterm><sdtstype>Entity point</sdtstype><ptvctcnt>41</ptvctcnt></sdtsterm></ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>444</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
 	</spdoinfo>
 	<spref>
 		<horizsys>
@@ -137,19 +154,12 @@ may not be available in areas of high relief.</vertaccr>
 				<denflat>298.257224</denflat>
 			</geodetic>
 		</horizsys>
-		<vertdef>
-			<altsys>
-				<altres>0.000100</altres>
-				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
-			</altsys>
-		</vertdef>
 	</spref>
 	<eainfo>
 		<detailed>
 			<enttyp>
 				<enttypl>
-aze_miscp</enttypl>
-				<enttypd>Hydrographic features</enttypd>
+idnBound</enttypl>
 			</enttyp>
 			<attr>
 				<attrlabl>FID</attrlabl>
@@ -168,58 +178,56 @@ aze_miscp</enttypl>
 				</attrdomv>
 			</attr>
 			<attr>
-				<attrlabl>f_code</attrlabl>
-				<attrdef>FACC feature Code</attrdef>
+				<attrlabl>laa</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>f_code_des</attrlabl>
-				<attrdef>FACC feature Code description</attrdef>
+				<attrlabl>FIRST_f_co</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>soc</attrlabl>
-				<attrdef>FACC feature Code</attrdef>
+				<attrlabl>FIRST_f__1</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>tile_id</attrlabl>
+				<attrlabl>FIRST_coc</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>end_id</attrlabl>
+				<attrlabl>FIRST_nam</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FIRST_soc</attrlabl>
 			</attr>
 		</detailed>
 	</eainfo>
 	<distinfo>
 		<distrib>
 			<cntinfo>
-				<cntperp>
+				<cntorgp>
+					<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
 					<cntper>Global Map Secretariat</cntper>
-					<cntorg>Geographical Survey Institute</cntorg>
-				</cntperp>
+				</cntorgp>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
 					<address>Geographical Survey Institute, Kitasato 1</address>
 					<city>Tsukuba</city>
 					<state>Ibaraki</state>
 					<postal>305-0811</postal>
-					<country>JAPAN</country>
+					<country>305-0811</country>
 				</cntaddr>
 				<cntvoice>+81-29-864-6910</cntvoice>
 				<cntfax>+81-29-864-6923</cntfax>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_irn_miscp</resdesc>
+		<resdesc>iscgm_indonesia_2007_bound</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>Zip</formspec>
-					<transize>0.002</transize>
+					<transize>0.619</transize>
 				</digtinfo>
 			</digform>
 		</stdorder>
 	</distinfo>
 	<metainfo>
-		<metd>20090903</metd>
+		<metd>20090817</metd>
 		<metc>
 			<cntinfo>
 				<cntorgp>
@@ -240,5 +248,9 @@ aze_miscp</enttypl>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
 	</metainfo>
-</metadata>
+	<Esri><ModDate>20090821</ModDate><ModTime>15011900</ModTime></Esri><mdDateSt Sync="TRUE">20090821</mdDateSt></metadata>

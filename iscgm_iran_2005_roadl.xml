@@ -1,28 +1,36 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
 				<origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-				<pubdate>2008</pubdate>
-				<title>Indonesia Inland Waters, 2008</title>
+				<pubdate>2005</pubdate>
+				<title>Iran Roads, 2005</title>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/idnWater.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_roadl.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>Indonesia Inland Waters is a polygon theme representing  inland water features in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-			<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations.
-
-The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification.
-
-The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
+			<abstract>Iran Roads is a line theme representing  roadways in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+			<purpose>The concept of Global Mapping, and the establishment of an international body for
+Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
+1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
+draft Map Specifications. The project currently involves the participation of many
+interested nations.
+The main objective of this global project is to bring all nations and concerned
+organisations together to develop and provide easy and open access to global digital
+geographic information at a scale of 1:1 million. This would be used to facilitate the
+implementation of global agreements and conventions for environmental protection,
+for monitoring of major environmental phenomena and to encourage economic
+growth within the context of sustainable development. As part of this objective, a
+Global Map product will be developed to this specification.
+The Global Map will also contribute to the development of a Global Spatial Data
+Infrastructure</purpose>
 		</descript>
 		<timeperd>
 			<timeinfo>
 				<sngdate>
-					<caldate>2008</caldate>
+					<caldate>2005</caldate>
 				</sngdate>
 			</timeinfo>
 			<current>publication date</current>
@@ -34,34 +42,32 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 		<spdom>
 			<bounding>
 				<westbc>
-95.318108</westbc>
+44.099277</westbc>
 				<eastbc>
-141.021713</eastbc>
+63.243355</eastbc>
 				<northbc>
-5.591300</northbc>
+39.771374</northbc>
 				<southbc>
--10.566417</southbc>
+25.079815</southbc>
 			</bounding>
 		</spdom>
 		<keywords>
 			<theme>
 				<themekt>ISO 19115 Topic Categories</themekt>
-				<themekey>inlandWaters</themekey>
+				<themekey>transportation</themekey>
 			</theme>
 			<theme>
 				<themekt>None</themekt>
-				<themekey>Rivers</themekey>
-				<themekey>Streams</themekey>
-				<themekey>Creeks</themekey>
-				<themekey>Lakes</themekey>
+				<themekey>Roadways</themekey>
+				<themekey>Streets</themekey>
+				<themekey>Roads</themekey>
 			</theme>
 			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
-				<placekey>Indonesia</placekey>
+				<placekey>Iran</placekey>
 			</place>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2008</tempkey>
 			</temporal>
 		</keywords>
 		<accconst>None</accconst>
@@ -69,7 +75,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 		<ptcontac>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+					<cntorg>Geographical Survey Institute</cntorg>
 					<cntper>Global Map Secretariat</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -85,7 +91,7 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 			</cntinfo>
 		</ptcontac>
 		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idnWater.jpg</browsen>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_roadl.jpg</browsen>
 			<browsed>Thumbnail Image</browsed>
 			<browset>JPEG</browset>
 		</browse>
@@ -109,38 +115,11 @@ need to be reviewed once the data are available, as sources to this accuracy
 may not be available in areas of high relief.</vertaccr>
 			</vertacc>
 		</posacc>
-		<lineage>
-			<procstep>
-				<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.  If necessary, further geometry repair was done by hand.</procdesc>
-				<procdate>2009</procdate>
-				<proccont>
-					<cntinfo>
-						<cntorgp>
-							<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
-						</cntorgp>
-						<cntaddr>
-							<addrtype>mailing and physical address</addrtype>
-							<address>420 W. 118th St. 215 IAB, MC 3301</address>
-							<city>New York</city>
-							<state>NY</state>
-							<postal>10027</postal>
-							<country>USA</country>
-						</cntaddr>
-						<cntvoice>(212) 854-6012</cntvoice>
-						<cntemail>dssc.data@columbia.edu</cntemail>
-					</cntinfo>
-				</proccont>
-			</procstep>
-		</lineage>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
-			<sdtsterm>
-				<sdtstype>G-polygon</sdtstype>
-				<ptvctcnt>917</ptvctcnt>
-			</sdtsterm>
-		</ptvctinf>
+			<sdtsterm><sdtstype>String</sdtstype></sdtsterm></ptvctinf>
 	</spdoinfo>
 	<spref>
 		<horizsys>
@@ -167,8 +146,8 @@ may not be available in areas of high relief.</vertaccr>
 		<detailed>
 			<enttyp>
 				<enttypl>
-indWater</enttypl>
-				<enttypd>Water Feature</enttypd>
+aze_roadl</enttypl>
+				<enttypd>Road</enttypd>
 			</enttyp>
 			<attr>
 				<attrlabl>FID</attrlabl>
@@ -195,30 +174,140 @@ indWater</enttypl>
 				<attrdef>FACC feature code (description)</attrdef>
 			</attr>
 			<attr>
-				<attrlabl>hyc</attrlabl>
-				<attrdef>Hydrological Category</attrdef>
+				<attrlabl>acc</attrlabl>
+				<attrdef>Accuracy Category</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Accurate</edomvd>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Approximate</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>acc_descri</attrlabl>
+				<attrdef>Accuracy Category (description)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>exs</attrlabl>
+				<attrdef>Existence Category</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Doubtful</edomvd>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Under Construction</edomvd>
+					</edom>
+					<edom>
+						<edomv>28</edomv>
+						<edomvd>Operational</edomvd>
+					</edom>
+					<edom>
+						<edomv>55</edomv>
+						<edomvd>Unexamined/Unsurveyed</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>exs_descri</attrlabl>
+				<attrdef>Existence Category (description)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>med</attrlabl>
+				<attrdef>Median Category</attrdef>
 				<attrdomv>
 					<edom>
 						<edomv>0</edomv>
 						<edomvd>Unknown</edomvd>
 					</edom>
 					<edom>
-						<edomv>6</edomv>
-						<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
+						<edomv>1</edomv>
+						<edomvd>With Median</edomvd>
 					</edom>
 					<edom>
-						<edomv>8</edomv>
-						<edomvd>Perennial/Permanent</edomvd>
+						<edomv>2</edomv>
+						<edomvd>Without Median</edomvd>
 					</edom>
 				</attrdomv>
 			</attr>
 			<attr>
-				<attrlabl>hyc_descri</attrlabl>
-				<attrdef>Hydrological Category</attrdef>
+				<attrlabl>med_descri</attrlabl>
+				<attrdef>Median Category (description)</attrdef>
 			</attr>
 			<attr>
-				<attrlabl>nam</attrlabl>
-				<attrdef>Name</attrdef>
+				<attrlabl>rst</attrlabl>
+				<attrdef>Surface</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown</edomvd>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Surface</edomvd>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Not paved</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>rst_descri</attrlabl>
+				<attrdef>Surface (description)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>rsu</attrlabl>
+				<attrdef>Seasonal availability</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown</edomvd>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>All Year</edomvd>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>All Year</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>rsu_descri</attrlabl>
+				<attrdef>Seasonal availability (description)</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>rtt</attrlabl>
+				<attrdef>Route Intended Use</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown</edomvd>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Primary route</edomvd>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Primary route</edomvd>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Limited access route (freeway)</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>rtt_descri</attrlabl>
+				<attrdef>Route Intended Use (description)</attrdef>
 			</attr>
 			<attr>
 				<attrlabl>soc</attrlabl>
@@ -228,41 +317,43 @@ indWater</enttypl>
 				<attrlabl>tile_id</attrlabl>
 			</attr>
 			<attr>
-				<attrlabl>fac_id</attrlabl>
+				<attrlabl>edg_id</attrlabl>
 			</attr>
 		</detailed>
 	</eainfo>
 	<distinfo>
 		<distrib>
 			<cntinfo>
-				<cntorgp>
-					<cntorg>International Steering Committee for Global Mapping (ISCGM)</cntorg>
+				<cntperp>
 					<cntper>Global Map Secretariat</cntper>
-				</cntorgp>
+					<cntorg>Geographical Survey Institute</cntorg>
+				</cntperp>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
 					<address>Geographical Survey Institute, Kitasato 1</address>
 					<city>Tsukuba</city>
 					<state>Ibaraki</state>
 					<postal>305-0811</postal>
-					<country>305-0811</country>
+					<country>JAPAN</country>
 				</cntaddr>
 				<cntvoice>+81-29-864-6910</cntvoice>
 				<cntfax>+81-29-864-6923</cntfax>
 				<cntemail>sec@iscgm.org</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>global_mapping_idnwater</resdesc>
+		<resdesc>iscgm_iran_2005_roadl</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<transize>1.412</transize>
+					<formname>Shapefile</formname>
+					<formspec>Zip</formspec>
+					<transize>1.761</transize>
 				</digtinfo>
 			</digform>
 		</stdorder>
 	</distinfo>
 	<metainfo>
-		<metd>20090814</metd>
+		<metd>20090903</metd>
 		<metc>
 			<cntinfo>
 				<cntorgp>
@@ -283,9 +374,5 @@ indWater</enttypl>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<mettc>local time</mettc>
-		<metextns>
-			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-			<metprof>ESRI Metadata Profile</metprof>
-		</metextns>
 	</metainfo>
-	<Esri><ModDate>20090821</ModDate><ModTime>15014400</ModTime></Esri><mdDateSt Sync="TRUE">20090821</mdDateSt></metadata>
+</metadata>

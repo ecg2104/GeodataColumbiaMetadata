@@ -3,14 +3,14 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2007</pubdate>
-<title>India Roads, 2007</title>
+<pubdate>2005</pubdate>
+<title>Iran Built-up Areas (polygons), 2005</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_roadl.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_iran_2005_builtupa.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Roads is a line theme representing  roadways in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Iran Built-up Areas (polygon) is a polygon theme representing built-up areas in Iran.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -29,7 +29,7 @@ Infrastructure</purpose>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2007</caldate>
+<caldate>2005</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,33 +41,32 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-68.695778</westbc>
+51.357132</westbc>
 <eastbc>
-96.361168</eastbc>
+51.570835</eastbc>
 <northbc>
-36.896194</northbc>
+35.778351</northbc>
 <southbc>
-8.081396</southbc>
+35.632965</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
+<themekey>society</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Roadways</themekey>
-<themekey>Streets</themekey>
-<themekey>Roads</themekey>
+<themekey>Built-up Areas</themekey>
+<themekey>Cites</themekey>
+<themekey>towns</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Iran</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2007</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -91,7 +90,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_roadl.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/irn_builtupa.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -120,8 +119,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>31684</ptvctcnt>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>1</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_roadl</enttypl>
-<enttypd>Road</enttypd>
+aze_builtupa</enttypl>
+<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,150 +177,18 @@ aze_roadl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>acc</attrlabl>
-<attrdef>Accuracy Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>1</edomv>
-<edomvd>Accurate</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Approximate</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>acc_descri</attrlabl>
-<attrdef>Accuracy Category (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>exs</attrlabl>
-<attrdef>Existence Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>2</edomv>
-<edomvd>Doubtful</edomvd>
-</edom>
-<edom>
-<edomv>5</edomv>
-<edomvd>Under Construction</edomvd>
-</edom>
-<edom>
-<edomv>28</edomv>
-<edomvd>Operational</edomvd>
-</edom>
-<edom>
-<edomv>55</edomv>
-<edomvd>Unexamined/Unsurveyed</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>exs_descri</attrlabl>
-<attrdef>Existence Category (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>med</attrlabl>
-<attrdef>Median Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>1</edomv>
-<edomvd>With Median</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Without Median</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>med_descri</attrlabl>
-<attrdef>Median Category (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>rst</attrlabl>
-<attrdef>Surface</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>1</edomv>
-<edomvd>Surface</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Not paved</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>rst_descri</attrlabl>
-<attrdef>Surface (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>rsu</attrlabl>
-<attrdef>Seasonal availability</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>1</edomv>
-<edomvd>All Year</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>All Year</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>rsu_descri</attrlabl>
-<attrdef>Seasonal availability (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>rtt</attrlabl>
-<attrdef>Route Intended Use</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>14</edomv>
-<edomvd>Primary route</edomvd>
-</edom>
-<edom>
-<edomv>15</edomv>
-<edomvd>Primary route</edomvd>
-</edom>
-<edom>
-<edomv>16</edomv>
-<edomvd>Limited access route (freeway)</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>rtt_descri</attrlabl>
-<attrdef>Route Intended Use (description)</attrdef>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
+<attrdef>Country code</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>fac_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -345,13 +212,13 @@ aze_roadl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_roadl</resdesc>
+<resdesc>iscgm_iran_2005_builtupa</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>8.993</transize>
+<transize>0.001</transize>
 </digtinfo>
 </digform>
 </stdorder>

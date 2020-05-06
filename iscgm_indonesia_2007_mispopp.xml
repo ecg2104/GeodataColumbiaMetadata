@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2007</pubdate>
-<title>India Built-up Areas (points), 2007</title>
+<title>Indonesia Miscellaneous Population Settlements, 2007</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ind_builtupp.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_indonesia_2007_mispopp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>India Built-up Areas is a point theme representing  built-up areas in India.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Indonesia Miscellaneous Population Settlements is a point theme representing settlements in Indonesia.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,13 +41,13 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-68.526695</westbc>
+95.044891</westbc>
 <eastbc>
-97.338768</eastbc>
+141.016754</eastbc>
 <northbc>
-35.869751</northbc>
+5.888028</northbc>
 <southbc>
-8.086045</southbc>
+-9.984250</southbc>
 </bounding>
 </spdom>
 <keywords>
@@ -57,13 +57,13 @@ Infrastructure</purpose>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Built-up Areas</themekey>
-<themekey>Cities</themekey>
+<themekey>Settlements</themekey>
 <themekey>Towns</themekey>
+<themekey>Cities</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
-<placekey>India</placekey>
+<placekey>Indonesia</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
@@ -91,7 +91,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ind_builtupp.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/idn_mispopp.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -121,7 +121,7 @@ may not be available in areas of high relief.</vertaccr>
 <ptvctinf>
 <sdtsterm>
 <sdtstype>Entity point</sdtstype>
-<ptvctcnt>15873</ptvctcnt>
+<ptvctcnt>7147</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +150,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_builtupp</enttypl>
-<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
+aze_mispopp</enttypl>
+<enttypd>Settlement</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -183,7 +183,7 @@ aze_builtupp</enttypl>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
+<attrdef>Country code</attrdef>
 </attr>
 <attr>
 <attrlabl>tile_id</attrlabl>
@@ -213,19 +213,19 @@ aze_builtupp</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_ind_builtupp</resdesc>
+<resdesc>iscgm_indonesia_2007_mispopp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>0.666</transize>
+<transize>0.300</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090910</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>
