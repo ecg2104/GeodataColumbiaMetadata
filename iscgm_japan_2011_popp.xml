@@ -3,33 +3,20 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2006</pubdate>
-<title>Japan Tunnels and Bridges, 2006</title>
+<pubdate>2008</pubdate>
+<title>Japan Built-up Areas, 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/jp_transl_1_1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_popp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Japan Tunnels and Bridges is a line theme representing  tunnels and bridges in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for
-Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
-1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
-draft Map Specifications. The project currently involves the participation of many
-interested nations.
-The main objective of this global project is to bring all nations and concerned
-organisations together to develop and provide easy and open access to global digital
-geographic information at a scale of 1:1 million. This would be used to facilitate the
-implementation of global agreements and conventions for environmental protection,
-for monitoring of major environmental phenomena and to encourage economic
-growth within the context of sustainable development. As part of this objective, a
-Global Map product will be developed to this specification.
-The Global Map will also contribute to the development of a Global Spatial Data
-Infrastructure</purpose>
+<abstract>Japan Built-up Areas is a point theme representing  built-up areas in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations. The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification. The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2006</caldate>
+<caldate>2008</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,25 +28,25 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-122.943390</westbc>
+122.992851</westbc>
 <eastbc>
 148.822357</eastbc>
 <northbc>
-45.522800</northbc>
+45.480484</northbc>
 <southbc>
-24.049843</southbc>
+24.058104</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
-<themekey>structure</themekey>
+<themekey>society</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Tunnels</themekey>
-<themekey>Bridges</themekey>
+<themekey>Built-up Areas</themekey>
+<themekey>Cities</themekey>
+<themekey>Towns</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -67,7 +54,7 @@ Infrastructure</purpose>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2006</tempkey>
+<tempkey>2008</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -84,14 +71,14 @@ Infrastructure</purpose>
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>JAPAN</country>
+<country>Japan</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_transl_1_1.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_popp_1_1.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -105,14 +92,10 @@ Infrastructure</purpose>
 <complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
-<horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
-location. In the case of data obtained from satellite images, the maximum error
-is less than or equal to 0.5km.</horizpar>
+<horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual location. In the case of data obtained from satellite images, the maximum error is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
-need to be reviewed once the data are available, as sources to this accuracy
-may not be available in areas of high relief.</vertaccr>
+<vertaccr>Vertical accuracy is notionally within 150 metres for 90% of points. This figure may need to be reviewed once the data are available, as sources to this accuracy may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
 </dataqual>
@@ -120,8 +103,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>99819</ptvctcnt>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>2042</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,8 +133,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_transtrl</enttypl>
-<enttypd>Tunnel/Bridge/Ferry Route</enttypd>
+jp_popp_1_1</enttypl>
+<enttypd>An area containing a concentration of buildings and other structures.</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -178,32 +161,12 @@ aze_transtrl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
+</attr>
+<attr>
 <attrlabl>soc</attrlabl>
 <attrdef>Source Country or VMA</attrdef>
-</attr>
-<attr>
-<attrlabl>tuc</attrlabl>
-<attrdef>Transportation Use Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>3</edomv>
-<edomvd>Railroad</edomvd>
-</edom>
-<edom>
-<edomv>4</edomv>
-<edomvd>Road</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>tuc_descri</attrlabl>
-<attrdef>Transportation Use Category (description)</attrdef>
-</attr>
-<attr>
-<attrlabl>tile_id</attrlabl>
-</attr>
-<attr>
-<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -227,19 +190,19 @@ aze_transtrl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_jp_transtrl_1_1</resdesc>
+<resdesc>iscgm_japan_2011_popp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>25.027</transize>
+<transize>8.450</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20090923</metd>
+<metd>20091009</metd>
 <metc>
 <cntinfo>
 <cntorgp>

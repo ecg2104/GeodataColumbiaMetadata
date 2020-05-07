@@ -4,13 +4,13 @@
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
 <pubdate>2008</pubdate>
-<title>Japan Airports, 2008</title>
+<title>Japan Miscellaneous Hydrographic Features (points), 2008</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/jp_transp_1_1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_hydrop.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Japan Airports is a point theme representing airports and airfields in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
+<abstract>Japan Miscellaneous Hydrographic Features (points) is a point theme representing dams, weirs, islands, springs and water-holes in Japan.  This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations. The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification. The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
 </descript>
 <timeperd>
@@ -28,23 +28,27 @@
 <spdom>
 <bounding>
 <westbc>
-122.975487</westbc>
+124.218575</westbc>
 <eastbc>
-144.958481</eastbc>
+144.636444</eastbc>
 <northbc>
-45.451725</northbc>
+44.293427</northbc>
 <southbc>
-24.060671</southbc>
+24.423592</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
+<themekey>inlandWaters</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Airports</themekey>
+<themekey>dams</themekey>
+<themekey>weirs</themekey>
+<themekey>Islands</themekey>
+<themekey>springs</themekey>
+<themekey>water-holes</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -76,7 +80,7 @@
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_transp_1_1.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_hydrop_1_1.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -102,7 +106,7 @@
 <ptvctinf>
 <sdtsterm>
 <sdtstype>Entity point</sdtstype>
-<ptvctcnt>90</ptvctcnt>
+<ptvctcnt>197</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -131,8 +135,8 @@
 <detailed>
 <enttyp>
 <enttypl>
-jp_transp_1_1</enttypl>
-<enttypd>Airport/Airfield</enttypd>
+jp_hydrop_1_1</enttypl>
+<enttypd>Hydrographic features</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -152,67 +156,15 @@ jp_transp_1_1</enttypl>
 </attr>
 <attr>
 <attrlabl>f_code</attrlabl>
-<attrdef>FACC feature code</attrdef>
+<attrdef>FACC feature Code</attrdef>
 </attr>
 <attr>
 <attrlabl>f_code_des</attrlabl>
-<attrdef>FACC feature code description</attrdef>
-</attr>
-<attr>
-<attrlabl>iko</attrlabl>
-<attrdef>ICAO Designator</attrdef>
-</attr>
-<attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
-</attr>
-<attr>
-<attrlabl>use</attrlabl>
-<attrdef>Usage</attrdef>
-<attrdomv>
-<edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>Military/Defense</edomvd>
-</edom>
-<edom>
-<edomv>22</edomv>
-<edomvd>Joint Military/Defense/Civilian</edomvd>
-</edom>
-<edom>
-<edomv>49</edomv>
-<edomvd>Civilian/Public</edomvd>
-</edom>
-<edom>
-<edomv>999</edomv>
-<edomvd>Other</edomvd>
-</edom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>use_descri</attrlabl>
-<attrdef>Use description</attrdef>
-</attr>
-<attr>
-<attrlabl>zv3</attrlabl>
-<attrdef>Elevation</attrdef>
-<attrdomv>
-<edom>
-<edomv>-500 to 9999</edomv>
-<edomvd>elevation in meters</edomvd>
-</edom>
-<edom>
-<edomv>29999</edomv>
-<edomvd>Unknown</edomvd>
-</edom>
-</attrdomv>
+<attrdef>FACC feature Code description</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
-<attrdef>Source Country or VMA</attrdef>
+<attrdef>Country Code</attrdef>
 </attr>
 </detailed>
 </eainfo>
@@ -236,7 +188,7 @@ jp_transp_1_1</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_jp_transp_1_1</resdesc>
+<resdesc>iscgm_japan_2011_hydrop</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

@@ -3,20 +3,33 @@
 <citation>
 <citeinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<pubdate>2008</pubdate>
-<title>Japan Inland Waters, 2008</title>
+<pubdate>2006</pubdate>
+<title>Japan Political Boundaries, 2006</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/jp_hydroa_1_1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_bndl.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Japan Inland Waters is a polygon theme representing  inland water features in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
-<purpose>The concept of Global Mapping, and the establishment of an international body for Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first draft Map Specifications. The project currently involves the participation of many interested nations. The main objective of this global project is to bring all nations and concerned organisations together to develop and provide easy and open access to global digital geographic information at a scale of 1:1 million. This would be used to facilitate the implementation of global agreements and conventions for environmental protection, for monitoring of major environmental phenomena and to encourage economic growth within the context of sustainable development. As part of this objective, a Global Map product will be developed to this specification. The Global Map will also contribute to the development of a Global Spatial Data Infrastructure.</purpose>
+<abstract>Japan Political Boundaries is a line theme representing  political boundaries in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<purpose>The concept of Global Mapping, and the establishment of an international body for
+Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
+1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
+draft Map Specifications. The project currently involves the participation of many
+interested nations.
+The main objective of this global project is to bring all nations and concerned
+organisations together to develop and provide easy and open access to global digital
+geographic information at a scale of 1:1 million. This would be used to facilitate the
+implementation of global agreements and conventions for environmental protection,
+for monitoring of major environmental phenomena and to encourage economic
+growth within the context of sustainable development. As part of this objective, a
+Global Map product will be developed to this specification.
+The Global Map will also contribute to the development of a Global Spatial Data
+Infrastructure</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2008</caldate>
+<caldate>2006</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -28,26 +41,24 @@
 <spdom>
 <bounding>
 <westbc>
-124.211060</westbc>
+122.930801</westbc>
 <eastbc>
-147.250763</eastbc>
+153.983093</eastbc>
 <northbc>
-45.433357</northbc>
+45.557331</northbc>
 <southbc>
-24.422699</southbc>
+20.423935</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>inlandWaters</themekey>
+<themekey>boundaries</themekey>
 </theme>
 <theme>
 <themekt>None</themekt>
-<themekey>Rivers</themekey>
-<themekey>Streams</themekey>
-<themekey>Creeks</themekey>
-<themekey>Lakes</themekey>
+<themekey>Territories</themekey>
+<themekey>Administrative boundaries</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -55,7 +66,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2008</tempkey>
+<tempkey>2006</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -72,14 +83,14 @@
 <city>Tsukuba</city>
 <state>Ibaraki</state>
 <postal>305-0811</postal>
-<country>Japan</country>
+<country>JAPAN</country>
 </cntaddr>
 <cntvoice>+81-29-864-6910</cntvoice>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_hydroa_1_1.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_bndl_1_1.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -93,42 +104,23 @@
 <complete>Completeness is a measure of the degree to which all features listed in the technical specification have been captured, in accordance with the selection criteria, definitions and other rules specified. All instances of a feature and its attribute values that meet the selection criteria and appear on the source materials are captured. The data is generalised so the selection of features is to some extent subjective.</complete>
 <posacc>
 <horizpa>
-<horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual location. In the case of data obtained from satellite images, the maximum error is less than or equal to 0.5km.</horizpar>
+<horizpar>For horizontal accuracy, 90% of points will be within 2km of their actual
+location. In the case of data obtained from satellite images, the maximum error
+is less than or equal to 0.5km.</horizpar>
 </horizpa>
 <vertacc>
-<vertaccr>Vertical accuracy is notionally within 150 metres for 90% of points. This figure may need to be reviewed once the data are available, as sources to this accuracy may not be available in areas of high relief.</vertaccr>
+<vertaccr>Vertical accuracy is notionally  within 150 metres for 90% of points. This figure may
+need to be reviewed once the data are available, as sources to this accuracy
+may not be available in areas of high relief.</vertaccr>
 </vertacc>
 </posacc>
-<lineage>
-<procstep>
-<procdesc>The following steps were performed by EDS staff: A new feature class was created, the ISCGM layer was appended into the new feature class, the projection was defined, and the feature were dissolved to remove the sections created by the tiling of the datasets.  If necessary, further geometry repair was done by hand.</procdesc>
-<procdate>2009</procdate>
-<proccont>
-<cntinfo>
-<cntorgp>
-<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
-</cntorgp>
-<cntaddr>
-<addrtype>mailing and physical address</addrtype>
-<address>420 W. 118th St. 215 IAB, MC 3301</address>
-<city>New York</city>
-<state>NY</state>
-<postal>10027</postal>
-<country>USA</country>
-</cntaddr>
-<cntvoice>Electronic Data Service, Columbia University Libraries</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
-</cntinfo>
-</proccont>
-</procstep>
-</lineage>
 </dataqual>
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
-<ptvctcnt>685</ptvctcnt>
+<sdtstype>String</sdtstype>
+<ptvctcnt>11229</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -157,8 +149,8 @@
 <detailed>
 <enttyp>
 <enttypl>
-jp_hydroa_1_1</enttypl>
-<enttypd>Water Feature</enttypd>
+aze_polbndl</enttypl>
+<enttypd>Administrative boundary</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -185,38 +177,40 @@ jp_hydroa_1_1</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>hyc</attrlabl>
-<attrdef>Hydrological Category</attrdef>
+<attrlabl>acc</attrlabl>
+<attrdef>Accuracy Category</attrdef>
 <attrdomv>
 <edom>
-<edomv>0</edomv>
-<edomvd>Unknown</edomvd>
+<edomv>1</edomv>
+<edomvd>Accurate</edomvd>
 </edom>
 <edom>
-<edomv>6</edomv>
-<edomvd>Non-Perennial/ Intermittent/Fluctuating</edomvd>
-</edom>
-<edom>
-<edomv>8</edomv>
-<edomvd>Perennial/Permanent</edomvd>
+<edomv>2</edomv>
+<edomvd>Approximate</edomvd>
 </edom>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>hyc_descri</attrlabl>
-<attrdef>Hydrological Category</attrdef>
+<attrlabl>acc_descri</attrlabl>
+<attrdef>Accuracy Category</attrdef>
 </attr>
 <attr>
-<attrlabl>nam</attrlabl>
-<attrdef>Name</attrdef>
+<attrlabl>use</attrlabl>
+<attrdef>Usage</attrdef>
 </attr>
 <attr>
-<attrlabl>nam_descri</attrlabl>
-<attrdef>Name description</attrdef>
+<attrlabl>use_descri</attrlabl>
+<attrdef>Usage description</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
 <attrdef>Source Country or VMA</attrdef>
+</attr>
+<attr>
+<attrlabl>tile_id</attrlabl>
+</attr>
+<attr>
+<attrlabl>edg_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -240,19 +234,19 @@ jp_hydroa_1_1</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_jp_hydroa_1_1</resdesc>
+<resdesc>iscgm_japan_2011_bndl</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>8.450</transize>
+<transize>6.140</transize>
 </digtinfo>
 </digform>
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20091008</metd>
+<metd>20090903</metd>
 <metc>
 <cntinfo>
 <cntorgp>

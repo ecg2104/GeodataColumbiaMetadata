@@ -6,11 +6,11 @@
 <pubdate>2006</pubdate>
 <title>Japan Political Boundaries, 2006</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/jp_bndl_1_1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_bndp.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Japan Political Boundaries is a line theme representing  political boundaries in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.</abstract>
+<abstract>Japan Political Boundaries is a point theme representing  Administrative areas in Japan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.</abstract>
 <purpose>The concept of Global Mapping, and the establishment of an international body for
 Global Mapping, was first proposed by the Ministry of Construction of Japan (MOC) in
 1992; and in 1994 the Geographical Survey Institute of Japan (GSI) proposed the first
@@ -41,13 +41,13 @@ Infrastructure</purpose>
 <spdom>
 <bounding>
 <westbc>
-122.930801</westbc>
+131.876007</westbc>
 <eastbc>
-153.983093</eastbc>
+136.069092</eastbc>
 <northbc>
-45.557331</northbc>
+37.241550</northbc>
 <southbc>
-20.423935</southbc>
+20.423969</southbc>
 </bounding>
 </spdom>
 <keywords>
@@ -90,7 +90,7 @@ Infrastructure</purpose>
 </cntinfo>
 </ptcontac>
 <browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_bndl_1_1.jpg</browsen>
+<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/jp_bndp_1_1.jpg</browsen>
 <browsed>Thumbnail Image</browsed>
 <browset>JPEG</browset>
 </browse>
@@ -119,8 +119,8 @@ may not be available in areas of high relief.</vertaccr>
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>11229</ptvctcnt>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>2</ptvctcnt>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -149,8 +149,8 @@ may not be available in areas of high relief.</vertaccr>
 <detailed>
 <enttyp>
 <enttypl>
-aze_polbndl</enttypl>
-<enttypd>Administrative boundary</enttypd>
+bra_polbndp</enttypl>
+<enttypd>Administrative area</enttypd>
 </enttyp>
 <attr>
 <attrlabl>FID</attrlabl>
@@ -177,30 +177,16 @@ aze_polbndl</enttypl>
 <attrdef>FACC feature code (description)</attrdef>
 </attr>
 <attr>
-<attrlabl>acc</attrlabl>
-<attrdef>Accuracy Category</attrdef>
-<attrdomv>
-<edom>
-<edomv>1</edomv>
-<edomvd>Accurate</edomvd>
-</edom>
-<edom>
-<edomv>2</edomv>
-<edomvd>Approximate</edomvd>
-</edom>
-</attrdomv>
+<attrlabl>coc</attrlabl>
+<attrdef>Country code</attrdef>
 </attr>
 <attr>
-<attrlabl>acc_descri</attrlabl>
-<attrdef>Accuracy Category</attrdef>
+<attrlabl>laa</attrlabl>
+<attrdef>Local admistrative area</attrdef>
 </attr>
 <attr>
-<attrlabl>use</attrlabl>
-<attrdef>Usage</attrdef>
-</attr>
-<attr>
-<attrlabl>use_descri</attrlabl>
-<attrdef>Usage description</attrdef>
+<attrlabl>nam</attrlabl>
+<attrdef>Name</attrdef>
 </attr>
 <attr>
 <attrlabl>soc</attrlabl>
@@ -210,7 +196,7 @@ aze_polbndl</enttypl>
 <attrlabl>tile_id</attrlabl>
 </attr>
 <attr>
-<attrlabl>edg_id</attrlabl>
+<attrlabl>end_id</attrlabl>
 </attr>
 </detailed>
 </eainfo>
@@ -234,13 +220,13 @@ aze_polbndl</enttypl>
 <cntemail>sec@iscgm.org</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>global_mapping_jp_bndl_1_1</resdesc>
+<resdesc>iscgm_japan_2011_bndp</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>Shapefile</formname>
 <formspec>Zip</formspec>
-<transize>6.140</transize>
+<transize>0.000</transize>
 </digtinfo>
 </digform>
 </stdorder>
