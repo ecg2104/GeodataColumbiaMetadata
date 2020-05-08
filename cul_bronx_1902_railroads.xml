@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+				</cntorgp>
+				<cntpos>GIS/Map Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<citation>
+			<citeinfo>
+				<origin>Digital Social Science Center, Columbia University Libraries</origin>
+				<pubdate>2012</pubdate>
+				<title>Bronx Railroad Lines, 1902</title>
+				<pubinfo>
+					<pubplace>New York</pubplace>
+					<publish>Columbia University Libraries</publish>
+				</pubinfo>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/bronx_cul_1902_railroads.zip</onlink>
+				<origin>Bronx (New York, N.Y.). Office of the President. </origin>
+			</citeinfo>
+		</citation>
+		<keywords>
+			<temporal>
+				<tempkey>2012</tempkey>
+				<tempkt>None</tempkt>
+				<tempkey>1902</tempkey>
+			</temporal>
+			<place>
+				<placekey>Bronx (New York, N.Y.)</placekey>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (N.Y.)</placekey>
+			</place>
+			<theme>
+				<themekey>New York (N.Y.)--Maps.</themekey>
+				<themekey>Manhattan (New York, N.Y.)--Maps.</themekey>
+				<themekt>Library of Congress Subject Headings</themekt>
+				<themekey>Bronx (New York, N.Y.)--Maps.</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>imageryBaseMapsEarthCover</themekey>
+				<themekey>transportaion</themekey></theme>
+			<theme><themekey>railroads</themekey><themekey>railroad tracks</themekey><themekey>rail</themekey><themekt>none</themekt><themekey>trains</themekey></theme></keywords>
+		<descript>
+			<purpose>This map set was digitized for general use.  This dataset may be used in a GIS.</purpose>
+			<abstract>Bronx 1902 Railroad Lines is a line theme representing railroads in the Bronx in  1902.  The features were digitized from the map series entitled "Map or plan of that part of the Borough of the Bronx, City of New York, lying easterly of the Bronx River : compiled from surveys made under the direction of the Commissioner of Street Improvements of the 23 &amp; 24 Wards and the Board of Public Improvements " published in 1902 from the Bronx Office of the President.</abstract>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1902</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-73.885517 </westbc>
+				<eastbc>-73.744268 </eastbc>
+				<northbc>40.910705 </northbc>
+				<southbc>40.789099</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+
+		<useconst>None</useconst>
+		<browse>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/bronx_cul_1902_railroads.jpg</browsen>
+			<browsed>Thumbnail</browsed>
+			<browset>JPEG</browset>
+		</browse>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+							<cntper>GIS/Map Librarian</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>420 W. 118th St. 215 IAB, MC 3301</address>
+							<city>New York</city>
+							<state>NY</state>
+							<postal>10027</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(212) 854-6012</cntvoice>
+						<cntemail>data@library.columbia.edu</cntemail>
+					</cntinfo>
+				</proccont>
+				<procdesc>All features were digitized by hand, using ArcMap 10, by DSSC staff.</procdesc>
+				<srcused>Bronx 1902</srcused>
+				<procdate>2012</procdate>
+			</procstep>
+			<srcinfo>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1902</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccontr>All data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>Bronx (New York, N.Y.). Office of the President. </origin>
+						<pubdate>1902</pubdate>
+						<title>Map or plan of that part of the Borough of the Bronx, City of New York, lying easterly of the Bronx River : compiled from surveys made under the direction of the Commissioner of Street Improvements of the 23 &amp; 24 Wards and the Board of Public Improvements / prepared by the President of the Borough of the Bronx ; Louis F. Haffen, President of the Borough of the Bronx ; Frederick Greiffenberg, topographical engineer ; William W. Klein, assistant engineer ; Josiah A. Briggs, Chief engineer of the Borough of the Bronx.</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>New York</pubplace>
+							<publish>Office of the President of the Borough of the Bronx, Topographical Bureau</publish>
+						</pubinfo>
+						<othercit>1 map on 6 sheets : col. ; 150 x 146 cm., sheets 79 x 56 cm.
+
+Relief shown by contours.
+Also shows original shoreline.
+"New York, December, 1902."
+Oriented with north to the upper right.
+Includes ill.</othercit>
+					</citeinfo>
+				</srccite>
+				<srcscale>7200</srcscale>
+				<srccitea>Bronx 1902</srccitea>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<eainfo>
+		<detailed Name="aquaduct">
+			<enttyp>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>0</enttypc>
+				<enttypl>railroads</enttypl><enttypd>railroad track</enttypd></enttyp>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attalias>OBJECTID</attalias>
+				<attrtype>OID</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrtype>Geometry</attrtype>
+				<attwidth>0</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attalias>NAME</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>150</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>name</attrdef></attr>
+			<attr>
+				<attrlabl>Shape_Length</attrlabl>
+				<attalias>Shape_Length</attalias>
+				<attrtype>Double</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Length of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center, Columbia University Libraries</cntorg>
+				</cntorgp>
+				<cntpos>GIS/Map Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St.</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>dssc_bronx_cul_1902_railroads</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<formspec>zip</formspec>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+				</cntorgp>
+				<cntpos>GIS/Metadata Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20130214</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>String</sdtstype><ptvctcnt>237</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+		<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+</metadata>
