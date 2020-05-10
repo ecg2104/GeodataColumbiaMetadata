@@ -32,7 +32,7 @@
 				<origin>Digital Social Science Center, Columbia University Libraries</origin>
 				<pubdate>2012</pubdate>
 				<geoform>vector digital data</geoform>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/bronx_cul_1873_topo.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_bronx_1873_topo.zip</onlink>
 				<origin>New York (N.Y.). Dept. of Parks. </origin>
 				<pubinfo>
 					<pubplace>New York</pubplace>
@@ -82,7 +82,7 @@
 
 		<useconst>None</useconst>
 		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/bronx_cul_1873_topo.jpg</browsen>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/cul_bronx_1873_topo.jpg</browsen>
 			<browsed>Thumbnail</browsed>
 			<browset>JPEG</browset>
 		</browse>
@@ -222,7 +222,7 @@
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>dssc_bronx_cul_1873_topo</resdesc>
+		<resdesc>dssc_cul_bronx_1873_topo</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>

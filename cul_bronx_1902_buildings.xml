@@ -28,7 +28,7 @@
 					<pubplace>New York</pubplace>
 					<publish>Columbia University Libraries</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/bronx_cul_1902_buildings.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_bronx_1902_buildings.zip</onlink>
 				<origin>Bronx (New York, N.Y.). Office of the President. </origin>
 			</citeinfo>
 		</citation>
@@ -82,7 +82,7 @@
 
 		<useconst>None</useconst>
 		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/bronx_cul_1902_buildings.jpg</browsen>
+			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/cul_bronx_1902_buildings.jpg</browsen>
 			<browsed>Thumbnail</browsed>
 			<browset>JPEG</browset>
 		</browse>
@@ -234,7 +234,7 @@ Includes ill.</othercit>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>dssc_bronx_cul_1902_buildings</resdesc>
+		<resdesc>dssc_cul_bronx_1902_buildings</resdesc>
 		<stdorder>
 			<digform>
 				<digtinfo>
