@@ -148,7 +148,7 @@ Scale 1:10,000 ;; Transverse Mercator proj.; (W 83°25’40”--W 83°21’50”
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -160,7 +160,7 @@ Scale 1:10,000 ;; Transverse Mercator proj.; (W 83°25’40”--W 83°21’50”
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metd>20120328</metd>

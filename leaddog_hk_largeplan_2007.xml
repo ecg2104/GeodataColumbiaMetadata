@@ -431,7 +431,7 @@ large_tertiary_planning_unit</enttypl>
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -442,7 +442,7 @@ large_tertiary_planning_unit</enttypl>
 					<postal>10027</postal>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>dssc.data@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 			</cntinfo>
 		</metc>
@@ -450,4 +450,4 @@ large_tertiary_planning_unit</enttypl>
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<mettc>local time</mettc>
 	</metainfo>
-	<dataqual><lineage><procstep><proccont><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><address>420 W. 118th St., 215 IAB, MC 3301</address><city>New York</city><state>NY</state><postal>10027</postal></cntaddr><cntvoice>(212)854-6012</cntvoice><cntemail>dssc.data@columbia.edu</cntemail><cntorgp><cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg><cntper>GIS/Map Librarian</cntper></cntorgp></cntinfo></proccont><procdesc>Joined the four original layers:  Education attainment ( highest level attended ) by age group, Marital Status by sex and by age group, Resident population by nationality and Resident population aged 5 and over by usual language.</procdesc><procdate>2007</procdate></procstep></lineage></dataqual></metadata>
+	<dataqual><lineage><procstep><proccont><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><address>420 W. 118th St., 215 IAB, MC 3301</address><city>New York</city><state>NY</state><postal>10027</postal></cntaddr><cntvoice>(212)854-6012</cntvoice><cntemail>data@library.columbia.edu</cntemail><cntorgp><cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg><cntper>GIS/Map Librarian</cntper></cntorgp></cntinfo></proccont><procdesc>Joined the four original layers:  Education attainment ( highest level attended ) by age group, Marital Status by sex and by age group, Resident population by nationality and Resident population aged 5 and over by usual language.</procdesc><procdate>2007</procdate></procstep></lineage></dataqual></metadata>

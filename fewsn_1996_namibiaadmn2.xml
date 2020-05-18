@@ -456,9 +456,9 @@ Metadata_Reference_Section
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212)854-6012</cntvoice>
-				<cntemail>dssc.data@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 				<cntorgp><cntper>GIS/Metadata Librarian</cntper><cntorg>
-				Digital Social Science Center (DSSC), Columbia University Libraries</cntorg></cntorgp></cntinfo>
+				Research Data Services (RDS), Columbia University Libraries</cntorg></cntorgp></cntinfo>
 		</metc>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 		<metstdv>FGDC-STD-001-1998</metstdv>

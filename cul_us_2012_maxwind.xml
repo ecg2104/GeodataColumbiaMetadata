@@ -422,7 +422,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 						<cntemail>eds@columbia.edu</cntemail>
 					</cntinfo>
 				</proccont>
-				<procdesc>DSSC staff combined weather data with station info and locations from NOAA website</procdesc>
+				<procdesc>RDS staff combined weather data with station info and locations from NOAA website</procdesc>
 				<srcused>Comparative Climate Data</srcused>
 				<procdate>2012</procdate>
 			</procstep>

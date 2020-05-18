@@ -86,7 +86,7 @@
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
 	</idinfo>
 	<dataqual>
-		<lineage><procstep><proccont><cntinfo><cntaddr><address>420 W.118th ST</address><address>215 IAB, MC 3301</address><addrtype>mailing and physical address</addrtype><city>New York</city><state>NY</state><postal>10027</postal><country>USA</country></cntaddr><cntorgp><cntorg>Digital Social Sciences Center (DSSC) Data Service, Columbia University</cntorg></cntorgp><cntpos>GIS Librarian</cntpos><cntvoice>(212)854-6012</cntvoice><cntemail>dssc.data@columbia.edu</cntemail></cntinfo></proccont><procdesc>Shapefile was projected to Albers Conical Equal Area</procdesc><procdate>20061026</procdate></procstep></lineage>
+		<lineage><procstep><proccont><cntinfo><cntaddr><address>420 W.118th ST</address><address>215 IAB, MC 3301</address><addrtype>mailing and physical address</addrtype><city>New York</city><state>NY</state><postal>10027</postal><country>USA</country></cntaddr><cntorgp><cntorg>Research Data Services (RDS), Columbia University</cntorg></cntorgp><cntpos>GIS Librarian</cntpos><cntvoice>(212)854-6012</cntvoice><cntemail>data@library.columbia.edu</cntemail></cntinfo></proccont><procdesc>Shapefile was projected to Albers Conical Equal Area</procdesc><procdate>20061026</procdate></procstep></lineage>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
@@ -213,7 +213,7 @@
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Sciences Center (DSSC) Data Service, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -228,7 +228,7 @@
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>dssc.data@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 			</cntinfo>
 		</metc>

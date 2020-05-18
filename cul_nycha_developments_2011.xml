@@ -4,12 +4,12 @@
 		<citation>
 			<citeinfo>
 			<origin>New York City Housing Authority</origin>
-				<origin>Digital Social Science Center (DSSC), Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<pubdate>2014</pubdate>
 				<title>New York City Housing Authority Developments, 2011</title>
 				<pubinfo>
 					<pubplace>New York City</pubplace>
-					<publish>DSSC</publish>
+					<publish>RDS</publish>
 				</pubinfo>
 				<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_nycha_developments_2011.zip</onlink>
 			</citeinfo>
@@ -73,7 +73,7 @@
 <dataqual>
 <lineage>
 <procstep>
-<procdesc>DSSC staff downloaded from NYCOpenData</procdesc>
+<procdesc>RDS staff downloaded from NYCOpenData</procdesc>
 <procdate>2014</procdate>
 </procstep>
 </lineage>
@@ -164,7 +164,7 @@
 </cntaddr>
 <cntperp>
 <cntper>GIS/Metadata Librarian</cntper>
-<cntorg>Digital Social Science Center (DSSC)</cntorg>
+<cntorg>Research Data Services (RDS)</cntorg>
 </cntperp>
 <cntvoice>(212)854-601</cntvoice>
 <cntemail>data@library.columbia.edu</cntemail>

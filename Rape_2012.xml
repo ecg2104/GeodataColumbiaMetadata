@@ -41,13 +41,13 @@
 <citeinfo>
 <origin>New York City Department of City Planning</origin>
 <title>New York City Monthly Rape, 2012</title>
-<origin>Digital Social Science Center (DSSC), Columbia University Libraries</origin>
+<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 <origin>New York (N.Y.). Police Department</origin>
 <pubdate>2014</pubdate>
 <geoform>vector digital data</geoform>
 <pubinfo>
 <pubplace>New York</pubplace>
-<publish>Digital Social Science Center (DSSC), Columbia University Libraries</publish>
+<publish>Research Data Services (RDS), Columbia University Libraries</publish>
 </pubinfo>
 <onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.nyc_rape_2012&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
 </citation>
@@ -83,7 +83,7 @@
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC)</cntorg>
+<cntorg>Research Data Services (RDS)</cntorg>
 </cntorgp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
@@ -116,7 +116,7 @@
 <postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>dssc.data@columbia.ed</cntemail>
+<cntemail>data@library.columbia.ed</cntemail>
 </cntinfo>
 </metc>
 </metainfo>

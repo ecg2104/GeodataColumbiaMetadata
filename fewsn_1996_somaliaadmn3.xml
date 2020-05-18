@@ -604,7 +604,7 @@ UNIX - http://edcintl.cr.usgs.gov/adds/c1/r2/so/doc/admn/soadmn3.tar.gz</network
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -616,7 +616,7 @@ UNIX - http://edcintl.cr.usgs.gov/adds/c1/r2/so/doc/admn/soadmn3.tar.gz</network
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

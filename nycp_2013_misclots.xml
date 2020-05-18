@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New York (City). Department of City Planning</origin>
+				<pubdate>2013</pubdate>
+				<title>New York City Miscellaneous Lots, 2013</title>
+				<edition>13V2</edition>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>BYTES of the BIG APPLE</sername>
+					<issue>13V2</issue>
+				</serinfo>
+				<pubinfo>
+					<publish>NYC Department of City Planning</publish>
+				</pubinfo>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2013_misclots.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>New York City Miscellaneous Lots, 2013 is a polygon theme representing miscelaneous lots in New York City as of 2013. DCP Mapping Lots includes features that are not on the Tax Map. They have been added and maintained by DCP for cartographic purpose. There are three kinds of  Mapping Lots: street center 'malls' which are small road-divider type blocks separating lanes of traffic on certain streets; Traffic islands which are small traffic lane separators or pedestrian rest stop blocks other than malls (usually at intersections);  streets through parks which are streets existing physically in parks but are not part of the Tax Map.</abstract>
+			<purpose>The Dcp Mappping Lots are created by DCP for cartographic purpose.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2013</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current></timeperd>
+		<status>
+			<progress>Complete.</progress>
+			<update> Semiannually.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-74.257465</westbc>
+				<eastbc>-73.699375</eastbc>
+				<northbc>40.915808</northbc>
+				<southbc>40.495805</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekey>Parcels</themekey>
+				<themekey>Tax Lot</themekey>
+				<themekey>DTM</themekey>
+				<themekey>PLUTO</themekey>
+				<themekey>MapPLUTO</themekey>
+				<themekt>NONE</themekt>
+				<themekey>Boundaries</themekey><themekey>RPAD</themekey></theme>
+			<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (State)</placekey><placekey>New York (N.Y.)</placekey><placekey>Brooklyn (New York, N.Y.)</placekey><placekey>Bronx (New York, N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey><placekey>Manhattan (New York, N.Y.)</placekey><placekey>Staten Island (New York, N.Y.)</placekey></place>
+			<theme><themekt>ISO 19115 Topic Categories</themekt><themekey>planningCadastre</themekey></theme><place><placekt>None</placekt><placekey>NYC</placekey></place><temporal><tempkt>None</tempkt><tempkey>2013</tempkey></temporal></keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>22 Reade St, 5N</address>
+					<city>New York</city>
+					<state>New York</state>
+					<postal>10007</postal>
+				</cntaddr>
+				<cntvoice>212.720.3505</cntvoice>
+				<cntorgp><cntorg>NYC Department of City Planning</cntorg></cntorgp></cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype><ptvctcnt>321</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn>GCS_North_American_1983</geogcsn>
+				<projcsn>NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="Dcp_Mappinglot_13v2">
+			<enttyp>
+				<enttypl>Dcp_Mappinglot_13v2</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>BORO</attrlabl>
+				<attrdef>The borough that the tax lot is located in.</attrdef>
+				<attrdefs>Department of City Planning - based on data from Department of Finance - RPAD Master File</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>BLOCK</attrlabl>
+				<attrdef>The tax block that the tax lot is located in.</attrdef>
+				<attrdefs>Department of City Planning</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LOT</attrlabl>
+				<attrdef>The number of the tax lot</attrdef>
+				<attrdefs>Department of City Planning</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CREATED_BY</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>CREATED_DA</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>LAST_MODIF</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>LAST_MOD_1</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Leng</attrlabl>
+				<attrdef>perimiter</attrdef></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NYC Department of City Planning</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>22 Reade St</address>
+					<city>New York</city>
+					<state>New York</state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntinst>Available at the following website: http://www.nyc.gov/html/dcp/html/bytes/applbyte.html</cntinst>
+				<cntvoice>212.720.3505</cntvoice>
+			</cntinfo>
+		</distrib>
+		<stdorder>
+			<fees> Free </fees>
+			<digform><digtinfo><formname>ESRI Shapefile</formname><formspec>zip</formspec></digtinfo></digform></stdorder>
+		<resdesc>nycp_2013_misclots</resdesc>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212)854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20140327</metd>
+	</metainfo>
+	<dataqual><lineage><procstep><proccont><cntinfo><cntorgp><cntorg>Data Service Staff, Columbia Libraries</cntorg></cntorgp></cntinfo></proccont><procdesc>Data Service staff downloaded 13v2 from the NYC Planning Bytes of the Big Apple website.  Merged files from all five boroughs into one file.  NYC Planning had 10 sets of files covering 2009-2013, however, they were all identical, so only the most recent edition was used.</procdesc><procdate>20140331</procdate></procstep></lineage></dataqual></metadata>

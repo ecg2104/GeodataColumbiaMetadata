@@ -125,7 +125,7 @@ may not be available in areas of high relief.</vertaccr>
 <cntinfo>
 <cntperp>
 <cntper>GIS/Map Librarian</cntper>
-<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 </cntperp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
@@ -136,7 +136,7 @@ may not be available in areas of high relief.</vertaccr>
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 <hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 </cntinfo>
 </proccont>
@@ -275,7 +275,7 @@ landuse.vat</enttypl>
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -286,7 +286,7 @@ landuse.vat</enttypl>
 <postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

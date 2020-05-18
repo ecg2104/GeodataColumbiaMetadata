@@ -207,7 +207,7 @@
 						<cntemail>eds@columbia.edu</cntemail>
 					</cntinfo>
 				</proccont>
-				<procdesc>DSSC staff compiled station data and converted to shapefile format</procdesc>
+				<procdesc>RDS staff compiled station data and converted to shapefile format</procdesc>
 				<procdate>2012</procdate>
 			</procstep>
 		</lineage>

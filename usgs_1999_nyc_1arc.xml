@@ -130,7 +130,7 @@
 </srccite>
 </srcinfo>
 <procstep>
-<procdesc>The following steps were conducted by Digital Social Science Center (DSSC) staff: This layer was clipped from the USGS National Elevation Dataset to New York City and its immediate surrounding area. The layer was reprojected.</procdesc>
+<procdesc>The following steps were conducted by Research Data Services (RDS) staff: This layer was clipped from the USGS National Elevation Dataset to New York City and its immediate surrounding area. The layer was reprojected.</procdesc>
 <srcused>National Elevation Database</srcused>
 <procdate>20090807</procdate>
 </procstep>
@@ -218,7 +218,7 @@
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Digital Social Science Center (DSSC) (EDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS) , Columbia University Libraries.</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>

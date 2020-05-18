@@ -4,7 +4,7 @@
 	<idinfo>
 		<citation>
 			<citeinfo>
-				<origin>Digital Social Science Center (DSSC)</origin>
+				<origin>Research Data Services (RDS)</origin>
 				<pubdate>2008</pubdate>
 				<title>Index to the Lehman Scanned Map Collection, 2008</title>
 				<geoform>vector digital data</geoform>
@@ -97,7 +97,7 @@
 					<cntinfo>
 						<cntperp>
 							<cntper>GIS/Metadata Librarian</cntper>
-							<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+							<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 						</cntperp>
 						<cntaddr>
 							<addrtype>mailing and physical address</addrtype>
@@ -184,7 +184,7 @@ ScannedMapIndex</enttypl>
 			<cntinfo>
 				<cntperp>
 					<cntper>GIS/Metadata Librarian</cntper>
-					<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 				</cntperp>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
@@ -211,7 +211,7 @@ ScannedMapIndex</enttypl>
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Electronic Data Service, Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>

@@ -28,7 +28,7 @@
 					<pubplace>New York</pubplace>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nyc_facilities2012.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2012_facilities.zip</onlink>
 			</citeinfo>
 		</citation>
 		<keywords>
@@ -88,7 +88,7 @@
 	<dataqual>
 		<lineage>
 			<procstep>
-				<procdesc>Data was compiled from the following sources for the following dates: 
+				<procdesc>Data was compiled from the following sources for the following dates:
 Schools:
 New York State Education Department; Office of Elementary, Middle, Secondary and Continuing Education - 2010-2011 School Year, New York State Education Department; Bureau of Post Secondary Research and Information - 2010-1011 School Year
 Recreational and Cultural Facilities:
@@ -107,12 +107,12 @@ New York City Department of Correction November, 2010
 New York City Department of Juvenile Justice June, 2010
 New York State Office of Children and Family Services August, 2010
 New York State Department of Correctional Services August, 2011
-New York City Office of the Criminal Justice Coordinator (Courts) November, 2010 
-Hospitals, Nursing Homes and Ambulatory Health Facilities: New York State Department of Health - November, 2010 
+New York City Office of the Criminal Justice Coordinator (Courts) November, 2010
+Hospitals, Nursing Homes and Ambulatory Health Facilities: New York State Department of Health - November, 2010
 Chemical Dependency Services
 New York State Office of Alcoholism and Substance Abuse June, 2010
 NYC Department of Mental Health and Mental Hygiene June, 2010
-Mental Health Services: 
+Mental Health Services:
 New York State Office of Mental Health June, 2010
 NYC Department of Mental Health and Mental Hygiene June, 2010
 Mental Retardation and Developmental Disabilities Services:
@@ -122,7 +122,7 @@ Day Care and Residential Facilities for Children:
 New York City Department of Health and Mental Hygiene June, 2011
 New York City Administration for Children’s Services August, 2011
 Facilities for Seniors:
-New York City Department for the Aging November, 2010 
+New York City Department for the Aging November, 2010
 Residential Facilities and Food Programs for Adults and Families:
 New York City Department of Homeless Services April, 2011
 New York State Department of Health (Adult Homes) July, 2011
@@ -130,7 +130,7 @@ Food for Survival (Soup Kitchens) March, 2011</procdesc>
 				<procdate>2011-2012</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>DSSC staff projected the facility tables based on the included XY values and created a shapefile and a geodatabase.</procdesc>
+				<procdesc>RDS staff projected the facility tables based on the included XY values and created a shapefile and a geodatabase.</procdesc>
 				<procdate>2012</procdate>
 			</procstep>
 		</lineage>
@@ -1488,7 +1488,7 @@ Public Libraries 1401-1499
 1401 Library - Public
 1402 Central Library - Public
 NYC Dept. of Parks &amp; 1501-1531
-Recreation 
+Recreation
 1501 Park/Playground
 1511 Pool, Gymnasium, Golf Course, Recreation Area
 1521 Triangle, Mall, Strip, Sitting area
@@ -1961,7 +1961,7 @@ coordinate system.</eaover>
 				</digtinfo>
 			</digform>
 		</stdorder>
-		<resdesc>nycplanning-selectfac_12</resdesc></distinfo>
+		<resdesc>nycp_2012_facilities</resdesc></distinfo>
 	<metainfo>
 		<metc>
 			<cntinfo>

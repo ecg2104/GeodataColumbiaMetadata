@@ -3,13 +3,13 @@
 <idinfo>
 		<citation>
 			<citeinfo>
-				<origin>Digital Social Science Center (DSSC), Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<origin>New York City Department of Buildings</origin>
 				<pubdate>2014</pubdate>
 				<title>New York City Cool Roofs, 2012</title>
 				<pubinfo>
 					<pubplace>New York City</pubplace>
-					<publish>DSSC</publish>
+					<publish>RDS</publish>
 				</pubinfo>
 				<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_nyc_dob_coolroofs_2012.zip</onlink>
 			</citeinfo>
@@ -187,7 +187,7 @@
 </cntaddr>
 <cntperp>
 <cntper>GIS/Metadata Librarian</cntper>
-<cntorg>Digital Social Science Center (DSSC)</cntorg>
+<cntorg>Research Data Services (RDS)</cntorg>
 </cntperp>
 <cntvoice>(212)854-601</cntvoice>
 <cntemail>data@library.columbia.edu</cntemail>

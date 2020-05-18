@@ -3,14 +3,14 @@
 		<citation>
 			<citeinfo>
 				<origin>New York (City). Department of City Planning</origin>
-				<origin>Digital Social Science Center (DSSC), Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<pubdate>2014</pubdate>
 				<title>New York City Super Public Use Microdata Areas (Super-PUMA), 2000</title>
 				<pubinfo>
 					<pubplace>New York City</pubplace>
 					<publish></publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/bytes_nyc_super_puma2000.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_nyc_2000_superpuma.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -69,15 +69,15 @@
 		<accconst>None</accconst>
 		<useconst>None</useconst>
 	</idinfo>
-	
+
 		<dataqual>
 	<lineage>
 <procstep>
 <procdate>2014</procdate>
-<procdesc>Data Service staff pulled the NY data from the US Census 2000 PHC-t-36 Percent Urban for Super-PUMAs and PUMAs: 2000 pdf 
-http://www.census.gov/population/www//cen2000/briefs/phc-t36/tables/phc-t-36.pdf 
+<procdesc>Data Service staff pulled the NY data from the US Census 2000 PHC-t-36 Percent Urban for Super-PUMAs and PUMAs: 2000 pdf
+http://www.census.gov/population/www//cen2000/briefs/phc-t36/tables/phc-t-36.pdf
 
-joined based on PUMA to the bytes_nyc_puma2000 shapefile 
+joined based on PUMA to the bytes_nyc_puma2000 shapefile
 dissolved on super puma variable</procdesc>
 </procstep>
 </lineage>
@@ -127,7 +127,7 @@ dissolved on super puma variable</procdesc>
 </ptvctinf>
 <direct>Vector</direct>
 </spdoinfo>
-	
+
 <eainfo>
 <detailed Name="bytes_nyc_super_puma2000">
 <enttyp>
@@ -227,7 +227,7 @@ dissolved on super puma variable</procdesc>
 <cntvoice>212.720.3505</cntvoice>
 </cntinfo>
 </distrib>
-<resdesc>bytes_nyc_super_puma2000</resdesc>
+<resdesc>nycp_nyc_2000_superpuma</resdesc>
 </distinfo>
 <metainfo>
 <metc>
@@ -242,7 +242,7 @@ dissolved on super puma variable</procdesc>
 </cntaddr>
 <cntperp>
 <cntper>GIS/Metadata Librarian</cntper>
-<cntorg>Digital Social Science Center (DSSC)</cntorg>
+<cntorg>Research Data Services (RDS)</cntorg>
 </cntperp>
 <cntvoice>(212)854-601</cntvoice>
 <cntemail>data@library.columbia.edu</cntemail>
@@ -256,4 +256,3 @@ dissolved on super puma variable</procdesc>
 </metsi>
 </metainfo>
 </metadata>
-

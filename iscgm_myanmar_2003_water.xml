@@ -114,7 +114,7 @@ may not be available in areas of high relief.</vertaccr>
 <proccont>
 <cntinfo>
 <cntorgp>
-<cntorg>Electronic Data Service, Columbia University Libraries</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 </cntorgp>
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
@@ -125,7 +125,7 @@ may not be available in areas of high relief.</vertaccr>
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </proccont>
 </procstep>
@@ -264,7 +264,7 @@ indWater</enttypl>
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Electronic Data Service (EDS), Columbia University Libraries</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -275,7 +275,7 @@ indWater</enttypl>
 <postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>dssc.data@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

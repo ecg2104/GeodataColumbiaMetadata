@@ -142,7 +142,7 @@ Relief shown by contours and spot heights ; contour interval 5 meters./ Title fr
 		<metc>
 			<cntinfo>
 				<cntperp>
-					<cntorg>Digital Social Science Center (DSSC), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntperp>
 				<cntaddr>
@@ -153,7 +153,7 @@ Relief shown by contours and spot heights ; contour interval 5 meters./ Title fr
 					<postal>10027</postal>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>dssc.data@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 	</metainfo>
