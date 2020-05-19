@@ -15,7 +15,7 @@
 				<pubinfo>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nymc_10aav.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2010_nymc.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
@@ -257,7 +257,7 @@
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nymc_10aav</resdesc>
+		<resdesc>nycp_2010_nymc</resdesc>
 		<stdorder>
 			<digform>
 			</digform>

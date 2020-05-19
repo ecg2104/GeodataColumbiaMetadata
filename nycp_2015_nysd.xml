@@ -4,28 +4,28 @@
 		<citation>
 			<citeinfo>
 				<origin>New York City Department of City Planning</origin>
-				<pubdate>2007</pubdate>
-				<title>New York City School Districts, 2014</title>
-				<edition>14D</edition>
+				<pubdate>2015</pubdate>
+				<title>New York City School Districts, 2015</title>
+				<edition>15B</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
 					<sername>BYTES of the BIG APPLE</sername>
-					<issue>14D</issue>
+					<issue>15B</issue>
 				</serinfo>
 				<pubinfo>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nysd_14d.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2015_nysd.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York City School Districts, 2014 is a polygon theme representing school district boundaries in New york City as of 2014.</abstract>
+			<abstract>New York City School Districts, 2015 is a polygon theme representing school district boundaries in New york City as of 2015.</abstract>
 			<purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
 			<langdata>en</langdata>
 		</descript>
 		<timeperd>
 			<timeinfo>
-				<sngdate><caldate>2014</caldate></sngdate></timeinfo>
+				<sngdate><caldate>2015</caldate></sngdate></timeinfo>
 			<current>ground condition</current>
 		</timeperd>
 		<status>
@@ -67,7 +67,7 @@
 </theme>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2014</tempkey>
+				<tempkey>2015</tempkey>
 			</temporal>
 		</keywords>
 				<accconst>None</accconst>
@@ -95,7 +95,7 @@
 			<horizpa>
 				<horizpar>The District files are created from the Department of City Planning LION file of the same release.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
 			</horizpa>
-		</posacc>		
+		</posacc>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
@@ -203,7 +203,7 @@ nysd</enttypl>
 </attr>
 </detailed>
 	</eainfo>
-	
+
 		<distinfo>
 		<distrib>
 			<cntinfo>
@@ -220,13 +220,13 @@ nysd</enttypl>
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nysd_14d</resdesc>
+		<resdesc>nycp_2015_nysd</resdesc>
 		<stdorder>
 			<digform>
 			</digform>
 		</stdorder>
 	</distinfo>
-	
+
 	<metainfo>
 		<metd>20170519</metd>
 		<metc>

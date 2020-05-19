@@ -4,28 +4,28 @@
 		<citation>
 			<citeinfo>
 				<origin>New York City Department of City Planning</origin>
-				<pubdate>2014</pubdate>
-				<title>New York City Municipal Court Districts, 2014</title>
-				<edition>14D</edition>
+				<pubdate>2007</pubdate>
+				<title>New York City Municipal Court Districts, 2007</title>
+				<edition>07B</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
 					<sername>BYTES of the BIG APPLE</sername>
-					<issue>14D</issue>
+					<issue>07B</issue>
 				</serinfo>
 				<pubinfo>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nymc_14d.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2007_nymc.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York City Municipal Court Districts, 2014 is a polygon theme representing municipal court districts in New York City as of 2014. </abstract>
+			<abstract>New York City Municipal Court Districts, 2007 is a polygon theme representing municipal court districts in New York City as of 2007. </abstract>
 			<purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
 			<langdata>en</langdata>
 		</descript>
 <timeperd>
 			<timeinfo>
-				<sngdate><caldate>2014</caldate></sngdate></timeinfo>
+				<sngdate><caldate>2007</caldate></sngdate></timeinfo>
 			<current>ground condition</current>
 		</timeperd>
 		<status>
@@ -71,7 +71,7 @@
 			</theme>
 						<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2014</tempkey>
+				<tempkey>2007</tempkey>
 			</temporal>
 		</keywords>
 				<accconst>None</accconst>
@@ -257,7 +257,7 @@
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nymc_14d</resdesc>
+		<resdesc>nycp_2007_nymc</resdesc>
 		<stdorder>
 			<digform>
 			</digform>

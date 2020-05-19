@@ -38,7 +38,7 @@ Japan Roads is a line theme representing roads in Japan.  This layer is a compon
 <publish>International Steering Committee for Global Mapping (ISCGM)</publish>
 </pubinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/roadl_jpn.zip
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_roadl.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -106,7 +106,7 @@ Japan Roads is a line theme representing roads in Japan.  This layer is a compon
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>roadl_jpn</resdesc>
+<resdesc>iscgm_japan_2011_roadl</resdesc>
 <distrib>
 </distrib>
 </distinfo>

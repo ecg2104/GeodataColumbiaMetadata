@@ -4,7 +4,7 @@
 <citeinfo>
 <origin>New York City Department of City Planning</origin>
 <pubdate>2006</pubdate>
-<title>New York City Police Precincts With 2006 Crime Data</title>
+<title>New York City Police Precincts With 2005 Crime Data</title>
 <geoform>vector digital data</geoform>
 <serinfo>
 <sername>BYTES of the BIG APPLE</sername>
@@ -14,17 +14,17 @@
 <pubplace>New York</pubplace>
 <publish>City of New York Department of City Planning</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nypp_crime06.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_nyc_2005_crime.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Police Precincts With 2006 Crime Data is a polygon theme representing police precincts in New York City.  Attribute information includes totals for a variety of crime categories in 2006.</abstract>
+<abstract>New York City Police Precincts With 2005 Crime Data is a polygon theme representing police precincts in New York City.  Attribute information includes totals for a variety of crime categories in 2005.</abstract>
 <purpose>For educational, non-commercial purposes only.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2006</caldate>
+<caldate>2005</caldate>
 </sngdate>
 </timeinfo>
 <current>ground condition</current>
@@ -54,6 +54,13 @@
 <theme>
 <themekt>None</themekt>
 <themekey>Police precincts</themekey>
+<themekey>Crime</themekey>
+<themekey>Murder</themekey>
+<themekey>Rape</themekey>
+<themekey>Robbery</themekey>
+<themekey>Assault</themekey>
+<themekey>Burglary</themekey>
+<themekey>Larceny</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -70,7 +77,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2006</tempkey>
+<tempkey>2005</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -108,8 +115,8 @@
 </posacc>
 <lineage>
 <procstep>
-<procdesc>The following were done by Research Data Services (RDS) staff:  2006 crime statistics were downloaded from the New York City Mayor's Office's MY Neighborhood Staistics website and joined to the police precinct layer.</procdesc>
-<procdate>2007</procdate>
+<procdesc>The following were done by Research Data Services (RDS) staff:  2005 crime statistics were downloaded from the New York City Mayor's Office's MY Neighborhood Staistics website and joined to the police precinct layer.</procdesc>
+<procdate>20006</procdate>
 </procstep>
 <procstep>
 <procdesc>Dataset moved.</procdesc>
@@ -121,7 +128,7 @@
 <procdesc>Metadata imported.</procdesc>
 <srcused>D:\MyDocs\Crime\nypp_crime08.xml</srcused>
 <procdate>20091119</procdate>
-<proctime>10213600</proctime>
+<proctime>10195400</proctime>
 </procstep>
 </lineage>
 </dataqual>
@@ -169,7 +176,7 @@
 <detailed>
 <enttyp>
 <enttypl>
-nypp_crime06</enttypl>
+nypp_crime05</enttypl>
 <enttypd>Police precincts</enttypd>
 </enttyp>
 <attr>
@@ -259,7 +266,7 @@ nypp_crime06</enttypl>
 </cntaddr>
 </cntinfo>
 </distrib>
-<resdesc>bytes_nypp_crime06</resdesc>
+<resdesc>cul_nyc_2005_crime</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

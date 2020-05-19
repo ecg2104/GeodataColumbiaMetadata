@@ -19,7 +19,7 @@ Geography Division</origin>
 Bureau of the Census
 Geography Division</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/tracts1990.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/census_nyc_1990_tracts.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -413,7 +413,7 @@ Products and Services Staff</cntorg>
 Contact_Electronic _Mail_Address: tiger@census.gov</cntfax>
 </cntinfo>
 </distrib>
-<resdesc>census_1990_tracts</resdesc>
+<resdesc>census_nyc_1990_tracts</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

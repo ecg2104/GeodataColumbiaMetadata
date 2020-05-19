@@ -38,7 +38,7 @@ Japan Ports is a point theme representing ports in Japan.  This layer is a compo
 <publish>International Steering Committee for Global Mapping (ISCGM)</publish>
 </pubinfo>
 <origin>International Steering Committee for Global Mapping (ISCGM)</origin>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/portp_jpn.zip
+<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_japan_2011_portp.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -106,7 +106,7 @@ Japan Ports is a point theme representing ports in Japan.  This layer is a compo
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>portp_jpn</resdesc>
+<resdesc>iscgm_japan_2011_portp</resdesc>
 <distrib>
 </distrib>
 </distinfo>

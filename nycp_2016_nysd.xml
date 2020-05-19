@@ -4,26 +4,26 @@
 		<citation>
 			<citeinfo>
 				<origin>New York City Department of City Planning</origin>
-				<pubdate>2016</pubdate>
-				<title>New York City Municipal Court Districts, 2016</title>
-				<edition>16d</edition>
+				<pubdate>2007</pubdate>
+				<title>New York City School Districts, 2016</title>
+				<edition>16D</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
 					<sername>BYTES of the BIG APPLE</sername>
-					<issue>16d</issue>
+					<issue>16D</issue>
 				</serinfo>
 				<pubinfo>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nymc_16d.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2016_nysd.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York City Municipal Court Districts, 2016 is a polygon theme representing municipal court districts in New York City as of 2016. </abstract>
+			<abstract>New York City School Districts, 2016 is a polygon theme representing school district boundaries in New york City as of 2016.</abstract>
 			<purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
 			<langdata>en</langdata>
 		</descript>
-<timeperd>
+		<timeperd>
 			<timeinfo>
 				<sngdate><caldate>2016</caldate></sngdate></timeinfo>
 			<current>ground condition</current>
@@ -45,7 +45,7 @@
 			</bounding>
 		</spdom>
 		<keywords>
-<place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York (N.Y.)</placekey>
 				<placekey>Brooklyn (New York, N.Y.)</placekey>
@@ -59,25 +59,24 @@
 				<placekey>NYC</placekey>
 			</place>
 			<theme>
-				<themekey>Court</themekey>
-				<themekey>Municipal</themekey>
-				<themekey>Law</themekey>
+				<themekey>School</themekey>
+				<themekey>Education</themekey>
+				<themekt>NONE</themekt>
+				<themekey>School District</themekey>
 				<themekey>boundaries</themekey>
 </theme>
-<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
-				<themekey>society</themekey>
-				<themekey>boundaries</themekey>
-			</theme>
-						<temporal>
+			<temporal>
 				<tempkt>None</tempkt>
 				<tempkey>2016</tempkey>
 			</temporal>
 		</keywords>
 				<accconst>None</accconst>
 		<useconst>None</useconst>
-		<ptcontac>
+				<ptcontac>
 			<cntinfo>
+				<cntorgp>
+					<cntorg>New York City Department of City Planning</cntorg>
+				</cntorgp>
 				<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
@@ -88,10 +87,7 @@
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>212.720.3505</cntvoice>
-				<cntorgp>
-<cntorg>NYC Department of City Planning</cntorg>
-</cntorgp>
-</cntinfo>
+			</cntinfo>
 		</ptcontac>
 	</idinfo>
 	<dataqual>
@@ -100,17 +96,13 @@
 				<horizpar>The District files are created from the Department of City Planning LION file of the same release.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
 			</horizpa>
 		</posacc>
-		<attracc>
-			<attraccr>
-</attraccr>
-		</attracc>
 	</dataqual>
-		<spdoinfo>
+	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
 			<sdtsterm>
 				<sdtstype>G-polygon</sdtstype>
-				<ptvctcnt>28</ptvctcnt>
+				<ptvctcnt>33</ptvctcnt>
 			</sdtsterm>
 		</ptvctinf>
 	</spdoinfo>
@@ -146,101 +138,72 @@
 		</horizsys>
 	</spref>
 	<eainfo>
-<detailed>
+		<detailed>
 			<enttyp>
-				<enttypl>nymc</enttypl>
-				<enttypt>Feature Class</enttypt>
-				<enttypc>0</enttypc>
+				<enttypl>
+nysd</enttypl>
+				<enttypd>School Districts</enttypd>
 			</enttyp>
 			<attr>
-				<attrlabl>BoroCode</attrlabl>
-				<attalias>BoroCode</attalias>
-				<attrtype>Integer</attrtype>
-				<attwidth>4</attwidth>
-				<atprecis>10</atprecis>
-				<attscale>0</attscale>
-				<attrdef>Borough Code</attrdef>
+<attrlabl>FID</attrlabl>
+<attalias>FID</attalias>
+<attrtype>OID</attrtype>
+<attwidth>4</attwidth>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<atprecis>0</atprecis>
+<attscale>0</attscale>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrtype>Geometry</attrtype>
+				<attwidth>0</attwidth>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
 				<attrdomv>
-					<edom>
-						<edomv>1</edomv>
-						<edomvd>Manhattan</edomvd>
-					</edom>
-					<edom>
-						<edomv>2</edomv>
-						<edomvd>Bronx</edomvd>
-					</edom>
-					<edom>
-						<edomv>3</edomv>
-						<edomvd>Brooklyn</edomvd>
-					</edom>
-					<edom>
-						<edomv>4</edomv>
-						<edomvd>Queens</edomvd>
-					</edom>
-					<edom>
-						<edomv>5</edomv>
-						<edomvd>Staten Island</edomvd>
-					</edom>
-				</attrdomv>
-			</attr>
-			<attr>
-<attrlabl>BoroName</attrlabl>
-				<attalias>BoroName</attalias>
-				<attrtype>String</attrtype>
-				<attwidth>32</attwidth>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
 				<atprecis>0</atprecis>
-				<attscale>0</attscale>
-				<attrdef>Borough name of the health area.</attrdef>
-			</attr>
-			<attr>
-<attrlabl>MuniCourt</attrlabl>
-				<attalias>MuniCourt</attalias>
-				<attrtype>Number</attrtype>
+<attscale>0</attscale>
+</attr>
+<attr>
+<attrlabl>SchoolDist</attrlabl>
+				<attalias>SchoolDist</attalias>
+				<attrtype>SmallInteger</attrtype>
 				<attwidth>4</attwidth>
-				<attrdef>Municipal Court District Number</attrdef>
+				<atprecis>4</atprecis>
+				<attscale>0</attscale>
+				<attrdef>The school district identifier the region defines</attrdef>
 			</attr>
 			<attr>
 <attrlabl>Shape_Area</attrlabl>
 <attalias>Shape_Area</attalias>
-<attrtype>String</attrtype>
-<attwidth>32</attwidth>
+<attrtype>Double</attrtype>
+<attwidth>19</attwidth>
+<atprecis>0</atprecis>
+<attscale>0</attscale>
 <attrdef>Area of feature in internal units squared.</attrdef>
 <attrdefs>ESRI</attrdefs>
 <attrdomv>
 <udom>Positive real numbers that are automatically generated.</udom>
 </attrdomv>
 </attr>
-<attr>
-<attrlabl>Shape</attrlabl>
-				<attalias>Shape</attalias>
-				<attrtype>String</attrtype>
-				<attwidth>2</attwidth>
-				<attrdef>Feature geometry.</attrdef>
-				<attrdefs>ESRI</attrdefs>
-				<attrdomv>
-<udom>Coordinates defining the features.</udom>
-</attrdomv>
-			</attr>
-			<attr>
-<attrlabl>FID</attrlabl>
-<attalias>FID</attalias>
-<attrtype>Float</attrtype>
-<attwidth>19</attwidth>
-<attrdef>Internal feature number.</attrdef>
-<attrdefs>ESRI</attrdefs>
-<attrdomv>
-<udom>Sequential unique whole numbers that are automatically generated.</udom>
-</attrdomv>
-<atnumdec>11</atnumdec>
-</attr>
+
 <attr>
 <attrlabl>Shape_Leng</attrlabl>
 <attalias>Shape_Leng</attalias>
-<attrtype>Float</attrtype>
+<attrtype>Double</attrtype>
 <attwidth>19</attwidth>
-<atnumdec>11</atnumdec>
+<atprecis>0</atprecis>
+<attscale>0</attscale>
 </attr>
 </detailed>
+	</eainfo>
+
 		<distinfo>
 		<distrib>
 			<cntinfo>
@@ -257,14 +220,13 @@
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nymc_16d</resdesc>
+		<resdesc>nycp_2016_nysd</resdesc>
 		<stdorder>
 			<digform>
 			</digform>
 		</stdorder>
 	</distinfo>
 
-</eainfo>
 	<metainfo>
 		<metd>20170519</metd>
 		<metc>

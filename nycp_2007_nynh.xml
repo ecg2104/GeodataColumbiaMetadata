@@ -1,31 +1,33 @@
 <?xml version="1.0"?>
 <metadata>
 	<idinfo>
+		<descript>
+			<langdata>en</langdata>
+			<abstract> New York City Neighborhoods, 2007 is a polygon theme representing neighborhood boundaries in New York City as of 2007.  Neighborhoods are subdivisions of Public Use Microdata Areas (PUMAs). PUMAs were developed for use with the Census Bureau's Public Use Microdata Samples (PUMS) and are approximations of Community Districts. Neighborhoods were created by the New York City Department of City Planning using whole census tracts as building blocks and were not permitted to cross PUMA boundaries.</abstract>
+			<purpose>These boundaries were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
+		</descript>
 		<citation>
 			<citeinfo>
 				<origin>New York City Department of City Planning</origin>
 				<pubdate>2007</pubdate>
-				<title>New York City School Districts, 2010</title>
-				<edition>10A</edition>
+				<title>New York City Neighborhoods, 2007</title>
 				<geoform>vector digital data</geoform>
+				<edition>07C</edition>
 				<serinfo>
 					<sername>BYTES of the BIG APPLE</sername>
-					<issue>10A</issue>
+					<issue>07C</issue>
 				</serinfo>
 				<pubinfo>
-					<publish>New York City Department of City Planning</publish>
+					<publish>City of New York Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nysd_10a_av.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2007_nynh.zip</onlink>
+				<ftname>nynh</ftname>
+				<othercit>No major changes since previous version.</othercit>
 			</citeinfo>
 		</citation>
-		<descript>
-			<abstract>New York City School Districts, 2010 is a polygon theme representing school district boundaries in New york City as of 2010.</abstract>
-			<purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
-			<langdata>en</langdata>
-		</descript>
 		<timeperd>
 			<timeinfo>
-				<sngdate><caldate>2010</caldate></sngdate></timeinfo>
+				<sngdate><caldate>2007</caldate></sngdate></timeinfo>
 			<current>ground condition</current>
 		</timeperd>
 		<status>
@@ -59,25 +61,20 @@
 				<placekey>NYC</placekey>
 			</place>
 			<theme>
-				<themekey>School</themekey>
-				<themekey>Education</themekey>
-				<themekt>NONE</themekt>
-				<themekey>School District</themekey>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>society</themekey>
 				<themekey>boundaries</themekey>
-</theme>
+			</theme>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2010</tempkey>
+				<tempkey>2007</tempkey>
 			</temporal>
 		</keywords>
-				<accconst>None</accconst>
+		<accconst>None</accconst>
 		<useconst>None</useconst>
-				<ptcontac>
+		<ptcontac>
 			<cntinfo>
-				<cntorgp>
-					<cntorg>New York City Department of City Planning</cntorg>
-				</cntorgp>
-				<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+				<cntvoice>212.720.3505</cntvoice>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
 					<address>22 Reade St, 5N</address>
@@ -86,23 +83,29 @@
 					<postal>10007</postal>
 					<country>USA</country>
 				</cntaddr>
-				<cntvoice>212.720.3505</cntvoice>
-			</cntinfo>
+				<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+				<cntorgp>
+<cntorg>New York City Department of City Planning</cntorg>
+</cntorgp>
+</cntinfo>
 		</ptcontac>
 	</idinfo>
-	<dataqual>
+		<dataqual>
+		<complete>These data are accurate as of the redistricting after the US Census 2000.</complete>
 		<posacc>
 			<horizpa>
-				<horizpar>The District files are created from the Department of City Planning LION file of the same release.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
+				<horizpar>The District files are created from the same release version of the Department of City Planning LION file.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
 			</horizpa>
-		</posacc>		
-	</dataqual>
+		</posacc>
+		<lineage>
+		</lineage>
+</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
 			<sdtsterm>
 				<sdtstype>G-polygon</sdtstype>
-				<ptvctcnt>33</ptvctcnt>
+				<ptvctcnt>195</ptvctcnt>
 			</sdtsterm>
 		</ptvctinf>
 	</spdoinfo>
@@ -140,19 +143,108 @@
 	<eainfo>
 		<detailed>
 			<enttyp>
-				<enttypl>
-nysd</enttypl>
-				<enttypd>School Districts</enttypd>
+				<enttypl>nynh_07</enttypl>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>195</enttypc>
 			</enttyp>
 			<attr>
-<attrlabl>FID</attrlabl>
-<attalias>FID</attalias>
-<attrtype>OID</attrtype>
-<attwidth>4</attwidth>
-<attrdef>Internal feature number.</attrdef>
+<attrlabl>BoroCode</attrlabl>
+				<attalias>BoroCode</attalias>
+				<attrtype>SmallInteger</attrtype>
+				<attwidth>4</attwidth>
+				<attrdef>Borough of census tract.</attrdef>
+				<atprecis>4</atprecis>
+<attscale>0</attscale>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Manhattan</edomvd>
+</edom>
+					<edom>
+<edomv>2</edomv>
+<edomvd>Bronx</edomvd>
+</edom>
+					<edom>
+<edomv>3</edomv>
+<edomvd>Brooklyn</edomvd>
+</edom>
+					<edom>
+<edomv>4</edomv>
+<edomvd>Queens</edomvd>
+</edom>
+					<edom>
+<edomv>5</edomv>
+<edomvd>Staten Island</edomvd>
+</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+<attrlabl>BoroName</attrlabl>
+				<attalias>BoroName</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>32</attwidth>
+				<attrdef>Borough Name.</attrdef>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+<attrlabl>CountyFIPS</attrlabl>
+				<attalias>CountyFIPS</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>3</attwidth>
+				<attrdef>The Census Bureau defined County FIPS code</attrdef>
+				<attrdomv>
+					<edom>
+<edomv>005</edomv>
+<edomvd>Bronx County</edomvd>
+</edom>
+					<edom>
+<edomv>047</edomv>
+<edomvd>Kings County (Brooklyn)</edomvd>
+</edom>
+					<edom>
+<edomv>061</edomv>
+<edomvd>New York County (Manhattan)</edomvd>
+</edom>
+					<edom>
+<edomv>081</edomv>
+<edomvd>Queens County</edomvd>
+</edom>
+					<edom>
+<edomv>085</edomv>
+<edomvd>Richmond County (Staten Island)</edomvd>
+</edom>
+				</attrdomv>
+				<atprecis>0</atprecis>
+<attscale>0</attscale>
+</attr>
+			<attr>
+<attrlabl>NHoodCode</attrlabl>
+				<attalias>NHoodCode</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>4</attwidth>
+				<attrdef>Neightborhood Code</attrdef>
+				<atprecis>0</atprecis>
+<attscale>0</attscale>
+</attr>
+			<attr>
+<attrlabl>NHoodName</attrlabl>
+				<attalias>NHoodName</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>40</attwidth>
+				<attrdef>Neighborhood Name</attrdef>
+				<atprecis>0</atprecis>
+<attscale>0</attscale>
+</attr>
+			<attr>
+<attrlabl>Shape_Area</attrlabl>
+<attalias>Shape_Area</attalias>
+<attrtype>Double</attrtype>
+<attwidth>19</attwidth>
+<attrdef>Area of feature in internal units squared.</attrdef>
 <attrdefs>ESRI</attrdefs>
 <attrdomv>
-<udom>Sequential unique whole numbers that are automatically generated.</udom>
+<udom>Positive real numbers that are automatically generated.</udom>
 </attrdomv>
 <atprecis>0</atprecis>
 <attscale>0</attscale>
@@ -170,29 +262,19 @@ nysd</enttypl>
 				<atprecis>0</atprecis>
 <attscale>0</attscale>
 </attr>
-<attr>
-<attrlabl>SchoolDist</attrlabl>
-				<attalias>SchoolDist</attalias>
-				<attrtype>SmallInteger</attrtype>
-				<attwidth>4</attwidth>
-				<atprecis>4</atprecis>
-				<attscale>0</attscale>
-				<attrdef>The school district identifier the region defines</attrdef>
-			</attr>
 			<attr>
-<attrlabl>Shape_Area</attrlabl>
-<attalias>Shape_Area</attalias>
-<attrtype>Double</attrtype>
-<attwidth>19</attwidth>
-<atprecis>0</atprecis>
-<attscale>0</attscale>
-<attrdef>Area of feature in internal units squared.</attrdef>
+<attrlabl>FID</attrlabl>
+<attalias>FID</attalias>
+<attrtype>OID</attrtype>
+<attwidth>4</attwidth>
+<attrdef>Internal feature number.</attrdef>
 <attrdefs>ESRI</attrdefs>
 <attrdomv>
-<udom>Positive real numbers that are automatically generated.</udom>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
 </attrdomv>
+<atprecis>0</atprecis>
+<attscale>0</attscale>
 </attr>
-
 <attr>
 <attrlabl>Shape_Leng</attrlabl>
 <attalias>Shape_Leng</attalias>
@@ -203,7 +285,7 @@ nysd</enttypl>
 </attr>
 </detailed>
 	</eainfo>
-	
+
 		<distinfo>
 		<distrib>
 			<cntinfo>
@@ -220,13 +302,13 @@ nysd</enttypl>
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nysd_10a_av</resdesc>
+		<resdesc>nycp_2007_nynh</resdesc>
 		<stdorder>
 			<digform>
 			</digform>
 		</stdorder>
 	</distinfo>
-	
+
 	<metainfo>
 		<metd>20170519</metd>
 		<metc>

@@ -3,28 +3,28 @@
 <citation>
 <citeinfo>
 <origin>New York City Department of City Planning</origin>
-<pubdate>2006</pubdate>
-<title>New York City Police Precincts With 2005 Crime Data</title>
+<pubdate>2009</pubdate>
+<title>New York City Police Precincts With 2001 Crime Data</title>
 <geoform>vector digital data</geoform>
 <serinfo>
 <sername>BYTES of the BIG APPLE</sername>
-<issue>06c</issue>
+<issue>09A</issue>
 </serinfo>
 <pubinfo>
 <pubplace>New York</pubplace>
 <publish>City of New York Department of City Planning</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nypp_crime05.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/cul_nyc_2001_crime.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Police Precincts With 2005 Crime Data is a polygon theme representing police precincts in New York City.  Attribute information includes totals for a variety of crime categories in 2005.</abstract>
+<abstract>New York City Police Precincts With 2001 Crime Data is a polygon theme representing police precincts in New York City.  Attribute information includes totals for a variety of crime categories in 2001.</abstract>
 <purpose>For educational, non-commercial purposes only.</purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2005</caldate>
+<caldate>2008</caldate>
 </sngdate>
 </timeinfo>
 <current>ground condition</current>
@@ -77,7 +77,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2005</tempkey>
+<tempkey>2001</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -115,20 +115,8 @@
 </posacc>
 <lineage>
 <procstep>
-<procdesc>The following were done by Research Data Services (RDS) staff:  2005 crime statistics were downloaded from the New York City Mayor's Office's MY Neighborhood Staistics website and joined to the police precinct layer.</procdesc>
-<procdate>20006</procdate>
-</procstep>
-<procstep>
-<procdesc>Dataset moved.</procdesc>
-<srcused>D:\MyDocs\Eric2\NYCMisc\nypp_crime08</srcused>
-<procdate>20090811</procdate>
-<proctime>10565000</proctime>
-</procstep>
-<procstep>
-<procdesc>Metadata imported.</procdesc>
-<srcused>D:\MyDocs\Crime\nypp_crime08.xml</srcused>
-<procdate>20091119</procdate>
-<proctime>10195400</proctime>
+<procdesc>The following were done by Research Data Services (RDS) staff:  2001 crime statistics were downloaded from the New York City Mayor's Office's MY Neighborhood Statistics website and joined to the police precinct layer.</procdesc>
+<procdate>20090807</procdate>
 </procstep>
 </lineage>
 </dataqual>
@@ -176,7 +164,7 @@
 <detailed>
 <enttyp>
 <enttypl>
-nypp_crime05</enttypl>
+nypp_crime01</enttypl>
 <enttypd>Police precincts</enttypd>
 </enttyp>
 <attr>
@@ -200,23 +188,6 @@ nypp_crime05</enttypl>
 <attrdef>Denotes the precinct number serviced by the police precinct</attrdef>
 </attr>
 <attr>
-<attrlabl>Shape_Leng</attrlabl>
-</attr>
-<attr>
-<attrlabl>Shape_Area</attrlabl>
-<attrdef>Area of feature in internal units squared.</attrdef>
-<attrdefs>ESRI</attrdefs>
-<attrdomv>
-<udom>Positive real numbers that are automatically generated.</udom>
-</attrdomv>
-</attr>
-<attr>
-<attrlabl>OID_</attrlabl>
-</attr>
-<attr>
-<attrlabl>PCT</attrlabl>
-</attr>
-<attr>
 <attrlabl>YEAR</attrlabl>
 <attrdef>Year</attrdef>
 </attr>
@@ -238,7 +209,7 @@ nypp_crime05</enttypl>
 </attr>
 <attr>
 <attrlabl>BURGLARY</attrlabl>
-<attrdef>Total number of burglarys</attrdef>
+<attrdef>Total number of burglaries</attrdef>
 </attr>
 <attr>
 <attrlabl>GR__LARCEN</attrlabl>
@@ -246,7 +217,7 @@ nypp_crime05</enttypl>
 </attr>
 <attr>
 <attrlabl>GLA</attrlabl>
-<attrdef>Total number of grand lanrceny autos</attrdef>
+<attrdef>Total number of grand larceny autos</attrdef>
 </attr>
 </detailed>
 </eainfo>
@@ -266,7 +237,7 @@ nypp_crime05</enttypl>
 </cntaddr>
 </cntinfo>
 </distrib>
-<resdesc>bytes_nypp_crime05</resdesc>
+<resdesc>cul_nyc_2001_crime</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

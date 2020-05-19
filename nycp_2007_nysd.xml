@@ -5,27 +5,27 @@
 			<citeinfo>
 				<origin>New York City Department of City Planning</origin>
 				<pubdate>2007</pubdate>
-				<title>New York City School Districts, 2016</title>
-				<edition>16D</edition>
+				<title>New York City School Districts, 2007</title>
+				<edition>07C</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
 					<sername>BYTES of the BIG APPLE</sername>
-					<issue>16D</issue>
+					<issue>07C</issue>
 				</serinfo>
 				<pubinfo>
 					<publish>New York City Department of City Planning</publish>
 				</pubinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/nysd_16D.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_2007_nysd.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York City School Districts, 2016 is a polygon theme representing school district boundaries in New york City as of 2016.</abstract>
+			<abstract>New York City School Districts, 2007 is a polygon theme representing school district boundaries in New york City as of 2007.</abstract>
 			<purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
 			<langdata>en</langdata>
 		</descript>
 		<timeperd>
 			<timeinfo>
-				<sngdate><caldate>2016</caldate></sngdate></timeinfo>
+				<sngdate><caldate>2007</caldate></sngdate></timeinfo>
 			<current>ground condition</current>
 		</timeperd>
 		<status>
@@ -67,7 +67,7 @@
 </theme>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2016</tempkey>
+				<tempkey>2007</tempkey>
 			</temporal>
 		</keywords>
 				<accconst>None</accconst>
@@ -95,7 +95,7 @@
 			<horizpa>
 				<horizpar>The District files are created from the Department of City Planning LION file of the same release.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
 			</horizpa>
-		</posacc>		
+		</posacc>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
@@ -203,7 +203,7 @@ nysd</enttypl>
 </attr>
 </detailed>
 	</eainfo>
-	
+
 		<distinfo>
 		<distrib>
 			<cntinfo>
@@ -220,13 +220,13 @@ nysd</enttypl>
 				</cntaddr>
 			</cntinfo>
 		</distrib>
-		<resdesc>nysd_16d</resdesc>
+		<resdesc>nycp_2007_nysd</resdesc>
 		<stdorder>
 			<digform>
 			</digform>
 		</stdorder>
 	</distinfo>
-	
+
 	<metainfo>
 		<metd>20170519</metd>
 		<metc>
