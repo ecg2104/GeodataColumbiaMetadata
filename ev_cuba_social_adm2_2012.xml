@@ -40,7 +40,7 @@ Cuba Migration Census Data (Municipality), 2012 is a polygon theme representing 
 					<publish>East View Cartographic, Incorporated</publish>
 				</pubinfo>
 				<origin>East View Cartographic, Incorporated</origin>
-				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_cuba_migration_adm2_2012.zip
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_cuba_social_adm2_2012.zip
 </onlink>
 			</citeinfo>
 		</citation>
@@ -371,7 +371,7 @@ Cuba Migration Census Data (Municipality), 2012 is a polygon theme representing 
 				</digtinfo>
 			</digform>
 		</stdorder>
-		<resdesc>ev_cuba_migration_adm2_2012</resdesc>
+		<resdesc>ev_cuba_social_adm2_2012</resdesc>
 		<distrib>
 		</distrib>
 	</distinfo>
