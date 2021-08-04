@@ -3,6 +3,16 @@
 <idinfo>
 <keywords>
 <theme>
+<themekey>Parcels</themekey>
+<themekey>Tax Lot</themekey>
+<themekey>DTM</themekey>
+<themekey>PLUTO</themekey>
+<themekey>MapPLUTO</themekey>
+<themekt>NONE</themekt>
+<themekey>Boundaries</themekey>
+<themekey>RPAD</themekey>
+</theme>
+<theme>
 <themekt>ISO 19115 Topic Categories</themekt>
 <themekey>planningCadastre</themekey>
 </theme>

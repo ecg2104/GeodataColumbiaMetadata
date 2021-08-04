@@ -22,36 +22,36 @@
 <placekey>NYC</placekey>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New York (N.Y.)</placekey>
-<placekey>Bronx (New York, N.Y.)</placekey>
+<placekey>Manhattan (New York, N.Y.)</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2014</tempkey>
+<tempkey>2017</tempkey>
 </temporal>
 </keywords>
 <spdom>
   <bounding>
-    <westbc>-73.933663</westbc>
-    <eastbc>-73.765402</eastbc>
-    <northbc>40.915458</northbc>
-    <southbc>40.785162</southbc>
+    <westbc>-74.047751</westbc>
+    <eastbc>-73.906786</eastbc>
+    <northbc>40.879138</northbc>
+    <southbc>40.683884</southbc>
   </bounding>
 </spdom>
 <descript>
-  <abstract>Bronx Tax Lots, 2014 v2 is a polygon theme representing tax lots in Kings County, NY as of 2014. This dataset represents a compilation of data from various government agencies throughout the City of New York.  The underlying geography is derived from the Tax Lot Polygon feature class which is part of the Department of Finance's Digital Tax Map (DTM).  The tax lots have been clipped to the shoreline, as defined by NYCMap planimetric features.  The attribute information is from the Department of City Planning's PLUTO data.  The attribute data pertains to tax lot and building characteristics and geographic, political and administrative information for each tax lot in New York City. A codebook documenting the attribute data is included with the download files for this dataset.
+  <abstract>Manhattan Tax Lots, 2017 v1 is a polygon theme representing tax lots in Kings County, NY as of 2017. This dataset represents a compilation of data from various government agencies throughout the City of New York.  The underlying geography is derived from the Tax Lot Polygon feature class which is part of the Department of Finance's Digital Tax Map (DTM).  The tax lots have been clipped to the shoreline, as defined by NYCMap planimetric features.  The attribute information is from the Department of City Planning's PLUTO data.  The attribute data pertains to tax lot and building characteristics and geographic, political and administrative information for each tax lot in New York City. A codebook documenting the attribute data is included with the download files for this dataset.
   The Tax Lot Polygon feature class and PLUTO are derived from different sources.   As a result, some PLUTO records did not have a corresponding tax lot in the Tax Lot polygon feature class at the time of release.
   DCP Mapping Lots includes some features that are not on the tax maps.  They have been added by DCP for cartographic purposes.  They include street center 'malls', traffic islands and some built streets through parks.  These features have very few associated attributes.</abstract>
 </descript>
 <citation>
 <citeinfo>nx
-<title>Bronx Tax Lots, 2014 v2</title>
+<title>Manhattan Tax Lots, 2017 v1</title>
 <origin>New York (City). Department of City Planning.</origin>
-<pubdate>2014</pubdate>
+<pubdate>2017</pubdate>
 <geoform>map</geoform>
 <pubinfo>
 <publish>NYC Department of City Planning</publish>
 </pubinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_bx_taxlots_2014v2.zip
+<onlink>http://www.columbia.edu/acis/eds/gis/images/nycp_mn_taxlots_2017v1.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -59,7 +59,7 @@
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2014</caldate>
+<caldate>2017</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -143,7 +143,7 @@
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>nycp_bx_taxlots_2014v2</resdesc>
+<resdesc>nycp_mn_taxlots_2017v1</resdesc>
 <distrib>
 </distrib>
 </distinfo>
