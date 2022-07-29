@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>society</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>house-type</themekey>
+				<themekey>rural</themekey>
+				<themekey>literacy</themekey>
+				<themekey>demographics</themekey>
+				<themekey>occupancy</themekey>
+				<themekey>housing</themekey>
+				<themekey>census</themekey>
+				<themekey>occupants</themekey>
+				<themekey>ownership</themekey>
+				<themekey>families</themekey>
+				<themekey>households</themekey>
+				<themekey>urban</themekey>
+				<themekey>household</themekey>
+				<themekey>income</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Guatemala</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2014</tempkey>
+			</temporal>
+		</keywords>
+		<spdom>
+			<bounding>
+				<westbc>-92.2292486234</westbc>
+				<eastbc>-88.2250227526</eastbc>
+				<northbc>17.8193260767</northbc>
+				<southbc>13.7353376327</southbc>
+			</bounding>
+		</spdom>
+		<descript>
+			<abstract>
+Guatemala Economic Census Data, 2014 is a polygon theme representing sectors in Ecuador with official population and housing data for the Ecuador from the 2001 census. This census is provided at the sector administrative level (ADM6) and includes 32,115 polygons with 1,084 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Person edad: F0” was updated to D001 and given the alias “Age In Years: 0 [F0]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). Four base tables could not be identified and were retained as. Where possible, all variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+</abstract>
+		</descript>
+		<citation>
+			<citeinfo>
+				<title>Guatemala Economic Census Data, 2014 </title>
+				<origin>East View Cartographic, Incorporated</origin>
+				<pubdate>2019</pubdate>
+				<geoform>map</geoform>
+				<pubinfo>
+					<publish>East View Cartographic, Incorporated</publish>
+				</pubinfo>
+				<origin>East View Cartographic, Incorporated</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_guatemala_economic_2014.zip
+</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>East View Cartographic, Incorporated</cntorg>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<gridsys>Custom_Transverse_Mercator</gridsys>
+		</horizsys>
+	</spref>
+
+	<eainfo>
+	<detailed>
+		<enttyp>
+			<enttypl>Guatemala_2014</enttypl>
+			<enttypd>File Geodatabase representing census sectors and associated attribute tables.</enttypd>
+			<enttypds>East View Geospatial</enttypds>
+		</enttyp>
+		<attr>
+			<attrlabl>CODE</attrlabl>
+			<attrdef>Code[Cod_Censo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Identifier of the census sector as a coded value.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Department</attrlabl>
+			<attrdef>Department[Departamen]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the department the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Municipality</attrlabl>
+			<attrdef>Municiality[Municipio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the municipality the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Populated_Place</attrlabl>
+			<attrdef>Populated Place[LUDAR_POBL]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the populated place the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Category</attrlabl>
+			<attrdef>Category[Categoria]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Category of the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Relocated</attrlabl>
+			<attrdef>Relocated[Reubicado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Relocated</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Type</attrlabl>
+			<attrdef>Type[TIPO]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Rural/Urban</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E001</attrlabl>
+			<attrdef>Economic Location: Households With Economic Activity In Urban Areas[Ubicación Económica: Actividad Económica En El Área Urbana]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E002</attrlabl>
+			<attrdef>Economic Location: Households With Economic Activity In Rural Areas[Ubicación Económica: Actividad Económica En El Área Rural]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E003</attrlabl>
+			<attrdef>Occupation: Total[Ocupación: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E004</attrlabl>
+			<attrdef>Occupation: Agriculture, Hunting, Forestry And Fishing[Ocupación: Agricultura, Caza, Silvicultura Y Pesca]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E005</attrlabl>
+			<attrdef>Occupation: Mining And Quarrying[Ocupación: Explotacion De Minas Y Canteras]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E006</attrlabl>
+			<attrdef>Occupation: Textile Manufacturing And Food[Ocupación: Industria Manufacturera Textil Y Alimenticia]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E007</attrlabl>
+			<attrdef>Occupation: Electricity</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E008</attrlabl>
+			<attrdef>Occupation: Construction[Ocupación: Construccion]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E009</attrlabl>
+			<attrdef>Occupation: Wholesale And Retail Trade</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E010</attrlabl>
+			<attrdef>Occupation: Transport</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E011</attrlabl>
+			<attrdef>Occupation: Financial, Insurance, Real Estate And Services Pres[Ocupación: Establecimientos Financieros, Seguros, Bienes Inmuebles Y Servicios Pres]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E012</attrlabl>
+			<attrdef>Occupation: Public Administration And Defense[Ocupación: Administracion Publica Y Defensa]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E013</attrlabl>
+			<attrdef>Occupation: Education[Ocupación: Enseñanza]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E014</attrlabl>
+			<attrdef>Occupation: Community</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E015</attrlabl>
+			<attrdef>Occupation: Offshore Organization[Ocupación: Organizacion Extraterritoriales]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E016</attrlabl>
+			<attrdef>Occupation: Unspecified[Ocupación: No Especificada]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E017</attrlabl>
+			<attrdef>Industry: Total[Industria: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E018</attrlabl>
+			<attrdef>Industry: Executive And Legislative Bodies And Management Of The Administration Public[Industria: Poder Ejecutivo Y De Los Cuerpos Legislativos Y Personal Directivo De La Administración Publi]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E019</attrlabl>
+			<attrdef>Industry: Professionals</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E020</attrlabl>
+			<attrdef>Industry: Mid-Level Professional Technicians[Industria: Técnicos Profesionales De Nivel Medio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E021</attrlabl>
+			<attrdef>Industry: Office Employees[Industria: Empleados De Oficina]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E022</attrlabl>
+			<attrdef>Industry: Service Workers And Salespersons And Markets[Industria: Trabajadores De Los Servicios Y Vendedores De Comercio Y Mercados]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E023</attrlabl>
+			<attrdef>Industry: Farmers And Skilled Agricultural And Fishery Workers[Industria: Agricultores Y Trabajadores Calificados Agropecuarios Y Pesqueros]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E024</attrlabl>
+			<attrdef>Industry: Officers</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E025</attrlabl>
+			<attrdef>Industry: Plant And Machinery Operators And Assemblers[Industria: Operarios De Instalaciones Y Maquinas Y Montadores]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E026</attrlabl>
+			<attrdef>Industry: Unskilled Workers[Industria: Trabajadores No Calificados]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E027</attrlabl>
+			<attrdef>Industry: Armed Forces[Industria: Fuerzas Armadas]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E028</attrlabl>
+			<attrdef>Economic Activity: Active Total[Actividad Económica: Total Activa]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E029</attrlabl>
+			<attrdef>Economic Activity: Active Men[Actividad Económica: Hombres Activos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E030</attrlabl>
+			<attrdef>Economic Activity: Active Women[Actividad Económica: Mujeres Activas]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E031</attrlabl>
+			<attrdef>Economic Activity: Inactive Total[Actividad Económica: Total Inactiva]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E032</attrlabl>
+			<attrdef>Economic Activity: Inactive Men[Actividad Económica: Hombres Inactivos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E033</attrlabl>
+			<attrdef>Economic Activity: Inactive Women[Actividad Económica: Mujeres Inactivos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E034</attrlabl>
+			<attrdef>Economic Activity: Active Population By Occupational Category (Not Including Those Who Looked For Work)[Actividad Económica: Poblacion Activa Por Categoría Ocupacional (No Incluye A Los Que Buscaron Trabajo)]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E035</attrlabl>
+			<attrdef>Economic Activity: Patron[Actividad Económica: Patrono]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E036</attrlabl>
+			<attrdef>Economic Activity: Own[Actividad Económica: Cuenta Propia]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E037</attrlabl>
+			<attrdef>Economic Activity: Public Employee[Actividad Económica: Empleado Publico]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E038</attrlabl>
+			<attrdef>Economic Activity: Private Employee[Actividad Económica: Empleado Privado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E039</attrlabl>
+			<attrdef>Economic Activity: Unpaid Family[Actividad Económica: Familiar No Remunerado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E040</attrlabl>
+			<attrdef>Economic Inactivity: Economically Inactive Population 7-14 Years Old[Inactividad Económica: Poblacion Economicamente Inactiva 7 A 14 Años De Edad]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E041</attrlabl>
+			<attrdef>Economic Inactivity: Full-Time Student[Inactividad Económica: Unicamente Estudio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E042</attrlabl>
+			<attrdef>Economic Inactivity: Lives Off Their Income Or Retirement[Inactividad Económica: Vive De Su Renta O Jubilacion]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E043</attrlabl>
+			<attrdef>Economic Inactivity: Homemaker[Inactividad Económica: Realiza Unicamente Quehaceres De Su Hogar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E044</attrlabl>
+			<attrdef>Economic Inactivity: Does Not Work[Inactividad Económica: No Trabajo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E045</attrlabl>
+			<attrdef>Economic Population: 7 To 14 Year Olds[Población Económica: 7 A 14 Años De Edad]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E046</attrlabl>
+			<attrdef>Economic Population: Active[Población Económica: Activa]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E047</attrlabl>
+			<attrdef>Economic Population: Employed[Población Económica: Poblacion Ocupada]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E048</attrlabl>
+			<attrdef>Economic Population: Working And Have Worked Before[Población Económica: Trabajo Y Antes Trabajo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E049</attrlabl>
+			<attrdef>Economic Population: Seek First Job[Población Económica: Busco Trabajo Por Primera Vez]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E050</attrlabl>
+			<attrdef>Economic Population: Occupational Category (Not Including First Job Seekers)[Población Económica: Categoría Ocupacional (No Incluye A Los Que Buscaron Trabajo Por P]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E051</attrlabl>
+			<attrdef>Economic Population: Self-Employed[Población Económica: Trabaja Por Cuenta Propia]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E052</attrlabl>
+			<attrdef>Economic Population: Working As An Employee[Población Económica: Trabaja Como Empleado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E053</attrlabl>
+			<attrdef>Economic Population: Working As Unpaid Family[Población Económica: Trabaja Como Familiar No Remunerado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>E054</attrlabl>
+			<attrdef>Economic Population: Inactive[Población Económica: Inactiva]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Country</attrlabl>
+			<attrdef>Country</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Country where census took place as 3-digit ISO code</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Census_Year</attrlabl>
+			<attrdef>Census_Year</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Year census was conducted as YYYY</udom>
+			</attrdomv>
+		</attr>
+	</detailed>
+	</eainfo>
+
+	<metainfo>
+		<metd>20210801</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>shapefile</formname>
+					<formspec>zip</formspec>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc>ev_guatemala_economic_2014</resdesc>
+		<distrib>
+		</distrib>
+	</distinfo>
+</metadata>

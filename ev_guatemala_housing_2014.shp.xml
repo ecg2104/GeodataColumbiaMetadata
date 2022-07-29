@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>society</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>house-type</themekey>
+				<themekey>rural</themekey>
+				<themekey>literacy</themekey>
+				<themekey>demographics</themekey>
+				<themekey>occupancy</themekey>
+				<themekey>housing</themekey>
+				<themekey>census</themekey>
+				<themekey>occupants</themekey>
+				<themekey>ownership</themekey>
+				<themekey>families</themekey>
+				<themekey>households</themekey>
+				<themekey>urban</themekey>
+				<themekey>household</themekey>
+				<themekey>income</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Guatemala</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2014</tempkey>
+			</temporal>
+		</keywords>
+		<spdom>
+			<bounding>
+				<westbc>-92.2292486234</westbc>
+				<eastbc>-88.2250227526</eastbc>
+				<northbc>17.8193260767</northbc>
+				<southbc>13.7353376327</southbc>
+			</bounding>
+		</spdom>
+		<descript>
+			<abstract>
+Guatemala Housing Census Data, 2014 is a polygon theme representing sectors in Ecuador with official population and housing data for the Ecuador from the 2001 census. This census is provided at the sector administrative level (ADM6) and includes 32,115 polygons with 1,084 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Person edad: F0” was updated to D001 and given the alias “Age In Years: 0 [F0]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). Four base tables could not be identified and were retained as. Where possible, all variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+</abstract>
+		</descript>
+		<citation>
+			<citeinfo>
+				<title>Guatemala Housing Census Data, 2014 </title>
+				<origin>East View Cartographic, Incorporated</origin>
+				<pubdate>2019</pubdate>
+				<geoform>map</geoform>
+				<pubinfo>
+					<publish>East View Cartographic, Incorporated</publish>
+				</pubinfo>
+				<origin>East View Cartographic, Incorporated</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_guatemala_housing_2014.zip
+</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>East View Cartographic, Incorporated</cntorg>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<gridsys>Custom_Transverse_Mercator</gridsys>
+		</horizsys>
+	</spref>
+
+	<eainfo>
+	<detailed>
+		<enttyp>
+			<enttypl>Guatemala_2014</enttypl>
+			<enttypd>File Geodatabase representing census sectors and associated attribute tables.</enttypd>
+			<enttypds>East View Geospatial</enttypds>
+		</enttyp>
+		<attr>
+			<attrlabl>CODE</attrlabl>
+			<attrdef>Code[Cod_Censo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Identifier of the census sector as a coded value.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Department</attrlabl>
+			<attrdef>Department[Departamen]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the department the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Municipality</attrlabl>
+			<attrdef>Municiality[Municipio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the municipality the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Populated_Place</attrlabl>
+			<attrdef>Populated Place[LUDAR_POBL]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the populated place the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Category</attrlabl>
+			<attrdef>Category[Categoria]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Category of the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Relocated</attrlabl>
+			<attrdef>Relocated[Reubicado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Relocated</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Type</attrlabl>
+			<attrdef>Type[TIPO]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Rural/Urban</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H001</attrlabl>
+			<attrdef>Condition Of Housing: Total[Condición De La Vivienda: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H002</attrlabl>
+			<attrdef>Condition Of Housing: Private Room In House[Condición De La Vivienda: Particulares (Viviendas) Ocupados Con Personas]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H003</attrlabl>
+			<attrdef>Condition Of Housing: Tenure Particular Room</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H004</attrlabl>
+			<attrdef>Condition Of Housing: Tenure Particular Room Rent[Condición De La Vivienda: Tenencia Del Local De Habitacion Particular</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H005</attrlabl>
+			<attrdef>Condition Of Housing: Tenure Particular Room</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H006</attrlabl>
+			<attrdef>Condition Of Housing: Tenure Particular Room</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H007</attrlabl>
+			<attrdef>Housing Location: Average Number Of People Per Household[Ubicación De La Vivienda: Promedio De Personas Por Hogar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H008</attrlabl>
+			<attrdef>Housing Location: Average Number Of People In Urban Households[Ubicación De La Vivienda: Promedio De Personas En Hogares Urbanos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H009</attrlabl>
+			<attrdef>Housing Location: Average Number Of People In Rural Households[Ubicación De La Vivienda: Promedio De Personas En Hogares Rurales]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H010</attrlabl>
+			<attrdef>Condition Of Housing: Particular Room</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H011</attrlabl>
+			<attrdef>Waste Disposal: Total[Deposito De Basura: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H012</attrlabl>
+			<attrdef>Waste Disposal: Municipal Service To Remove Trash[Deposito De Basura: Servicio Municipal Para Eliminar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H013</attrlabl>
+			<attrdef>Waste Disposal: Private Services To Remove Trash[Deposito De Basura: Servicio Privado Para Eliminar La]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H014</attrlabl>
+			<attrdef>Waste Disposal: Burn Garbage[Deposito De Basura: Queman La Basura]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H015</attrlabl>
+			<attrdef>Waste Disposal: Throw Garbage Anywhere[Deposito De Basura: Tiran En Cualquier Lugar La Basura]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H016</attrlabl>
+			<attrdef>Waste Disposal: Bury Garbage[Deposito De Basura: Entierran La Basura]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H017</attrlabl>
+			<attrdef>Waste Disposal: Other Services To Eliminate Trash[Deposito De Basura: Otros Servicios Para Eliminar La B]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H018</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Total[Material Predominante En Las Paredes Exteriores: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H019</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Brick[Material Predominante En Las Paredes Exteriores: Ladrillo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H020</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Block[Material Predominante En Las Paredes Exteriores: Block]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H021</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Concrete[Material Predominante En Las Paredes Exteriores: Concreto]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H022</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Adobe[Material Predominante En Las Paredes Exteriores: Adobe]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H023</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Wood[Material Predominante En Las Paredes Exteriores: Madera]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H024</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Sheet Steel[Material Predominante En Las Paredes Exteriores: Lamina Metalica]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H025</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Bahareque[Material Predominante En Las Paredes Exteriores: Bajareque]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H026</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Lepa</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H027</attrlabl>
+			<attrdef>Predominant Material On The Exterior Walls: Another Material[Material Predominante En Las Paredes Exteriores: Otro Mat]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H028</attrlabl>
+			<attrdef>Predominant Material On The Floor: Total[Material Predominante En El Piso: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H029</attrlabl>
+			<attrdef>Predominant Material On The Floor: Ceramic Brick[Material Predominante En El Piso: Ladrillo Ceramico]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H030</attrlabl>
+			<attrdef>Predominant Material On The Floor: Cement Brick[Material Predominante En El Piso: Ladrillo De Cemento]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H031</attrlabl>
+			<attrdef>Predominant Material On The Floor: Mud Brick[Material Predominante En El Piso: Ladrillo De Barro]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H032</attrlabl>
+			<attrdef>Predominant Material On The Floor: Cement Cake[Material Predominante En El Piso: Torta De Cemento]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H033</attrlabl>
+			<attrdef>Predominant Material On The Floor: Parque[Material Predominante En El Piso: Parque]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H034</attrlabl>
+			<attrdef>Predominant Material On The Floor: Wood[Material Predominante En El Piso: Madera]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H035</attrlabl>
+			<attrdef>Predominant Material On The Floor: Ground[Material Predominante En El Piso: Tierra]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H036</attrlabl>
+			<attrdef>Predominant Material On The Floor: Other Material[Material Predominante En El Piso: Otro Material]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H037</attrlabl>
+			<attrdef>Predominant Material On The Floor: No Material[Material Predominante En El Piso: Material No Establecido Por Ausencia De Los Habitantes O Porque El Local Es De Uso Temporal O Estaba Desocupado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H038</attrlabl>
+			<attrdef>Building Material In The Roof: Total[Material Predominante En El Techo: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H039</attrlabl>
+			<attrdef>Building Material In The Roof: Concrete[Material Predominante En El Techo: Concreto]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H040</attrlabl>
+			<attrdef>Building Material In The Roof: Rolled Metal[Material Predominante En El Techo: Lamina Metali]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H041</attrlabl>
+			<attrdef>Building Material In The Roof: Asbestos Cement[Material Predominante En El Techo: Asbesto Cemen]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H042</attrlabl>
+			<attrdef>Building Material In The Roof: Tile[Material Predominante En El Techo: Teja]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H043</attrlabl>
+			<attrdef>Building Material In The Roof: Palm Or Similar[Material Predominante En El Techo: Palma O Simil]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H044</attrlabl>
+			<attrdef>Building Material In The Roof: Other[Material Predominante En El Techo: Otro]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H045</attrlabl>
+			<attrdef>Lighting System: Total[Sistema De Iluminación: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H046</attrlabl>
+			<attrdef>Lighting System: Electric[Sistema De Iluminación: Eléctrico]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H047</attrlabl>
+			<attrdef>Lighting System: Solar Panel[Sistema De Iluminación: Panel Solar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H048</attrlabl>
+			<attrdef>Lighting System: Piped Gas[Sistema De Iluminación: Gas Corriente]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H049</attrlabl>
+			<attrdef>Lighting System: Candle[Sistema De Iluminación: Candela]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H050</attrlabl>
+			<attrdef>Lighting System: Other[Sistema De Iluminación: Other]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H051</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Total[Fuente De Combustible Para Cocinar: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H052</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Electricity[Fuente De Combustible Para Cocinar: Electricidad]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H053</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Propane Gas[Fuente De Combustible Para Cocinar: Gas Propano]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H054</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Piped Gas[Fuente De Combustible Para Cocinar: Gas Corriente]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H055</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Wood[Fuente De Combustible Para Cocinar: Leña]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H056</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Coal[Fuente De Combustible Para Cocinar: Carbon]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H057</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: All Households That Do Not Cook[Fuente De Combustible Para Cocinar: Total De Hogares Que No Cocinan]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H058</attrlabl>
+			<attrdef>Source Of Fuel For Cooking: Total Households With Exclusive Kitchen[Fuente De Combustible Para Cocinar: Total De Hogares Que Disponen De Cuarto Exclusivo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H059</attrlabl>
+			<attrdef>Primary Water Source: Total[Fuente De Agua Primaria: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H060</attrlabl>
+			<attrdef>Primary Water Source: Exclusive Use Of The Water Stream[Fuente De Agua Primaria: Uso Exclusivo Del Chorro]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H061</attrlabl>
+			<attrdef>Primary Water Source: Water Stream Shared With Several Households[Fuente De Agua Primaria: Chorro Compartido Con Varios Hogares]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H062</attrlabl>
+			<attrdef>Primary Water Source: Public Water Stream (Outside The House)[Fuente De Agua Primaria: Chorro Publico (Fuera Del Local De Habitacion)]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H063</attrlabl>
+			<attrdef>Primary Water Source: Wells[Fuente De Agua Primaria: Pozos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H064</attrlabl>
+			<attrdef>Primary Water Source: Truck Or Cask[Fuente De Agua Primaria: Camion O Tonel]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H065</attrlabl>
+			<attrdef>Primary Water Source: River Or Lake[Fuente De Agua Primaria: Rio O Lago]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H066</attrlabl>
+			<attrdef>Primary Water Source: Water Service[Fuente De Agua Primaria: Servicio De Agua]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H067</attrlabl>
+			<attrdef>Average Number Of: Rooms Per Household[Número Promedio De: Cuartos Por Hogar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H068</attrlabl>
+			<attrdef>Average Number Of: People Per Bedroom[Número Promedio De: Personas Por Dormitorio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H069</attrlabl>
+			<attrdef>Toilet Waste Removal: Total[Eliminación De Residuos De Aseo: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H070</attrlabl>
+			<attrdef>Toilet Waste Removal: Total Households With Toilet[Eliminación De Residuos De Aseo: Total De Hogares Que Disponen De Servicio Sanitario]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H071</attrlabl>
+			<attrdef>Toilet Waste Removal; Exclusive Use Of A Toilet: Total[Eliminación De Residuos De Aseo; Exclusivo Del Servicio Sanitario: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H072</attrlabl>
+			<attrdef>Toilet Waste Removal; Exclusive Use Of A Toilet: Connected To The Sewer[Eliminación De Residuos De Aseo; Exclusivo Del Servicio Sanitario: Conectado A La Red De]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H073</attrlabl>
+			<attrdef>Toilet Waste Removal; Exclusive Use Of A Toilet: Connected To A Pit Toilet[Eliminación De Residuos De Aseo; Exclusivo Del Servicio Sanitario: Conectado A Un Baño De Pozo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H074</attrlabl>
+			<attrdef>Toilet Waste Removal; Exclusive Use Of A Toilet: Washable Toilet[Eliminación De Residuos De Aseo; Exclusivo Del Servicio Sanitario: Excusado Lavable]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H075</attrlabl>
+			<attrdef>Toilet Waste Removal; Exclusive Use Of A Toilet: Latrine Or Cesspool[Eliminación De Residuos De Aseo; Exclusivo Del Servicio Sanitario: Letrina O Pozo Ciego]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H076</attrlabl>
+			<attrdef>Toilet Waste Removal; Shared Toilet: Total[Eliminación De Residuos De Aseo; Servicio Sanitario Compartido: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H077</attrlabl>
+			<attrdef>Toilet Waste Removal; Shared Toilet: Connected To The Sewer[Eliminación De Residuos De Aseo; Servicio Sanitario Compartido: Conectado A La Red De]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H078</attrlabl>
+			<attrdef>Toilet Waste Removal; Shared Toilet: Connected To A Pit Toilet[Eliminación De Residuos De Aseo; Servicio Sanitario Compartido: Conectado A Un Baño De Pozo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H079</attrlabl>
+			<attrdef>Toilet Waste Removal; Shared Toilet: Washable Toilet[Eliminación De Residuos De Aseo; Servicio Sanitario Compartido: Excusado Lavable]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H080</attrlabl>
+			<attrdef>Toilet Waste Removal; Shared Toilet: Latrine Or Cesspool[Eliminación De Residuos De Aseo; Servicio Sanitario Compartido: Letrina O Pozo Ciego]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H081</attrlabl>
+			<attrdef>Toilet Waste Removal: Total Households Without Sanitary Services[Eliminación De Residuos De Aseo: Total De Hogares Que No Disponen De Servicio Sanitario]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H082</attrlabl>
+			<attrdef>Housing Type: Total[Tipo De Vivienda: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H083</attrlabl>
+			<attrdef>Housing Type: Formal Home[Tipo De Vivienda: Casa Formal]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H084</attrlabl>
+			<attrdef>Housing Type: Apartment[Tipo De Vivienda: Apartamento]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H085</attrlabl>
+			<attrdef>Housing Type: Hovel</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H086</attrlabl>
+			<attrdef>Housing Type: Ranch[Tipo De Vivienda: Rancho]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H087</attrlabl>
+			<attrdef>Housing Type: Makeshift Home[Tipo De Vivienda: Casa Improvisada]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>H088</attrlabl>
+			<attrdef>Housing Type: Other[Tipo De Vivienda: Otro]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Country</attrlabl>
+			<attrdef>Country</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Country where census took place as 3-digit ISO code</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Census_Year</attrlabl>
+			<attrdef>Census_Year</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Year census was conducted as YYYY</udom>
+			</attrdomv>
+		</attr>
+	</detailed>
+	</eainfo>
+
+
+	<metainfo>
+		<metd>20210801</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>shapefile</formname>
+					<formspec>zip</formspec>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc>ev_guatemala_housing_2014</resdesc>
+		<distrib>
+		</distrib>
+	</distinfo>
+</metadata>

@@ -1,0 +1,546 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>society</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>house-type</themekey>
+				<themekey>rural</themekey>
+				<themekey>literacy</themekey>
+				<themekey>demographics</themekey>
+				<themekey>occupancy</themekey>
+				<themekey>housing</themekey>
+				<themekey>census</themekey>
+				<themekey>occupants</themekey>
+				<themekey>ownership</themekey>
+				<themekey>families</themekey>
+				<themekey>households</themekey>
+				<themekey>urban</themekey>
+				<themekey>household</themekey>
+				<themekey>income</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Guatemala</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2014</tempkey>
+			</temporal>
+		</keywords>
+		<spdom>
+			<bounding>
+				<westbc>-92.2292486234</westbc>
+				<eastbc>-88.2250227526</eastbc>
+				<northbc>17.8193260767</northbc>
+				<southbc>13.7353376327</southbc>
+			</bounding>
+		</spdom>
+		<descript>
+			<abstract>
+Guatemala Demographic Census Data, 2014 is a polygon theme representing sectors in Ecuador with official population and housing data for the Ecuador from the 2001 census. This census is provided at the sector administrative level (ADM6) and includes 32,115 polygons with 1,084 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Person edad: F0” was updated to D001 and given the alias “Age In Years: 0 [F0]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). Four base tables could not be identified and were retained as. Where possible, all variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+</abstract>
+		</descript>
+		<citation>
+			<citeinfo>
+				<title>Guatemala Demographic Census Data, 2014 </title>
+				<origin>East View Cartographic, Incorporated</origin>
+				<pubdate>2019</pubdate>
+				<geoform>map</geoform>
+				<pubinfo>
+					<publish>East View Cartographic, Incorporated</publish>
+				</pubinfo>
+				<origin>East View Cartographic, Incorporated</origin>
+				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_guatemala_demographic_2014.zip
+</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<accconst>For current Columbia affiliates only.</accconst>
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>East View Cartographic, Incorporated</cntorg>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<gridsys>Custom_Transverse_Mercator</gridsys>
+		</horizsys>
+	</spref>
+
+	<eainfo>
+	<detailed>
+		<enttyp>
+			<enttypl>Guatemala_2014</enttypl>
+			<enttypd>File Geodatabase representing census sectors and associated attribute tables.</enttypd>
+			<enttypds>East View Geospatial</enttypds>
+		</enttyp>
+		<attr>
+			<attrlabl>CODE</attrlabl>
+			<attrdef>Code[Cod_Censo]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Identifier of the census sector as a coded value.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Department</attrlabl>
+			<attrdef>Department[Departamen]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the department the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Municipality</attrlabl>
+			<attrdef>Municiality[Municipio]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the municipality the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Populated_Place</attrlabl>
+			<attrdef>Populated Place[LUDAR_POBL]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Name of the populated place the census sector falls in.</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Category</attrlabl>
+			<attrdef>Category[Categoria]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Category of the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Relocated</attrlabl>
+			<attrdef>Relocated[Reubicado]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Relocated</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Type</attrlabl>
+			<attrdef>Type[TIPO]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Rural/Urban</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D001</attrlabl>
+			<attrdef>Marital Status: Total Population By Marital Status (Population Aged 12 Or Older)[Estado Civil: Total Con Estado Conyugal (Poblacion De 12 Años O Mas)]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D002</attrlabl>
+			<attrdef>Marital Status: Union State[Estado Civil: En Estado De Union]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D003</attrlabl>
+			<attrdef>Marital Status: Married[Estado Civil: Casada]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D004</attrlabl>
+			<attrdef>Marital Status: Divorced Or Separated[Estado Civil: Divorciada O Separada]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D005</attrlabl>
+			<attrdef>Marital Status: Widow[Estado Civil: Viuda]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D006</attrlabl>
+			<attrdef>Marital Status: Single[Estado Civil: Soltera]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D007</attrlabl>
+			<attrdef>Family Dependents: People Living In The House[Dependientes De La Familia: Personas Que Viven En La Casa]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D008</attrlabl>
+			<attrdef>Family Dependents: Number Of Heads Of Household[Dependientes De La Familia: Cantidad De Jefes De Hogar]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D009</attrlabl>
+			<attrdef>Family Dependents: Spouse[Dependientes De La Familia: Esposo O Esposa]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D010</attrlabl>
+			<attrdef>Family Dependents: Children Or Stepchildren[Dependientes De La Familia: Hijos O Hijastros]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D011</attrlabl>
+			<attrdef>Family Dependents: Sons-In-Law Or Daughters-In-Law[Dependientes De La Familia: Yernos O Nueras]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D012</attrlabl>
+			<attrdef>Family Dependents: Grandchildren[Dependientes De La Familia: Nietos]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D013</attrlabl>
+			<attrdef>Family Dependents: Sibling[Dependientes De La Familia: Hermano O Hermana]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D014</attrlabl>
+			<attrdef>Family Dependents: Parents[Dependientes De La Familia: Padres]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D015</attrlabl>
+			<attrdef>Family Dependents: In-Laws[Dependientes De La Familia: Suegros]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D016</attrlabl>
+			<attrdef>Family Dependents: Other Kinship[Dependientes De La Familia: Otros Parentesco]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D017</attrlabl>
+			<attrdef>Family Dependents: No Kinship[Dependientes De La Familia: Sin Parentesco]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D018</attrlabl>
+			<attrdef>Population: Total[Poblacion: Total]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D019</attrlabl>
+			<attrdef>Population: Male[Poblacion: Masculina]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D020</attrlabl>
+			<attrdef>Population: Female[Poblacion: Femenina]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D021</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 0 And 4 Years[Grupos Quinquenales De Edad: Entre 0 Y 4 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D022</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 5 And 9 Years[Grupos Quinquenales De Edad: Entre 5 Y 9 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D023</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 10 And 14 Years[Grupos Quinquenales De Edad: Entre 10 Y 14 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D024</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 15 And 19 Years[Grupos Quinquenales De Edad: Entre 15 Y 19 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D025</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 20 And 24 Years[Grupos Quinquenales De Edad: Entre 20 Y 24 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D026</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 25 And 29 Years[Grupos Quinquenales De Edad: Entre 25 Y 29 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D027</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 30 And 34 Years[Grupos Quinquenales De Edad: Entre 30 Y 34 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D028</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 35 And 39 Years[Grupos Quinquenales De Edad: Entre 35 Y 39 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D029</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 40 And 44 Years[Grupos Quinquenales De Edad: Entre 40 Y 44 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D030</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 45 And 49 Years[Grupos Quinquenales De Edad: Entre 45 Y 49 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D031</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 50 And 54 Years[Grupos Quinquenales De Edad: Entre 50 Y 54 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D032</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 55 And 59 Years[Grupos Quinquenales De Edad: Entre 55 Y 59 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D033</attrlabl>
+			<attrdef>Quinquennial Age Groups: Between 60 And 64 Years[Grupos Quinquenales De Edad: Entre 60 Y 64 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D034</attrlabl>
+			<attrdef>Quinquennial Age Groups: Aged 65 And Over[Grupos Quinquenales De Edad: De 65 Y Mas Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D035</attrlabl>
+			<attrdef>Living In: Urban Area[Viven En: Área Urbana]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D036</attrlabl>
+			<attrdef>Living In: Rural Area[Viven En: Área Rural]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D037</attrlabl>
+			<attrdef>TOT7</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D038</attrlabl>
+			<attrdef>OCUP</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D039</attrlabl>
+			<attrdef>DESOC1</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D040</attrlabl>
+			<attrdef>DESOC2</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>D041</attrlabl>
+			<attrdef>Active Population: 15 To 59 Years Old[Población Activa: 15 A 59 Años]</attrdef>
+			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
+			<attrdomv>
+				<udom>Frequency of response in the census sector</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Country</attrlabl>
+			<attrdef>Country</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Country where census took place as 3-digit ISO code</udom>
+			</attrdomv>
+		</attr>
+		<attr>
+			<attrlabl>Census_Year</attrlabl>
+			<attrdef>Census_Year</attrdef>
+			<attrdefs>East View Geospatial</attrdefs>
+			<attrdomv>
+				<udom>Year census was conducted as YYYY</udom>
+			</attrdomv>
+		</attr>
+	</detailed>
+	</eainfo>
+
+
+	<metainfo>
+		<metd>20210801</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+					<cntper>GIS/Metadata Librarian</cntper>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>420 W. 118th St. 215 IAB, MC 3301</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10027</postal>
+				</cntaddr>
+				<cntvoice>(212) 854-6012</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>shapefile</formname>
+					<formspec>zip</formspec>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc>ev_guatemala_demographic_2014</resdesc>
+		<distrib>
+		</distrib>
+	</distinfo>
+</metadata>
