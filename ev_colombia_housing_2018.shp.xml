@@ -123,7 +123,7 @@
     <attrdomv>
       <udom>Identifier of the census sector as a coded value</udom>
     </attrdomv>
-  </attr
+  </attr>
   <attr>
     <attrlabl>H001</attrlabl>
     <attrdef>House In A Protect Area: Yes [Vivienda en un área protegida: si]</attrdef>

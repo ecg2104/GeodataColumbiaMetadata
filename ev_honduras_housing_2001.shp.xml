@@ -1223,7 +1223,7 @@ Official population and housing data for Honduras from the 2001 census. This cen
     <attrlabl>Census_Year</attrlabl>
     <attrdef>Census Year</attrdef>
     <attrdefs>East View Geospatial</attrdefs>
-    <attrdomv/>
+  </attr>
   </attr>
 </detailed>
 </eainfo>
