@@ -166,7 +166,7 @@
 				<atprecis>10</atprecis>
 				<attscale>0</attscale>
 				<attrdef>Archive year</attrdef>
-			</attr
+			</attr>
 			<attr>
 				<attrlabl>ABI</attrlabl>
 				<attalias>ABI</attalias>
@@ -688,7 +688,7 @@
 			</cntinfo>
 		</metc>
 		<metd>20230109</metd>
-		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata </metstdn>
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<metsi>
 			<metsc>Unclassified</metsc>
