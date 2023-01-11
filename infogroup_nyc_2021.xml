@@ -311,7 +311,7 @@
 			</attr>
 			<attr>
 				<attrlabl>Primary_NAcis_code</attrlabl>
-				<attalias>Primary_NAcis_code/attalias>
+				<attalias>Primary_NAcis_code</attalias>
 				<attrtype>Integer</attrtype>
 				<attwidth>10</attwidth>
 				<atprecis>10</atprecis>
@@ -320,7 +320,7 @@
 			</attr>
 			<attr>
 				<attrlabl>NAICS8_Decriptions</attrlabl>
-				<attalias>NAICS8_Decriptions/attalias>
+				<attalias>NAICS8_Decriptions</attalias>
 				<attrtype>String</attrtype>
 				<attwidth>254</attwidth>
 				<atprecis>0</atprecis>
