@@ -268,4 +268,4 @@
 			<metsc>Unclassified</metsc>
 		</metsi>
 	</metainfo>
-	<distInfo><distFormat><formatName>Shapefile</formatName></distFormat><distTranOps><transSize>0.033</transSize></distTranOps></distInfo></metadata>
+	<distInfo><distFormat><formatName>geopackage</formatName></distFormat><distTranOps><transSize>0.033</transSize></distTranOps></distInfo></metadata>

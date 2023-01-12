@@ -84,7 +84,7 @@
 <hours>Monday - Friday, 9:00am - 5:00pm</hours>
 </cntinfo>
 </ptcontac>
-<natvform>Shapefile</natvform>
+<natvform>geopackage</natvform>
 </idinfo>
 
 <dataqual>

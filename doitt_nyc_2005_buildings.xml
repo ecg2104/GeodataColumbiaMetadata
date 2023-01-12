@@ -92,11 +92,7 @@
 				<cntvoice>212-232-1114</cntvoice>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/nyc_buildings0.bmp</browsen>
-			<browsed>Thumbnail image of shapefile in partial extent</browsed>
-			<browset>bmp</browset>
-		</browse>
+
 		<secinfo>
 		</secinfo>
 		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
