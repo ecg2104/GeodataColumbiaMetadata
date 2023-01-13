@@ -81,7 +81,7 @@ Mass Appraisal Data - September, 2003</supplinf></descript>
 			</cntinfo>
 		</ptcontac>
 		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</native>
-		<natvform>Shapefile</natvform>
+		<natvform>geopackage</natvform>
 	</idinfo>
 	<dataqual>
 		<attracc>
@@ -2299,7 +2299,7 @@ Mass Appraisal Data - September, 2003</procdesc></procstep></lineage></dataqual>
 		</distrib>
 		<stdorder>
 			<fees> Free </fees>
-			<digform><digtinfo><formname>ESRI Shapefile</formname><formspec>zip</formspec></digtinfo></digform></stdorder>
+			<digform><digtinfo><formname>geopackage</formname><formspec>zip</formspec></digtinfo></digform></stdorder>
 		<resdesc>nycp_mn_taxlots_2003c</resdesc>
 	</distinfo>
 	<metainfo>

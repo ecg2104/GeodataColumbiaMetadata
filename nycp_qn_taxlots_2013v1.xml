@@ -83,7 +83,7 @@ DCP - Political and Administrative District Data - 2/07/2013
 			</cntinfo>
 		</ptcontac>
 		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</native>
-		<natvform>Shapefile</natvform>
+		<natvform>geopackage</natvform>
 	</idinfo>
 	<dataqual>
 		<attracc>
@@ -197,7 +197,7 @@ DCP - Political and Administrative District Data - 2/07/2013</procdesc></procste
 				<attrtype>Number</attrtype>
 				<attwidth>4</attwidth>
 				<attrvai>
-					<attrvae>Each unit in a building that is a condominium is defined by the Department of Finance as a separate tax lot.  To make condominium information more compatible with parcel information, the Department of City Planning aggregated condominium unit tax lot information so that each condominium complex within a tax block is represented by only one tax lot record.  A condominium complex is defined as one or more structures or properties under the auspicies of the same condominium association.  The Department of City Planning then assigned the condominium billing tax lot number to the condominium complex tax lot record.  If the Department of Finance has not yet assigned a billing tax lot number to the condominium complex then the lowest tax lot number within the condominium complex was used. 
+					<attrvae>Each unit in a building that is a condominium is defined by the Department of Finance as a separate tax lot.  To make condominium information more compatible with parcel information, the Department of City Planning aggregated condominium unit tax lot information so that each condominium complex within a tax block is represented by only one tax lot record.  A condominium complex is defined as one or more structures or properties under the auspicies of the same condominium association.  The Department of City Planning then assigned the condominium billing tax lot number to the condominium complex tax lot record.  If the Department of Finance has not yet assigned a billing tax lot number to the condominium complex then the lowest tax lot number within the condominium complex was used.
                                                                                            The Department of Finance DTM uses the formerly known as (FKA) Tax Lot number for Condominiums. The Department of City Planning has modified the Tax Lot number of DOF DTM by replacing the FKA with the condominiums billing tax lot number. Often the tax lot number can tell you the type of tax lot. Of course there are exceptions to each convention. Usually tax lot number '1-999' correspond with traditional tax lots; '1001-6999' correspond with condominium unit lots; '7501-7599' correspond with condominiun billing lots; '8000-8899' correspond with subterranean tax lots; '8900-8999' correspond with DTM dummy tax lots; '9000-9899' correspond with air right tax lots.</attrvae>
 				</attrvai>
 			</attr>
@@ -2366,7 +2366,7 @@ DCP - Political and Administrative District Data - 2/07/2013</procdesc></procste
 				<attwidth>40</attwidth>
 				<attrdef>The name of the Historic District as designated by the New York City Landmarks Preservation Commission.</attrdef>
 				<attrdefs>Department of City Planning - based on data from: Landmarks Preservation Commission - Guide to New York City Landmarks
-                                                                                        Landmarks Preservation Commission Web Site - www.nyc.gov\landmarks 
+                                                                                        Landmarks Preservation Commission Web Site - www.nyc.gov\landmarks
                                                                                         Landmarks Preservation Commission Historic District Polygon File</attrdefs>
 			</attr>
 			<attr>
@@ -2604,7 +2604,7 @@ DCP - Political and Administrative District Data - 2/07/2013</procdesc></procste
 					</edom>
 				</attrdomv>
 				<attrdef>The Department of Finance's DTM handles condominium lots differently from many other MapPLUTO sources. The DTM Tax Lot Polygon feature class uses the base borough - block - lot (BBL) as the unique identifier of a parcel currently occupied by a condominium. The Department of City Planning and some of the other data sources for MapPLUTO use the billing bbl for condominiums. Therefore, in creating MapPLUTO from DTM, DCP has had to reassign the billing bbl as the primary key for condominium tax parcels. In most cases, there is one to one relationship between the DTM's base bbl and MapPLUTO's billing bbl. In some cases, further processing has been necessary. In a very few cases, non-condominium tax lots have also been modified. All of these cases are identified in the MapPluto Flag field. The data type for MapPLUTO flag is a number, each number represents how the base bbl is reassigned.
-                                                                                          
+
                                                                         </attrdef>
 				<attrdefs>Department of City Planning - ArcGIS Team</attrdefs>
 			</attr>
@@ -2670,7 +2670,7 @@ DCP - Political and Administrative District Data - 2/07/2013</procdesc></procste
 		</distrib>
 		<stdorder>
 			<fees> Free </fees>
-			<digform><digtinfo><formname>ESRI Shapefile</formname><formspec>zip</formspec></digtinfo></digform></stdorder>
+			<digform><digtinfo><formname>geopackage</formname><formspec>zip</formspec></digtinfo></digform></stdorder>
 		<resdesc>nycp_qn_taxlots_2013v1</resdesc>
 	</distinfo>
 	<metainfo>

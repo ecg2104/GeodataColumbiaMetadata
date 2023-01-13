@@ -72,7 +72,7 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 			</cntinfo>
 		</ptcontac>
 		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</native>
-		<natvform>Shapefile</natvform>
+		<natvform>geopackage</natvform>
 	</idinfo>
 	<distinfo>
 		<distrib>
@@ -96,7 +96,7 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 			<fees> Free </fees>
 			<digform>
 				<digtinfo>
-					<formname>ESRI Shapefile</formname>
+					<formname>geopackage</formname>
 					<formspec>zip</formspec>
 				</digtinfo>
 			</digform>
