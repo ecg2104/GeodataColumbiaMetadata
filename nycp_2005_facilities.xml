@@ -17,7 +17,7 @@
 		<descript>
 			<abstract>New York City Selected Facilities and Program Sites 2005 is a point theme representing public and private educational, recreational, public safety, health, mental health, substance abuse, mental retardation, day care, foster care, senior citizen and homeless facilities and programs throughout New York City. These facilities or programs are, with few exceptions, either operated, funded, licensed, or certified by a government agency.  Attribute information includes the location, type, and capacity of each facility.</abstract>
 			<purpose>This dataset has been formatted for use in a GIS.</purpose>
-			<supplinf>This dataset is provided as the original .txt tables as provided by the NYC Dept of City Planning as well as in an ESRI shapefile format as produced by EDS staff.</supplinf>
+
 		</descript>
 		<timeperd>
 			<timeinfo>
@@ -158,7 +158,7 @@ Food for Survival (Soup Kitchens) - October, 2004</procdesc>
 				<procdate>2001-2005</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following was performed by Research Data Services (RDS) staff - the tables were imported into ArcMap, features were located by using the 'display xy locations' function, and merged into a single shapefile.</procdesc>
+				<procdesc>The following was performed by Research Data Services (RDS) staff - the tables were imported into ArcMap, features were located by using the 'display xy locations' function, and merged into a single geopackage.</procdesc>
 				<procdate>2009</procdate>
 			</procstep>
 		</lineage>
@@ -2135,9 +2135,8 @@ coordinate system.</eaover>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>0.377</transize>
+					<formname>geopackage</formname>
+
 				</digtinfo>
 			</digform>
 		</stdorder>

@@ -234,9 +234,7 @@ http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml</cntinst>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>2.610</transize>
+					<formname>geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>

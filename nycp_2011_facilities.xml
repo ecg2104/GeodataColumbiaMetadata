@@ -4,7 +4,7 @@
 		<descript>
 			<abstract>New York City Selected Facilities and Program Sites 2011 is a point theme representing public and private educational, recreational, public safety, health, mental health, substance abuse, mental retardation, day care, foster care, senior citizen and homeless facilities and programs throughout New York City. These facilities or programs are, with few exceptions, either operated, funded, licensed, or certified by a government agency. Attribute information includes the location, type, and capacity of each facility.</abstract>
 			<purpose>This dataset has been formatted for use in a GIS.</purpose>
-			<supplinf>This dataset is provided in two formats created by Data Service staff, a file geodatabase and a shapefile. Also included are the original .txt tables provided by the NYC Planning Department</supplinf>
+
 		</descript>
 		<keywords>
 			<theme>
@@ -158,7 +158,7 @@ Food for Survival (Soup Kitchens) March, 2011
 				<procdate>2010-2011</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>RDS staff projected the facility tables based on the included XY values and created a shapefile and a geodatabase.</procdesc>
+				<procdesc>RDS staff projected the facility tables based on the included XY values and created a geopackage.</procdesc>
 				<procdate>2012</procdate>
 			</procstep>
 		</lineage>
@@ -1931,7 +1931,7 @@ coordinates are expressed in the New York Long Island State Plane
 coordinate system.</eaover>
 		</overview>
 	</eainfo>
-	<distinfo><distrib><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><address>22 Reade St</address><city>New York</city><state>NY</state><postal>10007</postal></cntaddr><cntvoice>212.720.3505</cntvoice><cntorgp><cntorg>New York City Department of City Planning</cntorg></cntorgp></cntinfo></distrib><stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>zip</formspec><transize>0.377</transize></digtinfo>
+	<distinfo><distrib><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><address>22 Reade St</address><city>New York</city><state>NY</state><postal>10007</postal></cntaddr><cntvoice>212.720.3505</cntvoice><cntorgp><cntorg>New York City Department of City Planning</cntorg></cntorgp></cntinfo></distrib><stdorder><digform><digtinfo><formname>Shapefile</formname></digtinfo>
 			</digform>
 		</stdorder>
 		<resdesc>nycp_2011_facilities</resdesc></distinfo>

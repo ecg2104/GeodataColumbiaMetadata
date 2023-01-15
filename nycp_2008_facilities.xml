@@ -17,7 +17,7 @@
 		<descript>
 			<abstract>New York City Selected Facilities and Program Sites 2008 is a point theme representing public and private educational, recreational, public safety, health, mental health, substance abuse, mental retardation, day care, foster care, senior citizen and homeless facilities and programs throughout New York City. These facilities or programs are, with few exceptions, either operated, funded, licensed, or certified by a government agency.  Attribute information includes the location, type, and capacity of each facility.</abstract>
 			<purpose>This dataset has been formatted for use in a GIS.</purpose>
-			<supplinf>This dataset is provided in two formats created by EDS staff, a file geodatabase and a shapefile.  Also included are the original .txt tables provided by the NYC Planning Department</supplinf>
+
 		</descript>
 		<timeperd>
 			<timeinfo>
@@ -175,7 +175,7 @@ coordinates.</procdesc>
 				<procdate>2005-2008</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>Research Data Services (RDS) staff projected the facility tables based on the included XY values and created a shapefile and a geodatabase.</procdesc>
+				<procdesc>Research Data Services (RDS) staff projected the facility tables based on the included XY values and created a geopackage</procdesc>
 				<procdate>2009</procdate>
 			</procstep>
 		</lineage>
@@ -1990,9 +1990,8 @@ coordinate system.</eaover>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile and ESRI Geodatabase</formname>
-					<formspec>zip</formspec>
-					<transize>0.377</transize>
+					<formname>geopackage</formname>
+
 				</digtinfo>
 			</digform>
 		</stdorder>
