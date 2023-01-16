@@ -131,7 +131,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 			</cntinfo>
 		</distrib>
 		<resdesc>cul_us_2012_above90</resdesc>
-		<stdorder><digform><digtinfo><formname>ESRI Shapefile</formname><formspec>zip</formspec></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>geopackage</formname><formspec>zip</formspec></digtinfo></digform></stdorder></distinfo>
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>

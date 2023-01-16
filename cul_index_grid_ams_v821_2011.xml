@@ -258,7 +258,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>ESRI shapefile</formname>
+					<formname>geopackage</formname>
 					<formspec>zip</formspec>
 				</digtinfo>
 			</digform>
