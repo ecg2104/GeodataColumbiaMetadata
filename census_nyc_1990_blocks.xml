@@ -424,9 +424,8 @@ Contact_Electronic _Mail_Address: tiger@census.gov</cntfax>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>5.117</transize>
 </digtinfo>
 <digtopt>
 </digtopt>

@@ -314,9 +314,9 @@ ZCTA500.shp</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>0.373</transize>
+
 </digtinfo>
 <digtopt>
 </digtopt>
