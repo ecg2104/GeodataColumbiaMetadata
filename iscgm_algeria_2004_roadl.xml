@@ -358,9 +358,9 @@ aze_roadl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>1.713</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

@@ -6,7 +6,7 @@
 <pubdate>2006</pubdate>
 <title>Algeria Political Boundaries (polygons), 2006</title>
 <geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/iscgm_algeria_2004_bound.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -215,9 +215,7 @@ dzaBound</enttypl>
 <resdesc>iscgm_algeria_2004_bound</resdesc>
 <stdorder>
 <digform>
-<digtinfo>
-<transize>0.619</transize>
-</digtinfo>
+
 </digform>
 </stdorder>
 </distinfo>

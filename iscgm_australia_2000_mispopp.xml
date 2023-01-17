@@ -129,7 +129,7 @@ may not be available in areas of high relief.</vertaccr>
 				<procdesc>The Australian component of the Global Map vector data is primarily sourced from TOPO-250K Series 1 and other feature based reference databases held by AUSLIG. 1:1M MAPDATA based upon the World Aeronautical Charts (WACs) was used to derive the appropriate amount of detail for the Global Map.</procdesc>
 			</procstep>
 			<procstep>
-				<procdesc>The vector files from Global Mapping were converted from the vpf format to the shapefile format.  The features were converted and dissolved to multi-part polygons.</procdesc>
+				<procdesc>The vector files from Global Mapping were converted from the vpf format to the geopackage format.  The features were converted and dissolved to multi-part polygons.</procdesc>
 				<procdate>20080428</procdate>
 			</procstep>
 		</lineage>

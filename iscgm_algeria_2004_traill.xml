@@ -237,9 +237,9 @@ aze_traill</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>1.559</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
