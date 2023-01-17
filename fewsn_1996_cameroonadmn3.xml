@@ -152,8 +152,8 @@ The additional attributes were added in April of 1996 by the EROS Data Center (E
 			</temporal>
 		</keywords><accconst>None</accconst>
 <useconst>None</useconst>
-		
-		
+
+
 		<ptcontac>
 			<cntinfo>
 				<cntperp>
@@ -534,14 +534,7 @@ third Level administrative units, as defined by FEWS/ARD.</eaover>
 		<distliab>No warranty expressed or implied is made by FEWS or USGS.</distliab>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ARCE ARC/INFO Export format</formname>
-					<formvern>7.1.1</formvern>
-					<formspec>ASCII</formspec>
-					<formcont>FEWS Vector Data Set</formcont>
-					<filedec>pkzip, pkunzip</filedec>
-					<transize>0.101</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

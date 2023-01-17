@@ -97,8 +97,8 @@ The additional attributes were added by EDC in April of 1996.</current>
 			</temporal>
 		</keywords><accconst>None</accconst>
 <useconst>None</useconst>
-		
-		
+
+
 		<ptcontac>
 			<cntinfo>
 				<cntperp>
@@ -431,14 +431,7 @@ AO SOUTH AG</eaover>
 		<distliab>No warranty expressed or implied is made by FEWS or USGS.</distliab>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ARCE ARC/INFO Export format</formname>
-					<formvern>7.1.1</formvern>
-					<formspec>ASCII</formspec>
-					<formcont>FEWS Vector Data Set</formcont>
-					<filedec>pkzip, pkunzip</filedec>
-					<transize>0.069</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

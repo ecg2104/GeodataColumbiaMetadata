@@ -2,15 +2,15 @@
 <metadata>
 	<idinfo><native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native><descript><langdata>en</langdata><abstract>This ARC/INFO polygon coverage contains the second Level
     administrative boundaries at a 1:1000000 scale.
-     
+
     The coverage is part of the Famine Early Warning System (FEWS) /
     Associates in Rural Development (ARD) African series.
-     
+
     Namibia is associated with the South region of Africa.</abstract><purpose>This data set is to be used in conjunction with other
     layers of Namibia data.  The data are intended
     to show the spatial distribution of the administrative
     units for Namibia.
-     
+
     The data are to be used in modeling, targeting and
     demonstration projects.  The data are also used in
     natural resource management, inventory, change analysis,
@@ -18,134 +18,134 @@
     planning.</purpose><supplinf>Procedures_Used
     The administrative boundaries for Namibia were extracted from the
     MRPDA database using the ARC/INFO command RESELECT.
-     
+
     These country specific sub-national boundaries were then integrated
     into the DCW master country database using the ARC/INFO command UPDATE.
-     
+
     The country specific data set, containing all of the sub-national
     hierarchy, was extracted from the DCW master data set using the
     ARC/INFO command RESELECT and the second Level administrative
     units were extracted from the country specific data set using
     the ARC/INFO command DISSOLVE.
-     
+
     A master data set, based on the Digital Chart of the World (DCW)
     PONET layer, was created.  Burkina Faso, Mali, Ethiopia, and Eritrea
     are included in the master data set, however, these countries
     have international boundaries that have been revised.
-     
+
     The changes to Burkina Faso are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Burkina Faso with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Mali are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Mali with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
-     
+
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
-     
+
+
     The changes to Ethiopia are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Ethiopia with the only revisions
     being those listed below.
-     
+
     From :  36 degrees; 34 minutes; 5 seconds Longitude and
     :  14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Eritrea are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary of Eritrea with the only revisions
     being those listed below:
-     
+
     From : 36 degrees; 34 minutes; 5 seconds Longitude and
     : 14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The international boundary for Namibia was extracted from an ARC/INFO
     LIBRARY created from the ARC/INFO version of the Digital Chart of the
     World (DCW) using the ARC/INFO tool LIBRARIAN.
-     
-     
-     
+
+
+
     Revisions
     During ARC/INFO coverage development modifications were made to the digital
     files to generate a database with a common scale, uniform Level of
     resolution, consistent coding scheme and comparable (standardized)
     measurement data.
-     
-     
-     
-     
+
+
+
+
     Reviews_Applied_to_Data
     Peer review, 03/96, FEWS/ARD Washington, D.C.
-     
+
     Digital line work and attribute data checked for discrepancies and
     approved for release to FEWS in-country and
     regional field representatives.
-     
-     
-     
-     
+
+
+
+
     Related_Spatial_and_Tabular_Data_Sets
     None
-     
-     
-     
-     
+
+
+
+
     References_Cited
     Environmental Systems Research Institute (ESRI), Inc., 1993,
     "Digital Chart of the World (DCW),"  PONET Layer.
     ESRI.  Redlands, CA, USA.  Scale - 1:1000000.
-     
+
     Deichmann, Uwe,  1994, "A Medium Resolution Population Database
     for Africa."  The National Center for Geographic Information and
     Analysis, Department of Geography, University of California,
     Santa Barbara, CA, USA.
-     
-     
-     
+
+
+
     Notes
     USAID - United States Agency for International Development.
     FEWS - Famine Early Warning System
@@ -172,8 +172,8 @@
 			</temporal>
 			<theme><themekt>None</themekt><themekey>Secondary administrative boundaries</themekey><themekey>Borders</themekey></theme></keywords><accconst>None</accconst>
 <useconst>None</useconst>
-		
-		
+
+
 		<natvform>Shapefile</natvform><crossref><citeinfo><origin>Environmental Systems Research Institute (ESRI), Inc.</origin><pubdate>1993</pubdate><title>Digital Chart of the World (DCW), PONET Layer</title><geoform>map</geoform><pubinfo><pubplace>Redlands, CA, USA</pubplace><publish>ESRI</publish></pubinfo><othercit>Scale - 1:1000000</othercit><onlink>http://www.esri.com</onlink></citeinfo></crossref><crossref><citeinfo><origin>Deichmann, Uwe</origin><pubdate>1994</pubdate><title>A Medium Resolution Population Database for Africa</title><pubinfo><pubplace>Santa Barbara, CA</pubplace><publish>NCGIA, Dept of Geog, UCal</publish></pubinfo><othercit>PubPlace: USA</othercit></citeinfo></crossref><datacred>The USAID/FEWS Project and EDC International Program deserve
 credit for this data set.</datacred><secinfo/><browse>
 			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/NamibiaAdmn20.bmp</browsen>
@@ -184,13 +184,13 @@ credit for this data set.</datacred><secinfo/><browse>
 	<dataqual><lineage/><logic>Polygon topology present.</logic><complete>All data were found to be topologically correct. No duplicate features are
 present. All polygons are closed, and all lines intersect where intended.
 No undershoots or overshoots are present.
- 
+
 To the best knowledge of USAID/FEWS and EDC the data compiled
 in this data set meets the codes and/or procedures established
 for completeness and consistency.</complete><posacc><horizpa><horizpar>The absolute horizontal accuracy of the DCW for all features derived
         from Operational Navigation Charts (ONC) is 2040 meters (6700 feet)
         World Geodetic System (WGS84).
-         
+
         The absolute horizontal accuracy of the DCW for all features derived from
         Jet Navigation Charts (JNC) is 4270 meters (14006 feet) at
         90% Circular Error.</horizpar><qhorizpa><horizpav>2040 meters</horizpav><horizpae>Resolution as reported</horizpae></qhorizpa></horizpa><vertacc><vertaccr>The absolute vertical accuracy of the DCW is the same as for the original
@@ -213,7 +213,7 @@ for completeness and consistency.</complete><posacc><horizpa><horizpar>The absol
     identifier, as defined by FEWS/ARD.
     The item (FEWSID2) defines the unique identifiers for the
     second Level administrative units, as defined by FEWS/ARD.</eaover></overview></eainfo>
-	<distinfo><resdesc>fewsn_1996_namibiaadmn2</resdesc><stdorder><digform><digtinfo><transize>0.285</transize><dssize>0.285</dssize></digtinfo></digform></stdorder><distrib><cntinfo><cntperp><cntper>Ron Smith</cntper><cntorg>EROS Data Center - USGS</cntorg></cntperp><cntpos>International Program Data Base Manager</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>EROS Data Center U.S. Geological Survey 47914 252nd Street</address><city>Sioux Falls</city><state>South Dakota</state><postal>57198-0001</postal><country>USA</country></cntaddr><cntvoice>(605) 594-6522</cntvoice><cnttdd>(605) 594-6522</cnttdd><cntfax>(605) 594-6568</cntfax><cntemail>rsmith@edcmail.cr.usgs.gov</cntemail><hours>0730 - 1615 CST</hours></cntinfo></distrib></distinfo>
+	<distinfo><resdesc>fewsn_1996_namibiaadmn2</resdesc><stdorder><digform></digform></stdorder><distrib><cntinfo><cntperp><cntper>Ron Smith</cntper><cntorg>EROS Data Center - USGS</cntorg></cntperp><cntpos>International Program Data Base Manager</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>EROS Data Center U.S. Geological Survey 47914 252nd Street</address><city>Sioux Falls</city><state>South Dakota</state><postal>57198-0001</postal><country>USA</country></cntaddr><cntvoice>(605) 594-6522</cntvoice><cnttdd>(605) 594-6522</cnttdd><cntfax>(605) 594-6568</cntfax><cntemail>rsmith@edcmail.cr.usgs.gov</cntemail><hours>0730 - 1615 CST</hours></cntinfo></distrib></distinfo>
 	<citeinfo>
 		<origin>United States. Agency for International Development</origin>
 <origin>Famine Early Warning System Network</origin>
@@ -237,7 +237,7 @@ Geospatial_Data_Presentation_Format: map
 	<descript>Abstract This ARC/INFO polygon coverage contains the second Level administrative boundaries at a 1:1000000 scale. The coverage is part of the Famine Early Warning System (FEWS) / Associates in Rural Development (ARD) African series. Namibia is associated with the South region of Africa. Keywords: Boundary, Namibia, WA, NB, South Region, Africa Purpose This data set is to be used in conjunction with other layers of Namibia data. The data are intended to show the spatial distribution of the administrative units for Namibia. The data are to be used in modeling, targeting and demonstration projects. The data are also used in natural resource management, inventory, change analysis, policy making, environmental awareness and land use planning. Supplemental_Information Procedures_Used The administrative boundaries for Namibia were extracted from the MRPDA database using the ARC/INFO command RESELECT. These country specific sub-national boundaries were then integrated into the DCW master country database using the ARC/INFO command UPDATE. The country specific data set, containing all of the sub-national hierarchy, was extracted from the DCW master data set using the ARC/INFO command RESELECT and the second Level administrative units were extracted from the country specific data set using the ARC/INFO command DISSOLVE. A master data set, based on the Digital Chart of the World (DCW) PONET layer, was created. Burkina Faso, Mali, Ethiopia, and Eritrea are included in the master data set, however, these countries have international boundaries that have been revised. The changes to Burkina Faso are: The Digital Chart of the World (DCW) International boundary was used for the International boundary for Burkina Faso with the only revisions being those listed below. From : -2 degrees; 55 minutes; 8 seconds Longitude and : 13 degrees;37 minutes; 37 seconds Latitude To : -0 degrees; 57 minutes; 41 seconds Longitude and : 14 degrees; 52 minutes; 14 seconds Latitude AND... From : 0 degrees; 3 minutes; 33 seconds Longitude and : 14 degrees; 58 minutes; 15 seconds Latitude To : 0 degrees; 13 minutes; 55 seconds Longitude and : 14 degrees; 58 minutes; 15 seconds Latitude These changes are defined by FEWS/ARD Washington, DC, USA. The changes to Mali are: The Digital Chart of the World (DCW) International boundary was used for the International boundary for Mali with the only revisions being those listed below. From : -2 degrees; 55 minutes; 8 seconds Longitude and : 13 degrees;37 minutes; 37 seconds Latitude To : -0 degrees; 57 minutes; 41 seconds Longitude and : 14 degrees; 52 minutes; 14 seconds Latitude AND... From : 0 degrees; 3 minutes; 33 seconds Longitude and : 14 degrees; 58 minutes; 15 seconds Latitude To : 0 degrees; 13 minutes; 55 seconds Longitude and : 14 degrees; 58 minutes; 15 seconds Latitude These changes are defined by FEWS/ARD Washington, DC, USA. The changes to Ethiopia are: The Digital Chart of the World (DCW) International boundary was used for the International boundary for Ethiopia with the only revisions being those listed below. From : 36 degrees; 34 minutes; 5 seconds Longitude and : 14 degrees; 14 minutes; 25 seconds Latitude To : 42 degrees; 25 minutes; 22 seconds Longitude and : 12 degrees; 26 minutes; 53 seconds Latitude These changes are defined by FEWS/ARD Washington, DC, USA. The changes to Eritrea are: The Digital Chart of the World (DCW) International boundary was used for the International boundary of Eritrea with the only revisions being those listed below: From : 36 degrees; 34 minutes; 5 seconds Longitude and : 14 degrees; 14 minutes; 25 seconds Latitude To : 42 degrees; 25 minutes; 22 seconds Longitude and : 12 degrees; 26 minutes; 53 seconds Latitude These changes are defined by FEWS/ARD Washington, DC, USA. The international boundary for Namibia was extracted from an ARC/INFO LIBRARY created from the ARC/INFO version of the Digital Chart of the World (DCW) using the ARC/INFO tool LIBRARIAN. Revisions During ARC/INFO coverage development modifications were made to the digital files to generate a database with a common scale, uniform Level of resolution, consistent coding scheme and comparable (standardized) measurement data. Reviews_Applied_to_Data Peer review, 03/96, FEWS/ARD Washington, D.C. Digital line work and attribute data checked for discrepancies and approved for release to FEWS in-country and regional field representatives. Related_Spatial_and_Tabular_Data_Sets None References_Cited Environmental Systems Research Institute (ESRI), Inc., 1993, "Digital Chart of the World (DCW)," PONET Layer. ESRI. Redlands, CA, USA. Scale - 1:1000000. Deichmann, Uwe, 1994, "A Medium Resolution Population Database for Africa." The National Center for Geographic Information and Analysis, Department of Geography, University of California, Santa Barbara, CA, USA. Notes USAID - United States Agency for International Development. FEWS - Famine Early Warning System ARD - Associates in Rural Development EDC - EROS Data Center USGS - United States Geological Survey MRPDA - Medium Resolution Population Database for Africa Time_Period_of_Content Range_of_Dates/Times Beginning_Date: 1996 Beginning_Time: 0000 Ending_Date: Unknown Ending_Time: 0000 Currentness_Reference The "MRPDA" was published in 1994. Many sources were used to compile the data. The DCW database was originally published in 1992. Data currency varies from place to place depending on the currency of the Operational Navigation Charts (ONC). Chart currency ranged from the mid 1960s to the early 1990s. Compilation dates for every ONC chart are included in the database. The additional attributes were added in April of 1996 by the EROS Data Center (EDC). Status Progress: complete Maintenance_and_Update_Frequency As needed. Spatial_Domain Bounding_Coordinates West_Bounding_Coordinate: 11.71562958 East_Bounding_Coordinate: 25.25670052 North_Bounding_Coordinate: -16.95989418 South_Bounding_Coordinate: -28.97142982</descript>
 	<keywords>Theme Theme_Keyword_Thesaurus: None Theme_Keyword: Boundary Place Place_Keyword_Thesaurus: None Place_Keyword: Namibia, Africa, WA, NB Stratum Stratum_Keyword_Thesaurus: None Stratum_Keyword: Temporal Temporal_Keyword_Thesaurus: None Temporal_Keyword:</keywords><accconst>None</accconst>
 <useconst>None</useconst>
-	
+
 	<datacred>The USAID/FEWS Project and EDC International Program deserve credit for this data set. Security_Information Security_Classification_System: None Security_Classification: UNCLASSIFIED Security_Handling_Description: None</datacred>
 	<native>SunOS UNIX, ARC/INFO version 8.2</native>
 	<crossref>Originator: Environmental Systems Research Institute (ESRI), Inc. Publication_Date: 1993 Publication_Time: 0000 Title: Digital Chart of the World (DCW), PONET Layer Edition: Unknown Geospatial_Data_Presentation_Form: map Series_Information Series_Name: Unknown Issue_Identification: None Publication_Information Publication_Place: Redlands, CA, USA Publisher: ESRI Other_Citation_Details: Scale - 1:1000000 Online_Linkage: http://www.esri.com Larger_Work_Citation: DCW</crossref>

@@ -17,7 +17,7 @@
 <publish>EDC/International Program</publish>
 </pubinfo>
 <othercit>FEWS/EROS Data Center (EDC)</othercit>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/fewsn_1996_nigeradmn1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/fewsn_1996_nigeriaadmn1.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -365,14 +365,7 @@ NI West Sahel NI</eaover>
 <distliab>No warranty expressed or implied is made by FEWS or USGS.</distliab>
 <stdorder>
 <digform>
-<digtinfo>
-<formname>ARCE ARC/INFO Export format</formname>
-<formvern>7.1.1</formvern>
-<formspec>ASCII</formspec>
-<formcont>FEWS Vector Data Set</formcont>
-<filedec>pkzip, pkunzip</filedec>
-<transize>0.055</transize>
-</digtinfo>
+
 <digtopt>
 <onlinopt>
 <computer>

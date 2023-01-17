@@ -51,145 +51,145 @@
     1971 Hounde
     1968 Yorosso
     1968 Po
-     
+
     While digitizing, the IGN international boundaries were replaced with arcs
     from DCW. All vertices of the international boundary match those of
     adjacent countries. Attributes were checked for consistency with the
     hard-copy maps distributed to the FEWS field representatives.
-     
+
     The administrative boundaries for Burkina Faso were extracted from
     the "Burkina Faso" database using the ARC/INFO command RESELECT.
-     
+
     These country specific sub-national boundaries were then integrated
     into the DCW master country database using the ARC/INFO command UPDATE.
-     
+
     The country specific data set, containing all of the sub-national
     hierarchy, was extracted from the DCW master data set using the
     ARC/INFO command RESELECT and the third Level administrative
     units were extracted from the country specific data set using
     the ARC/INFO command DISSOLVE.
-     
+
     A master data set, based on the Digital Chart of the World (DCW)
     PONET layer, was created.  Burkina Faso, Mali, Ethiopia, and Eritrea
     are included in the master data set, however, these countries
     have international boundaries that have been revised.
-     
+
     The changes to Burkina Faso are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Burkina Faso with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Mali are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Mali with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
-     
+
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
-     
+
+
     The changes to Ethiopia are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Ethiopia with the only revisions
     being those listed below.
-     
+
     From :  36 degrees; 34 minutes; 5 seconds Longitude and
     :  14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Eritrea are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary of Eritrea with the only revisions
     being those listed below:
-     
+
     From : 36 degrees; 34 minutes; 5 seconds Longitude and
     : 14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The international boundary for Burkina Faso was extracted from an
     ARC/INFO LIBRARY created from the ARC/INFO version of the Digital
     Chart of the World (DCW) using the ARC/INFO tool LIBRARIAN.
-     
-     
-     
+
+
+
     Revisions
     During ARC/INFO coverage development modifications were made to the digital
     files to generate a database with a common scale, uniform Level of
     resolution, consistent coding scheme and comparable (standardized)
     measurement data.
-     
+
     The only revision from the original data sets was the addition
     of certain attributes.
-     
-     
-     
-     
+
+
+
+
     Reviews_Applied_to_Data
     Peer review, 03/96, FEWS/ARD Washington, D.C.
-     
+
     Digital line work and attribute data checked for discrepancies and
     approved for release to FEWS in-country and
     regional field representatives.
-     
-     
-     
-     
+
+
+
+
     Related_Spatial_and_Tabular_Data_Sets
     None
-     
-     
-     
-     
+
+
+
+
     References_Cited
     I''Institut Geographique National (IGN) - France,  1960?,
     "Burkina Faso,"  33 Sheets,  IGN, France.  Scale 1:200000.
-     
+
     Environmental Systems Research Institute (ESRI), Inc., 1993,
     "Digital Chart of the World (DCW),"  PONET Layer.
     ESRI.  Redlands, CA, USA.  Scale - 1:1000000.
-     
-     
-     
-     
-     
+
+
+
+
+
     Notes
     USAID - United States Agency for International Development.
     FEWS - Famine Early Warning System
@@ -245,8 +245,8 @@
 			</temporal>
 		</keywords><accconst>None</accconst>
 <useconst>None</useconst>
-		
-		
+
+
 		<browse>
 			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/BurkinaFasoAdmn30.bmp</browsen>
 			<browsed>Thumbnail Image</browsed>
@@ -444,9 +444,7 @@ BurkinaFasoAdmn3</enttypl>
 		<resdesc>fewsn_1996_burkinafasoadmn3</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<transize>0.265</transize>
-				</digtinfo>
+
 			</digform>
 		</stdorder>
 	</distinfo>

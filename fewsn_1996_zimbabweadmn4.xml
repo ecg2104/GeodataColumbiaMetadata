@@ -22,16 +22,16 @@
 <descript>
 <abstract>This ARC/INFO polygon coverage contains the fourth level
     administrative boundaries at a 1:1000000 scale.
-     
+
     The coverage is part of the Famine Early Warning System (FEWS) /
     Associates in Rural Development (ARD) African series.
-     
+
     Zimbabwe is associated with the South region of Africa.</abstract>
 <purpose>This data set is to be used in conjunction with other
     layers of Zimbabwe data.  The data are intended to show the
     spatial distribution of the fourth level administrative
     boundaries for Zimbabwe.
-     
+
     The data are to be used in modeling, targeting and
     demonstration projects.  The data are also used in natural
     resource management, inventory, change analysis, policy
@@ -43,91 +43,91 @@
     Administrative Map, revision May 1992.  In the case of errors,
     the Survey General 1:250000 base maps were used to correct/update
     the digital line work.
-     
+
     These country specific sub-national boundaries were then integrated
     into the DCW master country database using the ARC/INFO command UPDATE.
-     
+
     The country specific data set, containing all of the sub-national
     hierarchy, was extracted from the DCW master data set using the
     ARC/INFO command RESELECT and the fourth level administrative
     units were extracted from the country specific data set using
     the ARC/INFO command DISSOLVE.
-     
+
     A master data set, based on the Digital Chart of the World (DCW)
     PONET layer, was created.  Burkina Faso, Mali, Ethiopia, and Eritrea
     are included in the master data set, however, these countries
     have international boundaries that have been revised.
-     
+
     The changes to Burkina Faso are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Burkina Faso with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Mali are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Mali with the only revisions
     being those listed below.
-     
+
     From : -2 degrees; 55 minutes; 8 seconds Longitude and
     : 13 degrees;37 minutes; 37 seconds Latitude
-     
+
     To : -0 degrees; 57 minutes; 41 seconds Longitude and
     : 14 degrees; 52 minutes; 14 seconds Latitude
-     
+
     AND...
-     
+
     From : 0 degrees; 3 minutes; 33 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
+
     To : 0 degrees; 13 minutes; 55 seconds Longitude and
     : 14 degrees; 58 minutes; 15 seconds Latitude
-     
-     
+
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
-     
+
+
     The changes to Ethiopia are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary for Ethiopia with the only revisions
     being those listed below.
-     
+
     From :  36 degrees; 34 minutes; 5 seconds Longitude and
     :  14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The changes to Eritrea are:
     The Digital Chart of the World (DCW) International boundary was used
     for the International boundary of Eritrea with the only revisions
     being those listed below:
-     
+
     From : 36 degrees; 34 minutes; 5 seconds Longitude and
     : 14 degrees; 14 minutes; 25 seconds Latitude
-     
+
     To : 42 degrees; 25 minutes; 22 seconds Longitude and
     : 12 degrees; 26 minutes; 53 seconds Latitude
-     
+
     These changes are defined by FEWS/ARD Washington, DC, USA.
-     
+
     The international boundary for Zimbabwe was extracted from an ARC/INFO
     LIBRARY created from the ARC/INFO version of the Digital Chart of the
     World (DCW) using the ARC/INFO tool LIBRARIAN.</supplinf>
@@ -257,7 +257,7 @@ credit for this data set.</datacred>
 <complete>All data were found to be topologically correct. No duplicate features are
 present. All polygons are closed, and all lines intersect where intended.
 No undershoots or overshoots are present.
- 
+
 To the best knowledge of USAID/FEWS and EDC the data compiled
 in this data set meets the codes and/or procedures established
 for completeness and consistency.</complete>
@@ -266,7 +266,7 @@ for completeness and consistency.</complete>
 <horizpar>The absolute horizontal accuracy of the DCW for all features derived
         from Operational Navigation Charts (ONC) is 2040 meters (6700 feet)
         World Geodetic System (WGS84).
-         
+
         The absolute horizontal accuracy of the DCW for all features derived from
         Jet Navigation Charts (JNC) is 4270 meters (14006 feet) at
         90% Circular Error.</horizpar>
@@ -470,14 +470,7 @@ ZimbabweAdmn4</enttypl>
 <distliab>No warranty expressed or implied is made by FEWS or USGS.</distliab>
 <stdorder>
 <digform>
-<digtinfo>
-<formname>ARCE ARC/INFO Export format</formname>
-<formvern>7.1.1</formvern>
-<formspec>ASCII</formspec>
-<formcont>FEWS Vector Data Set</formcont>
-<filedec>pkzip, pkunzip</filedec>
-<transize>0.048</transize>
-</digtinfo>
+
 <digtopt>
 <onlinopt>
 <computer>
