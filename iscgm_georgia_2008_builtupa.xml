@@ -217,9 +217,9 @@ geo_builtupa</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.016</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

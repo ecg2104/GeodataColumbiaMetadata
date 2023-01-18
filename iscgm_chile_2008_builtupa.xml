@@ -217,9 +217,9 @@ chl_builtupa</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.268</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

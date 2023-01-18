@@ -252,9 +252,9 @@ hkg_railrdl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.011</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

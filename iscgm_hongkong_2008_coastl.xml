@@ -264,9 +264,9 @@ hkg_coastl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.176</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
