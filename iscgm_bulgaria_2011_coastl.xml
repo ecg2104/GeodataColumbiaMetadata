@@ -100,7 +100,7 @@ Bulgaria Coast Lines is a line theme representing coastlines and shorelines in B
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

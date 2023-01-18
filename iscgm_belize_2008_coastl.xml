@@ -276,9 +276,9 @@ aze_coastl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>1.781</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

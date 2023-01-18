@@ -101,7 +101,7 @@ Bulgaria Railroads is a line theme representing  railroads in Bulgaria.  This la
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

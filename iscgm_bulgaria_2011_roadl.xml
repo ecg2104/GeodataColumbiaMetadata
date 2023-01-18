@@ -101,7 +101,7 @@ Bulgaria Roads is a line theme representing roadways in Bulgaria.  This layer is
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

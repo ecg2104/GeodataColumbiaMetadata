@@ -217,7 +217,7 @@ bra_builtupa</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
 <transize>0.604</transize>
 </digtinfo>

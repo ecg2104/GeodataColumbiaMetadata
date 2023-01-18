@@ -244,9 +244,9 @@ aze_watrcrsl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.354</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
