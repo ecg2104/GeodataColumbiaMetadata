@@ -515,37 +515,7 @@ second Level administrative unit, as defined by FEWS/ARD.</eaover>
 		</distrib>
 		<resdesc>fewsn_1996_guineaadmn2</resdesc>
 		<distliab>No warranty expressed or implied is made by FEWS or USGS.</distliab>
-		<stdorder>
-			<digform>
 
-					<onlinopt>
-						<computer>
-							<networka>
-								<networkr>
-PC - http://edcintl.cr.usgs.gov/adds/c1/r4/gv/doc/admn/gvadmn2.exe
-
-UNIX - http://edcintl.cr.usgs.gov/adds/c1/r4/gv/doc/admn/gvadmn2.tar.gz
-</networkr>
-							</networka>
-						</computer>
-						<accinstr>Phone, Written correspondence, e-mail, fax or online</accinstr>
-						<oncomp>SUN Solaris - UNIX</oncomp>
-					</onlinopt>
-					<offoptn>
-						<offmedia>8mm, 4mm, 3480, 3.5" floppy, CDROM</offmedia>
-						<reccap>
-							<recden>6250</recden>
-							<recdenu>characters per-inch</recdenu>
-						</reccap>
-						<recfmt>ASCII</recfmt>
-						<compat>UNIX or PC based system with ARC/INFO or compatible software</compat>
-					</offoptn>
-				</digtopt>
-			</digform>
-			<fees>$70 US Dollars</fees>
-			<ordering>Phone, Written correspondence, e-mail or fax</ordering>
-			<turnarnd>One week maximum</turnarnd>
-		</stdorder>
 		<custom>Phone, Written correspondence, e-mail or fax</custom>
 		<techpreq>UNIX or PC based system with ARC/INFO or compatible software</techpreq>
 		<availabl>
