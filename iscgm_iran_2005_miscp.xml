@@ -211,9 +211,9 @@ aze_miscp</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
+					<formname>geopackage</formname>
 					<formspec>Zip</formspec>
-					<transize>0.002</transize>
+
 				</digtinfo>
 			</digform>
 		</stdorder>

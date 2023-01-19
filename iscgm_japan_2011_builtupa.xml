@@ -101,7 +101,7 @@ Japan Airports Built-up Areas is an area theme representing built-up areas in Ja
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

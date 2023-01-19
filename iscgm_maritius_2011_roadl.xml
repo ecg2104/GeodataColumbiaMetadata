@@ -101,7 +101,7 @@ Mauritius Political Boundaries is a line theme representing roadways in Mauritiu
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

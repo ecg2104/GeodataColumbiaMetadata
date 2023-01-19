@@ -223,9 +223,9 @@ ken_builtupa</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.003</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

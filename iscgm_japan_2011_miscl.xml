@@ -101,7 +101,7 @@ Japan Miscellaneous Hydrographic Features (lines) is a line theme representing d
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -101,7 +101,7 @@ Japan Political Boundaries is an area theme representing administrative areas in
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

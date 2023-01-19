@@ -101,7 +101,7 @@ Mauritius Airports is a point theme representing airports and airfields in Mauri
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

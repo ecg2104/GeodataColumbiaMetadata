@@ -101,7 +101,7 @@ Japan Ferry Lines is a line theme representing Ferry Lines in Japan.  This layer
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

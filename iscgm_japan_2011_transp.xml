@@ -240,9 +240,9 @@ jp_transp_1_1</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>8.450</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

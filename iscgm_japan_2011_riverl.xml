@@ -101,7 +101,7 @@ Japan Rivers is a line theme representing rivers in Japan.  This layer is a comp
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

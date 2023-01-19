@@ -101,7 +101,7 @@ Japan Airports is a point theme representing airports and airfields in Japan.  T
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

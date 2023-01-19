@@ -101,7 +101,7 @@ Japan Rail Stations is a point theme representing railroad stations in Japan.  T
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -101,7 +101,7 @@ Japan Inland Waters is a polygon theme representing inland water features in Jap
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

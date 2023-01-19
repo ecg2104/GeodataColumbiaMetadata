@@ -101,7 +101,7 @@ Japan Roads is a line theme representing roads in Japan.  This layer is a compon
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

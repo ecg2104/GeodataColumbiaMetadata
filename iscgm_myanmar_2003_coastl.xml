@@ -282,9 +282,9 @@ mmr_coastl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.428</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
