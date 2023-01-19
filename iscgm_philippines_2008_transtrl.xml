@@ -234,9 +234,9 @@ phl_transtrl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.001</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

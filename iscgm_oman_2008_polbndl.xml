@@ -238,9 +238,9 @@ omn_polbndl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>Zip</formspec>
-<transize>0.022</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
