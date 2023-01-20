@@ -101,7 +101,7 @@ Senegal Political Boundaries (polygons) is an area theme representing administra
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -232,9 +232,8 @@ aze_transtrl</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>Zip</formspec>
-<transize>0.008</transize>
+<formname>geopackage</formname>
+<formspec>Zip</formspec><transize>0.008</transize>
 </digtinfo>
 </digform>
 </stdorder>

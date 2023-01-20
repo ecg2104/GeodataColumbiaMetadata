@@ -101,7 +101,7 @@ Senegal Railroads is a line theme representing railroads in Senegal.  This layer
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

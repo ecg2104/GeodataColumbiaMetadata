@@ -101,7 +101,7 @@ Senegal Water Course is a line theme representing  rivers and streams in Senegal
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

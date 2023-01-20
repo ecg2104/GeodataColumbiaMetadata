@@ -101,7 +101,7 @@ Senegal Roads is a line theme representing roadways in Senegal.  This layer is a
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>
