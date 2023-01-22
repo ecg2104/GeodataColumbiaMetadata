@@ -811,10 +811,8 @@ railway</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>40.680</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

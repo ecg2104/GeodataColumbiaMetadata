@@ -694,10 +694,9 @@ nhpnnod</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formverd>2008</formverd>
-<formspec>zip</formspec>
-<transize>145.986</transize>
+<formname>geopackage</formname>
+
+
 </digtinfo>
 <digtopt>
 </digtopt>

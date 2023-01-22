@@ -945,10 +945,8 @@ throughout the country.  A full list of these offices is at
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>7.786</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

@@ -21,10 +21,10 @@
 							<pubplace>Washington DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_nbi&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://ww.zipw.columbia.edu/acis/eds/gis/images/ntad_2013_nbi</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The NBI is a collection of information (database) describing the more than 600,000 of the Nation's bridges located on public roads, including Interstate Highways, U.S. highways, State and county roads, as well as publicly-accessible bridges on Federal lands. It presents a State by State summary analysis of the number, location, and general condition of highway bridges within each State.</abstract>
@@ -1715,10 +1715,7 @@
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

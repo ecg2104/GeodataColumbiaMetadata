@@ -18,10 +18,9 @@
 							<pubplace>Washington, DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_mpo&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_mpo.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The United States Metropolitan Planning Organization database is a geographic database of Metropolitan Planning Organization political boundaries.</abstract>
@@ -328,24 +327,7 @@
 		</distrib>
 		<resdesc>ntad_2013_mpo</resdesc>
 		<stdorder>
-			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>7.256</transize>
-				</digtinfo>
-				<digtopt>
-					<offoptn>
-						<offmedia>dvd</offmedia>
-						<reccap>
-							<recden>650</recden>
-							<recdenu>megabytes</recdenu>
-						</reccap>
-						<recfmt>ISO 9660</recfmt>
-					</offoptn>
-				</digtopt>
-			</digform>
+
 			<fees>None</fees>
 			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
 		</stdorder>

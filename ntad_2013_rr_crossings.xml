@@ -5,9 +5,9 @@
 				<origin>United States. Bureau of Transportation Statistics</origin>
 				<title>Unied States Railroad Crossings, 2013</title>
 				<geoform>vector digital data</geoform>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_rr_crossings&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_rr_crossings</onlink></citeinfo>
 		</citation>
-		<descript>
+		<descript>.zip
 			<abstract>FRA Grade Crossings is a spatial file that originates from the National Highway-Rail Crossing, Inventory Program. The program is to provide information to Federal, State, and local governments, as well as the railroad industry for the improvements of safety at highway-rail crossing.</abstract>
 			<purpose>Rail Crossings is a spatial file maintained by the Federal Railroad Administration (FRA) for use by
 States and railroads.</purpose>
@@ -317,12 +317,7 @@ an added connecting link.</attrdef>
 		<resdesc>ntad_2013_rr_crossings</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>no compression applied</filedec>
-					<transize>6.645</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

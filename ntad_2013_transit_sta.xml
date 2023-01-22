@@ -22,10 +22,9 @@
 							<pubplace>Washington DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_transit_sta&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_transit_sta.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Version 2004 of the Fixed-Guideway Transit Network is a network database of the nation's fixed-guideway transit systems. The data set covers systems in cities defined as FTA's universe of cities and includes heavy rail, light rail, monorail, cable car, inclined plane, and automated guideway.</abstract>
@@ -420,12 +419,7 @@
 		<resdesc>ntad_2013_transit_sta</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>0.689</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

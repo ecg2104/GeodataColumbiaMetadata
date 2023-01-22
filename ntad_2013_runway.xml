@@ -12,10 +12,10 @@
 						<pubdate>20120724</pubdate>
 						<title>National Transportation Atlas Databases (NTAD) 2013</title>
 						<geoform>vector digital data</geoform>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+>
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_runway&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_runway.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The Airport Runways database is a geographic dataset of runways in the United States and US territories containing information on the physical characteristics of the runways. The 6716 runways in the dataset are runways associated with the 19721 airports in the companion airport data set. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product (Effective 17 March 2013).</abstract>
@@ -540,12 +540,7 @@
 		<resdesc>ntad_2013_runway</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>2.113</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

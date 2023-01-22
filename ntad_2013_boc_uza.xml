@@ -10,7 +10,7 @@
 					<pubplace>1200 New Jersey Ave. SE, Washington, DC, 20590</pubplace>
 					<publish>Research and Innovative Technology Administration/Bureau of Transportation Statistics</publish>
 				</pubinfo>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_boc_uza&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_boc_uza.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>United States Urbanized Area Boundaries, 2013 is a polygon theme representing the  U.S. Census Bureau boundaries for Urbanized Areas in the US.
@@ -212,11 +212,7 @@ The TIGER/Line shapefiles and related database files (.dbf) are an extract of se
 		<resdesc>ntad_2013_boc_uza</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>10.1</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note the access instructions.</filedec>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

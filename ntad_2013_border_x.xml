@@ -13,9 +13,9 @@
 						<pubdate>20120724</pubdate>
 						<title>National Transportation Atlas Databases (NTAD) 2013</title>
 						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_border_x&amp;outputFormat=SHAPE-ZIP</onlink>
+
 				</lworkcit>
-				<edition>2013</edition><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<edition>2013</edition><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_border_x.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Border Crossing Ports are points of entry for land modes along the U.S. - Canadian and U.S.- Mexcian borders. The ports of entry are located in 15 states along the U.S. borders. The nominal scale of the data set is 1:1000,000 with a maximal positional error of +- 10 meters.</abstract>
@@ -146,9 +146,9 @@
 					<citeinfo>
 						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
 					<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.&amp;outputFormat=SHAPE-ZIP</onlink>
-				
+
 				<typesrc>None</typesrc>
-			</citeinfo>	
+			</citeinfo>
 			</srccite>
 			</srcinfo>
 			<procstep>
@@ -442,12 +442,7 @@
 		<resdesc>ntad_2013_border_x</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>0.005</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

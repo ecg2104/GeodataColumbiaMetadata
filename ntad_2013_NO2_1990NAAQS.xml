@@ -1,3 +1,4 @@
+
 <metadata>
 	<idinfo>
 		<citation>
@@ -13,7 +14,7 @@
 					<pubplace>Washington, DC</pubplace>
 					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 				</pubinfo>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_no2_1990naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_no2_1990naaqs.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Non-attainment and maintenance areas for the United States and its territories. The standard for the NO2 NAA is 0.053 ppm. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
@@ -324,7 +325,7 @@
 			</attr>
 		</detailed>
 		<overview>
-			<eaover>Nitrogen dioxide (NO2) is a brownish, highly reactive gas that is present in all urban atmospheres. NO2 can irritate the lungs, cause bronchitis and pneumonia, and lower resistance to respiratory infections. Nitrogen oxides are an important precursor both to ozone (O3) and acid rain, and may affect both terrestrial and aquatic ecosystems. The major mechanism for the formation of NO2 in the atmosphere is the oxidation of the primary air pollutant nitric oxide (NO). NOx plays a major role, together with VOCs, in the atmospheric reactions that produce O3. NOx forms when fuel is burned at high temperatures. The two major emissions sources are transportation and stationary fuel combustion sources such as electric utility and industrial boilers. 
+			<eaover>Nitrogen dioxide (NO2) is a brownish, highly reactive gas that is present in all urban atmospheres. NO2 can irritate the lungs, cause bronchitis and pneumonia, and lower resistance to respiratory infections. Nitrogen oxides are an important precursor both to ozone (O3) and acid rain, and may affect both terrestrial and aquatic ecosystems. The major mechanism for the formation of NO2 in the atmosphere is the oxidation of the primary air pollutant nitric oxide (NO). NOx plays a major role, together with VOCs, in the atmospheric reactions that produce O3. NOx forms when fuel is burned at high temperatures. The two major emissions sources are transportation and stationary fuel combustion sources such as electric utility and industrial boilers.
 
 Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for nitrogen dioxide.</eaover>
 		</overview>
@@ -351,12 +352,7 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 		<resdesc>ntad_2013_no2_1990naaqs</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>5.098</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

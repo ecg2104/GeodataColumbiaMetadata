@@ -454,11 +454,9 @@ transit_sta</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>0.689</transize>
-</digtinfo>
+<formname>Egeopackage</formname>
+
+</digtinfo
 <digtopt>
 </digtopt>
 </digform>

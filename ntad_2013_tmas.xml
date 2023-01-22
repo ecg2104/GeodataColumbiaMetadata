@@ -5,7 +5,7 @@
 				<origin>United States. Bureau of Transportation Statistics</origin>
 				<title>United States Travel Monitoring Analysis System Stations, 2013</title>
 				<geoform>vector digital data</geoform>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_tmas&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_tmas.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The data included in the GIS Traffic Stations Version database have been collected by the FHWA from the State DOTs. Location referencing information was derived from State offices of Transportation The attributes on the point elements of the database are used by FHWA for its Travel Monitoring and Analysis System and by State DOTs. The attributes for these databases have been intentionally limited to location referencing attributes since the core station description attribute data are contained within the Station Description Tables (SDT). here is a separate Station Description Table (SDT) for each of the station types. The attributes in the Station Description Table correspond with the Station Description Record found in Chapter 6 of the latest Traffic Monitoring Guide. The SDT contains the most recent stations available for each state and station type. This table was derived from files provided UTCTR by FHWA. The Station Description Table can be linked to the station shapefile via the STNNKEY field. Some station where not located in the US, and were beyond available geographic extents causing display problems. These were moved to Lat and Long 0,0. This is in recognition that the locations of these stations where in error, but were moved to a less obtusive area.</abstract>
@@ -137,7 +137,7 @@
 			</attr>
 			<attr>
 				<attrlabl>station_id</attrlabl>
-				<attrdef>This field contains an alphanumeric designation for the station where the survey data are collected. 
+				<attrdef>This field contains an alphanumeric designation for the station where the survey data are collected.
 
 </attrdef>
 				<attrdefs>fhwa - traffic monitoring guide</attrdefs>
@@ -996,10 +996,7 @@
 		</distrib>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

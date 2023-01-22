@@ -7,7 +7,7 @@
 				<pubdate>2011</pubdate>
 				<title>United States Non-Attainment Areas: Sulfur Oxides, 2013</title>
 				<geoform>vector digital data</geoform>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_so2_1978naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_so2_1978naaqs.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Non-attainment and maintenance areas for the United States and its territories. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
@@ -326,15 +326,15 @@
 			</attr>
 		</detailed>
 		<overview>
-			<eaover>High concentrations of sulfur dioxide (SO2) affect breathing and may aggravate existing respiratory and cardiovascular disease. Sensitive populations include asthmatics, individuals with bronchitis or emphysema, children and the elderly. SO2 is also a primary contributor to acid deposition, or acid rain, which causes acidification of lakes and streams and can damage trees, crops, historic buildings and statues. In addition, sulfur compounds in the air contribute to visibility impairment in large parts of the country. This is especially noticeable in national parks. 
+			<eaover>High concentrations of sulfur dioxide (SO2) affect breathing and may aggravate existing respiratory and cardiovascular disease. Sensitive populations include asthmatics, individuals with bronchitis or emphysema, children and the elderly. SO2 is also a primary contributor to acid deposition, or acid rain, which causes acidification of lakes and streams and can damage trees, crops, historic buildings and statues. In addition, sulfur compounds in the air contribute to visibility impairment in large parts of the country. This is especially noticeable in national parks.
 
-Ambient SO2 results largely from stationary sources such as coal and oil combustion, steel mills, refineries, pulp and paper mills and from nonferrous smelters. There are three NAAQS for SO2: 
+Ambient SO2 results largely from stationary sources such as coal and oil combustion, steel mills, refineries, pulp and paper mills and from nonferrous smelters. There are three NAAQS for SO2:
 
-. an annual arithmetic mean of 0.03 ppm (80 ug/m3); 
-. a 24-hour level of 0.14 ppm (365 ug/m3); and 
-. a 3-hour level of 0.50 ppm (1300 ug/m3). 
+. an annual arithmetic mean of 0.03 ppm (80 ug/m3);
+. a 24-hour level of 0.14 ppm (365 ug/m3); and
+. a 3-hour level of 0.50 ppm (1300 ug/m3).
 
-The first two standards are primary (health-related) standards, while the 3-hour NAAQS is a secondary (welfare-related) standard. The annual mean standard is not to be exceeded, while the short-term standards are not to be exceeded more than once per year. 
+The first two standards are primary (health-related) standards, while the 3-hour NAAQS is a secondary (welfare-related) standard. The annual mean standard is not to be exceeded, while the short-term standards are not to be exceeded more than once per year.
 
 Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for sulfur dioxide.</eaover>
 		</overview>
@@ -361,12 +361,7 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 		<resdesc>ntad_2013_so2_1978naaqs</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>5.098</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

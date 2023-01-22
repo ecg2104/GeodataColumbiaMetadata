@@ -8,7 +8,7 @@
 				<pubdate>2006</pubdate>
 				<title>United States Non-Attainment Areas: Ozone 1 hour, 2013</title>
 				<geoform>vector digital data</geoform>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_ozone_1hr_1990naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_ozone_1hr_1990naaqs.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Non-attainment and maintenance areas for the United States and its territories. The standard for the Ozone 1 hour NAA is 0.12 ppm. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
@@ -357,9 +357,9 @@
 			</attr>
 		</detailed>
 		<overview>
-			<eaover>Ozone (O3) is a photochemical oxidant and the major component of smog. While O3 in the upper atmosphere is beneficial to life by shielding the earth from harmful ultraviolet radiation from the sun, high concentrations of O3 at ground level are a major health and environmental concern. O3 is not emitted directly into the air but is formed through complex chemical reactions between precursor emissions of volatile organic compounds (VOC) and oxides of nitrogen (NOx) in the presence of sunlight. These reactions are stimulated by sunlight and temperature so that peak O3 levels occur typically during the warmer times of the year. Both VOCs and NOx are emitted by transportation and industrial sources. VOCs are emitted from sources as diverse as autos, chemical manufacturing, dry cleaners, paint shops and other sources using solvents. 
+			<eaover>Ozone (O3) is a photochemical oxidant and the major component of smog. While O3 in the upper atmosphere is beneficial to life by shielding the earth from harmful ultraviolet radiation from the sun, high concentrations of O3 at ground level are a major health and environmental concern. O3 is not emitted directly into the air but is formed through complex chemical reactions between precursor emissions of volatile organic compounds (VOC) and oxides of nitrogen (NOx) in the presence of sunlight. These reactions are stimulated by sunlight and temperature so that peak O3 levels occur typically during the warmer times of the year. Both VOCs and NOx are emitted by transportation and industrial sources. VOCs are emitted from sources as diverse as autos, chemical manufacturing, dry cleaners, paint shops and other sources using solvents.
 
-The reactivity of O3 causes health problems because it damages lung tissue, reduces lung function and sensitizes the lungs to other irritants. Scientific evidence indicates that ambient levels of O3 not only affect people with impaired respiratory systems, such as asthmatics, but healthy adults and children as well. Exposure to O3 for several hours at relatively low concentrations has been found to significantly reduce lung function and induce respiratory inflammation in normal, healthy people during exercise. This decrease in lung function generally is accompanied by symptoms including chest pain, coughing, sneezing and pulmonary congestion. 
+The reactivity of O3 causes health problems because it damages lung tissue, reduces lung function and sensitizes the lungs to other irritants. Scientific evidence indicates that ambient levels of O3 not only affect people with impaired respiratory systems, such as asthmatics, but healthy adults and children as well. Exposure to O3 for several hours at relatively low concentrations has been found to significantly reduce lung function and induce respiratory inflammation in normal, healthy people during exercise. This decrease in lung function generally is accompanied by symptoms including chest pain, coughing, sneezing and pulmonary congestion.
 
 Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standards for ozone.</eaover>
 			<eadetcit>The 1 hour standard is incorporated within the Ozone dataset.</eadetcit>
@@ -387,12 +387,7 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 		<resdesc>ntad_2013_ozone_1hr_1990naaqs</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>5.098</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

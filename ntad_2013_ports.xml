@@ -21,10 +21,9 @@
 							<pubplace>Washington, DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 						</pubinfo>
-						<onlink>&lt;http://www.bts.gov/programs/geographic_information_services/&gt;</onlink>
-					
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_ports&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/n.zipad_2013_ports.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Contains physical information on commercial facilities at the principal U.S. Coastal, Great Lakes and Inland Ports. The data consists of listings of port area's waterfront facilities, including information on berthing, cranes, transit sheds, grain elevators, marine repair plants, fleeting areas, and docking and storage facilities. Collection of data is performed on a rotational basis to ensure on-site accuracy at each facility.</abstract>
@@ -473,12 +472,7 @@
 		<resdesc>ntad_2013_ports</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>20.132</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

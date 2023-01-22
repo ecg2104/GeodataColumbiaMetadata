@@ -144,7 +144,7 @@ BTS quality checks were to cross reference the place dataset with the state data
 </srctime>
 </srcinfo>
 <procstep>
-<procdesc>The creation of this geospatial data layer was completed by RITA/BTS in March 2008. This Shapefile was built from  a combination of database tables and internet research.  The coordinates of the fueling stations were derived from the addressed by geo location.</procdesc>
+<procdesc>The creation of this geospatial data layer was completed by RITA/BTS in March 2008. This geopackage was built from  a combination of database tables and internet research.  The coordinates of the fueling stations were derived from the addressed by geo location.</procdesc>
 <procdate>2008</procdate>
 </procstep>
 </lineage>
@@ -438,10 +438,8 @@ altfuels</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>0.545</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 <onlinopt>

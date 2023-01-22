@@ -160,7 +160,7 @@
 <srccontr>Spatial information for installation boundaries.</srccontr>
 </srcinfo>
 <procstep>
-<procdesc>Military installation boundaries were added from TIGER data and topologically integrated.  The dataset was checked for completeness and accuracy in ArcInfo and was converted to polygon shapefile format.</procdesc>
+<procdesc>Military installation boundaries were added from TIGER data and topologically integrated.  The dataset was checked for completeness and accuracy in ArcInfo and was converted to polygon geopackage format.</procdesc>
 <srcused>TIGER</srcused>
 <procdate>2000</procdate>
 <srcprod>MILBASE</srcprod>
@@ -408,10 +408,8 @@ milbase</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>1.837</transize>
+<formname>Shapefile</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

@@ -466,10 +466,8 @@ faf2_network</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formvern>2008</formvern>
-<formspec>zip</formspec>
-<transize>58.064</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

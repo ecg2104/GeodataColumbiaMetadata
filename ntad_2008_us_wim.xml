@@ -31,7 +31,7 @@
 
 The attributes on the point elements of the database have come from two primary sources, the Station Description Records and the National Highway Planning Network's Linear Referencing System. The attributes for these databases have been intentionally limited to location referencing attributes since the core station description attribute data are contained within the Station Description Tables (SDT).
 
-There is a separate Station Description Table (SDT) for each of the different station types; WIM, and ATR. The attributes in the Station Description Table correspond with the Station Description Record found in Chapter 6 of the latest Traffic Monitoring Guide. The SDT contains the most recent stations available for each state and station type. This table was derived from files provided UTCTR by FHWA. The Station Description Table can be linked to the station shapefile via the STNNKEY field .
+There is a separate Station Description Table (SDT) for each of the different station types; WIM, and ATR. The attributes in the Station Description Table correspond with the Station Description Record found in Chapter 6 of the latest Traffic Monitoring Guide. The SDT contains the most recent stations available for each state and station type. This table was derived from files provided UTCTR by FHWA. The Station Description Table can be linked to the station geopackage via the STNNKEY field .
 
 A single exception table containing records for those stations that could not be located is provided for WIM, and ATR stations. Generally, this table contains records where location descriptions were not clear enough to locate a station. It is hoped that FHWA will be able to contact the States for a more detailed description</abstract>
 <purpose>The GIS Traffic Stations database provides structural linkages between the National Highway Planning Network Weigh In Motion (WIM), and Automatic Traffic Count Stations (ATR)</purpose>
@@ -633,10 +633,8 @@ wim</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formverd>2008</formverd>
-<formspec>zip</formspec>
-<transize>0.148</transize>
+<formname>Shapefile</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

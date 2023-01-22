@@ -9,7 +9,7 @@
 					<pubplace>1200 New Jersey Ave. SE, Washington, DC, 20590</pubplace>
 					<publish>Research and Innovative Technology Administration/Bureau of Transportation Statistics</publish>
 				</pubinfo>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_ipcd&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_ipcd.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The IPCD data covers the following types of passenger transportation terminals: •Scheduled Airline Service Airports.•Intercity bus stations (includes stations served by regular scheduled intercity bus service such as Greyhound and Trailways, code sharing buses such as "Amtrak Thruway" feeder buses, supplemental buses that provide additional frequencies along rail routes, and airport bus services from locations that are outside of the airport Metropolitan Area.•Intercity and transit ferry terminals.•Light rail transit stations.•Heavy rail transit stations.•Passenger rail stations on the national rail network serving both commuter rail and intercity rail services.</abstract>
@@ -715,17 +715,7 @@
 		</distrib>
 		<resdesc>ntad_2013_ipcd</resdesc>
 		<stdorder>
-			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-				</digtinfo>
-				<digtopt>
-					<offoptn>
-						<offmedia>dvd</offmedia>
-					</offoptn>
-				</digtopt>
-			</digform>
+
 			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/</ordering>
 		</stdorder>
 	</distinfo>

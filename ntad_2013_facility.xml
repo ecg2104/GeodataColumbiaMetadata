@@ -7,7 +7,7 @@
 				<pubdate>2003</pubdate>
 				<title>United States Intermodal Terminal Facilities, 2013</title>
 				<geoform>vector digital data</geoform>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_facility&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/.zipntad_2013_facility.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>This is a public dataset for the Department of Transportation, Research and Innovative Technology Administration's Bureau of Transportation Statistics. The public database consists of four tables. One of the tables is a spatial table: INTERMODAL_FACILITY. The three other tables consist of attribute data for the database: INTERMODAL_CARGO, INTERMODAL_COMMODITY and INTERMODAL_DIRECTIONALITY. This database was based on the requirements from the Commodity Flow Survey and with the different modes of DOT, supervised by RITA/BTS. The database will extend its design to support all of the modes within the DOT and in reference to modes involved with Intermodal transfer.</abstract>
@@ -1074,11 +1074,7 @@ b.Only successful geocoding is included in a dataset and reported in the attribu
 		<resdesc>ntad_2013_facility</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<transize>5.438</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

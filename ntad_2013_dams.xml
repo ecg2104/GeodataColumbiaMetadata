@@ -9,33 +9,33 @@
 					<pubplace>1200 New Jersey Ave. SE, Washington, DC, 20590</pubplace>
 					<publish>Research and Innovative Technology Administration/Bureau of Transportation Statistics</publish>
 				</pubinfo>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_dams&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_dams.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>This map layer portrays major dams of the United States, including Puerto Rico and the U.S. Virgin Islands. The map layer was created by extracting dams 50 feet or more in height, or with a normal storage capacity of 5,000 acre-feet or more, or with a maximum storage capacity of 25,000 acre-feet or more, from the 79,777 dams in the U.S. Army Corps of Engineers National Inventory of Dams. This is a replacement for the April 1994 map layer.</abstract>
-			<purpose>These data are intended for geographic display and analysis at the 
-      national level, and for large regional areas.  The data should be 
-      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.  
-      No responsibility is assumed by the National Atlas of the United States in 
+			<purpose>These data are intended for geographic display and analysis at the
+      national level, and for large regional areas.  The data should be
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+      No responsibility is assumed by the National Atlas of the United States in
       the use of these data.
-    Supplemental_Information: 
-      In the online National Atlas of the United States Map Maker, at scales 
+    Supplemental_Information:
+      In the online National Atlas of the United States Map Maker, at scales
       smaller than 1:4,850,000 the data is thinned for display purposes.  For
-      scales between 1: 4,850,000 and 1:22,000,000, dams are only shown if they 
-      have a height of 500 feet or more, or a normal storage capacity of 50,000 
-      acre-feet or more, or a maximum storage capacity of 250,000 acre-feet or 
-      more (1280 dams).  At scales smaller than 1:22,000,000, dams are only 
-      shown if they have a height of 5000 feet or more, or a normal storage 
-      capacity of 500,000 acre-feet or more, or a maximum storage capacity of 
+      scales between 1: 4,850,000 and 1:22,000,000, dams are only shown if they
+      have a height of 500 feet or more, or a normal storage capacity of 50,000
+      acre-feet or more, or a maximum storage capacity of 250,000 acre-feet or
+      more (1280 dams).  At scales smaller than 1:22,000,000, dams are only
+      shown if they have a height of 5000 feet or more, or a normal storage
+      capacity of 500,000 acre-feet or more, or a maximum storage capacity of
       2,500,000 acre-feet or more (290 dams).</purpose>
-			<supplinf> In the online National Atlas of the United States Map Maker, at scales 
+			<supplinf> In the online National Atlas of the United States Map Maker, at scales
       smaller than 1:4,850,000 the data is thinned for display purposes.  For
-      scales between 1: 4,850,000 and 1:22,000,000, dams are only shown if they 
-      have a height of 500 feet or more, or a normal storage capacity of 50,000 
-      acre-feet or more, or a maximum storage capacity of 250,000 acre-feet or 
-      more (1280 dams).  At scales smaller than 1:22,000,000, dams are only 
-      shown if they have a height of 5000 feet or more, or a normal storage 
-      capacity of 500,000 acre-feet or more, or a maximum storage capacity of 
+      scales between 1: 4,850,000 and 1:22,000,000, dams are only shown if they
+      have a height of 500 feet or more, or a normal storage capacity of 50,000
+      acre-feet or more, or a maximum storage capacity of 250,000 acre-feet or
+      more (1280 dams).  At scales smaller than 1:22,000,000, dams are only
+      shown if they have a height of 5000 feet or more, or a normal storage
+      capacity of 500,000 acre-feet or more, or a maximum storage capacity of
       2,500,000 acre-feet or more (290 dams).</supplinf>
 		</descript>
 		<spdom>
@@ -514,11 +514,7 @@
 		</distrib>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied.</filedec>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

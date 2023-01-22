@@ -13,7 +13,7 @@
 					<pubplace>Washington, DC</pubplace>
 					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 				</pubinfo>
-				<edition>2013</edition><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_co_1990naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<edition>2013</edition><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_co_1990naaqs</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Non-attainment and maintenance areas for the United States and its territories. The standard for the CO NAA is 9 ppm. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
@@ -100,7 +100,7 @@
 					<pubplace>Washington, DC</pubplace>
 					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 				</pubinfo></citeinfo>
-				
+
 		</crossref>
 	</idinfo>
 	<dataqual>
@@ -125,7 +125,7 @@
 						<pubdate>20050101</pubdate>
 						<title>40 Code of Federal Regulations Part 81</title>
 						<othercit>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</othercit>
-			</citeinfo>			
+			</citeinfo>
 				</srccite>
 				<typesrc>None</typesrc>
 				<srctime>
@@ -320,13 +320,13 @@
 			</attr>
 		</detailed>
 		<overview>
-			<eaover>Carbon monoxide (CO) is a colorless, odorless and poisonous gas produced by incomplete burning of carbon in fuels. When CO enters the bloodstream, it reduces the delivery of oxygen to the body's organs and tissues. Health threats are most serious for those who suffer from cardiovascular disease, particularly those with angina or peripheral vascular disease. Exposure to elevated CO levels can cause impairment of visual perception, manual dexterity, learning ability and performance of complex tasks. 
+			<eaover>Carbon monoxide (CO) is a colorless, odorless and poisonous gas produced by incomplete burning of carbon in fuels. When CO enters the bloodstream, it reduces the delivery of oxygen to the body's organs and tissues. Health threats are most serious for those who suffer from cardiovascular disease, particularly those with angina or peripheral vascular disease. Exposure to elevated CO levels can cause impairment of visual perception, manual dexterity, learning ability and performance of complex tasks.
 
-77% of the nationwide CO emissions are from transportation sources. The largest emissions contribution comes from highway motor vehicles. Thus, the focus of CO monitoring has been on traffic oriented sites in urban areas where the main source of CO is motor vehicle exhaust. Other major CO sources are wood-burning stoves, incinerators and industrial sources. 
+77% of the nationwide CO emissions are from transportation sources. The largest emissions contribution comes from highway motor vehicles. Thus, the focus of CO monitoring has been on traffic oriented sites in urban areas where the main source of CO is motor vehicle exhaust. Other major CO sources are wood-burning stoves, incinerators and industrial sources.
 
 The National Ambient Air Quality Standard for carbon monoxide is 9 ppm 8-hour nonoverlapping average not to be exceeded more than once per year. The rounding convention in the standard specifies that values of 9.5 ppm, or greater, are counted as exceeding the level of the standard. An area meets the carbon monoxide NAAQS if no more than one 8-hour value per year exceeds the threshold. (High values that occur within 8 hours of the first one are exempted. This is known as using "nonoverlapping averages.") To be in attainment, an area must meet the NAAQS for two consecutive years and carry out air quality monitoring during the entire time. Air quality carbon monoxide value is estimated using EPA guidance for calculating design values (Laxton Memorandum, June 18, 1990).
 
-Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for carbon monoxide. 
+Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for carbon monoxide.
 
 Sections 107(d)(4)(A) and 186 of the Clean Air Act lists the requirements for designations and classifications of carbon monoxide areas.</eaover>
 		</overview>
@@ -353,12 +353,7 @@ Sections 107(d)(4)(A) and 186 of the Clean Air Act lists the requirements for de
 		<resdesc>ntad_2013_co_1990naaqs</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>5.098</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

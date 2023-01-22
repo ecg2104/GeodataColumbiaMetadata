@@ -6,7 +6,7 @@
 				<pubdate>2010</pubdate>
 				<title>United States Freight Analysis Framework, 2013</title>
 				<geoform>vector digital data</geoform>
-				<origin>United States. Federal Highway Administration.</origin><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_faf_network&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<origin>United States. Federal Highway Administration.</origin><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_faf_network.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The spatial component of the FAF network is derived from National Highway System Version 2009.11 and contains state primary and secondary roads, National Highway System (NHS), National Network (NN) and several intermodal connectors as appropriate for the freight network modeling. The network consists of over 447,808 miles of equivalent road mileage. The data set covers the 48 contiguous States plus the District of Columbia, Alaska, and Hawaii. The nominal scale of the data set is 1:100,000 with a maximal positional error of ±80 meters.</abstract>
@@ -1024,12 +1024,7 @@
 		<resdesc>ntad_2013_faf_network</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>10.1</formvern>
-					<filedec>no compression applied</filedec>
-					<transize>58.124</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

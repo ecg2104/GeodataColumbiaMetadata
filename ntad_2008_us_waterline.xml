@@ -1176,10 +1176,8 @@ waterway</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formverd>2008</formverd>
-<formspec>zip</formspec>
-<transize>3.750</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

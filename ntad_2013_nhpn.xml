@@ -22,8 +22,7 @@
 							<pubplace>Washington DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
 				</citeinfo></lworkcit>
 			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_nhpn.zip</onlink></citeinfo>
 		</citation>
@@ -1582,12 +1581,7 @@
 		<resdesc>ntad_2013_nhpn</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>145.986</transize>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

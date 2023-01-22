@@ -17,10 +17,10 @@
 							<pubplace>Washington, DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_parks&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_parks.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>United States National Park System, 2013 is a polygon theme representing the National Park System</abstract>
@@ -794,12 +794,7 @@ Group_Code, Unit_Name, Unit_Type, Meta_MIDF, Lands_Code, Date_Edit, GIS_Notes
 		<resdesc>ntad_2013_parks</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>no compression applied</filedec>
-					<transize>5.693</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

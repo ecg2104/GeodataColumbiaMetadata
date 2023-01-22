@@ -7,7 +7,7 @@
 				<pubdate>2011</pubdate>
 				<title>United States Non-Attainment Areas: Particulate Matter 2.5 24 Hour, 2013</title>
 				<geoform>vector digital data</geoform>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_pm25_24hr_2006naaqs&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_pm25_24hr_2006naaqs.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Non-attainment and maintenance areas for the United States and its territories. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
@@ -281,9 +281,9 @@
 			</attr>
 		</detailed>
 		<overview>
-			<eaover>Air pollutants called particulate matter include dust, dirt, soot, smoke and liquid droplets directly emitted into the air by sources such as factories, power plants, cars, construction activity, fires and natural windblown dust. Particles formed in the atmosphere by condensation or the transformation of emitted gases such as SO2 and VOCs are also considered particulate matter. 
+			<eaover>Air pollutants called particulate matter include dust, dirt, soot, smoke and liquid droplets directly emitted into the air by sources such as factories, power plants, cars, construction activity, fires and natural windblown dust. Particles formed in the atmosphere by condensation or the transformation of emitted gases such as SO2 and VOCs are also considered particulate matter.
 
-Based on studies of human populations exposed to high concentrations of particles (sometimes in the presence of SO2) and laboratory studies of animals and humans, there are major effects of concern for human health. These include effects on breathing and respiratory symptoms, aggravation of existing respiratory and cardiovascular disease, alterations in the body's defense systems against foreign materials, damage to lung tissue, carcinogenesis and premature death. The major subgroups of the population that appear to be most sensitive to the effects of particulate matter include individuals with chronic obstructive pulmonary or cardiovascular disease or influenza, asthmatics, the elderly and children. Particulate matter also soils and damages materials, and is a major cause of visibility impairment in the United States. 
+Based on studies of human populations exposed to high concentrations of particles (sometimes in the presence of SO2) and laboratory studies of animals and humans, there are major effects of concern for human health. These include effects on breathing and respiratory symptoms, aggravation of existing respiratory and cardiovascular disease, alterations in the body's defense systems against foreign materials, damage to lung tissue, carcinogenesis and premature death. The major subgroups of the population that appear to be most sensitive to the effects of particulate matter include individuals with chronic obstructive pulmonary or cardiovascular disease or influenza, asthmatics, the elderly and children. Particulate matter also soils and damages materials, and is a major cause of visibility impairment in the United States.
 
 Annual and 24-hour National Ambient Air Quality Standards (NAAQS) for particulate matter were first set in 1971. Total suspended particulate (TSP) was the first indicator used to represent suspended particles in the ambient air. Particles less than 2.5 micrometers in diameter (PM2.5) are referred to as "fine" particles and are believed to pose the largest health risks. Because of their small size (less than one-seventh the average width of a human hair), fine particles can lodge deeply into the lungs.
 
@@ -312,12 +312,7 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 		<resdesc>ntad_2013_pm25_24hr_2006naaqs</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-					<transize>5.098</transize>
-				</digtinfo>
+
 				<digtopt>
 					<onlinopt>
 						<computer>

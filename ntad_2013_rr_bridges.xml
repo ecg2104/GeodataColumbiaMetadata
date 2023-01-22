@@ -19,10 +19,10 @@
 							<pubplace>Washington, DC</pubplace>
 							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
 						</pubinfo>
-						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
-					
+
+
 				</citeinfo></lworkcit>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_rr_bridges&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_rr_bridges.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>Railroad Bridges is a spatial file containing the locations of railroad bridges. The data set includes all rail bridges over the navigable and non-navigable waterways for the contiguous United States.</abstract>
@@ -526,11 +526,7 @@
 		<resdesc>ntad_2013_rr_bridges</resdesc>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
-				</digtinfo>
+
 			</digform>
 			<ordering>call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2013 DVD. The NTAD DVD can be ordered from the online bookstore at www.bts.gov. Individual datasets from the NTAD can also be downloaded from the Office of Geospatial Information Systems website at http://www.bts.gov/programs/geographic_information_services/.</ordering>
 		</stdorder>

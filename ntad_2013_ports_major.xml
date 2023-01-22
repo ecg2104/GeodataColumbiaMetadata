@@ -9,14 +9,14 @@
 					<pubplace>1200 New Jersey Ave. SE, Washington, DC, 20590</pubplace>
 					<publish>Research and Innovative Technology Administration/Bureau of Transportation Statistics</publish>
 				</pubinfo>
-				<pubdate>2013</pubdate><onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_ports_major&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<pubdate>2013</pubdate><onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_ports_major.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>The ports are politically defined by port limits or Corps projects, excluding non-Corps projects not authorized for publication. The determination for the published Principal Ports is based upon the total tonnage for the port for the particular year; therefore the top 150 list can vary from year to year.</abstract>
 			<purpose>The Principal Port file contains USACE port codes, geographic
 locations(longitude, latitude), names, and commodity tonnage
 summaries (total tons, domestic, foreign, imports and exports)
-for Principal USACE Ports. 
+for Principal USACE Ports.
 
 
 </purpose>
@@ -224,10 +224,7 @@ Media: CD, disk, tape, hardcopy
 		</distrib>
 		<stdorder>
 			<digform>
-				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-				</digtinfo>
+
 				<digtopt>
 					<offoptn>
 						<offmedia>dvd</offmedia>

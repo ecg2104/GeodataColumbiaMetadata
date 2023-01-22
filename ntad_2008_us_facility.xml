@@ -1156,10 +1156,8 @@ b.Only successful geocoding is included in a dataset and reported in the attribu
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
-<formverd>2008</formverd>
-<formspec>zip</formspec>
-<transize>5.438</transize>
+<formname>geopackage</formname>
+
 </digtinfo>
 <digtopt>
 </digtopt>

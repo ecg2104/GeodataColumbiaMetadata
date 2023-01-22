@@ -10,7 +10,7 @@
 					<pubplace>1200 New Jersey Ave. SE, Washington, DC, 20590</pubplace>
 					<publish>Research and Innovative Technology Administration/Bureau of Transportation Statistics</publish>
 				</pubinfo>
-			<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_altfuels&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+			<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_altfuels.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>United States Alternative Fuels Stations, 2013 is a point theme representing alternative fuels stations.  Through a nationwide network of local coalitions, Clean Citiesprovides project assistance to help stakeholders in the public and private sectors deploy alternative and renewable fuels, idle-reduction measures, fuel economy improvements, and emerging transportation technologies.Department of Energy collects this data as part of the Projects undertaken by Clean Cities coalitions and stakeholders to ensure customers access to clean alternative energy. This data can be found at the Department of Energy Alternative Fuels Data Center Web Feature Service: http://www.afdc.energy.gov/locator/stations/Clean Cities is the deployment arm of the U.S. Department of Energy's (DOE) Vehicle Technologies Office.</abstract>
@@ -334,7 +334,7 @@
 			</attr>
 			<attr>
 				<attrlabl>EV_Other_I</attrlabl>
-				<attrdef>For electric stations, the number and type of additional EVSE, such as: 
+				<attrdef>For electric stations, the number and type of additional EVSE, such as:
 •SP Inductive - Small paddle inductive
 •LP Inductive - Large paddle inductive
 •Avcon Conductive</attrdef>

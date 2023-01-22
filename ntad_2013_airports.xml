@@ -24,7 +24,7 @@
 						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
 					</citeinfo>
 				</lworkcit>
-				<onlink>http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS&amp;version=1.0.0&amp;request=GetFeature&amp;typeName=Columbia.ntad_2013_airports&amp;outputFormat=SHAPE-ZIP</onlink></citeinfo>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/ntad_2013_airports.zip</onlink></citeinfo>
 		</citation>
 		<descript>
 			<abstract>United States Public-Use Airports 2013 is a point theme representing airports in the United States in 2013. Attribute data is provided on the physical and operational characteristics of the landing facility, current usage including enplanements and aircraft operations, congestion levels and usage categories. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product.</abstract>
@@ -137,7 +137,7 @@
 				<srccontr>Data were obtained from the Federal Aviation Administration's (FAA) National Airspace System Resource Aeronautical Data. This product was published by the Aeronautical Information Services.</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>The creation of this geospatial data layer was completed by RITA/BTS in April 2013. This Shapefile was built from textual data on the FAA National Airspace System Resource Aeronautical Data CDROM, effective March 17, 2013.</procdesc>
+				<procdesc>The creation of this geospatial data layer was completed by RITA/BTS in April 2013. This geopackage was built from textual data on the FAA National Airspace System Resource Aeronautical Data CDROM, effective March 17, 2013.</procdesc>
 				<srcused>FAA-NASRAD</srcused>
 				<procdate>20110101</procdate>
 				<proccont>
@@ -1156,10 +1156,8 @@
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formvern>2013</formvern>
-					<filedec>no compression applied</filedec>
-					<transize>0.545</transize>
+					<formname>geopackage</formname>
+
 				</digtinfo>
 				<digtopt>
 					<offoptn>
