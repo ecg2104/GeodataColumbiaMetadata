@@ -642,7 +642,7 @@ All dollar estimates are in current dollars, not adjusted for inflation.The info
         capita personal income, annual number of full-time and part-time jobs,
         and average wage per job information (ca13.dfx and ca34.dfx) were
         downloaded as an Excel file and joined to the edited ATLAS-CNTY map
-        layer in ArcMap.  The resulting file was saved as a shapefile.</procdesc>
+        layer in ArcMap.  The resulting file was saved as a geopackage.</procdesc>
 <srcused>BEA-REIS2008</srcused>
 <procdate>201012</procdate>
 <srcprod>ATLAS-INCOME_04_08</srcprod>
@@ -714,7 +714,7 @@ All dollar estimates are in current dollars, not adjusted for inflation.The info
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for the map layer.</fees>

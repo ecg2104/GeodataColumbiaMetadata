@@ -3509,7 +3509,7 @@
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile </formname>
+<formname>geopackage </formname>
 </digtinfo>
 </digform>
 </stdorder>

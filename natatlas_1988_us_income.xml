@@ -552,7 +552,7 @@ This is an updated version of the November 2004 map layer.</abstract>
         containing personal income, per capita personal income, annual number
         of full-time and part-time jobs, and average wage per job information
         were extracted and joined to the edited ATLAS-1990CNTY map layer.  The
-        resulting file was saved as a shapefile.</procdesc>
+        resulting file was saved as a geopackage.</procdesc>
 <srcused>BEA-REIS2004</srcused>
 <procdate>200410</procdate>
 <srcprod>ATLAS-INCOME_88_04</srcprod>
@@ -630,7 +630,7 @@ This is an updated version of the November 2004 map layer.</abstract>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for the map layer.</fees>

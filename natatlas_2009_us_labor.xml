@@ -269,7 +269,7 @@ The 2001 County Boundaries file from the National Atlas was edited to removed po
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for the map layer.</fees>

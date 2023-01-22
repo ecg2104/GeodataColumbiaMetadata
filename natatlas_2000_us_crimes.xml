@@ -2938,7 +2938,7 @@
 <srcused>Crime96</srcused>
 <srcused>Crime97</srcused>
 <srcused>Crime98</srcused>
-<procdesc>Comma-delimited text files for individual years, containing selectedattributes, were received from the Bureau of Justice Statistics dataarchive (ICPSR) at the University of Michigan.  The text files wereloaded into Excel and output in dBase IV format, then loaded intoArcView for processing.  FIPS codes in the data were converted tostrings and leading zeros added as appropriate.  The FIPS code forDade County, FL was changed in the 1994, 1995, and 1996 files to matchthe new FIPS code for Miami-Dade County, FL.  Attribute names weremodified to allow combination of data from several years.  Theindividual year files were merged into one large file and saved indBase IV format.The county boundaries file was loaded into ArcView and the FIPS codefor Dade County was changed to the new code for Miami-Dade County.The name was also changed.  The area of Skagway-Yakatut-Angoon CensusArea, Alaska was divided into Yakatut Borough and Skagway-Hoonah-Angoon Census Area, and the FIPS codes were adjusted.  Countyboundaries for Puerto Rico and the U.S. Virgin Islands were deleted.Twelve polygons that represented water areas were also deleted.The crimes database was joined to the edited county boundaries fileand the result saved in shapefile format.</procdesc>
+<procdesc>Comma-delimited text files for individual years, containing selectedattributes, were received from the Bureau of Justice Statistics dataarchive (ICPSR) at the University of Michigan.  The text files wereloaded into Excel and output in dBase IV format, then loaded intoArcView for processing.  FIPS codes in the data were converted tostrings and leading zeros added as appropriate.  The FIPS code forDade County, FL was changed in the 1994, 1995, and 1996 files to matchthe new FIPS code for Miami-Dade County, FL.  Attribute names weremodified to allow combination of data from several years.  Theindividual year files were merged into one large file and saved indBase IV format.The county boundaries file was loaded into ArcView and the FIPS codefor Dade County was changed to the new code for Miami-Dade County.The name was also changed.  The area of Skagway-Yakatut-Angoon CensusArea, Alaska was divided into Yakatut Borough and Skagway-Hoonah-Angoon Census Area, and the FIPS codes were adjusted.  Countyboundaries for Puerto Rico and the U.S. Virgin Islands were deleted.Twelve polygons that represented water areas were also deleted.The crimes database was joined to the edited county boundaries fileand the result saved in geopackage format.</procdesc>
 <srcused>ATLAS-CNTY1990</srcused>
 <procdate>2000</procdate>
 <srcprod>ATLAS-CRIMES9498</srcprod>
@@ -2946,7 +2946,7 @@
 <procstep>
 <srcused>ATLAS-CRIMES9498</srcused>
 <srcused>Crime99</srcused>
-<procdesc>Comma-delimited text files for 1999 and 2000, containing selectedattributes, were received from the Bureau of Justice Statistics dataarchive (ICPSR) at the University of Michigan.  The text files wereloaded into Excel and output in dBase IV format, then loaded intoArcView for processing.  FIPS codes in the data were converted tostrings and leading zeros added as appropriate.  Attribute names weremodified as necessary and the files were merged with ATLAS-CRIMES9498.The resulting file was saved as a new shapefile.</procdesc>
+<procdesc>Comma-delimited text files for 1999 and 2000, containing selectedattributes, were received from the Bureau of Justice Statistics dataarchive (ICPSR) at the University of Michigan.  The text files wereloaded into Excel and output in dBase IV format, then loaded intoArcView for processing.  FIPS codes in the data were converted tostrings and leading zeros added as appropriate.  Attribute names weremodified as necessary and the files were merged with ATLAS-CRIMES9498.The resulting file was saved as a new geopackage.</procdesc>
 <srcused>Crime00</srcused>
 <procdate>200212</procdate>
 <srcprod>ATLAS-CRIMES9400</srcprod>
@@ -2995,7 +2995,7 @@
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for this map layer.</fees>

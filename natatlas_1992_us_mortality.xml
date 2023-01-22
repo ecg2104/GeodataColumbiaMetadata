@@ -4906,7 +4906,7 @@ The user is cautioned not to over-interpret apparent visual correlations between
 </srcinfo>
 <procstep>
 <srcused>COUNTYP020</srcused>
-<procdesc>The COUNTYP020 file was read into Arc/INFO as a coverage and modified to reflect the 1990 county boundaries.  The counties were aggregated to  Health Service Areas (HSA's) and fields were added to the coverage for  the HSA name and number.  A new coverage of the Health Service Areas was  created.  The individual data base files (dbf's) from the Atlas of United States Mortality for each cause-of-death were loaded into ArcView and the attribute names were modified so cause-of-death was included. The dbf files were then merged into one large dbf file, with all 19 causes-of-death included.  The dbf was converted to an INFO table which was then joined to the Health Service Areas coverage, and the result was converted to shapefile format.</procdesc>
+<procdesc>The COUNTYP020 file was read into Arc/INFO as a coverage and modified to reflect the 1990 county boundaries.  The counties were aggregated to  Health Service Areas (HSA's) and fields were added to the coverage for  the HSA name and number.  A new coverage of the Health Service Areas was  created.  The individual data base files (dbf's) from the Atlas of United States Mortality for each cause-of-death were loaded into ArcView and the attribute names were modified so cause-of-death was included. The dbf files were then merged into one large dbf file, with all 19 causes-of-death included.  The dbf was converted to an INFO table which was then joined to the Health Service Areas coverage, and the result was converted to geopackage format.</procdesc>
 <srcused>MORT</srcused>
 <procdate>1998</procdate>
 <srcprod>ATLAS-MORT</srcprod>
@@ -4942,7 +4942,7 @@ The user is cautioned not to over-interpret apparent visual correlations between
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefiled</formname>
+<formname>geopackaged</formname>
 </digtinfo>
 </digform>
 </stdorder>

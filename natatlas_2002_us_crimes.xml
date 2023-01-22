@@ -1092,7 +1092,7 @@
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for this map layer.</fees>

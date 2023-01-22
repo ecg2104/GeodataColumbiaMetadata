@@ -380,7 +380,7 @@ The 2001 labor attributes contained in the May 2004 National Atlasfile were dele
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Shapefile</formname>
+<formname>geopackage</formname>
 </digtinfo>
 </digform>
 <fees>There is no charge for the map layer.</fees>
