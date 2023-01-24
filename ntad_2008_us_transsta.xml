@@ -454,9 +454,9 @@ transit_sta</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Egeopackage</formname>
+<formname>geopackage</formname>
 
-</digtinfo
+</digtinfo>
 <digtopt>
 </digtopt>
 </digform>
