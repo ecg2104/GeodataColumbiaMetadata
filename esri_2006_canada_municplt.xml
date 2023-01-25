@@ -105,11 +105,7 @@ Please direct all inquiries regarding software/data pricing, sales, support, and
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/ESRI_2006_canada_municplt.sdc0.bmp</browsen>
-			<browsed>Thumbnail image of shapefile in full extent</browsed>
-			<browset>bmp</browset>
-		</browse>
+
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.706</native>
 	</idinfo>
 	<dataqual>
