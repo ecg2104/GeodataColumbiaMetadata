@@ -348,9 +348,9 @@ peaks</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>0.005</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

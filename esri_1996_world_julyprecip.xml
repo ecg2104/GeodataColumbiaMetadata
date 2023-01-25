@@ -426,9 +426,9 @@ pcip_jan</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>12.164</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

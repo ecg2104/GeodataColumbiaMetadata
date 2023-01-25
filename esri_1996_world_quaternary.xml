@@ -626,9 +626,9 @@ quat_dep</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>16.794</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

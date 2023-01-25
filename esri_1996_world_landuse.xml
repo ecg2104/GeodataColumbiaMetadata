@@ -646,9 +646,9 @@ landuse</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>17.762</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

@@ -535,9 +535,9 @@ agricult</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>14.572</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

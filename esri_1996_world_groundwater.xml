@@ -790,9 +790,9 @@ grwater</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>12.430</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

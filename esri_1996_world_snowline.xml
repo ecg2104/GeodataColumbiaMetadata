@@ -320,9 +320,9 @@ snow_poly</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>11.959</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

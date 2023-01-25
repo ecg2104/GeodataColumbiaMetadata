@@ -439,9 +439,8 @@ pcip_yr</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>13.105</transize>
 </digtinfo>
 </digform>
 </stdorder>

@@ -312,9 +312,9 @@ rds_rr</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>2.335</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
