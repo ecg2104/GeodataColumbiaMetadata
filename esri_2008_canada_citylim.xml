@@ -110,7 +110,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
 </idinfo>
 <dataqual>
-<logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE to verify and validate the geometry.</logic>
+<logic>The geopackage is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE to verify and validate the geometry.</logic>
 <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials. This data set provides six levels of generalization.</complete>
 <posacc>
 <horizpa>
@@ -156,7 +156,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 <procdate>20080502</procdate>
 </procstep>
 <procstep>
-<procdesc>EDS staff clipped out the Canadian features and exported the result to the Shapefile format</procdesc>
+<procdesc>EDS staff clipped out the Canadian features and exported the result to the geopackage format</procdesc>
 <procdate>2009</procdate>
 </procstep>
 </lineage>
@@ -339,9 +339,9 @@ Outside the United States, please direct all inquiries to your local ESRI Intern
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
-<transize>1.584</transize>
+
 </digtinfo>
 <digtopt>
 <offoptn>

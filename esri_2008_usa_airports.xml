@@ -95,10 +95,10 @@ This dataset is a part of the 2008 ESRI Data &amp; Maps collection.</abstract>
 <cntemail>info@esri.com</cntemail>
 <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
 <cntinst>In the United States:
-Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded.
 
 Outside the United States
-Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.  
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
 </cntinfo>
@@ -234,7 +234,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 <procstep>
 <procdesc>Data from the NATIONAL TRANSPORTATION ATLAS DATABASES 1997 (NTAD97) CD-ROM were obtained from the Department of Transportation. Using the airport.pnt and airport.t01 files on the CD-ROM, airports with passenger enplanement of greater than or equal to 250 passengers per year were selected to create a point coverage to which the following attributes were attached: airport location identifier, name of airport, name of State, State FIPS code, Air Carrier Activity Information System airports, and Total Enplanement. The data were converted to shapefile format for use in National Atlas applications and for distribution to the public.
 
-Airports for Puerto Rico and the U.S. Virgin Islands were added. Airport names were changed from all upper case and no period after initials to lower case and period after initials. For example, LYNDON B JOHNSON is now Lyndon B. Johnson. 
+Airports for Puerto Rico and the U.S. Virgin Islands were added. Airport names were changed from all upper case and no period after initials to lower case and period after initials. For example, LYNDON B JOHNSON is now Lyndon B. Johnson.
 
 Airports of the United States, Puerto Rico and the U.S. Virgin Islands 1999 was updated with enplanement data from National Transportation Atlas Databases 2001 (NTAD-2001). Existing airports, heliports, and seaplane bases with enplanements of 250 or greater were kept in the data set, while those below 250 enplanements were deleted. Sixty-five airports, heliports, and seaplane bases that had 250 or greater enplanements were added. The following attributes were added to Airports of the United States, Puerto Rico and the U.S. Virgin Islands 1999: Feature, indicating the type of facility, name of County, and County FIPS code.</procdesc>
 <procdate>20010805</procdate>

@@ -155,7 +155,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 <procdate>20080502</procdate>
 </procstep>
 <procstep>
-<procdesc>EDS staff clipped out the Canadian features and exported the result to the Shapefile format</procdesc>
+<procdesc>EDS staff clipped out the Canadian features and exported the result to the geopackage format</procdesc>
 <procdate>2009</procdate>
 </procstep>
 </lineage>
@@ -274,7 +274,7 @@ Outside the United States, please direct all inquiries to your local ESRI Intern
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 <transize>0.065</transize>
 </digtinfo>
