@@ -18,7 +18,7 @@
 <publish>Esri</publish>
 </pubinfo>
 <othercit>Location: \europe</othercit>
-<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri22_eu_nuts1.zip</onlink>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2022_eu_nuts1.zip</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -651,6 +651,8 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
     <cntvoice>(212) 854-6012</cntvoice>
     <cntemail>data@library.columbia.edu</cntemail>
   </cntinfo>
+
+</metc>
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
