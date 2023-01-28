@@ -322,7 +322,7 @@ Peru Migration Census Data, 2017 is a polygon theme representing Districts (3rd 
 </attr>
 <attr>
   <attrlabl>M023</attrlabl>
-  <attrdef>Type Of National Identity Document: Only Has Immigration Card [Solo tiene carné de extranjería]</attrdef>
+  <attrdef>Type Of National Identity Document: Only Has Immigration Card [Solo tiene carne de extranjería]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>

@@ -17,7 +17,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -101,11 +101,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -454,12 +454,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>22.547</transize>
 					<dssize>22.547</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -469,7 +469,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -499,7 +499,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<title>TomTom® TIGER/Line 2000 Streets, 2012</title>
+						<title>TomTom TIGER/Line 2000 Streets, 2012</title>
 						<origin>TomTom North America, Inc.</origin>
 						<pubdate>2002</pubdate>
 						<geoform>vector digital data</geoform>
@@ -511,7 +511,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 					</citeinfo>
 				</srccite>
 				<srcscale>100000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -543,26 +543,26 @@ Copyright: © 2008 i-cubed; i-cubed, Ft. Collins, CO, USA</othercit>
 				<srccitea>Esri ArcGIS Resource Centers ArcGIS Online services - USA Prime Imagery</srccitea>
 			</srcinfo>
 			<procstep>
-				<procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv>
+				<procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv>
 				<procdesc>The following steps were performed by Esri: From StreetMap Detailed Streets, extracted all Class 1 and 2 road segments plus any other road segments necessary to provide network connectivity for the CLASS_RTE attribute. Converted the data set to SDC. Created the projection file (.prj) and spatial indices.</procdesc>
 				<procdate>20031212</procdate>
 				<srcused>TomTom TIGER/Line Streets</srcused>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: For all features where attributes HWY_TYPE is equal to "" and PRETYPE is not equal to "", manually corrected the HWY_TYPE and HWY_SYMBOL values for county, state, U.S., and interstate highways.  For example, if attributes PRETYPE equals "I" and NAME equals "91", made HWY_TYPE equal to "I" and HWY_SYMBOL equal to "91".  Converted the data set to SDC.  Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv>
+				<procdesc>The following steps were performed by Esri: For all features where attributes HWY_TYPE is equal to "" and PRETYPE is not equal to "", manually corrected the HWY_TYPE and HWY_SYMBOL values for county, state, U.S., and interstate highways.  For example, if attributes PRETYPE equals "I" and NAME equals "91", made HWY_TYPE equal to "I" and HWY_SYMBOL equal to "91".  Converted the data set to SDC.  Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv>
 				<procdate>20060419</procdate>
 				<srcused>TomTom TIGER/Line Streets</srcused>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Corrected a few known errors.  Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv>
+				<procdesc>The following steps were performed by Esri: Corrected a few known errors.  Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv>
 				<procdate>20081002</procdate>
 				<srcused>Esri ArcGIS Resource Centers ArcGIS Online services - USA Prime Imagery</srcused></procstep>
 		</lineage>
 		<posacc>
 			<horizpa>
-				<horizpar>The geospatial part of this data set was extracted from the Census 2000 TIGER/Line® files. The positional accuracy varies with the source materials used, but generally the information is no better than the established national map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS). To improve the accuracy, TomTom ran a process against the entire nationwide database.
+				<horizpar>The geospatial part of this data set was extracted from the Census 2000 TIGER/Line files. The positional accuracy varies with the source materials used, but generally the information is no better than the established national map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS). To improve the accuracy, TomTom ran a process against the entire nationwide database.
 
 The level of positional accuracy in the StreetMap™ files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
 			</horizpa>

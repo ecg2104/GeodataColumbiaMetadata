@@ -9,7 +9,7 @@
       </citeinfo>
     </citation>
     <descript>
-      <abstract>Colombia Social Census Data 2018 is a polygon theme representing Manzanas (6th level administrative units) in Colombia as of 2018. Attribute information includes official population and housing data for Colombia from the 2018 census. This census is provided at the manzana administrative level (ADM6) and includes 349,708 polygons with 1,013 attribute variables. Attribute descriptions retain Spanish-language names and unique identifier codes. All variable names were translated from the Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Total Personas” was updated to D001 and given the alias “Total Number Of People  [Total Personas]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Spanish language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.</abstract>
+      <abstract>Colombia Social Census Data 2018 is a polygon theme representing Manzanas (6th level administrative units) in Colombia as of 2018. Attribute information includes official population and housing data for Colombia from the 2018 census. This census is provided at the manzana administrative level (ADM6) and includes 349,708 polygons with 1,013 attribute variables. Attribute descriptions retain Spanish-language names and unique identifier codes. All variable names were translated from the Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Total Personas" was updated to D001 and given the alias "Total Number Of People  [Total Personas]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Spanish language field description]". Vector data was analyzed for accuracy and compared with national boundaries.</abstract>
       <purpose>This dataset provides population statistics for Colombia, with correlating administrative boundaries in vector format, for use in GIS software.</purpose>
     </descript>
     <timeperd>
@@ -142,7 +142,7 @@
   </attr>
   <attr>
     <attrlabl>S003</attrlabl>
-    <attrdef>Self-Recognition Of Belonging To An Ethnic Group: Raizal Of The Archipelago Of San Andrés, Providencia And Santa Catalina [Raizal del Archipielago de San Andrés, Providencia y Santa Catalina]</attrdef>
+    <attrdef>Self-Recognition Of Belonging To An Ethnic Group: Raizal Of The Archipelago Of San Andres, Providencia And Santa Catalina [Raizal del Archipielago de San Andres, Providencia y Santa Catalina]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -166,7 +166,7 @@
   </attr>
   <attr>
     <attrlabl>S006</attrlabl>
-    <attrdef>Self-Recognition Of Belonging To An Ethnic Group: No Ethnic Group [Ningún grupo étnico]</attrdef>
+    <attrdef>Self-Recognition Of Belonging To An Ethnic Group: No Ethnic Group [Ningún grupo etnico]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -510,7 +510,7 @@
   </attr>
   <attr>
     <attrlabl>S049</attrlabl>
-    <attrdef>Persons Belonging To A Kumpania: 9_Sampués_Sucre [9_Sampués_Sucre]</attrdef>
+    <attrdef>Persons Belonging To A Kumpania: 9_Sampues_Sucre [9_Sampues_Sucre]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -718,7 +718,7 @@
   </attr>
   <attr>
     <attrlabl>S075</attrlabl>
-    <attrdef>Main Treatment Of The Health Problem: Visited A Private Doctor (General, Specialist, Dentist, Therapist Or Other) [Acudió a un médico particular (general, especialista, odontólogo, terapeuta u otro)]</attrdef>
+    <attrdef>Main Treatment Of The Health Problem: Visited A Private Doctor (General, Specialist, Dentist, Therapist Or Other) [Acudió a un medico particular (general, especialista, odontólogo, terapeuta u otro)]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -726,7 +726,7 @@
   </attr>
   <attr>
     <attrlabl>S076</attrlabl>
-    <attrdef>Main Treatment Of The Health Problem: Visited An Apothecary, Pharmacist, Druggist [Acudió a un boticario, farmacéuta, droguista]</attrdef>
+    <attrdef>Main Treatment Of The Health Problem: Visited An Apothecary, Pharmacist, Druggist [Acudió a un boticario, farmaceuta, droguista]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -750,7 +750,7 @@
   </attr>
   <attr>
     <attrlabl>S079</attrlabl>
-    <attrdef>Main Treatment Of The Health Problem: Visited A Doctor From A Different Ethnic Group (Healer, Herbalist, Etc.) [Acudió a otro médico de un grupo étnico (curandero, yerbatero, etc.)]</attrdef>
+    <attrdef>Main Treatment Of The Health Problem: Visited A Doctor From A Different Ethnic Group (Healer, Herbalist, Etc.) [Acudió a otro medico de un grupo etnico (curandero, yerbatero, etc.)]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -1702,7 +1702,7 @@
   </attr>
   <attr>
     <attrlabl>S198</attrlabl>
-    <attrdef>Highest Level Of Schooling Completed: Professional Technique 1 Year [Técnica profesional 1 año]</attrdef>
+    <attrdef>Highest Level Of Schooling Completed: Professional Technique 1 Year [Tecnica profesional 1 año]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -1710,7 +1710,7 @@
   </attr>
   <attr>
     <attrlabl>S199</attrlabl>
-    <attrdef>Highest Level Of Schooling Completed: Professional Technique 2 Years [Técnica profesional 2 años]</attrdef>
+    <attrdef>Highest Level Of Schooling Completed: Professional Technique 2 Years [Tecnica profesional 2 años]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -1718,7 +1718,7 @@
   </attr>
   <attr>
     <attrlabl>S200</attrlabl>
-    <attrdef>Highest Level Of Schooling Completed: Professional Technique 3 Years [Técnica profesional 3 años]</attrdef>
+    <attrdef>Highest Level Of Schooling Completed: Professional Technique 3 Years [Tecnica profesional 3 años]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>
@@ -1950,7 +1950,7 @@
   </attr>
   <attr>
     <attrlabl>S229</attrlabl>
-    <attrdef>Highest Level Of Schooling Completed By Larger Group: Professional Or Technological Technique [Técnica profesional o Tecnológica]</attrdef>
+    <attrdef>Highest Level Of Schooling Completed By Larger Group: Professional Or Technological Technique [Tecnica profesional o Tecnológica]</attrdef>
     <attrdefs>National Administrative Department of Statistics (DANE) Colombia, 2018 [Departamento Administrativo Nacional de Estadística (DANE) Colombia, 2018]</attrdefs>
     <attrdomv>
       <udom>requency of response in the census sector</udom>

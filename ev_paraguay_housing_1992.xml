@@ -46,7 +46,7 @@
 <abstract>
 Paraguay Housing Census Data, 1992 is a polygon theme representing Manzanas (6th level administrative units) in Paraguay.  Attribute information includes housing variables from the 1992 census.
 
-Official population and housing data for Paraguay from the 1992 census. This census is provided at the manzana administrative level (ADM6) and includes 51,085 polygons with 668 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Varón” was updated to D001 and given the alias “Male Population [Varón]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Official population and housing data for Paraguay from the 1992 census. This census is provided at the manzana administrative level (ADM6) and includes 51,085 polygons with 668 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Varón" was updated to D001 and given the alias "Male Population [Varón]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 </abstract>
 </descript>
 <citation>
@@ -196,7 +196,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>H011</attrlabl>
-  <attrdef>Relationship To The Head Of Household: Domestic Staff [Personal_Doméstico]</attrdef>
+  <attrdef>Relationship To The Head Of Household: Domestic Staff [Personal_Domestico]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -780,7 +780,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>H084</attrlabl>
-  <attrdef>Does The Household Have Electricity: Yes [Sí__Luz_Eléctrica]</attrdef>
+  <attrdef>Does The Household Have Electricity: Yes [Sí__Luz_Electrica]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -1324,7 +1324,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>H152</attrlabl>
-  <attrdef>Have A Landline Phone: Yes [Sí_Teléfono_Fijo]</attrdef>
+  <attrdef>Have A Landline Phone: Yes [Sí_Telefono_Fijo]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>

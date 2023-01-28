@@ -46,7 +46,7 @@
 <abstract>
 Paraguay Social Census Data, 1992 is a polygon theme representing Manzanas (6th level administrative units) in Paraguay.  Attribute information includes social variables from the 1992 census.
 
-Official population and housing data for Paraguay from the 1992 census. This census is provided at the manzana administrative level (ADM6) and includes 51,085 polygons with 668 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Varón” was updated to D001 and given the alias “Male Population [Varón]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Official population and housing data for Paraguay from the 1992 census. This census is provided at the manzana administrative level (ADM6) and includes 51,085 polygons with 668 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Varón" was updated to D001 and given the alias "Male Population [Varón]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 </abstract>
 </descript>
 <citation>
@@ -780,7 +780,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S084</attrlabl>
-  <attrdef>Primary Language: Portuguese [Portugués]</attrdef>
+  <attrdef>Primary Language: Portuguese [Portugues]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -796,7 +796,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S086</attrlabl>
-  <attrdef>Primary Language: English [Inglés]</attrdef>
+  <attrdef>Primary Language: English [Ingles]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -804,7 +804,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S087</attrlabl>
-  <attrdef>Primary Language: French [Francés]</attrdef>
+  <attrdef>Primary Language: French [Frances]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -812,7 +812,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S088</attrlabl>
-  <attrdef>Primary Language: Japanese [Japonés]</attrdef>
+  <attrdef>Primary Language: Japanese [Japones]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -996,7 +996,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S111</attrlabl>
-  <attrdef>Primary Language Spoken In The Household: Portuguese [Portugués]</attrdef>
+  <attrdef>Primary Language Spoken In The Household: Portuguese [Portugues]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -1012,7 +1012,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S113</attrlabl>
-  <attrdef>Primary Language Spoken In The Household: English [Inglés]</attrdef>
+  <attrdef>Primary Language Spoken In The Household: English [Ingles]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -1020,7 +1020,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S114</attrlabl>
-  <attrdef>Primary Language Spoken In The Household: French [Francés]</attrdef>
+  <attrdef>Primary Language Spoken In The Household: French [Frances]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>
@@ -1028,7 +1028,7 @@ Official population and housing data for Paraguay from the 1992 census. This cen
 </attr>
 <attr>
   <attrlabl>S115</attrlabl>
-  <attrdef>Primary Language Spoken In The Household: Japanese [Japonés]</attrdef>
+  <attrdef>Primary Language Spoken In The Household: Japanese [Japones]</attrdef>
   <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 1992 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 1992]</attrdefs>
   <attrdomv>
     <udom>frequency of response in the census sector</udom>

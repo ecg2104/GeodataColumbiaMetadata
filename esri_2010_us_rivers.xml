@@ -94,10 +94,10 @@ This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -207,7 +207,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<digtopt/>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -261,7 +261,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srccontr>Attribute and geospatial data</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Extracted and generalized the features from ArcWorld 1:3M.  Added Name and System attribute values from the Rand McNally New International Atlas, the Times Atlas of the World, and the Digital Chart of the World.  Converted to North American Datum of 1983 (NAD83) by splitting the United States into-if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands-and the 48 contiguous states (including District of Columbia); converting each to NAD83; then merging them together. Created ArcGIS® layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Extracted and generalized the features from ArcWorld 1:3M.  Added Name and System attribute values from the Rand McNally New International Atlas, the Times Atlas of the World, and the Digital Chart of the World.  Converted to North American Datum of 1983 (NAD83) by splitting the United States into-if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands-and the 48 contiguous states (including District of Columbia); converting each to NAD83; then merging them together. Created ArcGIS layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
 				<procdate>19990624</procdate>
 			</procstep>
 			<srcinfo>
@@ -323,7 +323,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srccontr>Attribute data</srccontr>
 			</srcinfo>
 			<srcinfo>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srccitea>DCW</srccitea>
 				<srccontr>Attribute data</srccontr>
 				<srccite>
@@ -387,7 +387,7 @@ Copyright: © 2009 i-cubed; i-cubed, Ft. Collins, CO, USA</othercit>
 			</procstep>
 			<procstep>
 				<procdate>20090806</procdate>
-				<procdesc>The following steps were performed by ESRI: Edited the incorrect geometry of Yellowstone River. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Edited the incorrect geometry of Yellowstone River. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

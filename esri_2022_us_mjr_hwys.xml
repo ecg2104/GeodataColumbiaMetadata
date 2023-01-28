@@ -4,13 +4,13 @@
 <citation>
 <citeinfo>
 <origin>TomTom North America, Inc.</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Major Highways, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -101,10 +101,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -114,15 +114,15 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <complete>After processing, the dataset is checked for drawing display and number of records and file sizes compared with source materials.</complete>
 <posacc>
 <horizpa>
-<horizpar>The geospatial part of this data set was extracted from the Census 2000 TIGER/Line® files. The positional accuracy varies with the source materials used, but generally the information is no better than the established national map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS). To improve the accuracy, TomTom ran a process against the entire nationwide database. The level of positional accuracy in the StreetMap™ files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
+<horizpar>The geospatial part of this data set was extracted from the Census 2000 TIGER/Line files. The positional accuracy varies with the source materials used, but generally the information is no better than the established national map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS). To improve the accuracy, TomTom ran a process against the entire nationwide database. The level of positional accuracy in the StreetMap™ files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
 </horizpa>
 </posacc>
 <lineage>
 <srcinfo>
 <srccite>
 <citeinfo>
-<origin>Esri</origin>
-<title>ArcGIS Resource Centers ArcGIS® Online services - USA Prime Imagery</title>
+<origin>ESRI</origin>
+<title>ArcGIS Resource Centers ArcGIS Online services - USA Prime Imagery</title>
 <geoform>raster digital data</geoform>
 <pubinfo>
 <pubplace>Redlands, California, USA</pubplace>
@@ -149,7 +149,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <citeinfo>
 <origin>TomTom North America, Inc.</origin>
 <pubdate>20020101</pubdate>
-<title>TomTom® TIGER/Line 2000 Streets</title>
+<title>TomTom TIGER/Line 2000 Streets</title>
 <geoform>vector digital data</geoform>
 <pubinfo>
 <pubplace>Lebanon, New Hampshire, USA</pubplace>
@@ -177,12 +177,12 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <procdate>20031212</procdate>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: For all features where attributes HWY_TYPE is equal to "" and PRETYPE is not equal to "", manually corrected the HWY_TYPE and HWY_SYMBOL values for county, state, U.S., and interstate highways. For example, if attributes PRETYPE equals "I" and NAME equals "91", made HWY_TYPE equal to "I" and HWY_SYMBOL equal to "91". Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+<procdesc>The following steps were performed by Esri: For all features where attributes HWY_TYPE is equal to "" and PRETYPE is not equal to "", manually corrected the HWY_TYPE and HWY_SYMBOL values for county, state, U.S., and interstate highways. For example, if attributes PRETYPE equals "I" and NAME equals "91", made HWY_TYPE equal to "I" and HWY_SYMBOL equal to "91". Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20060419</procdate>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Corrected a few known errors. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+<procdesc>The following steps were performed by Esri: Corrected a few known errors. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20081002</procdate>
 </procstep>
@@ -448,14 +448,14 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -485,7 +485,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_mjr_hwys</resdesc></distinfo>
 <metainfo>
@@ -507,7 +507,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

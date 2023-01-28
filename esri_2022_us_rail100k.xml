@@ -5,13 +5,13 @@
 <citeinfo>
 <origin>Bureau of Transportation Statistics</origin>
 <origin>Federal Railroad Administration (FRA)</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Railroads, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -106,10 +106,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -140,7 +140,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <pubplace>Washington, DC, USA</pubplace>
 <publish>Bureau of Transportation Statistics (BTS)</publish>
 </pubinfo>
-<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD–ROM.</othercit>
+<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD-ROM.</othercit>
 <onlink>https://www.bts.gov/</onlink>
 </citeinfo>
 </srccite>
@@ -168,7 +168,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srcinfo>
 <srccite>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <origin>DigitalGlobe</origin>
 <pubdate>20191009</pubdate>
 <title>World Imagery</title>
@@ -205,7 +205,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srcprod>withheld</srcprod>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Extracted dataset from National Transportation Atlas Databases (NTAD) 2002. Removed "Abandoned" features. Removed unneeded attributes. Coded four features, missing FRA_REG attribute values, based on surrounding features. Clarified values for the MILITARY attribute. Renamed and rearranged attributes. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the dataset to SDC.</procdesc>
+<procdesc>The following steps were performed by Esri: Extracted dataset from National Transportation Atlas Databases (NTAD) 2002. Removed "Abandoned" features. Removed unneeded attributes. Coded four features, missing FRA_REG attribute values, based on surrounding features. Clarified values for the MILITARY attribute. Renamed and rearranged attributes. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the dataset to SDC.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20021111</procdate>
 </procstep>
@@ -447,14 +447,14 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -484,7 +484,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_rail100k</resdesc></distinfo>
 <metainfo>
@@ -506,7 +506,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

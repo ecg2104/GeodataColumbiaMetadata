@@ -338,7 +338,7 @@ Peru Social Census Data, 2017 is a polygon theme representing Districts (3rd lev
 </attr>
 <attr>
   <attrlabl>S025</attrlabl>
-  <attrdef>Language Spoken: Portugeuse [Portugués]</attrdef>
+  <attrdef>Language Spoken: Portugeuse [Portugues]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -1146,7 +1146,7 @@ Peru Social Census Data, 2017 is a polygon theme representing Districts (3rd lev
 </attr>
 <attr>
   <attrlabl>S126</attrlabl>
-  <attrdef>Religion Person Claims: Evangelical [Evangélica]</attrdef>
+  <attrdef>Religion Person Claims: Evangelical [Evangelica]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>

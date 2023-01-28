@@ -4,13 +4,13 @@
 <citation>
 <citeinfo>
 <origin>U.S. Department of Commerce, Census Bureau, Geography Division</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Census Urbanized Areas, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -87,7 +87,7 @@
 <tempkey>2010</tempkey>
 </temporal>
 </keywords>
-<accconst>The data are provided by multiple, third party data vendors under license to Esri for inclusion on ArcGIS® Data and Maps for use with ArcGIS® software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Consult the redistribution rights below for this dataset provided on Data and Maps. As used herein, “Geodata” shall mean any digital dataset consisting of geographic data coordinates and associated attributes.
+<accconst>The data are provided by multiple, third party data vendors under license to Esri for inclusion on ArcGIS Data and Maps for use with ArcGIS software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Consult the redistribution rights below for this dataset provided on Data and Maps. As used herein, "Geodata" shall mean any digital dataset consisting of geographic data coordinates and associated attributes.
 
 The redistribution rights for this dataset: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.
 
@@ -132,10 +132,10 @@ In the event that the data vendor(s) has (have) granted the end user permission 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -145,7 +145,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <complete>After processing, the dataset is checked for drawing display and number of records and file sizes compared with source materials.</complete>
 <posacc>
 <horizpa>
-<horizpar>The positional accuracy varies with the source materials used. The Census Bureau cannot specify the positional accuracy of feature changes added by its field staff through local updates or of features derived from the GBF/DIME-Files or other map or digital sources. Thus, the level of positional accuracy in the TIGER/Line datasets makes them unsuitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth’s surface. The horizontal positional accuracy is unknown.</horizpar>
+<horizpar>The positional accuracy varies with the source materials used. The Census Bureau cannot specify the positional accuracy of feature changes added by its field staff through local updates or of features derived from the GBF/DIME-Files or other map or digital sources. Thus, the level of positional accuracy in the TIGER/Line datasets makes them unsuitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. The horizontal positional accuracy is unknown.</horizpar>
 </horizpa>
 </posacc>
 <lineage>
@@ -165,7 +165,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <pubplace>Washington, DC, USA</pubplace>
 <publish>U.S. Department of Commerce, Census Bureau</publish>
 </pubinfo>
-<othercit>Downloaded the TIGER/Line® geodatabase (tlgdb_2013_a_us_nationgeo.gdb.zip) source from the first online location (National Nation-Level Geography Geodatabase). Downloaded the National 2010 urban area file (ua_list_all.xls) source from the second online location (XLS file under Lists of 2010 Census Urban Areas).</othercit>
+<othercit>Downloaded the TIGER/Line geodatabase (tlgdb_2013_a_us_nationgeo.gdb.zip) source from the first online location (National Nation-Level Geography Geodatabase). Downloaded the National 2010 urban area file (ua_list_all.xls) source from the second online location (XLS file under Lists of 2010 Census Urban Areas).</othercit>
 <onlink>https://www.census.gov/geo/maps-data/data/tiger-geodatabases.html</onlink>
 <onlink>https://www.census.gov/geo/reference/ua/urban-rural-2010.html</onlink>
 </citeinfo>
@@ -350,14 +350,14 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -387,7 +387,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_urban</resdesc></distinfo>
 <metainfo>
@@ -409,7 +409,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

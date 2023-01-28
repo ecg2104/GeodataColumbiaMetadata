@@ -3,13 +3,13 @@
 <idinfo>
 <citation>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Geological Survey (USGS) 1:24,000 Topographic Quadrangle Series Index, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -73,7 +73,7 @@
 <tempkt>None</tempkt>
 <tempkey>2010</tempkey>
 <tempkey>1992</tempkey>
-<tempkey>1905–1987</tempkey>
+<tempkey>1905-1987</tempkey>
 </temporal>
 </keywords>
 <accconst>For current Columbia affiliates only.</accconst>
@@ -95,10 +95,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <datacred>U.S. Geological Survey</datacred>
@@ -109,7 +109,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <complete>After processing, the dataset is checked for drawing display and number of records and file sizes compared with source materials.</complete>
 <posacc>
 <horizpa>
-<horizpar>The geospatial part of this data set was mathematically generated using the ARC/INFO® GRID™ extension. In this manner, the locations of the quadrangles were computed. The positional accuracy for these quadrangles is limited only by the resolution of the data set which is 51 meters.</horizpar>
+<horizpar>The geospatial part of this data set was mathematically generated using the ARC/INFO GRID™ extension. In this manner, the locations of the quadrangles were computed. The positional accuracy for these quadrangles is limited only by the resolution of the data set which is 51 meters.</horizpar>
 </horizpa>
 </posacc>
 <lineage>
@@ -143,7 +143,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srcinfo>
 <srccite>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>19921001</pubdate>
 <title>ArcUSA™ 1:2M</title>
 <edition>1</edition>
@@ -169,17 +169,17 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srccontr>Attribute and geospatial data</srccontr>
 </srcinfo>
 <procstep>
-<procdesc>This data set was generated from several sources: the geospatial part of this data set was mathematically generated using the ARC/INFO® GRID extension. The USGS Topographic Names Database and the Published Map Sheet Data File (T-70) were the two primary digital sources for the attributes. Where these databases were incomplete, various published USGS map indexes were consulted to update the attributes.</procdesc>
+<procdesc>This data set was generated from several sources: the geospatial part of this data set was mathematically generated using the ARC/INFO GRID extension. The USGS Topographic Names Database and the Published Map Sheet Data File (T-70) were the two primary digital sources for the attributes. Where these databases were incomplete, various published USGS map indexes were consulted to update the attributes.</procdesc>
 <procdate>19920101</procdate>
 <srcprod>withheld</srcprod>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Extracted data set from ArcUSA 1:2M. Removed unneeded attributes. Generalized to a tolerance of 4.0 miles. Created ArcGIS® layer file (.lyr). Created projection file (.prj). Ran ArcView® GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+<procdesc>The following steps were performed by Esri: Extracted data set from ArcUSA 1:2M. Removed unneeded attributes. Generalized to a tolerance of 4.0 miles. Created ArcGIS layer file (.lyr). Created projection file (.prj). Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20000824</procdate>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Selected records where the QUAD_NAME field contains 'Squaw'. Used the advanced search functions at https://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do to find each quadrangle and verify if it has an official new name. Edited the QUAD_NAME for five quadrangles. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+<procdesc>The following steps were performed by Esri: Selected records where the QUAD_NAME field contains 'Squaw'. Used the advanced search functions at https://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do to find each quadrangle and verify if it has an official new name. Edited the QUAD_NAME for five quadrangles. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20100216</procdate>
 </procstep>
@@ -408,14 +408,14 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -445,7 +445,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_topoq24</resdesc></distinfo>
 <metainfo>
@@ -467,7 +467,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

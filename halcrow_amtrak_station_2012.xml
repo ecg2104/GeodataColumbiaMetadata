@@ -82,7 +82,7 @@
 	<dataqual>
 		<lineage>
 			<procstep>
-				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It’s developed from 1:100,000 TIGER files, and amended by them.</procdesc>
+				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It's developed from 1:100,000 TIGER files, and amended by them.</procdesc>
 				<procdate>May 1999</procdate>
 			</procstep>
 			<procstep><procdesc>Data reprojected to NAD83 NY-Long Island (feet) to align with new NYC data. Separate file created for Port Authority facilities.</procdesc><procdate>20051107</procdate><proccont><cntinfo><cntorgp><cntorg>CommunityCartography</cntorg></cntorgp></cntinfo></proccont></procstep><procstep><proccont><cntinfo><cntorgp><cntorg>CommunityCartography</cntorg></cntorgp></cntinfo></proccont><procdesc>Several updates: New shapefiles were obtained from New Jersey Transit and reprojected. The original source file was created by NJ Transit in March 2001 by tracing from 1995/97 USGS 1-meter resolution orthophotography.

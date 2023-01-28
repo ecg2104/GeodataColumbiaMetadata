@@ -251,7 +251,7 @@ Peru Economic Census Data, 2017 is a polygon theme representing Districts (3rd l
 </attr>
 <attr>
   <attrlabl>E014</attrlabl>
-  <attrdef>Occupation The Week Prior To The Census By Large Group: Technical Professionals [Profesionales técnicos]</attrdef>
+  <attrdef>Occupation The Week Prior To The Census By Large Group: Technical Professionals [Profesionales tecnicos]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -411,7 +411,7 @@ Peru Economic Census Data, 2017 is a polygon theme representing Districts (3rd l
 </attr>
 <attr>
   <attrlabl>E034</attrlabl>
-  <attrdef>Occupation The Week Prior To The Census By Industry: Professional Scientific And Technical [M. Actividades profesionales, científicas y técnicas]</attrdef>
+  <attrdef>Occupation The Week Prior To The Census By Industry: Professional Scientific And Technical [M. Actividades profesionales, científicas y tecnicas]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>

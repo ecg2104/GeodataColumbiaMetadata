@@ -17,7 +17,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -94,11 +94,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -274,12 +274,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>140.057</transize>
 					<dssize>140.057</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -296,7 +296,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				</digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -355,9 +355,9 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srccontr>Attribute and geospatial data</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Extracted the data set from the subset of DeLorme World Base Map (DWBM). Added field TYPE and calculated its values using the source DFCC code and descriptive look up table. Deleted all fields except NAME1, NAME2, NAME3, and TYPE. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by Esri: Extracted the data set from the subset of DeLorme World Base Map (DWBM). Added field TYPE and calculated its values using the source DFCC code and descriptive look up table. Deleted all fields except NAME1, NAME2, NAME3, and TYPE. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 				<procdate>20110125</procdate>
-				<procsv>ArcGIS® 10, ArcGIS 9</procsv>
+				<procsv>ArcGIS 10, ArcGIS 9</procsv>
 				<srcused>DeLorme World Base Map 2010</srcused>
 			</procstep>
 		</lineage>

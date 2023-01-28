@@ -45,7 +45,7 @@
 <descript>
 <abstract>
 Paraguay Social Census Data, 2002 is a polygon theme representing Manzanas (6th level administrative units) in Paraguay as of 2002.  Attribute data include social variables from the 2002 census.
-Official population and housing data for Paraguay from the 2002 census. This census is provided at the manzana administrative level (ADM6) and includes 56,241 polygons with 782 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sí,murió alguna persona” was updated to D001 and given the alias “Household Death in Previous Year: Yes[Sí,murió alguna persona]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Official population and housing data for Paraguay from the 2002 census. This census is provided at the manzana administrative level (ADM6) and includes 56,241 polygons with 782 attribute variables. Attribute descriptions retain source-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Sí,murió alguna persona" was updated to D001 and given the alias "Household Death in Previous Year: Yes[Sí,murió alguna persona]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 </abstract>
 </descript>
 <citation>
@@ -130,7 +130,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S003</attrlabl>
-    <attrdef>Household Language: Portugese[Portugués]</attrdef>
+    <attrdef>Household Language: Portugese[Portugues]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -146,7 +146,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S005</attrlabl>
-    <attrdef>Household Language: English[Inglés]</attrdef>
+    <attrdef>Household Language: English[Ingles]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -154,7 +154,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S006</attrlabl>
-    <attrdef>Household Language: French[Francés]</attrdef>
+    <attrdef>Household Language: French[Frances]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -162,7 +162,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S007</attrlabl>
-    <attrdef>Household Language: Japanese[Japonés]</attrdef>
+    <attrdef>Household Language: Japanese[Japones]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1058,7 +1058,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S119</attrlabl>
-    <attrdef>Indigenous Group: Angaité[ANGAITE]</attrdef>
+    <attrdef>Indigenous Group: Angaite[ANGAITE]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1314,7 +1314,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S151</attrlabl>
-    <attrdef>Primary Language: Portuguese[Portugués]</attrdef>
+    <attrdef>Primary Language: Portuguese[Portugues]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1330,7 +1330,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S153</attrlabl>
-    <attrdef>Primary Language: English[Inglés]</attrdef>
+    <attrdef>Primary Language: English[Ingles]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1338,7 +1338,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S154</attrlabl>
-    <attrdef>Primary Language: French[Francés]</attrdef>
+    <attrdef>Primary Language: French[Frances]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1346,7 +1346,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S155</attrlabl>
-    <attrdef>Primary Language: Japanese[Japonés]</attrdef>
+    <attrdef>Primary Language: Japanese[Japones]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1530,7 +1530,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S178</attrlabl>
-    <attrdef>Other Language Spoken 1: Portuguese[Portugués]</attrdef>
+    <attrdef>Other Language Spoken 1: Portuguese[Portugues]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1546,7 +1546,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S180</attrlabl>
-    <attrdef>Other Language Spoken 1: English[Inglés]</attrdef>
+    <attrdef>Other Language Spoken 1: English[Ingles]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1554,7 +1554,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S181</attrlabl>
-    <attrdef>Other Language Spoken 1: French[Francés]</attrdef>
+    <attrdef>Other Language Spoken 1: French[Frances]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1562,7 +1562,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S182</attrlabl>
-    <attrdef>Other Language Spoken 1: Japanese[Japonés]</attrdef>
+    <attrdef>Other Language Spoken 1: Japanese[Japones]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1722,7 +1722,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S202</attrlabl>
-    <attrdef>Other Language Spoken 2: English[Inglés]</attrdef>
+    <attrdef>Other Language Spoken 2: English[Ingles]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1730,7 +1730,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S203</attrlabl>
-    <attrdef>Other Language Spoken 2: French[Francés]</attrdef>
+    <attrdef>Other Language Spoken 2: French[Frances]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1738,7 +1738,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
   </attr>
   <attr>
     <attrlabl>S204</attrlabl>
-    <attrdef>Other Language Spoken 2: Japonese[Japonés]</attrdef>
+    <attrdef>Other Language Spoken 2: Japonese[Japones]</attrdef>
     <attrdefs>General Directorate of Statistics, Surveys and Census (DGEEC) Paraguay, 2002 [Dirección General de Estadística, Encuestas y Censos (DGEEC) Paraguay, 2002]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>

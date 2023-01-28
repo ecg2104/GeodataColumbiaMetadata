@@ -101,10 +101,10 @@ This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -265,7 +265,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesetn>Federal Information Processing Standards 5-2</codesetn>
 						<codesets>National Institute of Standards and Technology</codesets>
 					</codesetd>
 				</attrdomv>
@@ -435,13 +435,13 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<digtinfo>
 					<transize>30.991</transize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt/>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -476,7 +476,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 2010.03</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® MultiNet® North America</sername>
+							<sername>Tele Atlas MultiNet North America</sername>
 							<issue>Version 2010.03</issue>
 						</serinfo>
 						<pubinfo>
@@ -505,7 +505,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<title>U.S. Populated Place Areas, 2010</title>
 						<edition>2009 Data Update</edition>
 						<serinfo>
-							<sername>ESRI® Data &amp; Maps</sername>
+							<sername>ESRI Data &amp; Maps</sername>
 							<issue>2009 Data Update - World, Europe, United States, and Mexico</issue>
 						</serinfo>
 						<pubinfo>
@@ -537,7 +537,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 			</srcinfo>
 			<procstep>
 				<procdate>20100513</procdate>
-				<procdesc>The following steps were performed by ESRI: Extracted the Administrative Place data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Clipped the coastline with the Tele Atlas MultiNet North America water data set. Removed all MultiNet fields but APCODE. Attached and formatted the fields from the 2009 Data Update U.S. Populated Place Areas. Removed some records with corrupt APCODE values. Calculated new values for fields POP00_SQMI and SQMI. Removed and rearranged fields to match last release. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Extracted the Administrative Place data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Clipped the coastline with the Tele Atlas MultiNet North America water data set. Removed all MultiNet fields but APCODE. Attached and formatted the fields from the 2009 Data Update U.S. Populated Place Areas. Removed some records with corrupt APCODE values. Calculated new values for fields POP00_SQMI and SQMI. Removed and rearranged fields to match last release. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

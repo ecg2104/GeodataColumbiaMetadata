@@ -4,13 +4,13 @@
 <citation>
 <citeinfo>
 <origin>Michael Bauer Research GmbH</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>20220505</pubdate>
 <title>Europe NUTS 0 Demographics, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -22,7 +22,7 @@
 </citeinfo>
 </citation>
 <descript>
-<abstract>Europe NUTS 0 Demographics and Boundaries represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des Unités Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics.</abstract>
+<abstract>Europe NUTS 0 Demographics and Boundaries represents areas of aggregated socioeconomic and demographic information at the NUTS 0 (country) level for Europe. NUTS (Nomenclature des Unites Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics.</abstract>
 <purpose>Europe NUTS 0 Demographics and Boundaries provides country-level demographic, economic, and boundary information for Europe.</purpose>
 </descript>
 <timeperd>
@@ -82,13 +82,18 @@
 <placekt>None</placekt>
 <placekey>Europe</placekey>
 </place>
+<place>
+  <placekey>United States</placekey>
+  <placekt>Library of Congress Subject Headings</placekt>
+  <placekey>Puerto Rico</placekey>
+</place>
 <temporal>
 <tempkt>None</tempkt>
 <tempkey>2022</tempkey>
 
 </temporal>
 </keywords>
-<accconst>The data are provided by multiple, third party data vendors under license to Esri for inclusion on ArcGIS® Data and Maps for use with ArcGIS® software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Consult the redistribution rights below for this dataset provided on Data and Maps. As used herein, “Geodata” shall mean any digital dataset consisting of geographic data coordinates and associated attributes.
+const>The data are provided by multiple, third party data vendors under license to Esri for inclusion on ArcGIS Data and Maps for use with ArcGIS software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Consult the redistribution rights below for this dataset provided on Data and Maps. As used herein, "Geodata" shall mean any digital dataset consisting of geographic data coordinates and associated attributes.
 
 The redistribution rights for this dataset: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, and so on) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).
 
@@ -133,10 +138,10 @@ In the event that the data vendor(s) has (have) granted the end user permission 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -212,7 +217,7 @@ MBR - Economic and Sociodemographic Data for Europe (tables) and MBR - Digital B
 <srcprod>withheld</srcprod>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Started with the data in the custom package from Michael Bauer Research GmbH. The data included four NUTS shapefiles and an Excel file that contained data for each of the four NUTS shapefiles. Joined each Excel tab to its corresponding NUTS shapefile. Converted each dataset into a file geodatabase (.gdb). For datasets NUTS 1, NUTS 2, and NUTS 3, added and coded the NUTS0 field. Renamed and reordered some fields in each of the four datasets. Added the SQKM field to each of the four datasets and calculated its values projected to Europe Equidistant Conic. Ran Topology Simplify tool to slightly generalize linework and greatly reduce each dataset’s size.</procdesc>
+<procdesc>The following steps were performed by Esri: Started with the data in the custom package from Michael Bauer Research GmbH. The data included four NUTS shapefiles and an Excel file that contained data for each of the four NUTS shapefiles. Joined each Excel tab to its corresponding NUTS shapefile. Converted each dataset into a file geodatabase (.gdb). For datasets NUTS 1, NUTS 2, and NUTS 3, added and coded the NUTS0 field. Renamed and reordered some fields in each of the four datasets. Added the SQKM field to each of the four datasets and calculated its values projected to Europe Equidistant Conic. Ran Topology Simplify tool to slightly generalize linework and greatly reduce each dataset's size.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20220317</procdate>
 </procstep>
@@ -588,14 +593,14 @@ MBR - Economic and Sociodemographic Data for Europe (tables) and MBR - Digital B
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -625,7 +630,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_eu_nuts0</resdesc>
 </distinfo>

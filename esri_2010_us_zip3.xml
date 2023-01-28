@@ -98,10 +98,10 @@ This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -176,10 +176,10 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 			<attr>
 				<attrlabl>ZIP3</attrlabl>
 				<attrdef>The three-digit number used by the postal service to identify an area serviced by a sectional center facility or mail processing facility.</attrdef>
-				<attrdefs>United States Postal Service®</attrdefs>
+				<attrdefs>United States Postal Service</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>USPS National 5-Digit ZIP Code® and Post Office Directory</codesetn>
+						<codesetn>USPS National 5-Digit ZIP Code and Post Office Directory</codesetn>
 						<codesets>United States Postal Service</codesets>
 					</codesetd>
 				</attrdomv>
@@ -262,7 +262,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<digtopt/>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -297,7 +297,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 2010.03</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® MultiNet® Post</sername>
+							<sername>Tele Atlas MultiNet Post</sername>
 							<issue>Version 2010.03</issue>
 						</serinfo>
 						<pubinfo>
@@ -307,7 +307,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<onlink>http://www.teleatlas.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -328,7 +328,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 17.1</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® Dynamap® ZIP Code Boundary &amp; Inventory Files</sername>
+							<sername>Tele Atlas Dynamap ZIP Code Boundary &amp; Inventory Files</sername>
 							<issue>Version 17.1</issue>
 						</serinfo>
 						<pubinfo>
@@ -339,7 +339,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<othercit>Provides the STATE attribute.</othercit>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -360,7 +360,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>2010</edition>
 						<geoform>tabular digital data</geoform>
 						<serinfo>
-							<sername>ESRI® Data - Updated Demographics</sername>
+							<sername>ESRI Data - Updated Demographics</sername>
 							<issue>2010</issue>
 						</serinfo>
 						<pubinfo>
@@ -381,7 +381,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 					</timeinfo>
 					<srccurr>publication date</srccurr>
 				</srctime>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 			</srcinfo>
 			<srcinfo>
 				<srccite>
@@ -395,7 +395,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<pubdate>20090701</pubdate>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>ESRI® Business Analyst™ Desktop 9.3.1</sername>
+							<sername>ESRI Business Analyst™ Desktop 9.3.1</sername>
 							<issue>2009</issue>
 						</serinfo>
 						<edition>2009</edition>
@@ -413,11 +413,11 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				</srctime>
 				<srccitea>ESRI Business Analyst Desktop 9.3.1 - U.S. ZIP Code Areas</srccitea>
 				<srccontr>Attribute data</srccontr>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 			</srcinfo>
 			<procstep>
 				<procdate>20100521</procdate>
-				<procdesc>The following steps were performed by ESRI: Copied Edition 10 U.S. ZIP Code Areas (Five-Digit) and renamed it. Added the ZIP3 field and summarized on the first three digits in the ZIP Code. Summarized the STATE, SUMBLKPOP, POP2010, and SQMI fields. Recalculated the POP10_SQMI field. Reformatted the fields. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Copied Edition 10 U.S. ZIP Code Areas (Five-Digit) and renamed it. Added the ZIP3 field and summarized on the first three digits in the ZIP Code. Summarized the STATE, SUMBLKPOP, POP2010, and SQMI fields. Recalculated the POP10_SQMI field. Reformatted the fields. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

@@ -95,7 +95,7 @@
 				<srccitea>MapInfo files from the New Jersey Port Authority</srccitea>
 			</srcinfo>
 			<procstep>
-				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It’s developed from 1:100,000 TIGER files, and amended by them.</procdesc>
+				<procdesc>Original vector data obtained from New Jersey Transit in May 1999. It's developed from 1:100,000 TIGER files, and amended by them.</procdesc>
 				<srcused>MapInfo files from the New Jersey Port Authority</srcused>
 				<procdate>May 1999</procdate>
 			</procstep>

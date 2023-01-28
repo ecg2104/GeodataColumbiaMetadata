@@ -3,13 +3,13 @@
 <idinfo>
 <citation>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Rivers and Streams, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -104,10 +104,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -125,7 +125,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srccite>
 <citeinfo>
 <origin>Defense Mapping Agency, presently known as National Imagery and Mapping Agency</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>19920101</pubdate>
 <title>Digital Chart of the World</title>
 <edition>1</edition>
@@ -150,7 +150,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srcinfo>
 <srccite>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>19920801</pubdate>
 <title>ArcWorld™ 1:3M</title>
 <edition>1</edition>
@@ -177,9 +177,9 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srcinfo>
 <srccite>
 <citeinfo>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>20090601</pubdate>
-<title>ArcGIS Resource Centers ArcGIS® Online services - USA Prime Imagery</title>
+<title>ArcGIS Resource Centers ArcGIS Online services - USA Prime Imagery</title>
 <geoform>raster digital data</geoform>
 <pubinfo>
 <pubplace>Redlands, California, USA</pubplace>
@@ -260,7 +260,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <srccontr>Attribute data</srccontr>
 </srcinfo>
 <procstep>
-<procdesc>The following steps were performed by Esri: Extracted and generalized the features from ArcWorld 1:3M. Added Name and System attribute values from the Rand McNally New International Atlas, the Times Atlas of the World, and the Digital Chart of the World. Converted to North American Datum of 1983 (NAD 1983) by splitting the United States into-if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands-and the 48 contiguous states (including District of Columbia); converting each to NAD 1983; then merging them together. Created ArcGIS® layer file (.lyr). Created projection file (.prj). Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+<procdesc>The following steps were performed by Esri: Extracted and generalized the features from ArcWorld 1:3M. Added Name and System attribute values from the Rand McNally New International Atlas, the Times Atlas of the World, and the Digital Chart of the World. Converted to North American Datum of 1983 (NAD 1983) by splitting the United States into-if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands-and the 48 contiguous states (including District of Columbia); converting each to NAD 1983; then merging them together. Created ArcGIS layer file (.lyr). Created projection file (.prj). Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
 <srcused>withheld</srcused>
 <srcused>withheld</srcused>
 <srcused>withheld</srcused>
@@ -276,7 +276,7 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 <procdate>20050303</procdate>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Edited the incorrect geometry of Yellowstone River. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+<procdesc>The following steps were performed by Esri: Edited the incorrect geometry of Yellowstone River. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20090806</procdate>
 </procstep>
@@ -372,14 +372,14 @@ Outside the United States– Direct all inquiries regarding software/data pricin
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -409,7 +409,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_rivers</resdesc></distinfo>
 <metainfo>
@@ -431,7 +431,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

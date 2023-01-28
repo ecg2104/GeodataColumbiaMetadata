@@ -17,7 +17,7 @@ This dataset includes two ESRI layer files symbolizing airport size and congesti
 				<geoform>vector digital data</geoform>
 				<edition>10</edition>
 				<serinfo>
-					<sername>ESRI® Data &amp; Maps</sername>
+					<sername>ESRI Data &amp; Maps</sername>
 					<issue>10 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -97,10 +97,10 @@ This dataset includes two ESRI layer files symbolizing airport size and congesti
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -550,7 +550,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 2010.03</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® MultiNet® North America</sername>
+							<sername>Tele Atlas MultiNet North America</sername>
 							<issue>Version 2010.03</issue>
 						</serinfo>
 						<pubinfo>
@@ -560,7 +560,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<onlink>http://www.teleatlas.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -584,11 +584,11 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 							<pubplace>Washington, DC</pubplace>
 							<publish>Bureau of Transportation Statistics</publish>
 						</pubinfo>
-						<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD–ROM.</othercit>
+						<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD-ROM.</othercit>
 						<onlink>http://www.bts.gov/gis/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -628,7 +628,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 			</srcinfo>
 			<procstep>
 				<procdate>20100426</procdate>
-				<procdesc>The following steps were performed by ESRI: Extracted the Land Use data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Selected the airport ground and runway features. Removed all fields except FEATTYP, NAME, and ACRON. Renamed field FEATTYP to MNFC. Renamed field ACRON to LOC_ID. Attached and formatted the fields from 2009 Data Update U.S. Airports (source dates - 1991, 1992, and 1994). Put a "-999" value into all records that did not find a match for the field ELEVATION. Put a "0" value into all records that did not find a match for the fields LRGCERTENP, COMM_ENP, AIRTAXIENP, FOREIGNENP and INTRANENP. Added field FEATTYPE and copied its values from MultiNet FEATTYP descriptions. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Extracted the Land Use data sets from Tele Atlas MultiNet North America v. 2010.03 and merged them into a nationwide data set. Selected the airport ground and runway features. Removed all fields except FEATTYP, NAME, and ACRON. Renamed field FEATTYP to MNFC. Renamed field ACRON to LOC_ID. Attached and formatted the fields from 2009 Data Update U.S. Airports (source dates - 1991, 1992, and 1994). Put a "-999" value into all records that did not find a match for the field ELEVATION. Put a "0" value into all records that did not find a match for the fields LRGCERTENP, COMM_ENP, AIRTAXIENP, FOREIGNENP and INTRANENP. Added field FEATTYPE and copied its values from MultiNet FEATTYP descriptions. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

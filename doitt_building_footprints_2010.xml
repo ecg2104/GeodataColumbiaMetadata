@@ -55,9 +55,9 @@ Special care should be applied to ensure sheds are not to be confused with garag
 
  
 
-Use Parcel layer to place garages within parcel or at parcel boundary – check for special cases where parcel boundary clearly crosses garage.  In these cases, either split the garage using physical features, or use the property line where there is no distinguishing physical feature.
+Use Parcel layer to place garages within parcel or at parcel boundary - check for special cases where parcel boundary clearly crosses garage.  In these cases, either split the garage using physical features, or use the property line where there is no distinguishing physical feature.
 
-Do NOT collect small tool or storage sheds in backyards which have no visible car access.  In cases where there is no BIN for the garage, a “dummy” BIN (1000000, 2000000, etc. for each of the Boroughs, see LION manuals pdf) will be populated.</supplinf>
+Do NOT collect small tool or storage sheds in backyards which have no visible car access.  In cases where there is no BIN for the garage, a "dummy" BIN (1000000, 2000000, etc. for each of the Boroughs, see LION manuals pdf) will be populated.</supplinf>
 </descript>
 <timeperd>
 <timeinfo>
@@ -182,9 +182,9 @@ Special care should be applied to ensure sheds are not to be confused with garag
 
  
 
-Use Parcel layer to place garages within parcel or at parcel boundary – check for special cases where parcel boundary clearly crosses garage.  In these cases, either split the garage using physical features, or use the property line where there is no distinguishing physical feature.
+Use Parcel layer to place garages within parcel or at parcel boundary - check for special cases where parcel boundary clearly crosses garage.  In these cases, either split the garage using physical features, or use the property line where there is no distinguishing physical feature.
 
-Do NOT collect small tool or storage sheds in backyards which have no visible car access.  In cases where there is no BIN for the garage, a “dummy” BIN (1000000, 2000000, etc. for each of the Boroughs, see LION manuals pdf) will be populated.
+Do NOT collect small tool or storage sheds in backyards which have no visible car access.  In cases where there is no BIN for the garage, a "dummy" BIN (1000000, 2000000, etc. for each of the Boroughs, see LION manuals pdf) will be populated.
 
 </logic>
 </dataqual>

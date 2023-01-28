@@ -25,14 +25,14 @@
 					<pubplace>Redlands, California, USA</pubplace>
 					<publish>Esri</publish>
 				</pubinfo>
-				<origin>Esri</origin>
+				<origin>ESRI</origin>
 				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_us_fedlandl.zip</onlink></citeinfo>
 		</citation>
 		<timeperd>
 			<current>ground condition</current>
 			<timeinfo>
 				<sngdate>
-					<caldate>1972–2001</caldate>
+					<caldate>1972-2001</caldate>
 				</sngdate>
 			</timeinfo>
 		</timeperd>
@@ -72,7 +72,7 @@
 			</place>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>1972–2001</tempkey>
+				<tempkey>1972-2001</tempkey>
 			</temporal>
 			<theme><themekey>planningCadastre</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey> inlandWaters</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
@@ -96,11 +96,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -318,12 +318,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>0.098</transize>
 					<dssize>0.098</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -333,7 +333,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -380,7 +380,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srctime>
 					<timeinfo>
 						<sngdate>
-							<caldate>1972–2001</caldate>
+							<caldate>1972-2001</caldate>
 						</sngdate>
 					</timeinfo>
 					<srccurr>ground condition</srccurr>
@@ -389,19 +389,19 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srccontr>Attribute and geospatial data</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>This file was originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America®' published by the USGS in 1970. The sectional maps were updated during 1978-1981 and digitized in the early 1980's. The data were updated in 1995 using 1:1,000,000-scale and 1:2,000,000-scale Bureau of Land Management State base maps. These data were published on CD-ROM in 1995. Using ARC/INFO® software, the DLG optional format files were converted to ARC/INFO® coverages using the DLGARC command. Only linear federal land features and attribute information were extracted for inclusion. The individual State coverages were then merged together using the ARC/INFO® command APPEND. The resulting data set was ATLAS-FEDL (Federal Land Features of the U.S. (linear)).
+				<procdesc>This file was originally digitized by the National Mapping Division based on the sectional maps contained in 'The National Atlas of the United States of America' published by the USGS in 1970. The sectional maps were updated during 1978-1981 and digitized in the early 1980's. The data were updated in 1995 using 1:1,000,000-scale and 1:2,000,000-scale Bureau of Land Management State base maps. These data were published on CD-ROM in 1995. Using ARC/INFO software, the DLG optional format files were converted to ARC/INFO coverages using the DLGARC command. Only linear federal land features and attribute information were extracted for inclusion. The individual State coverages were then merged together using the ARC/INFO command APPEND. The resulting data set was ATLAS-FEDL (Federal Land Features of the U.S. (linear)).
 
 Using ATLAS-FEDL the spatial and attribute data were updated using the Wild and Scenic Rivers website. The spatial data was aligned with ATLAS-HY (Hydrography Features of the U.S.) and ATLAS-RD (Major roads and trails of the U.S.).
 
 Sudbury, Assabet, and Concord Wild and Scenic Rivers, MA were added using Linear Federal Land Features of the United States 1999, Wild and Scenic Rivers website, and ATLAS-HY (Hydrography Features of the U.S.) in 2000. The resulting data set was Federal Land Features of the United States - Parkways and Scenic Rivers 2000.
 
 Wilson Creek Wild and Scenic River, NC was added and Baltimore-Washington Parkway, MD and Suitland Parkway, MD were added using Federal Land Features of the United States - Parkways and Scenic Rivers 2000, Wild and Scenic Rivers website, National Park Guide website, USGS Geographic Data website, ATLAS-HY (Hydrography Features of the U.S.), ATLAS-RD (Major roads and trails of the U.S.) in 2001.</procdesc>
-				<procsv>ARC/INFO®, ArcView GIS 3</procsv>
+				<procsv>ARC/INFO, ArcView GIS 3</procsv>
 				<srcprod>National Atlas</srcprod>
 				<procdate>2001</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Downloaded the ArcView GIS Shapefile compressed file, fedlanl020.tar.gz, from the National Atlas of the United States® and extracted it. Removed unneeded attributes. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+				<procdesc>The following steps were performed by Esri: Downloaded the ArcView GIS Shapefile compressed file, fedlanl020.tar.gz, from the National Atlas of the United States and extracted it. Removed unneeded attributes. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
 				<procsv>ArcView GIS 3, ArcGIS 8</procsv>
 				<srcused>National Atlas</srcused>
 				<procdate>20021017</procdate>
@@ -411,7 +411,7 @@ Wilson Creek Wild and Scenic River, NC was added and Baltimore-Washington Parkwa
 				<procsv>ArcView GIS 3, ArcGIS 9</procsv>
 				<procdate>20040308</procdate>
 			</procstep>
-			<procstep><procdesc>The following steps were performed by Esri: Reduced the number of features by dissolving on the NAME and FEATURE attributes. Recalculated the values for the MILES attribute during the dissolve.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9</procsv><procdate>20050318</procdate></procstep></lineage>
+			<procstep><procdesc>The following steps were performed by Esri: Reduced the number of features by dissolving on the NAME and FEATURE attributes. Recalculated the values for the MILES attribute during the dissolve.</procdesc><procsv>ArcView GIS 3, ArcGIS 9</procsv><procdate>20050318</procdate></procstep></lineage>
 		<posacc>
 			<horizpa>
 				<horizpar>The geospatial part of this data set was originally extracted from the individual 1:2,000,000-scale State boundary Digital Line Graph (DLG) files produced by the U.S. Geological Survey which have a positional accuracy of 1,720 meters.  It was updated several times using various sources whose horizontal positional accuracies are unknown.</horizpar>

@@ -17,7 +17,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -29,14 +29,14 @@
 				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_us_cd111.zip</onlink></citeinfo>
 		</citation>
 		<timeperd>
-			<current>ground condition: 200901–201101; publication date: 200901–200905, 20010508, 20100810, 20100504</current>
+			<current>ground condition: 200901-201101; publication date: 200901-200905, 20010508, 20100810, 20100504</current>
 			<timeinfo>
 				<mdattim>
 					<sngdate>
-						<caldate>200901–201101</caldate>
+						<caldate>200901-201101</caldate>
 					</sngdate>
 					<sngdate>
-						<caldate>200901–200905</caldate>
+						<caldate>200901-200905</caldate>
 					</sngdate>
 					<sngdate>
 						<caldate>20010508</caldate>
@@ -82,7 +82,7 @@
 			</place>
 			<temporal>
 				<tempkt>None</tempkt>
-				<tempkey>2009–2011</tempkey>
+				<tempkey>2009-2011</tempkey>
 				<tempkey>2009</tempkey>
 				<tempkey>2001</tempkey>
 				<tempkey>2010</tempkey>
@@ -109,11 +109,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -300,7 +300,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesetn>Federal Information Processing Standards 5-2</codesetn>
 						<codesets>National Institute of Standards and Technology</codesets>
 					</codesetd>
 				</attrdomv>
@@ -342,12 +342,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>16.515</transize>
 					<dssize>16.515</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -357,7 +357,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -390,17 +390,17 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<origin>U.S. Census Bureau, Geography Division</origin>
 						<title>2009 TIGER/Line Shapefiles; Census 2000: State and State Equivalent Areas, 2012</title>
 						<serinfo>
-							<sername>TIGER/Line® Shapefiles; Census State and State Equivalent Areas</sername>
+							<sername>TIGER/Line Shapefiles; Census State and State Equivalent Areas</sername>
 							<issue>2009; 2000</issue>
 						</serinfo>
 						<pubinfo>
 							<pubplace>online</pubplace>
 							<publish>U.S. Census Bureau, Geography Division</publish>
 						</pubinfo>
-						<pubdate>200901–200905; 20010508</pubdate>
+						<pubdate>200901-200905; 20010508</pubdate>
 						<edition>2009; 2000</edition>
 						<geoform>vector digital data</geoform>
-						<othercit>The TIGER/Line Shapefiles are an extract of selected geographic and cartographic information from the Census MAF/TIGER® database. The Census MAF/TIGER database represents a seamless national file with no overlaps or gaps between parts.</othercit>
+						<othercit>The TIGER/Line Shapefiles are an extract of selected geographic and cartographic information from the Census MAF/TIGER database. The Census MAF/TIGER database represents a seamless national file with no overlaps or gaps between parts.</othercit>
 						<onlink>http://www2.census.gov/cgi-bin/shapefiles2009/national-files</onlink>
 						<onlink>http://www.census.gov/geo/www/cob/st2000.html</onlink>
 					</citeinfo>
@@ -412,7 +412,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 					<timeinfo>
 						<mdattim>
 							<sngdate>
-								<caldate>200901–200905</caldate>
+								<caldate>200901-200905</caldate>
 							</sngdate>
 							<sngdate>
 								<caldate>20010508</caldate>
@@ -452,12 +452,12 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srccite>
 					<citeinfo>
 						<title>Esri Data - Updated Demographics, 2012</title>
-						<origin>Esri</origin>
+						<origin>ESRI</origin>
 						<pubdate>20100504</pubdate>
 						<edition>2010</edition>
 						<geoform>tabular digital data</geoform>
 						<serinfo>
-							<sername>Esri® Data - Updated Demographics</sername>
+							<sername>Esri Data - Updated Demographics</sername>
 							<issue>2010</issue>
 						</serinfo>
 						<pubinfo>
@@ -478,12 +478,12 @@ Outside the United States, please direct all inquiries to your local Esri Office
 					</timeinfo>
 					<srccurr>publication date</srccurr>
 				</srctime>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 			</srcinfo>
-			<procstep><srcused>U.S. Census Bureau, Geography Division</srcused><procdesc>The following steps were performed by Esri: Downloaded the individual state shapefiles from http://www2.census.gov/cgi-bin/shapefiles2009/national-files and merged them into a nationwide file. Downloaded the Census State and State Equivalent Areas from http://www.census.gov/geo/www/cob/st2000.html. Repositioned Hawaii in the Census State and State Equivalent Areas data set to better fit its coastline. Erased the buffered coastline of the 2009 TIGER/Line Shapefiles with the Census State and State Equivalent Areas data set. Manually edited sliver polygons created during the erase. Deleted the Aleutian Islands west of the 180th meridian. Downloaded the most current official list of members from http://clerk.house.gov/member_info/olm_111.pdf and added and calculated fields NAME and PARTY. Added and calculated fields DISTRICTID, STFIPS, and STATE_ABBR from the Census source data sets. Added POP2010 from 2010 Esri Data - Updated Demographics. Added field SQMI and calculated its values. Converted the data set to SDC. Created projection file (.prj) and spatial indices.</procdesc><procsv>ArcGIS® 10, ArcGIS® 9, ArcView® GIS 3</procsv><srcused>http://clerk.house.gov/</srcused><procdate>20100915</procdate><srcused>Esri Data - Updated Demographics</srcused></procstep></lineage>
+			<procstep><srcused>U.S. Census Bureau, Geography Division</srcused><procdesc>The following steps were performed by Esri: Downloaded the individual state shapefiles from http://www2.census.gov/cgi-bin/shapefiles2009/national-files and merged them into a nationwide file. Downloaded the Census State and State Equivalent Areas from http://www.census.gov/geo/www/cob/st2000.html. Repositioned Hawaii in the Census State and State Equivalent Areas data set to better fit its coastline. Erased the buffered coastline of the 2009 TIGER/Line Shapefiles with the Census State and State Equivalent Areas data set. Manually edited sliver polygons created during the erase. Deleted the Aleutian Islands west of the 180th meridian. Downloaded the most current official list of members from http://clerk.house.gov/member_info/olm_111.pdf and added and calculated fields NAME and PARTY. Added and calculated fields DISTRICTID, STFIPS, and STATE_ABBR from the Census source data sets. Added POP2010 from 2010 Esri Data - Updated Demographics. Added field SQMI and calculated its values. Converted the data set to SDC. Created projection file (.prj) and spatial indices.</procdesc><procsv>ArcGIS 10, ArcGIS 9, ArcView GIS 3</procsv><srcused>http://clerk.house.gov/</srcused><procdate>20100915</procdate><srcused>Esri Data - Updated Demographics</srcused></procstep></lineage>
 		<posacc>
 			<horizpa>
-				<horizpar>Coordinates in the TIGER/Line® shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy is unknown.</horizpar>
+				<horizpar>Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. The positional accuracy is unknown.</horizpar>
 			</horizpa>
 		</posacc>
 		<logic>The shapefile is converted to SDC (Smart Data Compression) format using tools in ArcGIS.  The SDC data set is then imported into a file geodatabase to verify, validate, and if needed repair the geometry.

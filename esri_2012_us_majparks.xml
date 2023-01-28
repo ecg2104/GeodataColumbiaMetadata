@@ -18,7 +18,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -101,11 +101,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -257,12 +257,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>4.566</transize>
 					<dssize>4.566</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -272,7 +272,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -311,7 +311,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<pubdate>Unknown</pubdate>
 					</citeinfo>
 				</srccite>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -324,7 +324,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srccontr>Attribute and geospatial data</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Extracted the National Parks from the National Park Service, the National Forests from Esri ArcUSA 1:2M and the rest of the parks from TomTom North America, Inc. Dynamap/2000 v7.3. Converted to North American Datum of 1983 (NAD83).  Created ArcGIS® layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+				<procdesc>The following steps were performed by Esri: Extracted the National Parks from the National Park Service, the National Forests from Esri ArcUSA 1:2M and the rest of the parks from TomTom North America, Inc. Dynamap/2000 v7.3. Converted to North American Datum of 1983 (NAD83).  Created ArcGIS layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
 				<procsv>ArcView GIS 3.x</procsv>
 				<srcused>NPS</srcused>
 				<procdate>20000727</procdate>
@@ -346,7 +346,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 					</citeinfo>
 				</srccite>
 				<srcscale>2000000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -360,7 +360,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 			</srcinfo>
 			<srcinfo>
 				<srcscale>100000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srccitea>TomTom Dynamap/2000 v7.3</srccitea>
 				<srccontr>Attribute and geospatial data</srccontr>
 				<srccite>
@@ -371,7 +371,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<edition>Version 7.3</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>TomTom® Dynamap®/2000</sername>
+							<sername>TomTom Dynamap/2000</sername>
 							<issue>v7.3</issue>
 						</serinfo>
 						<pubinfo>
@@ -391,10 +391,10 @@ Outside the United States, please direct all inquiries to your local Esri Office
 			</srcinfo>
 			<procstep>
 				<procdesc>The following steps were performed by Esri: Added SQMI attribute and calculated its values.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS® 9</procsv>
+				<procsv>ArcView GIS 3, ArcGIS 9</procsv>
 				<procdate>20040308</procdate>
 			</procstep>
-			<procstep><procdesc>The following steps were performed by Esri: Selected all National Forest features and calculated their FCC attribute values to 'D84'. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procdate>20090501</procdate><procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv></procstep></lineage>
+			<procstep><procdesc>The following steps were performed by Esri: Selected all National Forest features and calculated their FCC attribute values to 'D84'. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procdate>20090501</procdate><procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv></procstep></lineage>
 		<posacc>
 			<horizpa>
 				<horizpar>The geospatial part of this data set was extracted from several sources at different scales.  The positional accuracy is unknown.</horizpar>

@@ -43,7 +43,7 @@
 		</spdom>
 		<descript>
 			<abstract>
-Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ecuador with official population and housing data for the Ecuador from the 2001 census. This census is provided at the sector administrative level (ADM6) and includes 32,115 polygons with 1,084 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Person edad: F0” was updated to D001 and given the alias “Age In Years: 0 [F0]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). Four base tables could not be identified and were retained as. Where possible, all variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ecuador with official population and housing data for the Ecuador from the 2001 census. This census is provided at the sector administrative level (ADM6) and includes 32,115 polygons with 1,084 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Person edad: F0" was updated to D001 and given the alias "Age In Years: 0 [F0]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). Four base tables could not be identified and were retained as. Where possible, all variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 </abstract>
 		</descript>
 		<citation>
@@ -418,7 +418,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S033</attrlabl>
-			<attrdef>Ethnicity: Total Population[Pertenencia Étnica: Población Total]</attrdef>
+			<attrdef>Ethnicity: Total Population[Pertenencia etnica: Población Total]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -426,7 +426,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S034</attrlabl>
-			<attrdef>Ethnicity: Indigenous Group[Pertenencia Étnica: Indígena]</attrdef>
+			<attrdef>Ethnicity: Indigenous Group[Pertenencia etnica: Indígena]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -434,7 +434,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S035</attrlabl>
-			<attrdef>Ethnicity: Non Indigenous Ethnic Group[Pertenencia Étnica: No Indígena]</attrdef>
+			<attrdef>Ethnicity: Non Indigenous Ethnic Group[Pertenencia etnica: No Indígena]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -442,7 +442,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S036</attrlabl>
-			<attrdef>Ethnicity: Maya[Pertenencia Étnica: Maya]</attrdef>
+			<attrdef>Ethnicity: Maya[Pertenencia etnica: Maya]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -450,7 +450,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S037</attrlabl>
-			<attrdef>Ethnicity: Xinka[Pertenencia Étnica: Xinka]</attrdef>
+			<attrdef>Ethnicity: Xinka[Pertenencia etnica: Xinka]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -458,7 +458,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S038</attrlabl>
-			<attrdef>Ethnicity: Garifuna[Pertenencia Étnica: Garífuna]</attrdef>
+			<attrdef>Ethnicity: Garifuna[Pertenencia etnica: Garífuna]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -466,7 +466,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S039</attrlabl>
-			<attrdef>Ethnicity: Ladino[Pertenencia Étnica: Ladina]</attrdef>
+			<attrdef>Ethnicity: Ladino[Pertenencia etnica: Ladina]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>
@@ -474,7 +474,7 @@ Guatemala Social Census Data, 2014 is a polygon theme representing sectors in Ec
 		</attr>
 		<attr>
 			<attrlabl>S040</attrlabl>
-			<attrdef>Ethnicity: Other[Pertenencia Étnica: Otra]</attrdef>
+			<attrdef>Ethnicity: Other[Pertenencia etnica: Otra]</attrdef>
 			<attrdefs>Institute of National Statistics (INE), 2014 [Instituto Nacional de Estadistica Guatemala (INE), 2014]</attrdefs>
 			<attrdomv>
 				<udom>Frequency of response in the census sector</udom>

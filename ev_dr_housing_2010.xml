@@ -45,7 +45,7 @@
 <abstract>
 Dominican Republic Housing Census Data, 2010 is a polygon theme representing Barrios (5th level administrative units) in the Dominican Republic as of 2010. Attribute information includes housing variables from the 2010 Census.
 
-Official population and housing data for the Dominican Republic from the 2010 census. This census is provided at the barrio administrative level (ADM5) and includes 12,565 polygons with 756 attribute variables. Attribute descriptions retain Source-language names and unique identifier codes. All variable names were translated from Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “H23_Si” was updated to D001 and given the alias “There is a newborn girl or boy that has not been previously mentioned: Yes[H23_Si]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Official population and housing data for the Dominican Republic from the 2010 census. This census is provided at the barrio administrative level (ADM5) and includes 12,565 polygons with 756 attribute variables. Attribute descriptions retain Source-language names and unique identifier codes. All variable names were translated from Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "H23_Si" was updated to D001 and given the alias "There is a newborn girl or boy that has not been previously mentioned: Yes[H23_Si]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 
  </abstract>
 </descript>
@@ -1076,7 +1076,7 @@ Official population and housing data for the Dominican Republic from the 2010 ce
     </attr>
     <attr>
       <attrlabl>H120</attrlabl>
-      <attrdef>Type of Lighting: Electric energy for the public tended[H17_Energíaeléctricadeltendidopúblico]</attrdef>
+      <attrdef>Type of Lighting: Electric energy for the public tended[H17_Energíaelectricadeltendidopúblico]</attrdef>
       <attrdefs>National Statistics Office (ONE) Dominican Republic, 2010 [Oficina Nacional de Estadística (ONE) República Dominicana, 2010]</attrdefs>
       <attrdomv>
         <udom>Frequency of response in the census sector</udom>
@@ -1100,7 +1100,7 @@ Official population and housing data for the Dominican Republic from the 2010 ce
     </attr>
     <attr>
       <attrlabl>H123</attrlabl>
-      <attrdef>Type of Lighting: Electric energy from the own power plant[H17_Energíaeléctricadeplantapropia]</attrdef>
+      <attrdef>Type of Lighting: Electric energy from the own power plant[H17_Energíaelectricadeplantapropia]</attrdef>
       <attrdefs>National Statistics Office (ONE) Dominican Republic, 2010 [Oficina Nacional de Estadística (ONE) República Dominicana, 2010]</attrdefs>
       <attrdomv>
         <udom>Frequency of response in the census sector</udom>
@@ -1636,7 +1636,7 @@ Official population and housing data for the Dominican Republic from the 2010 ce
     </attr>
     <attr>
       <attrlabl>H190</attrlabl>
-      <attrdef>Type of Housing: Pension/Guest house/Hotel[V01_Pensión_casadehuéspedes_hotel]</attrdef>
+      <attrdef>Type of Housing: Pension/Guest house/Hotel[V01_Pensión_casadehuespedes_hotel]</attrdef>
       <attrdefs>National Statistics Office (ONE) Dominican Republic, 2010 [Oficina Nacional de Estadística (ONE) República Dominicana, 2010]</attrdefs>
       <attrdomv>
         <udom>Frequency of response in the census sector</udom>
@@ -4212,7 +4212,7 @@ Official population and housing data for the Dominican Republic from the 2010 ce
     </attr>
     <attr>
       <attrlabl>H512</attrlabl>
-      <attrdef>Relationship with the head of household: Domestic employee[P26_Empleado_a_doméstico_a_]</attrdef>
+      <attrdef>Relationship with the head of household: Domestic employee[P26_Empleado_a_domestico_a_]</attrdef>
       <attrdefs>National Statistics Office (ONE) Dominican Republic, 2010 [Oficina Nacional de Estadística (ONE) República Dominicana, 2010]</attrdefs>
       <attrdomv>
         <udom>Frequency of response in the census sector</udom>

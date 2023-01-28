@@ -109,11 +109,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -221,10 +221,10 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				<attrtype>String</attrtype>
 				<attwidth>3</attwidth>
 				<attrdef>The three-digit number used by the postal service to identify an area serviced by a sectional center facility or a mail processing facility.</attrdef>
-				<attrdefs>United States Postal Service®</attrdefs>
+				<attrdefs>United States Postal Service</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>USPS National 5-Digit ZIP Code® and Post Office Directory</codesetn>
+						<codesetn>USPS National 5-Digit ZIP Code and Post Office Directory</codesetn>
 						<codesets>United States Postal Service</codesets>
 					</codesetd>
 				</attrdomv>
@@ -240,7 +240,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesetn>Federal Information Processing Standards 5-2</codesetn>
 						<codesets>National Institute of Standards and Technology</codesets>
 					</codesetd>
 				</attrdomv>
@@ -295,12 +295,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>45.362</transize>
 					<dssize>45.362</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -317,7 +317,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				</digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -353,7 +353,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<edition>Versions 2011.06, 2011.12 and 2010.03</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>TomTom® MultiNet® North America</sername>
+							<sername>TomTom MultiNet North America</sername>
 							<issue>Versions 2011.06, 2011.12 and 2010.03</issue>
 						</serinfo>
 						<pubinfo>
@@ -363,7 +363,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<onlink>http://www.tomtom.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<mdattim>
@@ -428,7 +428,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<edition>2011</edition>
 						<geoform>tabular digital data</geoform>
 						<serinfo>
-							<sername>Esri® Data</sername>
+							<sername>Esri Data</sername>
 							<issue>2011</issue>
 						</serinfo>
 						<pubinfo>
@@ -448,11 +448,11 @@ Outside the United States, please direct all inquiries to your local Esri Office
 					</timeinfo>
 					<srccurr>publication date</srccurr>
 				</srctime>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 			</srcinfo>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Copied Data &amp; Maps 2012 U.S. ZIP Code Areas (Five-Digit) and renamed it. Added the ZIP3 field and dissolved on the first three digits in the ZIP Code. Summarized the STATE and SQMI fields. Summarized the POP2010 field ignoring any "-99" records. Recalculated the POP10_SQMI field. For ZIP3 values of "000" and "001" calculated STATE = "US". Reformatted the fields. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
-				<procsv>ArcGIS® 10, ArcGIS 9</procsv>
+				<procdesc>The following steps were performed by Esri: Copied Data &amp; Maps 2012 U.S. ZIP Code Areas (Five-Digit) and renamed it. Added the ZIP3 field and dissolved on the first three digits in the ZIP Code. Summarized the STATE and SQMI fields. Summarized the POP2010 field ignoring any "-99" records. Recalculated the POP10_SQMI field. For ZIP3 values of "000" and "001" calculated STATE = "US". Reformatted the fields. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procsv>ArcGIS 10, ArcGIS 9</procsv>
 				<procdate>20120210</procdate>
 				<srcused>TomTom MultiNet Post v. 2011.06 and Administrative Areas v. 2011.12 and v. 2010.03</srcused>
 				<srcused>U.S. Census SF 1</srcused>

@@ -10,7 +10,7 @@
 				<edition>2005</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
-					<sername>ESRI® Data &amp; Maps</sername>
+					<sername>ESRI Data &amp; Maps</sername>
 					<issue>2005</issue>
 				</serinfo>
 				<pubinfo>
@@ -106,7 +106,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.3.0.800</native>
 	</idinfo>
 	<dataqual>
-		<logic>No duplicate features are present. The shapefile is converted to SDC (Smart Data Compression) format in ArcSDE®. This verifies and validates the geometry. The data set is created directly from a topologically correct ArcInfo® coverage.</logic>
+		<logic>No duplicate features are present. The shapefile is converted to SDC (Smart Data Compression) format in ArcSDE. This verifies and validates the geometry. The data set is created directly from a topologically correct ArcInfo coverage.</logic>
 		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
 		<posacc>
 			<horizpa>
@@ -263,14 +263,14 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<srccontr>Attribute data</srccontr>
 			</srcinfo>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Extracted the features from ESRI Data &amp; Maps 1999 data set-cntry98.shp.  Edited the countries to reflect which existed in 1992 based on ESRI Data &amp; Maps 1999 data set-cntry92.shp. Extended political boundaries into the Caspian Sea and removed the shoreline. Created ArcGIS® layer file (.lyr).  Created ArcView GIS legend file (.avl).  Created projection file (.prj).  Created spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Extracted the features from ESRI Data &amp; Maps 1999 data set-cntry98.shp.  Edited the countries to reflect which existed in 1992 based on ESRI Data &amp; Maps 1999 data set-cntry92.shp. Extended political boundaries into the Caspian Sea and removed the shoreline. Created ArcGIS layer file (.lyr).  Created ArcView GIS legend file (.avl).  Created projection file (.prj).  Created spatial indices.</procdesc>
 				<srcused>ArcWorld Supplement</srcused>
 				<srcused>CIA Factbook</srcused>
 				<srcused>Geographic and Global Issues</srcused>
 				<procdate>20010108</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Added attribute COLOR_MAP from World Countries 2002. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Added attribute COLOR_MAP from World Countries 2002. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
 				<procdate>20020920</procdate>
 			</procstep>
 			<procstep>
@@ -413,7 +413,7 @@ Outside the United States, please direct all inquiries to your local ESRI Intern
 				<digtinfo>
 					<formname>SDC</formname>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial and attribute indexes. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<transize>0.812</transize>
 				</digtinfo>
 				<digtopt>
@@ -436,7 +436,7 @@ Outside the United States, please direct all inquiries to your local ESRI Intern
 				</digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 	</distinfo>

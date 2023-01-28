@@ -4,13 +4,13 @@
 <citation>
 <citeinfo>
 <origin>National Atlas of the United States</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States National Atlas Water Feature Lines, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -94,10 +94,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -143,7 +143,7 @@ Horizontal positions are specified in geographic coordinates in decimal degrees.
 <srccontr>Attribute and geospatial data</srccontr>
 </srcinfo>
 <procstep>
-<procdesc>The following steps were performed by Esri: Downloaded the compressed file from the National Atlas of the United States® and extracted it. Removed unneeded fields. Renamed some fields. Combined all fields but MILES and then summarized and dissolved on it to reduce the number of features. Projected the dataset into WGS 1984. Converted the dataset into a file geodatabase.</procdesc>
+<procdesc>The following steps were performed by Esri: Downloaded the compressed file from the National Atlas of the United States and extracted it. Removed unneeded fields. Renamed some fields. Combined all fields but MILES and then summarized and dissolved on it to reduce the number of features. Projected the dataset into WGS 1984. Converted the dataset into a file geodatabase.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20131105</procdate>
 </procstep>
@@ -232,7 +232,7 @@ Horizontal positions are specified in geographic coordinates in decimal degrees.
 <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 <attrdomv>
 <codesetd>
-<codesetn>Federal Information Processing Standards 5–2</codesetn>
+<codesetn>Federal Information Processing Standards 5-2</codesetn>
 <codesets>National Institute of Standards and Technology</codesets>
 </codesetd>
 </attrdomv>
@@ -286,14 +286,14 @@ Horizontal positions are specified in geographic coordinates in decimal degrees.
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -323,7 +323,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_hydroln</resdesc></distinfo>
 <metainfo>
@@ -345,7 +345,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

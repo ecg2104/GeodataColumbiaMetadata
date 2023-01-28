@@ -347,7 +347,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H026</attrlabl>
-  <attrdef>Use Of Dung Or Manure For Cooking: Dung Or Manure Are Not Used [No usa bosta, estiércol]</attrdef>
+  <attrdef>Use Of Dung Or Manure For Cooking: Dung Or Manure Are Not Used [No usa bosta, estiercol]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -355,7 +355,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H027</attrlabl>
-  <attrdef>Use Of Dung Or Manure For Cooking: Dung Or Manure Are Used [Sí usa bosta, estiércol]</attrdef>
+  <attrdef>Use Of Dung Or Manure For Cooking: Dung Or Manure Are Used [Sí usa bosta, estiercol]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -507,7 +507,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H046</attrlabl>
-  <attrdef>Does The Home Have An Electric Blender: Yes [Sí tiene plancha eléctrica]</attrdef>
+  <attrdef>Does The Home Have An Electric Blender: Yes [Sí tiene plancha electrica]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -515,7 +515,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H047</attrlabl>
-  <attrdef>Does The Home Have An Electric Blender: No [No tiene plancha eléctrica]</attrdef>
+  <attrdef>Does The Home Have An Electric Blender: No [No tiene plancha electrica]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -539,7 +539,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H050</attrlabl>
-  <attrdef>Does The Home Have A Cellphone: Yes [Sí tiene teléfono celular]</attrdef>
+  <attrdef>Does The Home Have A Cellphone: Yes [Sí tiene telefono celular]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -547,7 +547,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H051</attrlabl>
-  <attrdef>Does The Home Have A Cellphone: No [No tiene teléfono celular]</attrdef>
+  <attrdef>Does The Home Have A Cellphone: No [No tiene telefono celular]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -555,7 +555,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H052</attrlabl>
-  <attrdef>Does The Home Have A Land Line Phone: Yes [Sí tiene teléfono fijo]</attrdef>
+  <attrdef>Does The Home Have A Land Line Phone: Yes [Sí tiene telefono fijo]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -563,7 +563,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H053</attrlabl>
-  <attrdef>Does The Home Have A Land Line Phone: No [No tiene teléfono fijo]</attrdef>
+  <attrdef>Does The Home Have A Land Line Phone: No [No tiene telefono fijo]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -1443,7 +1443,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H163</attrlabl>
-  <attrdef>Sewage Disposal Service: Septic Tank [Pozo séptico, tanque séptico o biodigestor]</attrdef>
+  <attrdef>Sewage Disposal Service: Septic Tank [Pozo septico, tanque septico o biodigestor]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -1491,7 +1491,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H169</attrlabl>
-  <attrdef>Home Is Connected To Public Network For Lighting: Yes [Sí tiene alumbrado eléctrico]</attrdef>
+  <attrdef>Home Is Connected To Public Network For Lighting: Yes [Sí tiene alumbrado electrico]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>
@@ -1499,7 +1499,7 @@ Peru Housing Census Data, 2017 is a polygon theme representing Districts (3rd le
 </attr>
 <attr>
   <attrlabl>H170</attrlabl>
-  <attrdef>Home Is Connected To Public Network For Lighting: No [No tiene alumbrado eléctrico]</attrdef>
+  <attrdef>Home Is Connected To Public Network For Lighting: No [No tiene alumbrado electrico]</attrdef>
   <attrdefs>National Institute of Statistics and Information (INEI) Peru, 2017 [Instituto Nacional de Estadistica e Informatica (INEI) Peru, 2017]</attrdefs>
   <attrdomv>
     <udom>Frequency of response in the census sector</udom>

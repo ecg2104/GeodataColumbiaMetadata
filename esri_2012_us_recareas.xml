@@ -106,11 +106,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -310,12 +310,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>2.487</transize>
 					<dssize>2.487</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -332,7 +332,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				</digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -368,7 +368,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<edition>Versions 2011.09 and 2010.03</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>TomTom® MultiNet® POI North America; TomTom® MultiNet® North America</sername>
+							<sername>TomTom MultiNet POI North America; TomTom MultiNet North America</sername>
 							<issue>Versions 2011.09 and 2010.03</issue>
 						</serinfo>
 						<pubinfo>
@@ -378,7 +378,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<onlink>http://www.tomtom.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD–ROM</typesrc>
+				<typesrc>DVD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<mdattim>
@@ -397,8 +397,8 @@ Outside the United States, please direct all inquiries to your local Esri Office
 			</srcinfo>
 			<procstep>
 				<srcused>TomTom MultiNet North America v. 2011.09 and v. 2010.03</srcused>
-				<procdesc>The following steps were performed by Esri: Extracted the Points of Interest (POI) data set from TomTom MultiNet POI North America v. 2011.09. Selected features that intersected Data &amp; Maps 10 U.S. Counties to get the U.S. features only. Selected the recreation area features. Renamed MultiNet field FEATTYP to MNFC. Added field FCC and calculated its values based on MultiNet FEATTYP equivalents. Added field FEATTYPE and copied its values from MultiNet FEATTYP descriptions. Added field TEXTLENGTH and calculated its values to the length of the text in the NAME field. Added the STCTYFIPS field and coded it by overlaying on Data &amp; Maps 10 U.S. Counties. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
-				<procsv>ArcGIS® 10, ArcGIS 9</procsv>
+				<procdesc>The following steps were performed by Esri: Extracted the Points of Interest (POI) data set from TomTom MultiNet POI North America v. 2011.09. Selected features that intersected Data &amp; Maps 10 U.S. Counties to get the U.S. features only. Selected the recreation area features. Renamed MultiNet field FEATTYP to MNFC. Added field FCC and calculated its values based on MultiNet FEATTYP equivalents. Added field FEATTYPE and copied its values from MultiNet FEATTYP descriptions. Added field TEXTLENGTH and calculated its values to the length of the text in the NAME field. Added the STCTYFIPS field and coded it by overlaying on Data &amp; Maps 10 U.S. Counties. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procsv>ArcGIS 10, ArcGIS 9</procsv>
 				<procdate>20120120</procdate>
 			</procstep>
 		</lineage>

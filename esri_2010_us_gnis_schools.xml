@@ -97,10 +97,10 @@ This dataset includes an ESRI layer file symbolizing the features.</supplinf>
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -207,7 +207,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 	<distinfo>
 		<stdorder>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -283,7 +283,7 @@ Partnerships - the Geographic Names Project enters into partnerships with State 
 			</procstep>
 			<procstep>
 				<procdate>20100209</procdate>
-				<procdesc>The following steps were performed by ESRI: Downloaded the tabular file from the U.S. Geological Survey web site. Converted the file (containing latitude and longitude coordinates) to a shapefile in ArcMap™. Re-projected Alaska and Hawaii to improve their alignment. Reselected out the nine GNIS data sets based on their class types. Removed features with incorrect coordinates and whose NAME contains the word 'Squaw'. Added the STCTYFIPS fields and populated them using source STATE and COUNTY fields. Adjusted the widths of the NAME fields. Converted the data sets to SDC. Created their ArcGIS® layer files (.lyr), projection files (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Downloaded the tabular file from the U.S. Geological Survey web site. Converted the file (containing latitude and longitude coordinates) to a shapefile in ArcMap™. Re-projected Alaska and Hawaii to improve their alignment. Reselected out the nine GNIS data sets based on their class types. Removed features with incorrect coordinates and whose NAME contains the word 'Squaw'. Added the STCTYFIPS fields and populated them using source STATE and COUNTY fields. Adjusted the widths of the NAME fields. Converted the data sets to SDC. Created their ArcGIS layer files (.lyr), projection files (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

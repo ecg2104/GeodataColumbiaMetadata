@@ -45,7 +45,7 @@
 <descript>
 <abstract>
 Uruguay Housing Census Data, 2011 is a polygon theme representing Census Tracts (3rd level administrative units) in Uruguay as of 2011.  Attribute data include housing variables from the 2011 Uruguayan census.
-Official population and housing data for Uruguay from the 2011 census. This census is provided at the census tract administrative level (ADM3) and includes 4,313 polygons with 730 attribute variables. Attribute descriptions retain Source-language names and unique identifier codes. All variable names were translated from Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sexo: Hombre” was updated to D001 and given the alias “Sex: Man[Sexo: Hombre]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Source language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.
+Official population and housing data for Uruguay from the 2011 census. This census is provided at the census tract administrative level (ADM3) and includes 4,313 polygons with 730 attribute variables. Attribute descriptions retain Source-language names and unique identifier codes. All variable names were translated from Source language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of "Sexo: Hombre" was updated to D001 and given the alias "Sex: Man[Sexo: Hombre]", the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format "English translation field description[Source language field description]". Vector data was analyzed for accuracy and compared with national boundaries.
 
 
 </abstract>
@@ -677,7 +677,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H071</attrlabl>
-    <attrdef>Electric Lighting: Public Utility Or General Network[Principal Medio De Alumbrado Eléctrico: Utilidad Publica O Red General]</attrdef>
+    <attrdef>Electric Lighting: Public Utility Or General Network[Principal Medio De Alumbrado Electrico: Utilidad Publica O Red General]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -685,7 +685,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H072</attrlabl>
-    <attrdef>Electric Lighting: Wind Battery Charger[Principal Medio De Alumbrado Eléctrico: Cargador Eólico De Batería]</attrdef>
+    <attrdef>Electric Lighting: Wind Battery Charger[Principal Medio De Alumbrado Electrico: Cargador Eólico De Batería]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -693,7 +693,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H073</attrlabl>
-    <attrdef>Electric Lighting: Solar Battery Charger[Principal Medio De Alumbrado Eléctrico: Cargador Solar De Bateria]</attrdef>
+    <attrdef>Electric Lighting: Solar Battery Charger[Principal Medio De Alumbrado Electrico: Cargador Solar De Bateria]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -701,7 +701,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H074</attrlabl>
-    <attrdef>Electric Lighting: Own Generator[Principal Medio De Alumbrado Eléctrico: Grupo Electrógeno Propio]</attrdef>
+    <attrdef>Electric Lighting: Own Generator[Principal Medio De Alumbrado Electrico: Grupo Electrógeno Propio]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -709,7 +709,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H075</attrlabl>
-    <attrdef>Electric Lighting: Other Electrical[Principal Medio De Alumbrado Eléctrico: Otro Eléctrico]</attrdef>
+    <attrdef>Electric Lighting: Other Electrical[Principal Medio De Alumbrado Electrico: Otro Electrico]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -717,7 +717,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H076</attrlabl>
-    <attrdef>Electric Lighting: Does Not Have[Principal Medio De Alumbrado Eléctrico: No Tiene]</attrdef>
+    <attrdef>Electric Lighting: Does Not Have[Principal Medio De Alumbrado Electrico: No Tiene]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -725,7 +725,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H077</attrlabl>
-    <attrdef>Electric Lighting: Not Relevant[Principal Medio De Alumbrado Eléctrico: No Relevado]</attrdef>
+    <attrdef>Electric Lighting: Not Relevant[Principal Medio De Alumbrado Electrico: No Relevado]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -933,7 +933,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H103</attrlabl>
-    <attrdef>Waste Water Disposal: Septic, Black Hole[Evacuacion Del Servicio Sanitario: Fosa Séptica, Pozo Negro]</attrdef>
+    <attrdef>Waste Water Disposal: Septic, Black Hole[Evacuacion Del Servicio Sanitario: Fosa Septica, Pozo Negro]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1349,7 +1349,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H155</attrlabl>
-    <attrdef>Landline: Yes[Teléfono Fijo: Si]</attrdef>
+    <attrdef>Landline: Yes[Telefono Fijo: Si]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1357,7 +1357,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H156</attrlabl>
-    <attrdef>Landline: No[Teléfono Fijo: No]</attrdef>
+    <attrdef>Landline: No[Telefono Fijo: No]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1365,7 +1365,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H157</attrlabl>
-    <attrdef>Landline: Not Relevant[Teléfono Fijo: No Relevado]</attrdef>
+    <attrdef>Landline: Not Relevant[Telefono Fijo: No Relevado]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1373,7 +1373,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H158</attrlabl>
-    <attrdef>Cell Phone: Yes[Teléfono Celular: Si]</attrdef>
+    <attrdef>Cell Phone: Yes[Telefono Celular: Si]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1381,7 +1381,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H159</attrlabl>
-    <attrdef>Cell Phone: No[Teléfono Celular: No]</attrdef>
+    <attrdef>Cell Phone: No[Telefono Celular: No]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>
@@ -1389,7 +1389,7 @@ Official population and housing data for Uruguay from the 2011 census. This cens
   </attr>
   <attr>
     <attrlabl>H160</attrlabl>
-    <attrdef>Cell Phone: Not Relevant[Teléfono Celular: No Relevado]</attrdef>
+    <attrdef>Cell Phone: Not Relevant[Telefono Celular: No Relevado]</attrdef>
     <attrdefs>National Institute of Statistics (INE) Uruguay, 2011 [Instituto Nacional de Estadística (INE) Uruguay, 2011]</attrdefs>
     <attrdomv>
       <udom>Frequency of response in the census sector</udom>

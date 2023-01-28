@@ -256,7 +256,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				</digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -315,7 +315,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 			</srcinfo>
 			<procstep>
 				<procdate>20100517</procdate>
-				<procdesc>The following steps were performed by ESRI: Copied ESRI Business Analyst OnLine 2010 - U.S. Core Based Statistical Areas. Removed unneeded fields and renamed others. Added fields TYPE and POP10_SQMI and calculated their values. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Copied ESRI Business Analyst OnLine 2010 - U.S. Core Based Statistical Areas. Removed unneeded fields and renamed others. Added fields TYPE and POP10_SQMI and calculated their values. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>

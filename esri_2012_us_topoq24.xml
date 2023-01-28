@@ -16,7 +16,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -34,7 +34,7 @@
 						<caldate>19921001</caldate>
 					</sngdate>
 					<sngdate>
-						<caldate>1905–1987</caldate>
+						<caldate>1905-1987</caldate>
 					</sngdate>
 					<sngdate><caldate>201002</caldate></sngdate></mdattim>
 			</timeinfo>
@@ -74,7 +74,7 @@
 			<temporal>
 				<tempkey>1992</tempkey>
 				<tempkt>None</tempkt>
-				<tempkey>1905–1987</tempkey>
+				<tempkey>1905-1987</tempkey>
 				<tempkey>2010</tempkey></temporal>
 			<theme><themekey>location</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey> imageryBaseMapsEarthCover</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
@@ -98,11 +98,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -412,12 +412,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>2.168</transize>
 					<dssize>2.168</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -427,7 +427,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -469,7 +469,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<othercit>USGS Topographic Quadrangles dates of publication 1905 through 1987.</othercit>
 					</citeinfo>
 				</srccite>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -483,21 +483,21 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srcscale>2000000</srcscale>
 			</srcinfo>
 			<procstep>
-				<procdesc>This data set was generated from several sources: the geospatial part of this data set was mathematically generated using the ARC/INFO® GRID extension. The USGS Topographic Names Database and the Published Map Sheet Data File (T-70) were the two primary digital sources for the attributes. Where these databases were incomplete, various published USGS map indexes were consulted to update the attributes.</procdesc>
-				<procsv>ARC/INFO®</procsv>
+				<procdesc>This data set was generated from several sources: the geospatial part of this data set was mathematically generated using the ARC/INFO GRID extension. The USGS Topographic Names Database and the Published Map Sheet Data File (T-70) were the two primary digital sources for the attributes. Where these databases were incomplete, various published USGS map indexes were consulted to update the attributes.</procdesc>
+				<procsv>ARC/INFO</procsv>
 				<srcprod>ArcUSA 1:2M</srcprod>
 				<procdate>1992</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Extracted data set from ArcUSA 1:2M. Removed unneeded attributes. Generalized to a tolerance of 4.0 miles. Created ArcGIS® layer file (.lyr). Created projection file (.prj). Ran ArcView® GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
-				<procsv>ArcView® GIS 3.2</procsv>
+				<procdesc>The following steps were performed by Esri: Extracted data set from ArcUSA 1:2M. Removed unneeded attributes. Generalized to a tolerance of 4.0 miles. Created ArcGIS layer file (.lyr). Created projection file (.prj). Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+				<procsv>ArcView GIS 3.2</procsv>
 				<srcused>ArcUSA 1:2M</srcused>
 				<procdate>20000824</procdate>
 			</procstep>
-			<srcinfo><srccite><citeinfo><onlink>http://www.usgs.gov</onlink><onlink>http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do</onlink><origin>United States Geological Survey</origin><title>The USGS Store</title><pubinfo><pubplace>Reston, Virginia, USA</pubplace><publish>United States Geological Survey</publish></pubinfo><othercit>Used the Advanced Search tool in the left column under USGS Store Home on the web page: http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do. Accessed the web page in February 2010.</othercit><pubdate>201002</pubdate></citeinfo></srccite><typesrc>online</typesrc><srccitea>USGS Online</srccitea><srccontr>Attribute data</srccontr><srctime><timeinfo><sngdate><caldate>201002</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc>The following steps were performed by Esri: Selected records where the QUAD_NAME field contains 'Squaw'. Used the advanced search functions at http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do to find each quadrangle and verify if it has an official new name. Edited the QUAD_NAME for five quadrangles. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procsv>ArcGIS® 10, ArcGIS® 9, ArcView® GIS 3</procsv><srcused>USGS Online</srcused><procdate>20100216</procdate></procstep></lineage>
+			<srcinfo><srccite><citeinfo><onlink>http://www.usgs.gov</onlink><onlink>http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do</onlink><origin>United States Geological Survey</origin><title>The USGS Store</title><pubinfo><pubplace>Reston, Virginia, USA</pubplace><publish>United States Geological Survey</publish></pubinfo><othercit>Used the Advanced Search tool in the left column under USGS Store Home on the web page: http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do. Accessed the web page in February 2010.</othercit><pubdate>201002</pubdate></citeinfo></srccite><typesrc>online</typesrc><srccitea>USGS Online</srccitea><srccontr>Attribute data</srccontr><srctime><timeinfo><sngdate><caldate>201002</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc>The following steps were performed by Esri: Selected records where the QUAD_NAME field contains 'Squaw'. Used the advanced search functions at http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do to find each quadrangle and verify if it has an official new name. Edited the QUAD_NAME for five quadrangles. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procsv>ArcGIS 10, ArcGIS 9, ArcView GIS 3</procsv><srcused>USGS Online</srcused><procdate>20100216</procdate></procstep></lineage>
 		<posacc>
 			<horizpa>
-				<horizpar>The geospatial part of this data set was mathematically generated using the ARC/INFO® GRID™ extension.  In this manner, the locations of the quadrangles were computed.  The positional accuracy for these quadrangles is limited only by the resolution of the data set which is 51 meters.</horizpar>
+				<horizpar>The geospatial part of this data set was mathematically generated using the ARC/INFO GRID™ extension.  In this manner, the locations of the quadrangles were computed.  The positional accuracy for these quadrangles is limited only by the resolution of the data set which is 51 meters.</horizpar>
 			</horizpa>
 		</posacc>
 		<logic>The shapefile is converted to SDC (Smart Data Compression) format using tools in ArcGIS.  The SDC data set is then imported into a file geodatabase to verify, validate, and if needed repair the geometry. Occasionally, USGS actual quadrangles depart from a completely rectangular format mainly because of map sheet production considerations in coastal areas and offshore islands that result in offset, over edge, and inset sheet layouts. These are not represented precisely by the data set, but the correct attribute information is included.</logic>

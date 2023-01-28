@@ -4,13 +4,13 @@
 <citation>
 <citeinfo>
 <origin>U.S. Geological Survey in cooperation with U.S. Environmental Protection Agency</origin>
-<origin>Esri</origin>
+<origin>ESRI</origin>
 <pubdate>2022</pubdate>
 <title>United States Detailed Rivers and Streams, 2022</title>
 <edition>2022</edition>
 <geoform>vector digital data</geoform>
 <serinfo>
-<sername>ArcGIS® Data and Maps</sername>
+<sername>ArcGIS Data and Maps</sername>
 <issue>2022 - World, Europe, and United States</issue>
 </serinfo>
 <pubinfo>
@@ -88,10 +88,10 @@
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
-<cntinst>In the United States– Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
+<cntinst>In the United States- Direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office. For support, contact Esri by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing +1-888-377-4575; facsimile (fax) available at +1-909-792-0960; or visit https://support.esri.com/; Esri holidays excluded. Email and chat are available through the Support page on My Esri (https://my.esri.com).
 
-Outside the United States– Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
+Outside the United States- Direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0. For other questions or comments, you may contact Esri headquarters by email, telephone, or fax or write to us.</cntinst>
 </cntinfo>
 </ptcontac>
 <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</native>
@@ -149,7 +149,7 @@ This process generated the "features" data.
 Build reaches:
 The basic steps for building reaches are as follows:
 1. Convert RF3 [Reach File Version 3] to RF3" (RF3 double prime). This batch operation processed Reach File Version 3 to delete duplicate reaches, reassign reaches to the correct cataloging unit, validate geographic names assigned to reaches against data from the Geographic Names Information System (December 1996 extract), apply updates supplied by the States of California and Arizona, redelineate reaches on the basis of standards used for the NHD, and identify inflow/outflow points where transport reaches entered and exited waterbodies.
-2. Create artificial paths. Using waterbodies from the feature data and inflow/outflow points extracted from RF3", this process automatically generated the centerlines used to delineate artificial paths within waterbodies by using subroutines within the ARC/INFO® GRID module.
+2. Create artificial paths. Using waterbodies from the feature data and inflow/outflow points extracted from RF3", this process automatically generated the centerlines used to delineate artificial paths within waterbodies by using subroutines within the ARC/INFO GRID module.
 3. Blind pass. This batch step conflated features and RF3" reaches and transferred reach information (reach code, reach date, name, stream level, and flow relationships) to the features. It also integrated the artificial paths generated in the previous step with the other features, built reaches on the artificial paths, and assigned geographic names (February 1995 extract) to waterbodies.
 4. Quadrangle-based visual pass. During this interactive step, analysts ensured that the data developed in the previous batch processes conformed to reach delineation rules and that reaches were assigned to the appropriate cataloging unit. Batch procedures identified and developed a list of possible errors. (Errors not detected by the software may continue in the data.) Using the list, software presented each case to analysts to make appropriate edits to the data. Analysts recorded notes about repairs that could not be made and about other errors in the data. (These notes are encoded in the cataloging unit digital update units.)
 5. Build superquads. After the quadrangle-based visual pass was complete, all quadrangles that cover all or part of each cataloging unit were paneled into a superquad. In this batch process, reaches that cross quad boundaries were corrected to conform to reach delineation rules.
@@ -157,7 +157,7 @@ The basic steps for building reaches are as follows:
 7. Central quality assurance/quality control. This step (1) confirmed that integrity checks were performed successfully during the visual pass activity, and (2) assessed statistics gathered during the earlier processes to determine if additional review of data was needed. A check of data from the cataloging unit-based visual pass was run in batch; any data that did not pass the procedure were reviewed interactively. If substantive changes were required, the data were reprocessed using procedures (as required) described in previous steps. The edited data then were rechecked using the central quality assurance/quality control process.
 8. Data preparation and database load. This batch procedure performed final processing to the data emerging from the quality assurance/quality control step. Some of the activities included assigning the final reach codes, building waterbody reaches, adding final artificial paths in waterbodies, and implementing any recent changes in standards for the NHD. The spelling of geographic names was replaced using the March 1999 data extract from the Geographic Names Information System. After this, reaches, features, characteristics, geographic names, and relations were loaded into the database that holds the NHD.
 9. Flow relation correction and validation. The flow relations were checked for consistency through a batch procedure, which generated a list of possible errors. Software presented possible errors to analysts, who corrected flow relations and, occasionally, the delineation of reaches. Changes were posted to the database.
-10. Extract distribution copies of data. Data for a cataloging unit were extracted from the database and converted into an ARC/INFO® workspace containing coverages and other files. Data available in the Spatial Data Transfer Standard format were developed from the workspaces. The workspaces and the Spatial Data Transfer Standard-formatted files were made available to the public.
+10. Extract distribution copies of data. Data for a cataloging unit were extracted from the database and converted into an ARC/INFO workspace containing coverages and other files. Data available in the Spatial Data Transfer Standard format were developed from the workspaces. The workspaces and the Spatial Data Transfer Standard-formatted files were made available to the public.
 
 Modified flow relationships for a subbasin.
 
@@ -178,7 +178,7 @@ Deleted name and GNIS Id values from NHD features where GNIS feature type is val
 <srcprod>withheld</srcprod>
 </procstep>
 <procstep>
-<procdesc>The following steps were performed by Esri: Downloaded the over 200 compressed files from ftp://nhdftp.usgs.gov/SubRegions/Medium/ and extracted them. Used the NHDFlowline source feature class from each NHD source tile. Merged all NHD source tiles into a single data set. Replaced the numeric values with text strings for the attribute FTYPE. Added the attribute AP_WITHIN. For features where attribute FTYPE is "Artificial Path", attribute AP_WITHIN is populated with the value from the FTYPE attribute of the U.S. Detailed Water Bodies that the feature falls within. For all other features, attribute AP_WITHIN is blank. Added attributes METERS and FEET and calculated their values. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+<procdesc>The following steps were performed by Esri: Downloaded the over 200 compressed files from ftp://nhdftp.usgs.gov/SubRegions/Medium/ and extracted them. Used the NHDFlowline source feature class from each NHD source tile. Merged all NHD source tiles into a single data set. Replaced the numeric values with text strings for the attribute FTYPE. Added the attribute AP_WITHIN. For features where attribute FTYPE is "Artificial Path", attribute AP_WITHIN is populated with the value from the FTYPE attribute of the U.S. Detailed Water Bodies that the feature falls within. For all other features, attribute AP_WITHIN is blank. Added attributes METERS and FEET and calculated their values. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 <srcused>withheld</srcused>
 <procdate>20050328</procdate>
 </procstep>
@@ -393,14 +393,14 @@ Deleted name and GNIS Id values from NHD features where GNIS feature type is val
 Outside the United States, direct all inquiries to your local Esri Office. This information can be found at https://www.esri.com/en-us/contact#c=us&amp;t=0.</cntinst>
 </cntinfo>
 </distrib>
-<resdesc>Downloadable Data; Hosted Feature Layer</resdesc>
+
 <distliab>See access and use constraints information.</distliab>
 <stdorder>
 <digform>
 <digtinfo>
 <formname>File Geodatabase Feature Class</formname>
 <formcont>To use this data requires software that works with FGDB files.</formcont>
-<filedec>ArcGIS® software</filedec>
+<filedec>ArcGIS software</filedec>
 </digtinfo>
 <digtopt>
 <onlinopt>
@@ -430,7 +430,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 </digtopt>
 </digform>
 <fees>Software purchase price</fees>
-<ordering>Data and Maps is available only as part of ArcGIS® software.</ordering>
+<ordering>Data and Maps is available only as part of ArcGIS software.</ordering>
 </stdorder>
 <resdesc>esri_2022_us_dtl_riv</resdesc></distinfo>
 <metainfo>
@@ -452,7 +452,7 @@ Outside the United States, direct all inquiries to your local Esri Office. This 
 <cntvoice>+1-909-793-2853</cntvoice>
 <cntfax>+1-909-793-5953</cntfax>
 <cntemail>info@esri.com</cntemail>
-<hours>9:00 a.m.–5:00 p.m. Pacific time, Monday–Friday</hours>
+<hours>9:00 a.m.-5:00 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>

@@ -103,10 +103,10 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<cntinst>In the United States–
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -627,7 +627,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 				<digtopt/>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI software.</ordering>
 		</stdorder>
 		<techpreq>To use this data requires software that supports SDC files.</techpreq>
 		<distliab>See use constraints.</distliab>
@@ -698,7 +698,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<pubdate>2001</pubdate>
 					</citeinfo>
 				</srccite>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -719,7 +719,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>2010</edition>
 						<geoform>tabular digital data</geoform>
 						<serinfo>
-							<sername>ESRI® Data - Updated Demographics</sername>
+							<sername>ESRI Data - Updated Demographics</sername>
 							<issue>2010</issue>
 						</serinfo>
 						<pubinfo>
@@ -763,10 +763,10 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 					</timeinfo>
 					<srccurr>publication date</srccurr>
 				</srctime>
-				<typesrc>electronic mail system, CD–ROM, DVD–ROM</typesrc>
+				<typesrc>electronic mail system, CD-ROM, DVD-ROM</typesrc>
 			</srcinfo>
 			<srcinfo>
-				<typesrc>CD–ROM, online</typesrc>
+				<typesrc>CD-ROM, online</typesrc>
 				<srccitea>USDA Farm</srccitea>
 				<srccite>
 					<citeinfo>
@@ -811,7 +811,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 4.0</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® Dynamap®/Census Boundaries</sername>
+							<sername>Tele Atlas Dynamap/Census Boundaries</sername>
 							<issue>v4.0</issue>
 						</serinfo>
 						<pubinfo>
@@ -821,7 +821,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 					</citeinfo>
 				</srccite>
 				<srcscale>100000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -842,7 +842,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 						<edition>Version 14.0</edition>
 						<geoform>vector digital data</geoform>
 						<serinfo>
-							<sername>Tele Atlas® Dynamap®/2000</sername>
+							<sername>Tele Atlas Dynamap/2000</sername>
 							<issue>Version 14.0</issue>
 						</serinfo>
 						<pubinfo>
@@ -852,7 +852,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 					</citeinfo>
 				</srccite>
 				<srcscale>100000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -870,9 +870,9 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srcused>ESRI Data - Updated Demographics</srcused>
 				<srcused>USDA Farm</srcused>
 				<srcused>Tele Atlas Dynamap/Census Boundaries v4.0</srcused>
-				<procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Updated geospatial data to match Data &amp; Maps 2002 U.S. Counties. Replaced demographic and agricultural attributes with the latest from Census SF1, ESRI Data, and Census of Agriculture.  Recreated ArcView GIS legend file (.avl) and ArcGIS® layer file (.lyr).  Copied projection file (.prj).
+				<procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Updated geospatial data to match Data &amp; Maps 2002 U.S. Counties. Replaced demographic and agricultural attributes with the latest from Census SF1, ESRI Data, and Census of Agriculture.  Recreated ArcView GIS legend file (.avl) and ArcGIS layer file (.lyr).  Copied projection file (.prj).
 
-The following steps were performed by ESRI: Extracted and generalized the features from ArcUSA 1:25M.  Added demographic attributes from Summary Tape File-1A (STF-1A) data published by the U.S. Census Bureau based on the 1990 Census of Population. Added farm attributes from data published by the U.S. Census Bureau based on the 1987 Census of Agriculture.  Added Pop2000 attribute from ESRI.  Converted to North American Datum of 1983 (NAD83) by splitting the United States into–if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands–and the 48 contiguous states (including District of Columbia); converting each to NAD83; then merging them together.  Recalculated any attributes based on area.  Added Kalawao county of Hawaii.   Created ArcGIS® layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+The following steps were performed by ESRI: Extracted and generalized the features from ArcUSA 1:25M.  Added demographic attributes from Summary Tape File-1A (STF-1A) data published by the U.S. Census Bureau based on the 1990 Census of Population. Added farm attributes from data published by the U.S. Census Bureau based on the 1987 Census of Agriculture.  Added Pop2000 attribute from ESRI.  Converted to North American Datum of 1983 (NAD83) by splitting the United States into-if present: Alaska, Hawaii, Puerto Rico, U.S. Virgin Islands-and the 48 contiguous states (including District of Columbia); converting each to NAD83; then merging them together.  Recalculated any attributes based on area.  Added Kalawao county of Hawaii.   Created ArcGIS layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
 				<srcused>Tele Atlas Dynamap/2000 v. 14.0</srcused>
 				<procdate>20020204</procdate>
 			</procstep>
@@ -887,34 +887,34 @@ The following steps were performed by ESRI: Extracted and generalized the featur
 				<procdate>20050309</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2004 with POP2005 and attribute POP04_SQMI with POP05_SQMI.  Calculated new values for attributes POP00_SQMI, POP05_SQMI, and SQMI.  Converted the data set to SDC.  Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2004 with POP2005 and attribute POP04_SQMI with POP05_SQMI.  Calculated new values for attributes POP00_SQMI, POP05_SQMI, and SQMI.  Converted the data set to SDC.  Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 				<procdate>20060410</procdate>
 				<srcused>ESRI Data - Updated Demographics</srcused>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2005 with POP2007 and attribute POP05_SQMI with POP07_SQMI. Calculated new values for POP07_SQMI. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2005 with POP2007 and attribute POP05_SQMI with POP07_SQMI. Calculated new values for POP07_SQMI. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 				<procdate>20070717</procdate>
 				<srcused>ESRI Data - Updated Demographics</srcused>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2007 with POP2008 and attribute POP07_SQMI with POP08_SQMI. Calculated new values for POP08_SQMI. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2007 with POP2008 and attribute POP07_SQMI with POP08_SQMI. Calculated new values for POP08_SQMI. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 				<srcused>ESRI Data - Updated Demographics</srcused>
 				<procdate>20080920</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2008 with POP2009 and attribute POP08_SQMI with POP09_SQMI. Calculated new values for POP09_SQMI. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Replaced attribute POP2008 with POP2009 and attribute POP08_SQMI with POP09_SQMI. Calculated new values for POP09_SQMI. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 				<procdate>20090831</procdate>
 				<srcused>ESRI Data - Updated Demographics</srcused>
 				<srcused>USDA Farm</srcused>
 			</procstep>
 			<procstep>
 				<procdate>20100511</procdate>
-				<procdesc>The following steps were performed by ESRI: Copied 2009 Data Update U.S. Counties (Generalized) and renamed it. Removed all fields but NAME. Attached and formatted the fields from Edition 10 U.S. Counties. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+				<procdesc>The following steps were performed by ESRI: Copied 2009 Data Update U.S. Counties (Generalized) and renamed it. Removed all fields but NAME. Attached and formatted the fields from Edition 10 U.S. Counties. Converted the data set to SDC. Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
 			</procstep>
 		</lineage>
 		<posacc>
 			<horizpa>
-				<horizpar>The geospatial part of this data set was extracted from the ArcUSA 1:25M database, and then generalized. Generalizing reduces positional accuracy and the tolerance was not recorded so the positional accuracy exceeds that of the ArcUSA data set. The positional accuracy of the ArcUSA 1:25M data set is 1792 meters which is based on generalizing–to a tolerance of 500 meters–the 1:2,000,000-scale USGS Digital Line Graph (DLG) source data.</horizpar>
+				<horizpar>The geospatial part of this data set was extracted from the ArcUSA 1:25M database, and then generalized. Generalizing reduces positional accuracy and the tolerance was not recorded so the positional accuracy exceeds that of the ArcUSA data set. The positional accuracy of the ArcUSA 1:25M data set is 1792 meters which is based on generalizing-to a tolerance of 500 meters-the 1:2,000,000-scale USGS Digital Line Graph (DLG) source data.</horizpar>
 			</horizpa>
 		</posacc>
 		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.</logic>

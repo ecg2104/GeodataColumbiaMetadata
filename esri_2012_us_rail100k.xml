@@ -105,11 +105,11 @@ No data for Alaska or Hawaii.</supplinf>
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -425,12 +425,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>5.557</transize>
 					<dssize>5.557</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -440,7 +440,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -485,11 +485,11 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						</pubinfo>
 						<origin>Bureau of Transportation Statistics (BTS)</origin>
 						<onlink>http://www.bts.gov/gis/</onlink>
-						<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD–ROM.</othercit>
+						<othercit>From the National Transportation Atlas Databases (NTAD) 2002 CD-ROM.</othercit>
 					</citeinfo>
 				</srccite>
 				<srcscale>100000</srcscale>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<mdattim>
@@ -513,17 +513,17 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<procdesc>This geospatial data layer was compiled and reviewed by BTS in April 2002.</procdesc>
 				<srcprod>FRA-BTS - NRN100</srcprod>
 				<procdate>200204</procdate>
-				<procsv>ArcView® GIS 3</procsv>
+				<procsv>ArcView GIS 3</procsv>
 			</procstep>
 			<procstep>
-				<procdesc>The following steps were performed by Esri: Extracted data set from National Transportation Atlas Databases (NTAD) 2002. Removed "Abandoned" features. Removed unneeded attributes. Coded four features, missing FRA_REG attribute values, based on surrounding features. Clarified values for the MILITARY attribute. Renamed and rearranged attributes. Created  ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS 8</procsv>
+				<procdesc>The following steps were performed by Esri: Extracted data set from National Transportation Atlas Databases (NTAD) 2002. Removed "Abandoned" features. Removed unneeded attributes. Coded four features, missing FRA_REG attribute values, based on surrounding features. Clarified values for the MILITARY attribute. Renamed and rearranged attributes. Created  ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+				<procsv>ArcView GIS 3, ArcGIS 8</procsv>
 				<srcused>FRA-BTS - NRN100</srcused>
 				<procdate>20021111</procdate>
 			</procstep>
 			<procstep>
 				<procdesc>The following steps were performed by Esri: Added MILES attribute and calculated its values.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS 9</procsv>
+				<procsv>ArcView GIS 3, ArcGIS 9</procsv>
 				<procdate>20040308</procdate>
 			</procstep>
 		</lineage>

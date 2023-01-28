@@ -17,7 +17,7 @@
 				<geoform>vector digital data</geoform>
 				<edition>2012</edition>
 				<serinfo>
-					<sername>Data &amp; Maps for ArcGIS®</sername>
+					<sername>Data &amp; Maps for ArcGIS</sername>
 					<issue>2012 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -93,11 +93,11 @@
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
-				<cntinst>In the United States–
+				<hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
+				<cntinst>In the United States-
 Please direct all inquiries regarding software/data pricing and consulting services to your local Esri Regional Office.  For support, you may contact Esri Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; Esri holidays excluded.
 
-Outside the United States–
+Outside the United States-
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/locations.html.
 
 For other questions or comments, you may contact Esri headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -274,7 +274,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>Federal Information Processing Standards 5–2</codesetn>
+						<codesetn>Federal Information Processing Standards 5-2</codesetn>
 						<codesets>National Institute of Standards and Technology</codesets>
 					</codesetd>
 				</attrdomv>
@@ -900,12 +900,12 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<transize>0.845</transize>
 					<dssize>0.845</dssize>
 					<formname>SDC</formname>
-					<filedec>ArcGIS® software</filedec>
+					<filedec>ArcGIS software</filedec>
 					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
 				</digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD–ROM</offmedia>
+						<offmedia>DVD-ROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -915,7 +915,7 @@ For other questions or comments, you may contact Esri headquarters by e-mail, te
 					<onlinopt><computer><networka><networkr>http://www.ArcGIS.com</networkr></networka></computer></onlinopt></digtopt>
 			</digform>
 			<fees>Software purchase price</fees>
-			<ordering>Data &amp; Maps is available only as part of Esri® software.</ordering>
+			<ordering>Data &amp; Maps is available only as part of Esri software.</ordering>
 		</stdorder>
 		<distrib>
 			<cntinfo>
@@ -961,7 +961,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 						<geoform>tabular digital data</geoform>
 					</citeinfo>
 				</srccite>
-				<typesrc>CD–ROM</typesrc>
+				<typesrc>CD-ROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -975,21 +975,21 @@ Outside the United States, please direct all inquiries to your local Esri Office
 			</srcinfo>
 			<procstep>
 				<procsv>ArcView GIS 3.x</procsv>
-				<procdesc>The following steps were performed by Esri: Created a data set by extracting state capitals, the national capital, and places of 10,000 or more inhabitants from U.S. Census Bureau 2000 Summary File 1 (SF1).  Ran ArcView GIS command Add Event Theme on the data set to create the point location centroids shapefile. Reformatted attributes and finalized attribute order.  Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
+				<procdesc>The following steps were performed by Esri: Created a data set by extracting state capitals, the national capital, and places of 10,000 or more inhabitants from U.S. Census Bureau 2000 Summary File 1 (SF1).  Ran ArcView GIS command Add Event Theme on the data set to create the point location centroids shapefile. Reformatted attributes and finalized attribute order.  Created ArcGIS layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc>
 				<srcused>Census SF1</srcused>
 				<procdate>20021010</procdate>
 			</procstep>
 			<procstep>
-				<procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv>
+				<procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv>
 				<procdesc>The following steps were performed by Esri: Simplified the AREANAME values for some of the features.</procdesc>
 				<procdate>20031212</procdate>
 			</procstep>
 			<procstep>
 				<procdesc>The following steps were performed by Esri: Renamed attributes AREANAME to NAME and POP_CL to POP_CLASS. Reduced the attribute width for NAME. Converted the values in the CLASS attribute to title case. Changed the CLASS attribute value "CDP" to "Census Designated Place". Changed the CAPITAL attribute values "Y" and "N" to "National", "State", or blank.</procdesc>
-				<procsv>ArcView® GIS 3, ArcGIS® 9</procsv>
+				<procsv>ArcView GIS 3, ArcGIS 9</procsv>
 				<procdate>20050317</procdate>
 			</procstep>
-			<srcinfo><srccite><citeinfo><origin>Esri</origin><pubdate>20070606</pubdate><title>Esri Data</title><edition>2007</edition><geoform>tabular digital data</geoform><othercit>Provided the POP2007 attribute.</othercit><onlink>http://www.esri.com/</onlink><serinfo><sername>Esri® Data</sername><issue>2007</issue></serinfo><pubinfo><pubplace>Redlands, California, USA</pubplace><publish>Esri</publish></pubinfo></citeinfo></srccite><typesrc>DVD–ROM</typesrc><srctime><timeinfo><sngdate><caldate>20070606</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>Esri Data</srccitea><srccontr>Attribute data</srccontr></srcinfo><procstep><procdesc>The following steps were performed by Esri: Added the POP2007 attribute and populated it with values from Esri Data. Converted the data set to SDC. Created projection file (.prj), and spatial indices.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv><srcused>Esri Data</srcused><procdate>20080422</procdate></procstep></lineage>
+			<srcinfo><srccite><citeinfo><origin>ESRI</origin><pubdate>20070606</pubdate><title>Esri Data</title><edition>2007</edition><geoform>tabular digital data</geoform><othercit>Provided the POP2007 attribute.</othercit><onlink>http://www.esri.com/</onlink><serinfo><sername>Esri Data</sername><issue>2007</issue></serinfo><pubinfo><pubplace>Redlands, California, USA</pubplace><publish>Esri</publish></pubinfo></citeinfo></srccite><typesrc>DVD-ROM</typesrc><srctime><timeinfo><sngdate><caldate>20070606</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>Esri Data</srccitea><srccontr>Attribute data</srccontr></srcinfo><procstep><procdesc>The following steps were performed by Esri: Added the POP2007 attribute and populated it with values from Esri Data. Converted the data set to SDC. Created projection file (.prj), and spatial indices.</procdesc><procsv>ArcView GIS 3, ArcGIS 9, ArcSDE</procsv><srcused>Esri Data</srcused><procdate>20080422</procdate></procstep></lineage>
 		<posacc>
 			<horizpa>
 				<horizpar>The geospatial part of this data set was calculated from latitude/longitude coordinates from the U.S. Census Bureau 2000 Summary File 1 (SF1).  The horizontal positional accuracy is unknown.</horizpar>
