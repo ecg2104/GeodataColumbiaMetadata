@@ -77,13 +77,16 @@
 </cntinfo>
 </ptcontac>
 </idinfo>
+
 <spdoinfo>
-<direct>Vector</direct>
-<ptvctinf>
-<sdtsterm>
-<sdtstype>Entity point</sdtstype>
-</sdtsterm>
-</ptvctinf>
+  <direct>Vector</direct>
+  <ptvctinf>
+    <sdtsterm>
+      <sdtstype>G-polygon</sdtstype>
+
+    </sdtsterm>
+
+  </ptvctinf>
 </spdoinfo>
 
 <spref>
