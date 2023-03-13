@@ -214,9 +214,7 @@ hong_kong_street_centerlines</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>ESRI shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>.00285</transize>
+					<formname>Geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>

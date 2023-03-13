@@ -197,11 +197,7 @@ Nairobi_2006_TILE</enttypl>
 		</distrib>
 		<resdesc>landinfo_nairobi_orthoindex_2006</resdesc>
 		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.002</transize>
-				</digtinfo>
-			</digform>
+
 		</stdorder>
 	</distinfo>
 	<metainfo>

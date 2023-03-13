@@ -253,7 +253,7 @@ World_Lakes_AREAS</enttypl>
 			<digform>
 				<digtinfo>
 					<transize>75.557</transize>
-					<formname>Shapefile</formname><formspec>Zip</formspec></digtinfo>
+					<formname>Geopackage</formname></digtinfo>
 			</digform>
 		</stdorder>
 	</distinfo>

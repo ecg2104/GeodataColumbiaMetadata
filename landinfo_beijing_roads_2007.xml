@@ -76,11 +76,7 @@
 				<cntemail>sales@landinfo.com</cntemail>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/BEIJING_ROADS.jpg</browsen>
-			<browsed>Thumbnail</browsed>
-			<browset>JPEG</browset>
-		</browse>
+
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
 	</idinfo>
 	<dataqual>
@@ -226,9 +222,7 @@ BEIJING_ROADS</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>.zip</formspec>
-					<transize>.0398</transize>
+					<formname>Geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>

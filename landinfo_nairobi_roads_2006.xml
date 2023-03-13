@@ -243,9 +243,7 @@ NAIROBI_ROADS</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>.002335</transize>
+					<formname>Geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>

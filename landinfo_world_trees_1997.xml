@@ -319,7 +319,7 @@ World_Trees_AREAS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_trees_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>49.116</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackages</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081107</metd>
 		<metc>

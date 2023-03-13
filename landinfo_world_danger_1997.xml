@@ -283,7 +283,7 @@ World_DangerP_POINTS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_danger_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>.209</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081113</metd>
 		<metc>

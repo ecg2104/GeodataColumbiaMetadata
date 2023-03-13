@@ -314,7 +314,7 @@ World_Roads_LINES</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_roadlines_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>57.549</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081106</metd>
 		<metc>

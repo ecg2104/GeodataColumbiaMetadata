@@ -208,8 +208,7 @@ MADRID_ROADS</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
+					<formname>Geopackage</formname>
 					<transize>.006618</transize>
 				</digtinfo>
 			</digform>

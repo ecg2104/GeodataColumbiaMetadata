@@ -288,7 +288,7 @@ World_Trails_LINES</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_trails_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>8.697</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081110</metd>
 		<metc>

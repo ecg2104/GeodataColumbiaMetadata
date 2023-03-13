@@ -208,11 +208,6 @@ MADRID_ROADS</enttypl>
 		</distrib>
 		<resdesc>landinfo_madrid_orthoindex_2006</resdesc>
 		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.003</transize>
-				</digtinfo>
-			</digform>
 		</stdorder>
 	</distinfo>
 	<metainfo>

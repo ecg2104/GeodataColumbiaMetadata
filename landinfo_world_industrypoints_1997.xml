@@ -241,7 +241,7 @@ World_MiscIndustryPoints_POINTS</enttypl>
 			<digform>
 				<digtinfo>
 					<transize>0.026</transize>
-					<formname>Shapefile</formname><formspec>Zip</formspec></digtinfo>
+					<formname>Geopackage</formname></digtinfo>
 			</digform>
 		</stdorder>
 	</distinfo>

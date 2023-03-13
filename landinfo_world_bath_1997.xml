@@ -286,7 +286,7 @@ World_Bathymetry_LINES</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_bath_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>5.8</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081113</metd>
 		<metc>

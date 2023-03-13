@@ -299,7 +299,7 @@ World_Sand_AREAS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_sands_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>14.011</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081112</metd>
 		<metc>

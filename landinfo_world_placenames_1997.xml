@@ -223,7 +223,7 @@ World_PlaceNames_POINTS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>llandinfo_world_placenames_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>.018</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20090107</metd>
 		<metc>

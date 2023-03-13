@@ -289,7 +289,7 @@ World_CityAreas_AREAS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_cityareas_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>7.726</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081113</metd>
 		<metc>

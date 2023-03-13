@@ -304,7 +304,7 @@ World_SpotElevations_POINTS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_elevationpoints_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>2.6</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Shapefile</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081112</metd>
 		<metc>

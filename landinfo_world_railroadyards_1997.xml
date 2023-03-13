@@ -282,7 +282,7 @@ World_RailRoadYard_POINTS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_railroadyards_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>.028</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20081112</metd>
 		<metc>

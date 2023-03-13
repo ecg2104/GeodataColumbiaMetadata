@@ -233,7 +233,7 @@ World_landice_AREAS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_landice_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>5.221</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackage</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20090106</metd>
 		<metc>

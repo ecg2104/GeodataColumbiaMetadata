@@ -234,7 +234,7 @@ World_OceanSeas_AREAS</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>landinfo_world_oceans_1997</resdesc>
-		<stdorder><digform><digtinfo><formname>Shapefile</formname><formspec>Zip</formspec><transize>22.775</transize></digtinfo></digform></stdorder></distinfo>
+		<stdorder><digform><digtinfo><formname>Geopackages</formname></digtinfo></digform></stdorder></distinfo>
 	<metainfo>
 		<metd>20090107</metd>
 		<metc>
