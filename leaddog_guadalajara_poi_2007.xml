@@ -197,13 +197,7 @@ guadalajara_points_of_interest</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>leaddog_guadalajara_poi_2007</resdesc>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.012</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
+
 	</distinfo>
 	<metainfo>
 		<metd>20071221</metd>
