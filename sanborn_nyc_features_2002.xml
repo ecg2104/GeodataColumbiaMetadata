@@ -182,13 +182,6 @@ nyc_geogfeat</enttypl>
 				<cntemail>coloradosprings@sanborn.com</cntemail>
 			</cntinfo>
 		</distrib>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.026</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
 		<resdesc>sanborn_nyc_features_2002</resdesc></distinfo>
 	<metainfo>
 		<metd>20070731</metd>

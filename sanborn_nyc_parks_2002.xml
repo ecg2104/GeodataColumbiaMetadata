@@ -202,13 +202,6 @@ nyc_parks</enttypl>
 				<cntemail>coloradosprings@sanborn.com</cntemail>
 			</cntinfo>
 		</distrib>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.064</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
 		<resdesc>sanborn_nyc_parks_2002</resdesc></distinfo>
 	<metainfo>
 		<metd>20070801</metd>

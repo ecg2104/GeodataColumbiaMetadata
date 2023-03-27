@@ -177,13 +177,6 @@ nyc_boundary</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>sanborn_nyc_bound_2002</resdesc>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.005</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
 	</distinfo>
 	<metainfo>
 		<metd>20070731</metd>

@@ -188,13 +188,6 @@ nnj_boundary</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>sanborn_newark_boundary_2002</resdesc>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.005</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
 	</distinfo>
 	<metainfo>
 		<metd>20070806</metd>
