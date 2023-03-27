@@ -14,7 +14,7 @@
 </citeinfo>
 </citation>
 <descript>
-<abstract>This shapefile contains county boundaries for Maryland for the years 1980-1910.  The Historical United States County Boundary Files 1790 - 1999 (or HUSCO 1790 - 1999) contains ArcView shapefile format U.S. county boundary files for each decade from 1790 through 1990 (also 1999). Files include county and state names and FIPS identification numbers.</abstract>
+<abstract>This polygon theme contains county boundaries for Maryland for the years 1980-1910.  The Historical United States County Boundary Files 1790 - 1999 (or HUSCO 1790 - 1999) contains U.S. county boundary files for each decade from 1790 through 1990 (also 1999). Files include county and state names and FIPS identification numbers.</abstract>
 <purpose>For research purposes only. May only be used by current members of Columbia University.</purpose>
 </descript>
 <timeperd>
@@ -78,11 +78,6 @@
 <cntfax>(225) 578-4420</cntfax>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/baltcico1890to19100.bmp</browsen>
-<browsed>Thumbnail image of shapefile in full extent</browsed>
-<browset>BMP</browset>
-</browse>
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
 </idinfo>
 <dataqual>

@@ -343,9 +343,7 @@ GlobalDamFeatures</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>ESRI Geodatabase</formname>
-<formspec>zip</formspec>
-<transize>28</transize>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>

@@ -85,11 +85,6 @@
 				<hours>M-F, 9:00 AM - 5:00 PM</hours>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/e_ServTerr0.bmp</browsen>
-			<browsed>Thumbnail image of shapefile in full extent</browsed>
-			<browset>bmp</browset>
-		</browse>
 		<secinfo>
 			<secsys>to be determined</secsys>
 			<secclass>Restricted</secclass>
@@ -251,13 +246,6 @@ e_ServTerr</enttypl>
 		</distrib>
 		<resdesc>nysdeptpublicservice_ny_electric_2001</resdesc>
 		<distliab>Although these data have been processed successfully on a computer system at the New York State Department of Public Service, no warranty expressed or implied is made by the NYSDPS regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.</distliab>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.749</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
 		<custom>call or write contact person</custom>
 		<techpreq>appropriate software</techpreq>
 	</distinfo>

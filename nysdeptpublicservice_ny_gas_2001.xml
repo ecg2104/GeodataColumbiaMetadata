@@ -84,11 +84,6 @@
 				<hours>M-F, 9:00 AM - 5:00 PM</hours>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/g_ServTerr0.bmp</browsen>
-			<browsed>Thumbnail image of shapefile in full extent</browsed>
-			<browset>bmp</browset>
-		</browse>
 		<datacred>DPS</datacred>
 		<secinfo>
 		</secinfo>

@@ -14,7 +14,7 @@
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>The Historical United States County Boundary Files 1930 contains ArcView shapefile format U.S. county boundary files for 1930. Files include county and state names and FIPS identification numbers.</abstract>
+			<abstract>The Historical United States County Boundary Files 1930 contains U.S. county boundary files for 1930. Files include county and state names and FIPS identification numbers.</abstract>
 			<purpose>For research purposes only. May only be used by current members of Columbia University.</purpose>
 		</descript>
 		<timeperd>
@@ -78,16 +78,10 @@
 				<cntfax>(225) 578-4420</cntfax>
 			</cntinfo>
 		</ptcontac>
-		<browse>
-			<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/us1930_Project0.bmp</browsen>
-			<browsed>Thumbnail image of shapefile in full extent</browsed>
-			<browset>BMP</browset>
-		</browse>
+
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
 	</idinfo>
-	<dataqual>
-		<lineage><procstep><proccont><cntinfo><cntaddr><address>420 W.118th ST</address><address>215 IAB, MC 3301</address><addrtype>mailing and physical address</addrtype><city>New York</city><state>NY</state><postal>10027</postal><country>USA</country></cntaddr><cntorgp><cntorg>Research Data Services (RDS), Columbia University</cntorg></cntorgp><cntpos>GIS Librarian</cntpos><cntvoice>(212)854-6012</cntvoice><cntemail>data@library.columbia.edu</cntemail></cntinfo></proccont><procdesc>Shapefile was projected to Albers Conical Equal Area</procdesc><procdate>20061026</procdate></procstep></lineage>
-	</dataqual>
+
 	<spdoinfo>
 		<direct>Vector</direct>
 		<ptvctinf>
@@ -99,27 +93,7 @@
 	</spdoinfo>
 	<spref>
 		<horizsys>
-			<planar>
-				<mapproj>
-					<mapprojn>Albers Conical Equal Area</mapprojn>
-					<albers>
-						<stdparll>29.500000</stdparll>
-						<stdparll>45.500000</stdparll>
-						<longcm>-96.000000</longcm>
-						<latprjo>37.500000</latprjo>
-						<feast>0.000000</feast>
-						<fnorth>0.000000</fnorth>
-					</albers>
-				</mapproj>
-				<planci>
-					<plance>coordinate pair</plance>
-					<coordrep>
-						<absres>0.008192</absres>
-						<ordres>0.008192</ordres>
-					</coordrep>
-					<plandu>meters</plandu>
-				</planci>
-			</planar>
+
 			<geodetic>
 				<horizdn>D_WGS_1984</horizdn>
 				<ellips>WGS_1984</ellips>

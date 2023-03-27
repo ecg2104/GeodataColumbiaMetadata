@@ -299,9 +299,7 @@ Electric Transmission Lines</enttypl>
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>40.354</transize>
+					<formname>Geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>
