@@ -235,9 +235,7 @@
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>ESRI Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>12.6</transize>
+					<formname>Geopackage</formname>
 				</digtinfo>
 			</digform>
 		</stdorder>

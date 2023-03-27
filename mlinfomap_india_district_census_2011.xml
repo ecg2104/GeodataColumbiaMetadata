@@ -116,8 +116,7 @@
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
-<formspec>zip</formspec>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>
