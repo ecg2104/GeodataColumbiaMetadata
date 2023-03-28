@@ -212,13 +212,7 @@ riverline_station</enttypl>
 				<cntfax>212-566-5059</cntfax>
 			</cntinfo>
 		</distrib>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.339</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
+
 		<resdesc>halcrow_riverlinestation_2012</resdesc></distinfo>
 	<metainfo>
 		<metd>20140325</metd>

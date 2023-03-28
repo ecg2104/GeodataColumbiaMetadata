@@ -484,9 +484,8 @@ subwaystation</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefiles</formname>
-<formspec>zip</formspec>
-<transize>0.014</transize>
+<formname>Geopackages</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

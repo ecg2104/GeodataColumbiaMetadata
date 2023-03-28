@@ -190,13 +190,7 @@ newark_station</enttypl>
 		</detailed>
 	</eainfo>
 	<distinfo>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.001</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
+
 		<distrib><cntinfo>
 				<cntorgp>
 					<cntorg>Halcrow / CH2M Hill</cntorg>

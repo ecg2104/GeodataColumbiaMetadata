@@ -302,9 +302,8 @@ All commercial vehicles and trucks are prohibited from utilizing the Parkway sys
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.200</transize>
+<formname>Geopackage</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

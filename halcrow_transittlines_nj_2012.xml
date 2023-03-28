@@ -253,13 +253,7 @@ nj_transit</enttypl>
 			</cntinfo>
 		</distrib>
 		<resdesc>halcrow_transittlines_nj_2012</resdesc>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.339</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
+
 	</distinfo>
 	<metainfo>
 		<metd>20140325</metd>

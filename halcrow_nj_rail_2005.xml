@@ -73,7 +73,7 @@
 			</cntinfo>
 		</ptcontac>
 		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
-		<browse><browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/nj_rr.shp0.bmp</browsen><browsed>Thumbnail image of shapefile in full extent</browsed><browset>bmp</browset></browse><crossref><citeinfo><origin>CommunityCartography</origin><pubdate>2005</pubdate><title>NJ Rail Road Stations</title><geoform>vector digital data</geoform><onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/njit_sta.zip</onlink></citeinfo></crossref></idinfo>
+<crossref><citeinfo><origin>CommunityCartography</origin><pubdate>2005</pubdate><title>NJ Rail Road Stations</title><geoform>vector digital data</geoform><onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/njit_sta.zip</onlink></citeinfo></crossref></idinfo>
 	<dataqual>
 		<lineage>
 			<srcinfo><srcscale>100000</srcscale><typesrc>paper</typesrc><srccontr>Data is derived from files from the New Jersey Port Authority with a source scale of 1:100,000</srccontr></srcinfo></lineage>

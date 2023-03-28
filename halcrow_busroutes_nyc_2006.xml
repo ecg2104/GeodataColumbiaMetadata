@@ -444,7 +444,7 @@ busroute</enttypl>
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212)854-6012</cntvoice>
-				<cntemail>data@library.columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu </cntemail>
 			</cntinfo>
 		</metc>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

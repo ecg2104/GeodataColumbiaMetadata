@@ -369,13 +369,7 @@ amtrak_station</enttypl>
 				<cntemail>maps@halcrow.com</cntemail>
 			</cntinfo>
 		</distrib>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.339</transize>
-					<formvern>shp</formvern><formspec>zip</formspec></digtinfo>
-			</digform>
-		</stdorder>
+
 		<resdesc>halcrow_amtrak_station_2012</resdesc></distinfo>
 	<metainfo>
 		<metd>20140318</metd>

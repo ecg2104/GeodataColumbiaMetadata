@@ -270,9 +270,8 @@ panynj_sta</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.001</transize>
+<formname>Geopackage</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

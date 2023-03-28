@@ -470,7 +470,7 @@ busroute</enttypl>
 				</cntaddr>
 				<cntvoice>1-877-MakeMap</cntvoice>
 				<cntfax>201-529-5728</cntfax>
-				<cntemail>info@comcarto.com</cntemail>
+				<cntemail>info@comcarto.com </cntemail>
 			</cntinfo>
 		</distrib>
 		<resdesc>halcrow_busroutes_nyc_2004</resdesc>

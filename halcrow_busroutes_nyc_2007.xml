@@ -345,7 +345,7 @@ busroute</enttypl>
 			</attr>
 			<attr>
 				<attrlabl>AVSUN06</attrlabl>
-				<attrdef>Average Sunday total ridership in 2006</attrdef>
+				<attrdef>Average Sunday total ridership in 2006 </attrdef>
 				<attrdefs>CommunityCartography</attrdefs>
 			</attr>
 			<attr>

@@ -277,9 +277,8 @@ mnrr</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.02</transize>
+<formname>Geopackage</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

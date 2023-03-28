@@ -104,7 +104,7 @@
 				<procdesc>The New York City bus information was obtained from NYC Transit. Field definitions were obtained via phone. Unused fields were removed.</procdesc>
 				<procdate>19991021</procdate>
 				<proccont><cntinfo><cntorgp><cntorg>CommunityCartography</cntorg></cntorgp></cntinfo></proccont></procstep>
-			<procstep><proccont><cntinfo><cntorgp><cntorg>CommunityCartography</cntorg></cntorgp></cntinfo></proccont><procdesc>The new New York City Bus spatial information was obtained from New York City Transit in shapefile format.  This data release represents routes in 2004. Data was projected from decimal degress to State Plane NY-LI feet. Coordinate and borough attributes were added.</procdesc><procdate>20070910</procdate></procstep><procstep><proccont><cntinfo><cntorgp><cntorg>Halcrow / CH2M Hill</cntorg></cntorgp></cntinfo></proccont><procdesc>New bus route and bus stop shapefiles were downloaded from the MTA website. Data was projected to State Plane NY-LI feet, and blank fields were removed. Coordinate and borough attributes were added. Metadata was updated to 10.1 format, and details added to historical Process Steps.</procdesc><procdate>20120828</procdate></procstep></lineage>
+			<procstep><proccont><cntinfo><cntorgp><cntorg>CommunityCartography</cntorg></cntorgp></cntinfo></proccont><procdesc>The new New York City Bus spatial information was obtained from New York City Transit in Geopackage format.  This data release represents routes in 2004. Data was projected from decimal degress to State Plane NY-LI feet. Coordinate and borough attributes were added.</procdesc><procdate>20070910</procdate></procstep><procstep><proccont><cntinfo><cntorgp><cntorg>Halcrow / CH2M Hill</cntorg></cntorgp></cntinfo></proccont><procdesc>New bus route and bus stop shapefiles were downloaded from the MTA website. Data was projected to State Plane NY-LI feet, and blank fields were removed. Coordinate and borough attributes were added. Metadata was updated to 10.1 format, and details added to historical Process Steps.</procdesc><procdate>20120828</procdate></procstep></lineage>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>
@@ -218,8 +218,7 @@ busstop</enttypl>
 			<digform>
 				<digtinfo>
 					<formname>Shapefile</formname>
-					<formspec>zip</formspec>
-					<transize>0.423</transize>
+
 				</digtinfo>
 			</digform>
 		</stdorder>

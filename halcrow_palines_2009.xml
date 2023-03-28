@@ -244,9 +244,8 @@ panynj</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.012</transize>
+<formname>Geopackage</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

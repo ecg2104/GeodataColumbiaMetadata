@@ -199,13 +199,7 @@ hudson_bergen</enttypl>
 				<cntemail>maps@halcrow.com</cntemail>
 			</cntinfo>
 		</distrib>
-		<stdorder>
-			<digform>
-				<digtinfo>
-					<transize>0.339</transize>
-				</digtinfo>
-			</digform>
-		</stdorder>
+
 		<resdesc>halcrow_hudsonbergenlines_2012</resdesc></distinfo>
 	<metainfo>
 		<metd>20140320</metd>

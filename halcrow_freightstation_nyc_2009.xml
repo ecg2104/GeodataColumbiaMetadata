@@ -266,9 +266,8 @@ fre_sta</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>zip</formspec>
-<transize>0.025</transize>
+<formname>Geopackage</formname>
+
 </digtinfo>
 </digform>
 </stdorder>

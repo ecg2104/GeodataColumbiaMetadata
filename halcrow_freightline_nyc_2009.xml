@@ -297,8 +297,7 @@ fre_line</enttypl>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
-<formspec>Zip</formspec>
+<formname>Geopackage</formname>
 <transize>0.130</transize>
 </digtinfo>
 </digform>
