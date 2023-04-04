@@ -101,7 +101,7 @@ Chile Occupation Census Data, 2002 is a polygon theme representing Manzanas (6th
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -100,7 +100,7 @@ Bolivia Demographic Census Data, 2012 is a polygon theme representing Municipios
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

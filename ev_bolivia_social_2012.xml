@@ -100,7 +100,7 @@ Bolivia Social Census Data, 2012 is a polygon theme representing Municipios (3rd
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

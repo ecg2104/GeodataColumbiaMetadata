@@ -101,7 +101,7 @@ Chile Flooring of the Occupied House Census Data, 2002 is a polygon theme repres
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>
