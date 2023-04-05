@@ -776,7 +776,7 @@ Colombia Social Census Data, 2005 is a polygon theme representing Manzanas (6th 
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -505,7 +505,7 @@ Official population and housing data for Honduras from the 2001 census. This cen
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

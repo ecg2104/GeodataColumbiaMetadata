@@ -910,7 +910,7 @@ Guatemala Housing Census Data, 2014 is a polygon theme representing sectors in E
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>shapefile</formname>
+					<formname>Geopackage</formname>
 					<formspec>zip</formspec>
 				</digtinfo>
 			</digform>

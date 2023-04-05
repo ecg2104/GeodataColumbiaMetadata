@@ -1887,7 +1887,7 @@ Cuba Housing Census Data (Province), 2012 is a polygon theme representing Provin
 		<stdorder>
 			<digform>
 				<digtinfo>
-					<formname>shapefile</formname>
+					<formname>Geopackage</formname>
 					<formspec>zip</formspec>
 				</digtinfo>
 			</digform>
