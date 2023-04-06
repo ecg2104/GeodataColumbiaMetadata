@@ -115,7 +115,7 @@ South Africa Spot Elevations, 2014 is a point theme representing the spot elevat
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

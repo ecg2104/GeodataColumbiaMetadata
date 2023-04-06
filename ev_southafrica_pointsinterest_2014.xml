@@ -115,7 +115,7 @@ South Africa Points of Interest, 2014 is a point theme representing miscellaneou
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

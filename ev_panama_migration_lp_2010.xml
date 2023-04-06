@@ -263,7 +263,7 @@ Official population and housing data for Panama from the 2010 census. This censu
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

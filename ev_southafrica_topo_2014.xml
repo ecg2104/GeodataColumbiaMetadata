@@ -115,7 +115,7 @@ South Africa Miscellaneous Topographic Features, 2014 is a polygon theme represe
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

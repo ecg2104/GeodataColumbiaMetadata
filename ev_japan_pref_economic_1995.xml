@@ -100,7 +100,7 @@ Japan Prefecture Economic Census Data, 1995 is a polygon theme representing pref
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

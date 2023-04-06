@@ -115,7 +115,7 @@ South Africa Miscellaneous Structures, 2014 is a polygon theme representing stru
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

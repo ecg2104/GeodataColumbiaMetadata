@@ -115,7 +115,7 @@ South Africa Structures, 2014 is a point theme representing miscellaneous of str
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

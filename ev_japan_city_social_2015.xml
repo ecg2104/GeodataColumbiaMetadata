@@ -100,7 +100,7 @@ Japan City Social Census Data, 2015 is a polygon theme representing Cities (市/
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

@@ -115,7 +115,7 @@ South Africa HYPS Inland Water Bodies, 2014 is a polygon theme representing inla
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>

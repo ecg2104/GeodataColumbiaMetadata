@@ -2358,7 +2358,7 @@ Official population and housing data for Paraguay from the 2002 census. This cen
 <stdorder>
 <digform>
 <digtinfo>
-<formname>shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
 </digtinfo>
 </digform>
