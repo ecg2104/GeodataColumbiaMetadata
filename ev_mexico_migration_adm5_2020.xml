@@ -42,12 +42,12 @@
 </spdom>
 <descript>
 <abstract>
-Mexico Blocks with Economic Census Data, 2020 is a polygon theme representing Blocks (5th level census units) in Mexico as of 2020.  Attribute data include summary results of the 2020 Mexican census questions regarding economic variables. The documentation of these variables can be found in the "Economic" section from the accompanying code book. This dataset is part of Mexico 2020 Census collection.
+Mexico Blockswith Migration Census Data, 2020 is a polygon theme representing Blocks (5th level census units) in Mexico as of 2020.  Attribute data include summary results of the 2020 Mexican census questions regarding migration variables. The documentation of these variables can be found in the "Migration" section from the accompanying code book. This dataset is part of Mexico 2020 Census collection.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>Mexico Blocks with Economic Census Data, 2020</title>
+<title>Mexico Municipios with Migration Census Data, 2020</title>
 <origin>East View Cartographic, Incorporated</origin>
 <pubdate>2022</pubdate>
 <geoform>map</geoform>
@@ -55,7 +55,7 @@ Mexico Blocks with Economic Census Data, 2020 is a polygon theme representing Bl
 <publish>East View Cartographic, Incorporated</publish>
 </pubinfo>
 <origin>East View Cartographic, Incorporated</origin>
-<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_mexico_economic_adm5_2020.zip
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_mexico_migration_adm5_2020.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -166,7 +166,6 @@ Mexico Blocks with Economic Census Data, 2020 is a polygon theme representing Bl
     <udom>Identifier of the Census Sector as a Coded Value [ADM5]</udom>
   </attrdomv>
 </attr>
-
 <attr>
   <attrlabl>JOINCODE</attrlabl>
   <attrdef>Join Code</attrdef>
@@ -176,176 +175,96 @@ Mexico Blocks with Economic Census Data, 2020 is a polygon theme representing Bl
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E001</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Economically Active: Total Population [Población de 12 años y más económicamente activa]</attrdef>
+  <attrlabl>M001</attrlabl>
+  <attrdef>Population Born In This State: Total Population [Población nacida en la entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E002</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Economically Active: Male Population [Población femenina de 12 años y más económicamente activa]</attrdef>
+  <attrlabl>M002</attrlabl>
+  <attrdef>Population Born In This State: Female Population [Población femenina nacida en la entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E003</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Economically Active: Female Population [Población masculina de 12 años y más económicamente activa]</attrdef>
+  <attrlabl>M003</attrlabl>
+  <attrdef>Population Born In This State: Male Population [Población masculina nacida en la entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E004</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Not Economically Active: Total Population [Población de 12 años y más no económicamente activa]</attrdef>
+  <attrlabl>M004</attrlabl>
+  <attrdef>Population Born In a Different State: Total Population [Población nacida en otra entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E005</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Not Economically Active: Male Population [Población femenina de 12 años y más no económicamente activa]</attrdef>
+  <attrlabl>M005</attrlabl>
+  <attrdef>Population Born In a Different State: Female Population [Población femenina nacida en otra entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E006</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Not Economically Active: Female Population [Población masculina de 12 años y más no económicamente activa]</attrdef>
+  <attrlabl>M006</attrlabl>
+  <attrdef>Population Born In a Different State: Male Population [Población masculina nacida en otra entidad]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E007</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Employed: Total Population [Población de 12 años y más ocupada]</attrdef>
+  <attrlabl>M007</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In This State In March 2015: Total Population [Población de 5 años y más residente en la entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E008</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Employed: Male Population [Población femenina de 12 años y más ocupada]</attrdef>
+  <attrlabl>M008</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In This State In March 2015: Female Population [Población femenina de 5 años y más residente en la entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E009</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Employed: Female Population [Población masculina de 12 años y más ocupada]</attrdef>
+  <attrlabl>M009</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In This State In March 2015: Male Population [Población masculina de 5 años y más residente en la entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E010</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Unemployed: Total Population [Población de 12 años y más desocupada]</attrdef>
+  <attrlabl>M010</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In a Different State In March 2015: Total Population [Población de 5 años y más residente en otra entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E011</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Unemployed: Male Population [Población femenina de 12 años y más desocupada]</attrdef>
+  <attrlabl>M011</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In a Different State In March 2015: Female Population [Población femenina de 5 años y más residente en otra entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
   </attrdomv>
 </attr>
 <attr>
-  <attrlabl>E012</attrlabl>
-  <attrdef>Population Aged 12 Years Old and Older That Are Unemployed: Female Population [Población masculina de 12 años y más desocupada]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E013</attrlabl>
-  <attrdef>Population Covered By Health Services: Population With No Coverage [Población sin afiliación a servicios de salud]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E014</attrlabl>
-  <attrdef>Population Covered By Health Services: Total Population With Coverage [Población afiliada a servicios de salud]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E015</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By the Mexican Social Security Institute (IMSS) [Población afiliada a servicios de salud en el IMSS]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E016</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By the Mexican Institute for Social Security and Services for State Workers (ISSSTE) [Población afiliada a servicios de salud en el ISSSTE]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E017</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By the Social Security Institutes of the States (ISSSTE, ISSSEMYM, ISSSTEZAC, ISSSPEA, or ISSSTESON) [Población afiliada a servicios de salud en el ISSSTE estatal]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E018</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By Petróleos Mexicanos (Pemex), the Ministry of National Defense (SEDENA), or the Mexican Navy Secretariat (SEMAR) [Población afiliada a servicios de salud en PEMEX, Defensa o Marina]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E019</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By the Institute of Health for Welfare (INSABI) [Población afiliada a servicios de salud en el Instituto de Salud para el Bienestar]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E020</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By the Mexican Social Security Institute - Welfare (IMSS-BIENESTAR) [Población afiliada a servicios de salud en el IMSS BIENESTAR]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E021</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By a Private Institution [Población afiliada a servicios de salud en una institución privada]</attrdef>
-  <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
-  <attrdomv>
-    <udom>Frequency of Response in the Census Sector</udom>
-  </attrdomv>
-</attr>
-<attr>
-  <attrlabl>E022</attrlabl>
-  <attrdef>Population Covered By Health Services: Covered By Another Institution [Población afiliada a servicios de salud en otra institución]</attrdef>
+  <attrlabl>M012</attrlabl>
+  <attrdef>Population Aged 5 Years Old and Older Residing In a Different State In March 2015: Male Population [Población masculina de 5 años y más residente en otra entidad en marzo de 2015]</attrdef>
   <attrdefs>National Institute of Statistics and Geography (INEGI) of Mexico</attrdefs>
   <attrdomv>
     <udom>Frequency of Response in the Census Sector</udom>
@@ -402,7 +321,7 @@ Mexico Blocks with Economic Census Data, 2020 is a polygon theme representing Bl
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>ev_mexico_economic_adm5_2020</resdesc>
+<resdesc>ev_mexico_migration_adm5_2020</resdesc>
 <distrib>
 </distrib>
 </distinfo>
