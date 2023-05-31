@@ -34,10 +34,10 @@
 </keywords>
 <spdom>
   <bounding>
-    <westbc>-120.329414</westbc>
-    <eastbc>-85.998524</eastbc>
-    <northbc>35.484492</northbc>
-    <southbc>11.884538</southbc>
+    <westbc>-117.12776</westbc>
+    <eastbc>-86.811982388</eastbc>
+    <northbc>32.72083</northbc>
+    <southbc>14.5388286402</southbc>
   </bounding>
 </spdom>
 <descript>
@@ -81,11 +81,13 @@ Mexico Municipios with Demographic Census Data, 2020 is a polygon theme represen
 </cntinfo>
 </ptcontac>
 </idinfo>
+
 <spref>
 <horizsys>
   <gridsys>MEXICO_ITRF_2008_LCC</gridsys>
 </horizsys>
 </spref>
+
 <spdoinfo>
 <direct>Vector</direct>
 <ptvctinf>

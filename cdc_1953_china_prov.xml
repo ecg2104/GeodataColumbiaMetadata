@@ -14,6 +14,8 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_1953_china_prov.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -82,11 +84,11 @@
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/prov53.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
@@ -190,13 +192,13 @@ prov53</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>cdc_histchina_1953prov</resdesc>
+<resdesc>cdc_1953_china_prov</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
-<transize>0.927</transize>
+
 </digtinfo>
 </digform>
 </stdorder>
