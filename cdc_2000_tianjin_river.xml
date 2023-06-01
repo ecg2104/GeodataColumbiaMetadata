@@ -11,6 +11,8 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_tianjin_river.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -113,18 +115,28 @@
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -202,11 +214,11 @@ river</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>CDC_Census2000_Tianjinriver</resdesc>
+<resdesc>cdc_2000_tianjin_river</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>

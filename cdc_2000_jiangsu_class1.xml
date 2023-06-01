@@ -11,28 +11,30 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_jiangsu_class1.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Jiangsu Provincial Capital Location With 2000 Population Census Data is a point theme representing the capital of Jiangsu province in China in 2000.  Attribute information includes population variables from the China 2000 census. 
+<abstract>Jiangsu Provincial Capital Location With 2000 Population Census Data is a point theme representing the capital of Jiangsu province in China in 2000.  Attribute information includes population variables from the China 2000 census.
 
 This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.</abstract>
 <purpose>The data set was developed for display and analysis using GIS.</purpose>
 <supplinf>Notes on China 2000 Population Census Data:
-In order to guide you to use the data correctly, provide you some explanations as follows: 
-(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census. 
-(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place. 
-The following persons should be enumerated in their permanent residing place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being. 
-(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms. 
-(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data. 
-(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following: 
-    a. Data in the publication do not include population not enumerated in the census.  
-    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.  
-    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.  
-    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.  
-    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.  
-    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit. 
-Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results. 
+In order to guide you to use the data correctly, provide you some explanations as follows:
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+The following persons should be enumerated in their permanent residing place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census.
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
 (5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</supplinf>
 </descript>
 <timeperd>
@@ -123,21 +125,21 @@ Users should pay attention to the above-mentioned factors when using information
 </posacc>
 <lineage>
 <procstep>
-<procdesc>The 2000 China township GIS maps were developed for the 5th population Census data, which covered all 31 municipalities, provinces and autonomous regions of China, except for Taiwan, Hong Kong and Macao, with more than 50,000 townships (Xiang, Zhen and Jiedao). The 2000 China township maps provide geographical reference for the 5th population census data in spatial data analysis. It will help users to understand the spatial distribution of population and regional difference in China.  
+<procdesc>The 2000 China township GIS maps were developed for the 5th population Census data, which covered all 31 municipalities, provinces and autonomous regions of China, except for Taiwan, Hong Kong and Macao, with more than 50,000 townships (Xiang, Zhen and Jiedao). The 2000 China township maps provide geographical reference for the 5th population census data in spatial data analysis. It will help users to understand the spatial distribution of population and regional difference in China.
 
-The population data came from the 5th China Population Census surveyed in 2000. The GIS data is based on the national digital map (1:1 million) developed by the National Geographic Information Center of China (NGCC), including rives, roads, residential area and administrative boundaries. Other sources "The China Atlas of Standard Place Names", the newly published provincial atlas, the digital city atlas, the street atlas of major cities, the zip code atlas, and the directory of all enterprises and administrative units of China.  
+The population data came from the 5th China Population Census surveyed in 2000. The GIS data is based on the national digital map (1:1 million) developed by the National Geographic Information Center of China (NGCC), including rives, roads, residential area and administrative boundaries. Other sources "The China Atlas of Standard Place Names", the newly published provincial atlas, the digital city atlas, the street atlas of major cities, the zip code atlas, and the directory of all enterprises and administrative units of China.
 
-The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:  
+The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:
 
-1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don?t match those names in the Census tables.  
+1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don?t match those names in the Census tables.
 
-2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.  
+2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.
 
-3) For some virtual townships, which don?t have central locations, we try to find the mostly related locations on the map.  
+3) For some virtual townships, which don?t have central locations, we try to find the mostly related locations on the map.
 
-4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps. 
+4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps.
 
-5) The geographic reference degree data is extracted from the maps with the locations of the townships, compatible with 2000 population Census data.  
+5) The geographic reference degree data is extracted from the maps with the locations of the townships, compatible with 2000 population Census data.
 
 6) The digital township map (1: 1 million) is converted from the geographic degree data.</procdesc>
 </procstep>
@@ -153,18 +155,28 @@ The primary work for the 2000 China township maps is to find the geographic loca
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -294,11 +306,11 @@ class1</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>CDC_Census2000_Jiangsuclass1</resdesc>
+<resdesc>cdc_2000_jiangsu_class1</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>

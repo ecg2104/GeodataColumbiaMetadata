@@ -13,6 +13,8 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_1990_tibet_chinag_90a.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -87,11 +89,11 @@
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/Tibetchina90a.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
@@ -129,18 +131,28 @@
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -1115,13 +1127,13 @@ china90a</enttypl>
 </detailed>
 </eainfo>
 <distinfo>
-<resdesc>cdc_histtibet_china90a</resdesc>
+<resdesc>cdc_1990_tibet_chinag_90a</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
-<transize>0.765</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

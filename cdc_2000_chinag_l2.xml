@@ -15,12 +15,14 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_chinag_l2.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>China County Boundary with 2000 Population Census Data From 9.95% Long Form Data (table L7-L8) is a polygon theme representing counties in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  
+<abstract>China County Boundary with 2000 Population Census Data From 9.95% Long Form Data (table L7-L8) is a polygon theme representing counties in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.
 
-This layer is the second of two layers covering the entire long form data; this layer covers Long Form tables L7-1 to L8-6: L7-1: Population by current residence and place of birth; L7-2: Population by current residence and by time of moving to current township, town or street; L7-3: Population by current residence and type of emigration place.  L7-4: Population by current residence and former residence 5 years ago; L7-6-1: Population by current residence, type of emigration place and education attainment (intra-region); L7-6-2: Population by current residence, type of emigration place and education attainment (inter-region); L7-7-1: Population by current residence, emigration place and occupation (intra-region); L7-7-2: Population by current residence, emigration place and occupation (inter-region); L7-8: Women having births by current residence, place of household registration and birth order.   L8-1: Family households by use of houses, whether living with other families, single or multi floors, outer wall materials and by region; L8-2: Status of family houses by time of construction and by region; L8-3: Housing facilities by region; L8-4: Family households by source of houses and by region; L8-5: Family households by expenditure on purchasing or building houses and by region; L8-6: Family households by monthly housing rent and by region. 
+This layer is the second of two layers covering the entire long form data; this layer covers Long Form tables L7-1 to L8-6: L7-1: Population by current residence and place of birth; L7-2: Population by current residence and by time of moving to current township, town or street; L7-3: Population by current residence and type of emigration place.  L7-4: Population by current residence and former residence 5 years ago; L7-6-1: Population by current residence, type of emigration place and education attainment (intra-region); L7-6-2: Population by current residence, type of emigration place and education attainment (inter-region); L7-7-1: Population by current residence, emigration place and occupation (intra-region); L7-7-2: Population by current residence, emigration place and occupation (inter-region); L7-8: Women having births by current residence, place of household registration and birth order.   L8-1: Family households by use of houses, whether living with other families, single or multi floors, outer wall materials and by region; L8-2: Status of family houses by time of construction and by region; L8-3: Housing facilities by region; L8-4: Family households by source of houses and by region; L8-5: Family households by expenditure on purchasing or building houses and by region; L8-6: Family households by monthly housing rent and by region.
 
  This data layer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.</abstract>
 <purpose>The data set was developed for display and analysis using GIS.</purpose>
@@ -112,11 +114,11 @@ This layer is the second of two layers covering the entire long form data; this 
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/Chinal2.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <spdoinfo>
@@ -129,18 +131,28 @@ This layer is the second of two layers covering the entire long form data; this 
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -2143,11 +2155,11 @@ Chinal2</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>cdc_census2000county_chinal2</resdesc>
+<resdesc>cdc_2000_chinag_l2</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>

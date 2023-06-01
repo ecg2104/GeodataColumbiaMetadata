@@ -13,28 +13,30 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_tibet_province2000l2.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Tibet Province With 2000 Population Census Data From 9.95% Long Form Data (table L5-L8) is a polygon theme representing Tibet province in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  
+<abstract>Tibet Province With 2000 Population Census Data From 9.95% Long Form Data (table L5-L8) is a polygon theme representing Tibet province in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.
 
 This data layer is part of the Tibet 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.</abstract>
 <purpose>The data set was developed for display and analysis using GIS.</purpose>
 <supplinf>Notes on China 2000 Population Census Data:
-In order to guide you to use the data correctly, provide you some explanations as follows: 
-(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census. 
-(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place. 
-The following persons should be enumerated in their permanent residing place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being. 
-(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms. 
-(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data. 
-(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following: 
-    a. Data in the publication do not include population not enumerated in the census.  
-    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.  
-    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.  
-    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.  
-    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.  
-    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit. 
-Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results. 
+In order to guide you to use the data correctly, provide you some explanations as follows:
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+The following persons should be enumerated in their permanent residing place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census.
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
 (5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</supplinf>
 </descript>
 <timeperd>
@@ -126,11 +128,11 @@ Users should pay attention to the above-mentioned factors when using information
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/Tibetprovince2000l2.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
@@ -141,21 +143,21 @@ Users should pay attention to the above-mentioned factors when using information
 </posacc>
 <lineage>
 <procstep>
-<procdesc>The 2000 China township GIS maps were developed for the 5th population Census data, which covered all 31 municipalities, provinces and autonomous regions of China, except for Taiwan, Hong Kong and Macao, with more than 50,000 townships (Xiang, Zhen and Jiedao). The 2000 China township maps provide geographical reference for the 5th population census data in spatial data analysis. It will help users to understand the spatial distribution of population and regional difference in China.  
+<procdesc>The 2000 China township GIS maps were developed for the 5th population Census data, which covered all 31 municipalities, provinces and autonomous regions of China, except for Taiwan, Hong Kong and Macao, with more than 50,000 townships (Xiang, Zhen and Jiedao). The 2000 China township maps provide geographical reference for the 5th population census data in spatial data analysis. It will help users to understand the spatial distribution of population and regional difference in China.
 
-The population data came from the 5th China Population Census surveyed in 2000. The GIS data is based on the national digital map (1:1 million) developed by the National Geographic Information Center of China (NGCC), including rives, roads, residential area and administrative boundaries. Other sources "The China Atlas of Standard Place Names", the newly published provincial atlas, the digital city atlas, the street atlas of major cities, the zip code atlas, and the directory of all enterprises and administrative units of China.  
+The population data came from the 5th China Population Census surveyed in 2000. The GIS data is based on the national digital map (1:1 million) developed by the National Geographic Information Center of China (NGCC), including rives, roads, residential area and administrative boundaries. Other sources "The China Atlas of Standard Place Names", the newly published provincial atlas, the digital city atlas, the street atlas of major cities, the zip code atlas, and the directory of all enterprises and administrative units of China.
 
-The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:  
+The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:
 
-1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don't match those names in the Census tables.  
+1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don't match those names in the Census tables.
 
-2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.  
+2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.
 
-3) For some virtual townships, which don't have central locations, we try to find the mostly related locations on the map.  
+3) For some virtual townships, which don't have central locations, we try to find the mostly related locations on the map.
 
-4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps. 
+4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps.
 
-5) The geographic reference degree data is extracted from the maps with the locations of the townships, compatible with 2000 population Census data.  
+5) The geographic reference degree data is extracted from the maps with the locations of the townships, compatible with 2000 population Census data.
 
 6) The digital township map (1: 1 million) is converted from the geographic degree data.</procdesc>
 <proccont>
@@ -188,564 +190,574 @@ The primary work for the 2000 China township maps is to find the geographic loca
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
+</spref>
+
+
+
 <latres>0.000000</latres>
 <longres>0.000000</longres>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245.000000</semiaxis>
-<denflat>298.300000</denflat>
-</geodetic>
-</horizsys>
-</spref>
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <overview>
-<eaover>Tibet 2000 Provincial Population Census Data with Maps     
-Variable Description  
-Area The area size  
-GB  Two digit GB code of province  
-Gbcode Five digit GB code of province  
-Cname Name of province in Chinese Pingying  
-Ename Name of province in English 
+<eaover>Tibet 2000 Provincial Population Census Data with Maps
+Variable Description
+Area The area size
+GB  Two digit GB code of province
+Gbcode Five digit GB code of province
+Cname Name of province in Chinese Pingying
+Ename Name of province in English
 
-L503001 Population of Age 15 and Over  
-L503002 Male Population of Age 15 and Over  
-L503003 Female Population of Age 15 and Over  
-L503004 Population of Age 15 and Over: Never Married  
-L503005 Male Population of Age 15 and Over: Never Married  
-L503006 Female Population of Age 15 and Over: Never Married  
-L503007 Population of Age 15 and Over: First Married  
-L503008 Male Population of Age 15 and Over: First Married  
-L503009 Female Population of Age 15 and Over: First Married  
-L503010 Population of Age 15 and Over: Re-married  
-L503011 Male Population of Age 15 and Over: Re-married  
-L503012 Female Population of Age 15 and Over: Re-married  
-L503013 Population of Age 15 and Over: Divorced  
-L503014 Male Population of Age 15 and Over: Divorced  
-L503015 Female Population of Age 15 and Over: Divorced  
-L503016 Population of Age 15 and Over: Widowed  
-L503017 Male Population of Age 15 and Over: Widowed  
-L503018 Female Population of Age 15 and Over: Widowed  
- 
-L601001 The Fertility Rate of Women Aged 15-19(?)  
-L601002 The Fertility Rate of Women Aged 20-24(?)  
-L601003 The Fertility Rate of Women Aged 25-29(?)  
-L601004 The Fertility Rate of Women Aged 30-34(?)  
-L601005 The Fertility Rate of Women Aged 35-39(?)  
-L601006 The Fertility Rate of Women Aged 40-44(?)  
-L601007 The Fertility Rate of Women Aged 45-49(?)  
-L601008 The Total Fertility Rate(?)  
- 
-L609001 Women Population Aged 15-50  
-L609002 Total Number of Live Births of Women Aged 15-50  
-L609003 Total Number of Live Births of Women Aged 15-50  
-L609004 Total Number of Live Births of Women Aged 15-50  
-L609005 Total Number of Surviving Children of Women Aged 15-50  
-L609006 Total Number of Surviving Children of Women Aged 15-50: Male  
-L609007 Total Number of Surviving Children of Women Aged 15-50: Female  
-L609008 Percent of Surviving Children to Live Births  
-L609009 Woman's average live Births  
-L609010 Woman's average Surviving Children  
- 
-L701001 Total Population  
-L701002 Population Born in This County, City, or District  
-L701003 Population Born in Other Counties, Cities, or Districts of This Province  
-L701004 Population Born in Other Provinces:  Beijing  
-L701005 Population Born in Other Provinces:  Tianjin  
-L701006 Population Born in Other Provinces:  Hebei  
-L701007 Population Born in Other Provinces:  Shanxi  
-L701008 Population Born in Other Provinces:  Inner Mongolia  
-L701009 Population Born in Other Provinces:  Liaoning  
-L701010 Population Born in Other Provinces:  Jilin  
-L701011 Population Born in Other Provinces:  Heilongjiang  
-L701012 Population Born in Other Provinces:  Shanhai  
-L701013 Population Born in Other Provinces:  Jiangsu  
-L701014 Population Born in Other Provinces:  Zhejiang  
-L701015 Population Born in Other Provinces:  Anhui  
-L701016 Population Born in Other Provinces:  Fujian  
-L701017 Population Born in Other Provinces:  Jiangxi  
-L701018 Population Born in Other Provinces:  Shandong  
-L701019 Population Born in Other Provinces:  Henai  
-L701020 Population Born in Other Provinces:  Hubei  
-L701021 Population Born in Other Provinces:  Hunan  
-L701022 Population Born in Other Provinces:  Guangdong  
-L701023 Population Born in Other Provinces:  Guangxi  
-L701024 Population Born in Other Provinces:  Hainan  
-L701025 Population Born in Other Provinces:  Chongqing  
-L701026 Population Born in Other Provinces:  Sichuan  
-L701027 Population Born in Other Provinces:  Guizhou  
-L701028 Population Born in Other Provinces:  Yunnan  
-L701029 Population Born in Other Provinces:  Tibet  
-L701030 Population Born in Other Provinces:  Shaanxi  
-L701031 Population Born in Other Provinces:  Gansu  
-L701032 Population Born in Other Provinces:  Qinghai  
-L701033 Population Born in Other Provinces:  Ningxia  
-L701034 Population Born in Other Provinces:  Xinjiang  
-L701035 Population Born in Other Provinces:  Hong Kong, Macao, Taiwan or Abroad   
- 
-L702001 Total Population  
-L702002 Population Who Have Lived Here After Being Born In This Place   
-L702003 Population Who Moved to This Place Before October 31, 1995  
-L702004 Population Who Moved to This Place Between November 1, 1995 - December 31, 1995  
-L702005 Population Who Moved to This Place in 1996  
-L702006 Population Who Moved to This Place in 1997  
-L702007 Population Who Moved to This Place in 1998  
-L702008 Population Who Moved to This Place in 1999  
-L702009 Population Who Moved to This Place in 2000  
- 
-L703001 Total Population Moved to This Place  
-L703002 Total Population Moved to This Place from the Same Province  
-L703003 Total Population Moved to This Place from Other Townships of the Same Province  
-L703004 Total Population Moved to This Place from Other Neighbourhood Committees of the Town of the Same Province  
-L703005 Total Population Moved to This Place from Other Village Committees of The Town of the Same Province  
-L703006 Total Population Moved to This Place from Other Jiedaos of the Same Province  
-L703007 Total Population Moved to This Place from Beijing  
-L703008 Total Population Moved to This Place from Other Townships of Beijing  
-L703009 Total Population Moved to This Place from Other Neighbourhood Committees of Beijing  
-L703010 Total Population Moved to This Place from Other Village Committees of The Town of Beijing  
-L703011 Total Population Moved to This Place from Other Jiedao of Beijing  
-L703012 Total Population Moved to This Place from Tianjin  
-L703013 Total Population Moved to This Place from Other Townships of Tianjin  
-L703014 Total Population Moved to This Place from Other Neighbourhood Committees of Tianjin  
-L703015 Total Population Moved to This Place from Other Village Committees of The Town of Tianjin  
-L703016 Total Population Moved to This Place from Other Jiedao of Tianjin  
-L703017 Total Population Moved to This Place from Hebei  
-L703018 Total Population Moved to This Place from Other Townships of Hebei  
-L703019 Total Population Moved to This Place from Other Neighbourhood Committees of Hebei  
-L703020 Total Population Moved to This Place from Other Village Committees of The Town of Hebei  
-L703021 Total Population Moved to This Place from Other Jiedao of Hebei  
-L703022 Total Population Moved to This Place from Shanxi  
-L703023 Total Population Moved to This Place from Other Townships of Shanxi  
-L703024 Total Population Moved to This Place from Other Neighbourhood Committees of Shanxi  
-L703025 Total Population Moved to This Place from Other Village Committees of The Town of Shanxi  
-L703026 Total Population Moved to This Place from Other Jiedao of Shanxi  
-L703027 Total Population Moved to This Place from Inner Mongolia  
-L703028 Total Population Moved to This Place from Other Townships of Inner Mongolia  
-L703029 Total Population Moved to This Place from Other Neighbourhood Committees of Inner Mongolia  
-L703030 Total Population Moved to This Place from Other Village Committees of The Town of Inner Mongolia  
-L703031 Total Population Moved to This Place from Other Jiedao of Inner Mongolia  
-L703032 Total Population Moved to This Place from Liaoning  
-L703033 Total Population Moved to This Place from Other Townships of Liaoning  
-L703034 Total Population Moved to This Place from Other Neighbourhood Committees of Liaoning  
-L703035 Total Population Moved to This Place from Other Village Committees of The Town of Liaoning  
-L703036 Total Population Moved to This Place from Other Jiedao of Liaoning  
-L703037 Total Population Moved to This Place from Jilin  
-L703038 Total Population Moved to This Place from Other Townships of Jilin  
-L703039 Total Population Moved to This Place from Other Neighbourhood Committees of Jilin  
-L703040 Total Population Moved to This Place from Other Village Committees of The Town of Jilin  
-L703041 Total Population Moved to This Place from Other Jiedao of Jilin  
-L703042 Total Population Moved to This Place from Heilongjiang  
-L703043 Total Population Moved to This Place from Other Townships of Heilongjiang  
-L703044 Total Population Moved to This Place from Other Neighbourhood Committees of Heilongjiang  
-L703045 Total Population Moved to This Place from Other Village Committees of The Town of Heilongjiang  
-L703046 Total Population Moved to This Place from Other Jiedao of Heilongjiang  
-L703047 Total Population Moved to This Place from Shanghai  
-L703048 Total Population Moved to This Place from Other Townships of Shanghai  
-L703049 Total Population Moved to This Place from Other Neighbourhood Committees of Shanghai  
-L703050 Total Population Moved to This Place from Other Village Committees of The Town of Shanghai  
-L703051 Total Population Moved to This Place from Other Jiedao of Shanghai  
-L703052 Total Population Moved to This Place from Jiangsu  
-L703053 Total Population Moved to This Place from Other Townships of Jiangsu  
-L703054 Total Population Moved to This Place from Other Neighbourhood Committees of Jiangsu  
-L703055 Total Population Moved to This Place from Other Village Committees of The Town of Jiangsu  
-L703056 Total Population Moved to This Place from Other Jiedao of Jiangsu  
-L703057 Total Population Moved to This Place from Zhejiang  
-L703058 Total Population Moved to This Place from Other Townships of Zhejiang  
-L703059 Total Population Moved to This Place from Other Neighbourhood Committees of Zhejiang  
-L703060 Total Population Moved to This Place from Other Village Committees of The Town of Zhejiang  
-L703061 Total Population Moved to This Place from Other Jiedao of Zhejiang  
-L703062 Total Population Moved to This Place from Anhui  
-L703063 Total Population Moved to This Place from Other Townships of Anhui  
-L703064 Total Population Moved to This Place from Other Neighbourhood Committees of Anhui  
-L703065 Total Population Moved to This Place from Other Village Committees of The Town of Anhui  
-L703066 Total Population Moved to This Place from Other Jiedao of Anhui  
-L703067 Total Population Moved to This Place from Fujian  
-L703068 Total Population Moved to This Place from Other Townships of Fujian  
-L703069 Total Population Moved to This Place from Other Neighbourhood Committees of Fujian  
-L703070 Total Population Moved to This Place from Other Village Committees of The Town of Fujian  
-L703071 Total Population Moved to This Place from Other Jiedao of Fujian  
-L703072 Total Population Moved to This Place from Jiangxi  
-L703073 Total Population Moved to This Place from Other Townships of Jiangxi  
-L703074 Total Population Moved to This Place from Other Neighbourhood Committees of Jiangxi  
-L703075 Total Population Moved to This Place from Other Village Committees of The Town of Jiangxi  
-L703076 Total Population Moved to This Place from Other Jiedao of Jiangxi  
-L703077 Total Population Moved to This Place from Shandong  
-L703078 Total Population Moved to This Place from Other Townships of Shandong  
-L703079 Total Population Moved to This Place from Other Neighbourhood Committees of Shandong  
-L703080 Total Population Moved to This Place from Other Village Committees of The Town of Shandong  
-L703081 Total Population Moved to This Place from Other Jiedao of Shandong  
-L703082 Total Population Moved to This Place from Henan  
-L703083 Total Population Moved to This Place from Other Townships of Henan  
-L703084 Total Population Moved to This Place from Other Neighbourhood Committees of Henan  
-L703085 Total Population Moved to This Place from Other Village Committees of The Town of Henan  
-L703086 Total Population Moved to This Place from Other Jiedao of Henan  
-L703087 Total Population Moved to This Place from Hubei  
-L703088 Total Population Moved to This Place from Other Townships of Hubei  
-L703089 Total Population Moved to This Place from Other Neighbourhood Committees of Hubei  
-L703090 Total Population Moved to This Place from Other Village Committees of The Town of Hubei  
-L703091 Total Population Moved to This Place from Other Jiedao of Hubei  
-L703092 Total Population Moved to This Place from Hunan  
-L703093 Total Population Moved to This Place from Other Townships of Hunan  
-L703094 Total Population Moved to This Place from Other Neighbourhood Committees of Hunan  
-L703095 Total Population Moved to This Place from Other Village Committees of The Town of Hunan  
-L703096 Total Population Moved to This Place from Other Jiedao of Hunan  
-L703097 Total Population Moved to This Place from Guangdong  
-L703098 Total Population Moved to This Place from Other Townships of Guangdong  
-L703099 Total Population Moved to This Place from Other Neighbourhood Committees of Guangdong  
-L703100 Total Population Moved to This Place from Other Village Committees of The Town of Guangdong  
-L703101 Total Population Moved to This Place from Other Jiedao of Guangdong  
-L703102 Total Population Moved to This Place from Guangxi  
-L703103 Total Population Moved to This Place from Other Townships of Guangxi  
-L703104 Total Population Moved to This Place from Other Neighbourhood Committees of Guangxi  
-L703105 Total Population Moved to This Place from Other Village Committees of The Town of Guangxi  
-L703106 Total Population Moved to This Place from Other Jiedao of Guangxi  
-L703107 Total Population Moved to This Place from Hainan  
-L703108 Total Population Moved to This Place from Other Townships of Hainan  
-L703109 Total Population Moved to This Place from Other Neighbourhood Committees of Hainan  
-L703110 Total Population Moved to This Place from Other Village Committees of The Town of Hainan  
-L703111 Total Population Moved to This Place from Other Jiedao of Hainan  
-L703112 Total Population Moved to This Place from Chongqing  
-L703113 Total Population Moved to This Place from Other Townships of Chongqing  
-L703114 Total Population Moved to This Place from Other Neighbourhood Committees of Chongqing  
-L703115 Total Population Moved to This Place from Other Village Committees of The Town of Chongqing  
-L703116 Total Population Moved to This Place from Other Jiedao of Chongqing  
-L703117 Total Population Moved to This Place from Sichuan  
-L703118 Total Population Moved to This Place from Other Townships of Sichuan  
-L703119 Total Population Moved to This Place from Other Neighbourhood Committees of Sichuan  
-L703120 Total Population Moved to This Place from Other Village Committees of The Town of Sichuan  
-L703121 Total Population Moved to This Place from Other Jiedao of Sichuan  
-L703122 Total Population Moved to This Place from Guizhou  
-L703123 Total Population Moved to This Place from Other Townships of Guizhou  
-L703124 Total Population Moved to This Place from Other Neighbourhood Committees of Guizhou  
-L703125 Total Population Moved to This Place from Other Village Committees of The Town of Guizhou  
-L703126 Total Population Moved to This Place from Other Jiedao of Guizhou  
-L703127 Total Population Moved to This Place from Yunnan  
-L703128 Total Population Moved to This Place from Other Townships of Yunnan  
-L703129 Total Population Moved to This Place from Other Neighbourhood Committees of Yunnan  
-L703130 Total Population Moved to This Place from Other Village Committees of The Town of Yunnan  
-L703131 Total Population Moved to This Place from Other Jiedao of Yunnan  
-L703132 Total Population Moved to This Place from Tibet  
-L703133 Total Population Moved to This Place from Other Townships of Tibet  
-L703134 Total Population Moved to This Place from Other Neighbourhood Committees of Tibet  
-L703135 Total Population Moved to This Place from Other Village Committees of The Town of Tibet  
-L703136 Total Population Moved to This Place from Other Jiedao of Tibet  
-L703137 Total Population Moved to This Place from Shaanxi  
-L703138 Total Population Moved to This Place from Other Townships of Shaanxi  
-L703139 Total Population Moved to This Place from Other Neighbourhood Committees of Shaanxi  
-L703140 Total Population Moved to This Place from Other Village Committees of The Town of Shaanxi  
-L703141 Total Population Moved to This Place from Other Jiedao of Shaanxi  
-L703142 Total Population Moved to This Place from Gansu  
-L703143 Total Population Moved to This Place from Other Townships of Gansu  
-L703144 Total Population Moved to This Place from Other Neighbourhood Committees of Gansu  
-L703145 Total Population Moved to This Place from Other Village Committees of The Town of Gansu  
-L703146 Total Population Moved to This Place from Other Jiedao of Gansu  
-L703147 Total Population Moved to This Place from Qinghai  
-L703148 Total Population Moved to This Place from Other Townships of Qinghai  
-L703149 Total Population Moved to This Place from Other Neighbourhood Committees of Qinghai  
-L703150 Total Population Moved to This Place from Other Village Committees of The Town of Qinghai  
-L703151 Total Population Moved to This Place from Other Jiedao of Qinghai  
-L703152 Total Population Moved to This Place from Ningxia  
-L703153 Total Population Moved to This Place from Other Townships of Ningxia  
-L703154 Total Population Moved to This Place from Other Neighbourhood Committees of Ningxia  
-L703155 Total Population Moved to This Place from Other Village Committees of The Town of Ningxia  
-L703156 Total Population Moved to This Place from Other Jiedao of Ningxia  
-L703157 Total Population Moved to This Place from Xinjiang  
-L703158 Total Population Moved to This Place from Other Townships of Xinjiang  
-L703159 Total Population Moved to This Place from Other Neighbourhood Committees of Xinjiang  
-L703160 Total Population Moved to This Place from Other Village Committees of The Town of Xinjiang  
-L703161 Total Population Moved to This Place from Other Jiedao of Xinjiang  
-L703162 Total Population Moved to This Place from Hong Kong,Macao and Taiwan or abroad  
- 
-L704001 Total Population Moved to This Place for More Than Five Years  
-L704002 Total Population Moved to This Place for More Than Five Years from the Same Provinces  
-L704003 Total Population Moved to This Place for More Than Five Years from the Other Provinces  
-L704004 Total Population Moved to This Place for More Than Five Years from Beijing  
-L704005 Total Population Moved to This Place for More Than Five Years from Tianjin  
-L704006 Total Population Moved to This Place for More Than Five Years from Hebei  
-L704007 Total Population Moved to This Place for More Than Five Years from Shanxi  
-L704008 Total Population Moved to This Place for More Than Five Years from Inner Mongolia  
-L704009 Total Population Moved to This Place for More Than Five Years from Liaoning  
-L704010 Total Population Moved to This Place for More Than Five Years from Jilin  
-L704011 Total Population Moved to This Place for More Than Five Years from Heilongjiang  
-L704012 Total Population Moved to This Place for More Than Five Years from Shanghai  
-L704013 Total Population Moved to This Place for More Than Five Years from Jiangsu  
-L704014 Total Population Moved to This Place for More Than Five Years from Zhejiang  
-L704015 Total Population Moved to This Place for More Than Five Years from Anhui  
-L704016 Total Population Moved to This Place for More Than Five Years from Fujian  
-L704017 Total Population Moved to This Place for More Than Five Years from Jiangxi  
-L704018 Total Population Moved to This Place for More Than Five Years from Shandong  
-L704019 Total Population Moved to This Place for More Than Five Years from Henai  
-L704020 Total Population Moved to This Place for More Than Five Years from Hubei  
-L704021 Total Population Moved to This Place for More Than Five Years from Hunan  
-L704022 Total Population Moved to This Place for More Than Five Years from Guangdong  
-L704023 Total Population Moved to This Place for More Than Five Years from Guangxi  
-L704024 Total Population Moved to This Place for More Than Five Years from Hainan  
-L704025 Total Population Moved to This Place for More Than Five Years from Chongqing  
-L704026 Total Population Moved to This Place for More Than Five Years from Sichuan  
-L704027 Total Population Moved to This Place for More Than Five Years from Guizhou  
-L704028 Total Population Moved to This Place for More Than Five Years from Yunnan  
-L704029 Total Population Moved to This Place for More Than Five Years from Tibet  
-L704030 Total Population Moved to This Place for More Than Five Years from Shaanxi  
-L704031 Total Population Moved to This Place for More Than Five Years from Gansu  
-L704032 Total Population Moved to This Place for More Than Five Years from Qinghai  
-L704033 Total Population Moved to This Place for More Than Five Years from Ningxia  
-L704034 Total Population Moved to This Place for More Than Five Years from Xinjiang  
-L704035 Total Population Moved to This Place for More Than Five Years from Hong Kong, Macao and Taiwan or abroad  
- 
-L706001 Total Population Moved to This Place from Other Places of the Same Province (intraprovince)  
-L706002 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince)  
-L706003 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince)  
-L706004 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince)  
-L706005 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince)  
-L706006 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  No Schooling  
-L706007 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  No Schooling  
-L706008 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  No Schooling  
-L706009 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  No Schooling  
-L706010 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  No Schooling  
-L706011 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Eminiate Illiteracy  
-L706012 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Eminiate Illiteracy  
-L706013 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Eminiate Illiteracy  
-L706014 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Eminiate Illiteracy  
-L706015 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Eminiate Illiteracy  
-L706016 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Primary School  
-L706017 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Primary School  
-L706018 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Primary School  
-L706019 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Primary School  
-L706020 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Primary School  
-L706021 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Junior Middle School  
-L706022 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Junior Middle School  
-L706023 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Junior Middle School  
-L706024 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Junior Middle School  
-L706025 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Junior Middle School  
-L706026 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Senior Middle School  
-L706027 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Senior Middle School  
-L706028 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Senior Middle School  
-L706029 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Senior Middle School  
-L706030 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Senior Middle School  
-L706031 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Sepcialized secondary school  
-L706032 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Sepcialized secondary school  
-L706033 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Sepcialized secondary school  
-L706034 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Sepcialized secondary school  
-L706035 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Sepcialized secondary school  
-L706036 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Junior College  
-L706037 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Junior College  
-L706038 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Junior College  
-L706039 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Junior College  
-L706040 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Junior College  
-L706041 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  University  
-L706042 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  University  
-L706043 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  University  
-L706044 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  University  
-L706045 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  University  
-L706046 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Graduate Student  
-L706047 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Graduate Student  
-L706048 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Graduate Student  
-L706049 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Graduate Student  
-L706050 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Graduate Student     
- 
-L706051 Total Population Moved to This Place from Other Places of the Other Province (interprovince)  
-L706052 Total Population Moved to This Place from Other Townships of the Other Province (interprovince)  
-L706053 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince)  
-L706054 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince)  
-L706055 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince)  
-L706056 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  No Schooling  
-L706057 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  No Schooling  
-L706058 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  No Schooling  
-L706059 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  No Schooling  
-L706060 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  No Schooling  
-L706061 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Eminiate Illiteracy  
-L706062 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Eminiate Illiteracy  
-L706063 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Eminiate Illiteracy  
-L706064 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Eminiate Illiteracy  
-L706065 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Eminiate Illiteracy  
-L706066 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Primary School  
-L706067 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Primary School  
-L706068 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Primary School  
-L706069 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Primary School  
-L706070 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Primary School  
-L706071 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Junior Middle School  
-L706072 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Junior Middle School  
-L706073 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Junior Middle School  
-L706074 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Junior Middle School  
-L706075 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Junior Middle School  
-L706076 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Senior Middle School  
-L706077 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Senior Middle School  
-L706078 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Senior Middle School  
-L706079 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Senior Middle School  
-L706080 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Senior Middle School  
-L706081 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Sepcialized secondary school  
-L706082 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Sepcialized secondary school  
-L706083 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Sepcialized secondary school  
-L706084 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Sepcialized secondary school  
-L706085 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Sepcialized secondary school  
-L706086 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Junior College  
-L706087 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Junior College  
-L706088 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Junior College  
-L706089 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Junior College  
-L706090 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Junior College  
-L706091 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  University  
-L706092 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  University  
-L706093 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  University  
-L706094 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  University  
-L706095 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  University  
-L706096 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Graduate Student  
-L706097 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Graduate Student  
-L706098 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Graduate Student  
-L706099 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Graduate Student  
-L706100 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Graduate Student     
- 
-L707001 Total Migration (intraprovince)  
-L707002 Total Male Migration (intraprovince)  
-L707003 Total Female Migration (intraprovince)  
-L707004 Total Migration (intraprovince):  Administrator/Manager  
-L707005 Total Male Migration (intraprovince): Administrator/Manager  
-L707006 Total Female Migration (intraprovince): Administrator/Manager  
-L707007 Total Migration (intraprovince):  Professional/Technical  
-L707008 Total Male Migration (intraprovince): Professional/Technical  
-L707009 Total Female Migration (intraprovince): Professional/Technical  
-L707010 Total Migration (intraprovince):  Clerical &amp; Related Workers  
-L707011 Total Male Migration (intraprovince): Clerical &amp; Related Workers  
-L707012 Total Female Migration (intraprovince): Clerical &amp; Related Workers  
-L707013 Total Migration (intraprovince):  Sales &amp; Service Workers  
-L707014 Total Male Migration (intraprovince): Sales &amp; Service Workers  
-L707015 Total Female Migration (intraprovince): Sales &amp; Service Workers  
-L707016 Total Migration (intraprovince):  Agriculture &amp; Related Workers  
-L707017 Total Male Migration (intraprovince): Agriculture &amp; Related Workers  
-L707018 Total Female Migration (intraprovince): Agriculture &amp; Related Workers  
-L707019 Total Migration (intraprovince):  Production &amp; Related Workers  
-L707020 Total Male Migration (intraprovince): Production &amp; Related Workers  
-L707021 Total Female Migration (intraprovince): Production &amp; Related Workers  
-L707022 Total Migration (intraprovince):  Not Stated  
-L707023 Total Male Migration (intraprovince): Not Stated  
-L707024 Total Female Migration (intraprovince): Not Stated    
- 
-L707025 Total Migration (interprovince)  
-L707026 Total Male Migration (interprovince)  
-L707027 Total Female Migration (interprovince)  
-L707028 Total Migration (interprovince):  Administrator/Manager  
-L707029 Total Male Migration (interprovince): Administrator/Manager  
-L707030 Total Female Migration (interprovince): Administrator/Manager  
-L707031 Total Migration (interprovince):  Professional/Technical  
-L707032 Total Male Migration (interprovince): Professional/Technical  
-L707033 Total Female Migration (interprovince): Professional/Technical  
-L707034 Total Migration (interprovince):  Clerical &amp; Related Workers  
-L707035 Total Male Migration (interprovince): Clerical &amp; Related Workers  
-L707036 Total Female Migration (interprovince): Clerical &amp; Related Workers  
-L707037 Total Migration (interprovince):  Sales &amp; Service Workers  
-L707038 Total Male Migration (interprovince): Sales &amp; Service Workers  
-L707039 Total Female Migration (interprovince): Sales &amp; Service Workers  
-L707040 Total Migration (interprovince):  Agriculture &amp; Related Workers  
-L707041 Total Male Migration (interprovince): Agriculture &amp; Related Workers  
-L707042 Total Female Migration (interprovince): Agriculture &amp; Related Workers  
-L707043 Total Migration (interprovince):  Production &amp; Related Workers  
-L707044 Total Male Migration (interprovince): Production &amp; Related Workers  
-L707045 Total Female Migration (interprovince): Production &amp; Related Workers  
-L707046 Total Migration (interprovince):  Not Stated  
-L707047 Total Male Migration (interprovince): Not Stated  
-L707048 Total Female Migration (interprovince): Not Stated    
- 
-L708001 Total Women from Other Places (1999 11.l - 2000.10.31)  
-L708002 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 1st Birth  
-L708003 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 2nd Birth  
-L708004 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over  
-L708005 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31)  
-L708006 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 1st Birth  
-L708007 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 2nd Birth  
-L708008 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over  
-L708009 Total Women from Other Province (1999 11.l - 2000.10.31)  
-L708010 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 1st Birth  
-L708011 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 2nd Birth  
-L708012 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over  
- 
-L801001 Total No. of Households  
-L801002 No. of Households that Use the House for Daily Life Only  
-L801003 No. of Households that Share House for Production and Management  
-L801004 No. of Households Sharing the House With other Households  
-L801005 No. of Households Without Sharing the House with Other Households  
-L801006 No. of Households Staying in Bungalow  
-L801007 No. of Households Staying in Buildings Under 6 Stories   
-L801008 No. of Households Staying in Building Under 7 Stories  
-L801009 No. of Households Staying in the House Made of Concrete  
-L801010 No. of Households Staying in the House Made of Brick and Stone  
-L801011 No. of Households Staying in the House Made of Wood, Bamboo, and Grass  
-L801012 No. of Households Staying in the House Made of Other Materials  
- 
-L802001 Total No. of Households  
-L802002 Total No. of Rooms  
-L802003 Total No. of Floor Spaces  
-L802004  No. of Households Staying in the House Built Before 1949  
-L802005  No. of Rooms Built Before 1949  
-L802006  No. of Floor Places Built Before 1949  
-L802007  No. of Households Staying in the House Built Before 1950-1959  
-L802008  No. of Rooms Built Before 1950-1959  
-L802009  No. of Floor Places Built Before 1950-1959  
-L802010  No. of Households Staying in the House Built Before 1960-1969  
-L802011  No. of Rooms Built Before 1960-1969  
-L802012  No. of Floor Places Built Before 1960-1969  
-L802013  No. of Households Staying in the House Built Before 1970-1979  
-L802014  No. of Rooms Built Before 1970-1979  
-L802015  No. of Floor Places Built Before 1970-1979  
-L802016  No. of Households Staying in the House Built Before 1980-1989  
-L802017  No. of Rooms Built Before 1980-1989  
-L802018  No. of Floor Places Built Before 1980-1989  
-L802019  No. of Households Staying in the House Built Before 1990-1999  
-L802020  No. of Rooms Built Before 1990-1999  
-L802021  No. of Floor Places Built Before 1990-1999  
- 
-L803001 Number of Households   
-L803002 Number of Households: Using Kitchen By Oneself  
-L803003 Number of Households: Pubic Kitchen  
-L803004 Number of Households: No Kitchen  
-L803005 Number of Households With Main Cooking Fuel: Gas  
-L803006 Number of Households With Main Cooking Fuel: Electricity  
-L803007 Number of Households With Main Cooking Fuel: Coal  
-L803008 Number of Households With Main Cooking Fuel: Firewood  
-L803009 Number of Households With Main Cooking Fuel: Other  
-L803010 Number of Households: Using Tap Water  
-L803011 Number of Households: No Tap Water  
-L803012 Number of Households: Central Supply of the Hot Water   
-L803013 Number of Households: Self-installedHot Water Facilities  
-L803014 Number of Households: Other Facility for Bath   
-L803015 Number of Households: No Facility for Bath   
-L803016 Number of Households: Self-Own Pump Toliet  
-L803017 Number of Households: Sharing the Pump Toliet With Neighbors  
-L803018 Number of Households: Self-Own Other Types of Toliet  
-L803019 Number of Households: Sharing Other Types of Toliet With Neighbors  
-L803020 Number of Households: No Toliet  
- 
-L804001 No.of Family households  
-L804002 No.of Family households :Self-built House  
-L804003 No.of Family households :Buy the Commodity Apartment   
-L804004 No.of Family households :Buy the Economic Apartment  
-L804005 No.of Family households :Buy the Original Public-owned House   
-L804006 No.of Family households :Rent the Public-owned House   
-L804007 No.of Family households :Rent the Commercial Apartment   
-L804008 No.of Family households :Other  
- 
-L805001 No. of Family households With the Purchased House  
-L805002 No. of Family households With the House Purchased: Under 10,000 yuan  
-L805003 No. of Family households With the House Purchased: 10,000-20,000 yuan  
-L805004 No. of Family households With the House Purchased: 20,000-30,000 yuan  
-L805005 No. of Family households With the House Purchased: 30,000-50,000 yuan  
-L805006 No. of Family households With the House Purchased: 50,000-100,000 yuan  
-L805007 No. of Family households With the House Purchased: 100,000-200,000 yuan  
-L805008 No. of Family households With the House Purchased: 200,000-300,000 yuan  
-L805009 No. of Family households With the House Purchased: 300,000-500,000 yuan  
-L805010 No. of Family households With the House Purchased: 500,000 yuan and Over  
- 
-L806001 No. of Family households With the Rented House  
-L806002 No. of Family Households With the Monthly Rent: Under 20 yuan  
-L806003 No. of Family Households With the Monthly Rent: 20-50 yuan  
-L806004 No. of Family Households With the Monthly Rent: 50-100 yuan  
-L806005 No. of Family Households With the Monthly Rent: 100-200 yuan  
-L806006 No. of Family Households With the Monthly Rent: 200-500 yuan  
-L806007 No. of Family Households With the Monthly Rent: 500-1000 yuan  
-L806008 No. of Family Households With the Monthly Rent: 1000-1500 yuan  
-L806009 No. of Family Households With the Monthly Rent: 1500-2000 yuan  
+L503001 Population of Age 15 and Over
+L503002 Male Population of Age 15 and Over
+L503003 Female Population of Age 15 and Over
+L503004 Population of Age 15 and Over: Never Married
+L503005 Male Population of Age 15 and Over: Never Married
+L503006 Female Population of Age 15 and Over: Never Married
+L503007 Population of Age 15 and Over: First Married
+L503008 Male Population of Age 15 and Over: First Married
+L503009 Female Population of Age 15 and Over: First Married
+L503010 Population of Age 15 and Over: Re-married
+L503011 Male Population of Age 15 and Over: Re-married
+L503012 Female Population of Age 15 and Over: Re-married
+L503013 Population of Age 15 and Over: Divorced
+L503014 Male Population of Age 15 and Over: Divorced
+L503015 Female Population of Age 15 and Over: Divorced
+L503016 Population of Age 15 and Over: Widowed
+L503017 Male Population of Age 15 and Over: Widowed
+L503018 Female Population of Age 15 and Over: Widowed
+
+L601001 The Fertility Rate of Women Aged 15-19(?)
+L601002 The Fertility Rate of Women Aged 20-24(?)
+L601003 The Fertility Rate of Women Aged 25-29(?)
+L601004 The Fertility Rate of Women Aged 30-34(?)
+L601005 The Fertility Rate of Women Aged 35-39(?)
+L601006 The Fertility Rate of Women Aged 40-44(?)
+L601007 The Fertility Rate of Women Aged 45-49(?)
+L601008 The Total Fertility Rate(?)
+
+L609001 Women Population Aged 15-50
+L609002 Total Number of Live Births of Women Aged 15-50
+L609003 Total Number of Live Births of Women Aged 15-50
+L609004 Total Number of Live Births of Women Aged 15-50
+L609005 Total Number of Surviving Children of Women Aged 15-50
+L609006 Total Number of Surviving Children of Women Aged 15-50: Male
+L609007 Total Number of Surviving Children of Women Aged 15-50: Female
+L609008 Percent of Surviving Children to Live Births
+L609009 Woman's average live Births
+L609010 Woman's average Surviving Children
+
+L701001 Total Population
+L701002 Population Born in This County, City, or District
+L701003 Population Born in Other Counties, Cities, or Districts of This Province
+L701004 Population Born in Other Provinces:  Beijing
+L701005 Population Born in Other Provinces:  Tianjin
+L701006 Population Born in Other Provinces:  Hebei
+L701007 Population Born in Other Provinces:  Shanxi
+L701008 Population Born in Other Provinces:  Inner Mongolia
+L701009 Population Born in Other Provinces:  Liaoning
+L701010 Population Born in Other Provinces:  Jilin
+L701011 Population Born in Other Provinces:  Heilongjiang
+L701012 Population Born in Other Provinces:  Shanhai
+L701013 Population Born in Other Provinces:  Jiangsu
+L701014 Population Born in Other Provinces:  Zhejiang
+L701015 Population Born in Other Provinces:  Anhui
+L701016 Population Born in Other Provinces:  Fujian
+L701017 Population Born in Other Provinces:  Jiangxi
+L701018 Population Born in Other Provinces:  Shandong
+L701019 Population Born in Other Provinces:  Henai
+L701020 Population Born in Other Provinces:  Hubei
+L701021 Population Born in Other Provinces:  Hunan
+L701022 Population Born in Other Provinces:  Guangdong
+L701023 Population Born in Other Provinces:  Guangxi
+L701024 Population Born in Other Provinces:  Hainan
+L701025 Population Born in Other Provinces:  Chongqing
+L701026 Population Born in Other Provinces:  Sichuan
+L701027 Population Born in Other Provinces:  Guizhou
+L701028 Population Born in Other Provinces:  Yunnan
+L701029 Population Born in Other Provinces:  Tibet
+L701030 Population Born in Other Provinces:  Shaanxi
+L701031 Population Born in Other Provinces:  Gansu
+L701032 Population Born in Other Provinces:  Qinghai
+L701033 Population Born in Other Provinces:  Ningxia
+L701034 Population Born in Other Provinces:  Xinjiang
+L701035 Population Born in Other Provinces:  Hong Kong, Macao, Taiwan or Abroad
+
+L702001 Total Population
+L702002 Population Who Have Lived Here After Being Born In This Place
+L702003 Population Who Moved to This Place Before October 31, 1995
+L702004 Population Who Moved to This Place Between November 1, 1995 - December 31, 1995
+L702005 Population Who Moved to This Place in 1996
+L702006 Population Who Moved to This Place in 1997
+L702007 Population Who Moved to This Place in 1998
+L702008 Population Who Moved to This Place in 1999
+L702009 Population Who Moved to This Place in 2000
+
+L703001 Total Population Moved to This Place
+L703002 Total Population Moved to This Place from the Same Province
+L703003 Total Population Moved to This Place from Other Townships of the Same Province
+L703004 Total Population Moved to This Place from Other Neighbourhood Committees of the Town of the Same Province
+L703005 Total Population Moved to This Place from Other Village Committees of The Town of the Same Province
+L703006 Total Population Moved to This Place from Other Jiedaos of the Same Province
+L703007 Total Population Moved to This Place from Beijing
+L703008 Total Population Moved to This Place from Other Townships of Beijing
+L703009 Total Population Moved to This Place from Other Neighbourhood Committees of Beijing
+L703010 Total Population Moved to This Place from Other Village Committees of The Town of Beijing
+L703011 Total Population Moved to This Place from Other Jiedao of Beijing
+L703012 Total Population Moved to This Place from Tianjin
+L703013 Total Population Moved to This Place from Other Townships of Tianjin
+L703014 Total Population Moved to This Place from Other Neighbourhood Committees of Tianjin
+L703015 Total Population Moved to This Place from Other Village Committees of The Town of Tianjin
+L703016 Total Population Moved to This Place from Other Jiedao of Tianjin
+L703017 Total Population Moved to This Place from Hebei
+L703018 Total Population Moved to This Place from Other Townships of Hebei
+L703019 Total Population Moved to This Place from Other Neighbourhood Committees of Hebei
+L703020 Total Population Moved to This Place from Other Village Committees of The Town of Hebei
+L703021 Total Population Moved to This Place from Other Jiedao of Hebei
+L703022 Total Population Moved to This Place from Shanxi
+L703023 Total Population Moved to This Place from Other Townships of Shanxi
+L703024 Total Population Moved to This Place from Other Neighbourhood Committees of Shanxi
+L703025 Total Population Moved to This Place from Other Village Committees of The Town of Shanxi
+L703026 Total Population Moved to This Place from Other Jiedao of Shanxi
+L703027 Total Population Moved to This Place from Inner Mongolia
+L703028 Total Population Moved to This Place from Other Townships of Inner Mongolia
+L703029 Total Population Moved to This Place from Other Neighbourhood Committees of Inner Mongolia
+L703030 Total Population Moved to This Place from Other Village Committees of The Town of Inner Mongolia
+L703031 Total Population Moved to This Place from Other Jiedao of Inner Mongolia
+L703032 Total Population Moved to This Place from Liaoning
+L703033 Total Population Moved to This Place from Other Townships of Liaoning
+L703034 Total Population Moved to This Place from Other Neighbourhood Committees of Liaoning
+L703035 Total Population Moved to This Place from Other Village Committees of The Town of Liaoning
+L703036 Total Population Moved to This Place from Other Jiedao of Liaoning
+L703037 Total Population Moved to This Place from Jilin
+L703038 Total Population Moved to This Place from Other Townships of Jilin
+L703039 Total Population Moved to This Place from Other Neighbourhood Committees of Jilin
+L703040 Total Population Moved to This Place from Other Village Committees of The Town of Jilin
+L703041 Total Population Moved to This Place from Other Jiedao of Jilin
+L703042 Total Population Moved to This Place from Heilongjiang
+L703043 Total Population Moved to This Place from Other Townships of Heilongjiang
+L703044 Total Population Moved to This Place from Other Neighbourhood Committees of Heilongjiang
+L703045 Total Population Moved to This Place from Other Village Committees of The Town of Heilongjiang
+L703046 Total Population Moved to This Place from Other Jiedao of Heilongjiang
+L703047 Total Population Moved to This Place from Shanghai
+L703048 Total Population Moved to This Place from Other Townships of Shanghai
+L703049 Total Population Moved to This Place from Other Neighbourhood Committees of Shanghai
+L703050 Total Population Moved to This Place from Other Village Committees of The Town of Shanghai
+L703051 Total Population Moved to This Place from Other Jiedao of Shanghai
+L703052 Total Population Moved to This Place from Jiangsu
+L703053 Total Population Moved to This Place from Other Townships of Jiangsu
+L703054 Total Population Moved to This Place from Other Neighbourhood Committees of Jiangsu
+L703055 Total Population Moved to This Place from Other Village Committees of The Town of Jiangsu
+L703056 Total Population Moved to This Place from Other Jiedao of Jiangsu
+L703057 Total Population Moved to This Place from Zhejiang
+L703058 Total Population Moved to This Place from Other Townships of Zhejiang
+L703059 Total Population Moved to This Place from Other Neighbourhood Committees of Zhejiang
+L703060 Total Population Moved to This Place from Other Village Committees of The Town of Zhejiang
+L703061 Total Population Moved to This Place from Other Jiedao of Zhejiang
+L703062 Total Population Moved to This Place from Anhui
+L703063 Total Population Moved to This Place from Other Townships of Anhui
+L703064 Total Population Moved to This Place from Other Neighbourhood Committees of Anhui
+L703065 Total Population Moved to This Place from Other Village Committees of The Town of Anhui
+L703066 Total Population Moved to This Place from Other Jiedao of Anhui
+L703067 Total Population Moved to This Place from Fujian
+L703068 Total Population Moved to This Place from Other Townships of Fujian
+L703069 Total Population Moved to This Place from Other Neighbourhood Committees of Fujian
+L703070 Total Population Moved to This Place from Other Village Committees of The Town of Fujian
+L703071 Total Population Moved to This Place from Other Jiedao of Fujian
+L703072 Total Population Moved to This Place from Jiangxi
+L703073 Total Population Moved to This Place from Other Townships of Jiangxi
+L703074 Total Population Moved to This Place from Other Neighbourhood Committees of Jiangxi
+L703075 Total Population Moved to This Place from Other Village Committees of The Town of Jiangxi
+L703076 Total Population Moved to This Place from Other Jiedao of Jiangxi
+L703077 Total Population Moved to This Place from Shandong
+L703078 Total Population Moved to This Place from Other Townships of Shandong
+L703079 Total Population Moved to This Place from Other Neighbourhood Committees of Shandong
+L703080 Total Population Moved to This Place from Other Village Committees of The Town of Shandong
+L703081 Total Population Moved to This Place from Other Jiedao of Shandong
+L703082 Total Population Moved to This Place from Henan
+L703083 Total Population Moved to This Place from Other Townships of Henan
+L703084 Total Population Moved to This Place from Other Neighbourhood Committees of Henan
+L703085 Total Population Moved to This Place from Other Village Committees of The Town of Henan
+L703086 Total Population Moved to This Place from Other Jiedao of Henan
+L703087 Total Population Moved to This Place from Hubei
+L703088 Total Population Moved to This Place from Other Townships of Hubei
+L703089 Total Population Moved to This Place from Other Neighbourhood Committees of Hubei
+L703090 Total Population Moved to This Place from Other Village Committees of The Town of Hubei
+L703091 Total Population Moved to This Place from Other Jiedao of Hubei
+L703092 Total Population Moved to This Place from Hunan
+L703093 Total Population Moved to This Place from Other Townships of Hunan
+L703094 Total Population Moved to This Place from Other Neighbourhood Committees of Hunan
+L703095 Total Population Moved to This Place from Other Village Committees of The Town of Hunan
+L703096 Total Population Moved to This Place from Other Jiedao of Hunan
+L703097 Total Population Moved to This Place from Guangdong
+L703098 Total Population Moved to This Place from Other Townships of Guangdong
+L703099 Total Population Moved to This Place from Other Neighbourhood Committees of Guangdong
+L703100 Total Population Moved to This Place from Other Village Committees of The Town of Guangdong
+L703101 Total Population Moved to This Place from Other Jiedao of Guangdong
+L703102 Total Population Moved to This Place from Guangxi
+L703103 Total Population Moved to This Place from Other Townships of Guangxi
+L703104 Total Population Moved to This Place from Other Neighbourhood Committees of Guangxi
+L703105 Total Population Moved to This Place from Other Village Committees of The Town of Guangxi
+L703106 Total Population Moved to This Place from Other Jiedao of Guangxi
+L703107 Total Population Moved to This Place from Hainan
+L703108 Total Population Moved to This Place from Other Townships of Hainan
+L703109 Total Population Moved to This Place from Other Neighbourhood Committees of Hainan
+L703110 Total Population Moved to This Place from Other Village Committees of The Town of Hainan
+L703111 Total Population Moved to This Place from Other Jiedao of Hainan
+L703112 Total Population Moved to This Place from Chongqing
+L703113 Total Population Moved to This Place from Other Townships of Chongqing
+L703114 Total Population Moved to This Place from Other Neighbourhood Committees of Chongqing
+L703115 Total Population Moved to This Place from Other Village Committees of The Town of Chongqing
+L703116 Total Population Moved to This Place from Other Jiedao of Chongqing
+L703117 Total Population Moved to This Place from Sichuan
+L703118 Total Population Moved to This Place from Other Townships of Sichuan
+L703119 Total Population Moved to This Place from Other Neighbourhood Committees of Sichuan
+L703120 Total Population Moved to This Place from Other Village Committees of The Town of Sichuan
+L703121 Total Population Moved to This Place from Other Jiedao of Sichuan
+L703122 Total Population Moved to This Place from Guizhou
+L703123 Total Population Moved to This Place from Other Townships of Guizhou
+L703124 Total Population Moved to This Place from Other Neighbourhood Committees of Guizhou
+L703125 Total Population Moved to This Place from Other Village Committees of The Town of Guizhou
+L703126 Total Population Moved to This Place from Other Jiedao of Guizhou
+L703127 Total Population Moved to This Place from Yunnan
+L703128 Total Population Moved to This Place from Other Townships of Yunnan
+L703129 Total Population Moved to This Place from Other Neighbourhood Committees of Yunnan
+L703130 Total Population Moved to This Place from Other Village Committees of The Town of Yunnan
+L703131 Total Population Moved to This Place from Other Jiedao of Yunnan
+L703132 Total Population Moved to This Place from Tibet
+L703133 Total Population Moved to This Place from Other Townships of Tibet
+L703134 Total Population Moved to This Place from Other Neighbourhood Committees of Tibet
+L703135 Total Population Moved to This Place from Other Village Committees of The Town of Tibet
+L703136 Total Population Moved to This Place from Other Jiedao of Tibet
+L703137 Total Population Moved to This Place from Shaanxi
+L703138 Total Population Moved to This Place from Other Townships of Shaanxi
+L703139 Total Population Moved to This Place from Other Neighbourhood Committees of Shaanxi
+L703140 Total Population Moved to This Place from Other Village Committees of The Town of Shaanxi
+L703141 Total Population Moved to This Place from Other Jiedao of Shaanxi
+L703142 Total Population Moved to This Place from Gansu
+L703143 Total Population Moved to This Place from Other Townships of Gansu
+L703144 Total Population Moved to This Place from Other Neighbourhood Committees of Gansu
+L703145 Total Population Moved to This Place from Other Village Committees of The Town of Gansu
+L703146 Total Population Moved to This Place from Other Jiedao of Gansu
+L703147 Total Population Moved to This Place from Qinghai
+L703148 Total Population Moved to This Place from Other Townships of Qinghai
+L703149 Total Population Moved to This Place from Other Neighbourhood Committees of Qinghai
+L703150 Total Population Moved to This Place from Other Village Committees of The Town of Qinghai
+L703151 Total Population Moved to This Place from Other Jiedao of Qinghai
+L703152 Total Population Moved to This Place from Ningxia
+L703153 Total Population Moved to This Place from Other Townships of Ningxia
+L703154 Total Population Moved to This Place from Other Neighbourhood Committees of Ningxia
+L703155 Total Population Moved to This Place from Other Village Committees of The Town of Ningxia
+L703156 Total Population Moved to This Place from Other Jiedao of Ningxia
+L703157 Total Population Moved to This Place from Xinjiang
+L703158 Total Population Moved to This Place from Other Townships of Xinjiang
+L703159 Total Population Moved to This Place from Other Neighbourhood Committees of Xinjiang
+L703160 Total Population Moved to This Place from Other Village Committees of The Town of Xinjiang
+L703161 Total Population Moved to This Place from Other Jiedao of Xinjiang
+L703162 Total Population Moved to This Place from Hong Kong,Macao and Taiwan or abroad
+
+L704001 Total Population Moved to This Place for More Than Five Years
+L704002 Total Population Moved to This Place for More Than Five Years from the Same Provinces
+L704003 Total Population Moved to This Place for More Than Five Years from the Other Provinces
+L704004 Total Population Moved to This Place for More Than Five Years from Beijing
+L704005 Total Population Moved to This Place for More Than Five Years from Tianjin
+L704006 Total Population Moved to This Place for More Than Five Years from Hebei
+L704007 Total Population Moved to This Place for More Than Five Years from Shanxi
+L704008 Total Population Moved to This Place for More Than Five Years from Inner Mongolia
+L704009 Total Population Moved to This Place for More Than Five Years from Liaoning
+L704010 Total Population Moved to This Place for More Than Five Years from Jilin
+L704011 Total Population Moved to This Place for More Than Five Years from Heilongjiang
+L704012 Total Population Moved to This Place for More Than Five Years from Shanghai
+L704013 Total Population Moved to This Place for More Than Five Years from Jiangsu
+L704014 Total Population Moved to This Place for More Than Five Years from Zhejiang
+L704015 Total Population Moved to This Place for More Than Five Years from Anhui
+L704016 Total Population Moved to This Place for More Than Five Years from Fujian
+L704017 Total Population Moved to This Place for More Than Five Years from Jiangxi
+L704018 Total Population Moved to This Place for More Than Five Years from Shandong
+L704019 Total Population Moved to This Place for More Than Five Years from Henai
+L704020 Total Population Moved to This Place for More Than Five Years from Hubei
+L704021 Total Population Moved to This Place for More Than Five Years from Hunan
+L704022 Total Population Moved to This Place for More Than Five Years from Guangdong
+L704023 Total Population Moved to This Place for More Than Five Years from Guangxi
+L704024 Total Population Moved to This Place for More Than Five Years from Hainan
+L704025 Total Population Moved to This Place for More Than Five Years from Chongqing
+L704026 Total Population Moved to This Place for More Than Five Years from Sichuan
+L704027 Total Population Moved to This Place for More Than Five Years from Guizhou
+L704028 Total Population Moved to This Place for More Than Five Years from Yunnan
+L704029 Total Population Moved to This Place for More Than Five Years from Tibet
+L704030 Total Population Moved to This Place for More Than Five Years from Shaanxi
+L704031 Total Population Moved to This Place for More Than Five Years from Gansu
+L704032 Total Population Moved to This Place for More Than Five Years from Qinghai
+L704033 Total Population Moved to This Place for More Than Five Years from Ningxia
+L704034 Total Population Moved to This Place for More Than Five Years from Xinjiang
+L704035 Total Population Moved to This Place for More Than Five Years from Hong Kong, Macao and Taiwan or abroad
+
+L706001 Total Population Moved to This Place from Other Places of the Same Province (intraprovince)
+L706002 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince)
+L706003 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince)
+L706004 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince)
+L706005 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince)
+L706006 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  No Schooling
+L706007 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  No Schooling
+L706008 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  No Schooling
+L706009 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  No Schooling
+L706010 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  No Schooling
+L706011 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Eminiate Illiteracy
+L706012 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Eminiate Illiteracy
+L706013 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Eminiate Illiteracy
+L706014 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Eminiate Illiteracy
+L706015 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Eminiate Illiteracy
+L706016 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Primary School
+L706017 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Primary School
+L706018 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Primary School
+L706019 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Primary School
+L706020 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Primary School
+L706021 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Junior Middle School
+L706022 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Junior Middle School
+L706023 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Junior Middle School
+L706024 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Junior Middle School
+L706025 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Junior Middle School
+L706026 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Senior Middle School
+L706027 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Senior Middle School
+L706028 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Senior Middle School
+L706029 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Senior Middle School
+L706030 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Senior Middle School
+L706031 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Sepcialized secondary school
+L706032 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Sepcialized secondary school
+L706033 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Sepcialized secondary school
+L706034 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Sepcialized secondary school
+L706035 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Sepcialized secondary school
+L706036 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Junior College
+L706037 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Junior College
+L706038 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Junior College
+L706039 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Junior College
+L706040 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Junior College
+L706041 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  University
+L706042 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  University
+L706043 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  University
+L706044 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  University
+L706045 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  University
+L706046 Total Population Moved to This Place from Other Places of the Same Province (intraprovince):  Graduate Student
+L706047 Total Population Moved to This Place from Other Townships of the Same Province (intraprovince):  Graduate Student
+L706048 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Same Province (intraprovince):  Graduate Student
+L706049 Total Population Moved to This Place from Other Village Committees of the Towns of the Same Province (intraprovince):  Graduate Student
+L706050 Total Population Moved to This Place from Other Jiedao of the Same Province (intraprovince):  Graduate Student
+
+L706051 Total Population Moved to This Place from Other Places of the Other Province (interprovince)
+L706052 Total Population Moved to This Place from Other Townships of the Other Province (interprovince)
+L706053 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince)
+L706054 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince)
+L706055 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince)
+L706056 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  No Schooling
+L706057 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  No Schooling
+L706058 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  No Schooling
+L706059 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  No Schooling
+L706060 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  No Schooling
+L706061 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Eminiate Illiteracy
+L706062 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Eminiate Illiteracy
+L706063 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Eminiate Illiteracy
+L706064 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Eminiate Illiteracy
+L706065 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Eminiate Illiteracy
+L706066 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Primary School
+L706067 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Primary School
+L706068 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Primary School
+L706069 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Primary School
+L706070 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Primary School
+L706071 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Junior Middle School
+L706072 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Junior Middle School
+L706073 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Junior Middle School
+L706074 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Junior Middle School
+L706075 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Junior Middle School
+L706076 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Senior Middle School
+L706077 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Senior Middle School
+L706078 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Senior Middle School
+L706079 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Senior Middle School
+L706080 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Senior Middle School
+L706081 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Sepcialized secondary school
+L706082 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Sepcialized secondary school
+L706083 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Sepcialized secondary school
+L706084 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Sepcialized secondary school
+L706085 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Sepcialized secondary school
+L706086 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Junior College
+L706087 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Junior College
+L706088 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Junior College
+L706089 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Junior College
+L706090 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Junior College
+L706091 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  University
+L706092 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  University
+L706093 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  University
+L706094 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  University
+L706095 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  University
+L706096 Total Population Moved to This Place from Other Places of the Other Province (interprovince):  Graduate Student
+L706097 Total Population Moved to This Place from Other Townships of the Other Province (interprovince):  Graduate Student
+L706098 Total Population Moved to This Place from Other Neighbourhood Committees of the Towns of the Other Province (interprovince):  Graduate Student
+L706099 Total Population Moved to This Place from Other Village Committees of the Towns of the Other Province (interprovince):  Graduate Student
+L706100 Total Population Moved to This Place from Other Jiedao of the Other Province (interprovince):  Graduate Student
+
+L707001 Total Migration (intraprovince)
+L707002 Total Male Migration (intraprovince)
+L707003 Total Female Migration (intraprovince)
+L707004 Total Migration (intraprovince):  Administrator/Manager
+L707005 Total Male Migration (intraprovince): Administrator/Manager
+L707006 Total Female Migration (intraprovince): Administrator/Manager
+L707007 Total Migration (intraprovince):  Professional/Technical
+L707008 Total Male Migration (intraprovince): Professional/Technical
+L707009 Total Female Migration (intraprovince): Professional/Technical
+L707010 Total Migration (intraprovince):  Clerical &amp; Related Workers
+L707011 Total Male Migration (intraprovince): Clerical &amp; Related Workers
+L707012 Total Female Migration (intraprovince): Clerical &amp; Related Workers
+L707013 Total Migration (intraprovince):  Sales &amp; Service Workers
+L707014 Total Male Migration (intraprovince): Sales &amp; Service Workers
+L707015 Total Female Migration (intraprovince): Sales &amp; Service Workers
+L707016 Total Migration (intraprovince):  Agriculture &amp; Related Workers
+L707017 Total Male Migration (intraprovince): Agriculture &amp; Related Workers
+L707018 Total Female Migration (intraprovince): Agriculture &amp; Related Workers
+L707019 Total Migration (intraprovince):  Production &amp; Related Workers
+L707020 Total Male Migration (intraprovince): Production &amp; Related Workers
+L707021 Total Female Migration (intraprovince): Production &amp; Related Workers
+L707022 Total Migration (intraprovince):  Not Stated
+L707023 Total Male Migration (intraprovince): Not Stated
+L707024 Total Female Migration (intraprovince): Not Stated
+
+L707025 Total Migration (interprovince)
+L707026 Total Male Migration (interprovince)
+L707027 Total Female Migration (interprovince)
+L707028 Total Migration (interprovince):  Administrator/Manager
+L707029 Total Male Migration (interprovince): Administrator/Manager
+L707030 Total Female Migration (interprovince): Administrator/Manager
+L707031 Total Migration (interprovince):  Professional/Technical
+L707032 Total Male Migration (interprovince): Professional/Technical
+L707033 Total Female Migration (interprovince): Professional/Technical
+L707034 Total Migration (interprovince):  Clerical &amp; Related Workers
+L707035 Total Male Migration (interprovince): Clerical &amp; Related Workers
+L707036 Total Female Migration (interprovince): Clerical &amp; Related Workers
+L707037 Total Migration (interprovince):  Sales &amp; Service Workers
+L707038 Total Male Migration (interprovince): Sales &amp; Service Workers
+L707039 Total Female Migration (interprovince): Sales &amp; Service Workers
+L707040 Total Migration (interprovince):  Agriculture &amp; Related Workers
+L707041 Total Male Migration (interprovince): Agriculture &amp; Related Workers
+L707042 Total Female Migration (interprovince): Agriculture &amp; Related Workers
+L707043 Total Migration (interprovince):  Production &amp; Related Workers
+L707044 Total Male Migration (interprovince): Production &amp; Related Workers
+L707045 Total Female Migration (interprovince): Production &amp; Related Workers
+L707046 Total Migration (interprovince):  Not Stated
+L707047 Total Male Migration (interprovince): Not Stated
+L707048 Total Female Migration (interprovince): Not Stated
+
+L708001 Total Women from Other Places (1999 11.l - 2000.10.31)
+L708002 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 1st Birth
+L708003 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 2nd Birth
+L708004 Total Women from Other Places (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over
+L708005 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31)
+L708006 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 1st Birth
+L708007 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 2nd Birth
+L708008 Total Women from Other Places of the Same Province (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over
+L708009 Total Women from Other Province (1999 11.l - 2000.10.31)
+L708010 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 1st Birth
+L708011 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 2nd Birth
+L708012 Total Women from Other Province (1999 11.l - 2000.10.31): Giving the 3rd Birth &amp; Over
+
+L801001 Total No. of Households
+L801002 No. of Households that Use the House for Daily Life Only
+L801003 No. of Households that Share House for Production and Management
+L801004 No. of Households Sharing the House With other Households
+L801005 No. of Households Without Sharing the House with Other Households
+L801006 No. of Households Staying in Bungalow
+L801007 No. of Households Staying in Buildings Under 6 Stories
+L801008 No. of Households Staying in Building Under 7 Stories
+L801009 No. of Households Staying in the House Made of Concrete
+L801010 No. of Households Staying in the House Made of Brick and Stone
+L801011 No. of Households Staying in the House Made of Wood, Bamboo, and Grass
+L801012 No. of Households Staying in the House Made of Other Materials
+
+L802001 Total No. of Households
+L802002 Total No. of Rooms
+L802003 Total No. of Floor Spaces
+L802004  No. of Households Staying in the House Built Before 1949
+L802005  No. of Rooms Built Before 1949
+L802006  No. of Floor Places Built Before 1949
+L802007  No. of Households Staying in the House Built Before 1950-1959
+L802008  No. of Rooms Built Before 1950-1959
+L802009  No. of Floor Places Built Before 1950-1959
+L802010  No. of Households Staying in the House Built Before 1960-1969
+L802011  No. of Rooms Built Before 1960-1969
+L802012  No. of Floor Places Built Before 1960-1969
+L802013  No. of Households Staying in the House Built Before 1970-1979
+L802014  No. of Rooms Built Before 1970-1979
+L802015  No. of Floor Places Built Before 1970-1979
+L802016  No. of Households Staying in the House Built Before 1980-1989
+L802017  No. of Rooms Built Before 1980-1989
+L802018  No. of Floor Places Built Before 1980-1989
+L802019  No. of Households Staying in the House Built Before 1990-1999
+L802020  No. of Rooms Built Before 1990-1999
+L802021  No. of Floor Places Built Before 1990-1999
+
+L803001 Number of Households
+L803002 Number of Households: Using Kitchen By Oneself
+L803003 Number of Households: Pubic Kitchen
+L803004 Number of Households: No Kitchen
+L803005 Number of Households With Main Cooking Fuel: Gas
+L803006 Number of Households With Main Cooking Fuel: Electricity
+L803007 Number of Households With Main Cooking Fuel: Coal
+L803008 Number of Households With Main Cooking Fuel: Firewood
+L803009 Number of Households With Main Cooking Fuel: Other
+L803010 Number of Households: Using Tap Water
+L803011 Number of Households: No Tap Water
+L803012 Number of Households: Central Supply of the Hot Water
+L803013 Number of Households: Self-installedHot Water Facilities
+L803014 Number of Households: Other Facility for Bath
+L803015 Number of Households: No Facility for Bath
+L803016 Number of Households: Self-Own Pump Toliet
+L803017 Number of Households: Sharing the Pump Toliet With Neighbors
+L803018 Number of Households: Self-Own Other Types of Toliet
+L803019 Number of Households: Sharing Other Types of Toliet With Neighbors
+L803020 Number of Households: No Toliet
+
+L804001 No.of Family households
+L804002 No.of Family households :Self-built House
+L804003 No.of Family households :Buy the Commodity Apartment
+L804004 No.of Family households :Buy the Economic Apartment
+L804005 No.of Family households :Buy the Original Public-owned House
+L804006 No.of Family households :Rent the Public-owned House
+L804007 No.of Family households :Rent the Commercial Apartment
+L804008 No.of Family households :Other
+
+L805001 No. of Family households With the Purchased House
+L805002 No. of Family households With the House Purchased: Under 10,000 yuan
+L805003 No. of Family households With the House Purchased: 10,000-20,000 yuan
+L805004 No. of Family households With the House Purchased: 20,000-30,000 yuan
+L805005 No. of Family households With the House Purchased: 30,000-50,000 yuan
+L805006 No. of Family households With the House Purchased: 50,000-100,000 yuan
+L805007 No. of Family households With the House Purchased: 100,000-200,000 yuan
+L805008 No. of Family households With the House Purchased: 200,000-300,000 yuan
+L805009 No. of Family households With the House Purchased: 300,000-500,000 yuan
+L805010 No. of Family households With the House Purchased: 500,000 yuan and Over
+
+L806001 No. of Family households With the Rented House
+L806002 No. of Family Households With the Monthly Rent: Under 20 yuan
+L806003 No. of Family Households With the Monthly Rent: 20-50 yuan
+L806004 No. of Family Households With the Monthly Rent: 50-100 yuan
+L806005 No. of Family Households With the Monthly Rent: 100-200 yuan
+L806006 No. of Family Households With the Monthly Rent: 200-500 yuan
+L806007 No. of Family Households With the Monthly Rent: 500-1000 yuan
+L806008 No. of Family Households With the Monthly Rent: 1000-1500 yuan
+L806009 No. of Family Households With the Monthly Rent: 1500-2000 yuan
 L806010 No. of Family Households With the Monthly Rent: 2000 yuan and Over</eaover>
 </overview>
 </eainfo>
@@ -767,13 +779,13 @@ L806010 No. of Family Households With the Monthly Rent: 2000 yuan and Over</eaov
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>cdc_tibet2000_province2000l2</resdesc>
+<resdesc>cdc_2000_tibet_province2000l2</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 <formspec>zip</formspec>
-<transize>0.094</transize>
+
 </digtinfo>
 </digform>
 </stdorder>

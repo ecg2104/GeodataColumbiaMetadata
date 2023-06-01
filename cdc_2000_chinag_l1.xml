@@ -15,12 +15,14 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_chinag_l1.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
-<abstract>China County Boundary with 2000 Population Census Data From 9.95% Long Form Data (table L1-L6) is a polygon theme representing counties in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  
+<abstract>China County Boundary with 2000 Population Census Data From 9.95% Long Form Data (table L1-L6) is a polygon theme representing counties in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.
 
-This layer is one (Part A) of two layers covering the entire Long Form data; this layer covers Long Form tables L1-1 to L6-9: L1-1: Family households, population and sex ratio by region; L1-2: Employed population by sex and industries; L1-3: Employed population by sex and occupation; L1-4: Non-working population by sex and type; L1-5 : Employment and Unemployment by Sex; L1-6: Population aged 15 and over by sex and marital status; L1-7: Births by sex and birth order; L1-8: Number of Women (15-50) with Living Births; L1-9 Number of Women (15-50) with Surviving Births.  L4-1: Employed population by sex and two digits classification of industry and by region.  L4-2: Employed population by sex and two digits classification of occupation; L6-1: Age-specific fertility rate and total fertility rate of women aged 15-50 by region; L6-9: Number of children ever born and surviving to women aged 15-50 by region. 
+This layer is one (Part A) of two layers covering the entire Long Form data; this layer covers Long Form tables L1-1 to L6-9: L1-1: Family households, population and sex ratio by region; L1-2: Employed population by sex and industries; L1-3: Employed population by sex and occupation; L1-4: Non-working population by sex and type; L1-5 : Employment and Unemployment by Sex; L1-6: Population aged 15 and over by sex and marital status; L1-7: Births by sex and birth order; L1-8: Number of Women (15-50) with Living Births; L1-9 Number of Women (15-50) with Surviving Births.  L4-1: Employed population by sex and two digits classification of industry and by region.  L4-2: Employed population by sex and two digits classification of occupation; L6-1: Age-specific fertility rate and total fertility rate of women aged 15-50 by region; L6-9: Number of children ever born and surviving to women aged 15-50 by region.
 
  This data layer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.</abstract>
 <purpose>The data set was developed for display and analysis using GIS.</purpose>
@@ -114,11 +116,11 @@ This layer is one (Part A) of two layers covering the entire Long Form data; thi
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/Chinal1.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <spdoinfo>
@@ -131,18 +133,28 @@ This layer is one (Part A) of two layers covering the entire Long Form data; thi
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -3177,11 +3189,11 @@ Chinal1</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>cdc_census2000county_chinal1</resdesc>
+<resdesc>cdc_2000_chinag_l1</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>

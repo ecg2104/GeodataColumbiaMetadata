@@ -11,6 +11,8 @@
 <pubplace>Beijing</pubplace>
 <publish>All China Marketing Research Co.</publish>
 </pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_guizhou_gd.zip
+</onlink>
 </citeinfo>
 </citation>
 <descript>
@@ -92,11 +94,11 @@
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </ptcontac>
-<browse>
-<browsen>http://www.columbia.edu/acis/eds/gis/pix/cat/Guizhougd.jpg</browsen>
-<browsed>Thumbnail Image</browsed>
-<browset>JPEG</browset>
-</browse>
+
+
+
+
+
 <native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
 </idinfo>
 <dataqual>
@@ -121,18 +123,28 @@
 </ptvctinf>
 </spdoinfo>
 <spref>
-<horizsys>
-<geograph>
-<geogunit>Decimal degrees</geogunit>
-</geograph>
-<geodetic>
-<horizdn>D_Krasovsky_1940</horizdn>
-<ellips>Krasovsky_1940</ellips>
-<semiaxis>6378245</semiaxis>
-<denflat>298.3</denflat>
-</geodetic>
-</horizsys>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
 </spref>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <eainfo>
 <detailed>
 <enttyp>
@@ -200,11 +212,11 @@ gd</enttypl>
 <cntemail>chinadata@umich.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>cdc_census2000_guizhougd</resdesc>
+<resdesc>cdc_2000_guizhou_gd</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
-<formname>Shapefile</formname>
+<formname>Geopackage</formname>
 </digtinfo>
 </digform>
 </stdorder>
