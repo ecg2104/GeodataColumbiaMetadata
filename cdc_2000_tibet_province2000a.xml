@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>University of Michigan. China Data Center.</origin>
+<pubdate>2005</pubdate>
+<title>Tibet Province With 2000 Population Census Data From 100% Short Form Data</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>2000 Tibet Township Population Census Data with GIS Maps</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Beijing</pubplace>
+<publish>All China Marketing Research Co.</publish>
+</pubinfo>
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cdc_2000_tibet_province2000a.zip
+</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Tibet Province With 2000 Population Census Data From 100% Short Form Data is a polygon theme representing Tibet Province, China in 2000.  Attribute information includes census data from 100% Short Form data from the 2000 China census.
+
+This data layer is part of the Tibet 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.</abstract>
+<purpose>The data set was developed for display and analysis using GIS.</purpose>
+<supplinf>Notes on China 2000 Population Census Data:
+In order to guide you to use the data correctly, provide you some explanations as follows:
+(l) Census time: 0:00AM of November 1, 2000 as the reference time for the census.
+(2) The 2000 population census covered all persons who hold the nationality of, and have permanent residing place in the People's Republic of China. During the census, each person was enumerated in his/her permanent residing place.
+The following persons should be enumerated in their permanent residing place: a) Those who reside in the townships, towns and street communities and have their permanent household registration there. b) Those who have resided in the townships, towns and street communities for more than 6 months but the places of their permanent household registration are elsewhere. c) Those who have resided in the townships, towns and street communities for less than 6 months but have been away from the place of their permanent household registration for more than 6 months. d) Those who live in the townships, towns and street communities during the population census while the places of their household registration have not yet settled. e) Those who used to live in the townships, towns and street communities but are working or studying abroad during the census and have no Permanent household registration for the time being.
+(3) Two types of questionnaires (long form and short form) were used for the 2000 population census. The short form contains items that reflect the basic situation of the population, while the long form include all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc. . According to the Statute for the Fifth National Population Census and the Procedures for the Selection of Samples for the Long Forms, households selected by a random sampling program completed the long forms, and the rest of the households completed the short forms.
+(4) The data table consists of three parts. The first part (variables A1-A97 and A154-A156) contains data aggregated from all households data (i. e. common items in both long and short forms) that reflects the basic situation of population. The second part (variables A98-A153 and A157-A169) contains data aggregated from the long forms from the 9.5% sample data, which present various detailed compositions of the population. The third part (variables B1-31) contains socioeconomic variables reported by the National Bureau of Statistics in annual statistics. Please note that there might be some difference between the county population aggregated from the 2000 population Census data and the one reported by government, which is derived from household registration and sample survey data.
+(5) Results in this publication are based on the processing of data directly from enumeration without any adjustment. It is therefore worthwhile to notice the following:
+    a. Data in the publication do not include population not enumerated in the census.
+    b. Data in the publication do not include the 2.5 million servicemen of the People's Liberation Army.
+    c. Total population as shown in this publication is 1,242.61 million, or 23.22 million less than the population figure of 1,265.83 million (including 2.5 million servicemen) released earlier by the National Bureau of Statistics ,which was based on the advance tabulation.
+    d. The post-enumeration sample survey indicates an undercount of 1.81% in the census enumeration.
+    e. The sampling ratio for the long forms = total population in the long forms/total population calculated by computer processing = 9.50%.
+    f. The sampling ratio for various compositions of the population may not be the same as household is used as the ultimate sampling unit.
+Users should pay attention to the above-mentioned factors when using information in the publication, and in particular, is estimating the population from the sample results.
+(5) Regulation on the Classification of Urban/Rural Residence for Statistical Purpose (Provisional) prepared by the National Bureau of Statistics is used in urban/rural classification of the population in this census.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2000</caldate>
+</sngdate>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Unknown</update>
+</status>
+<spdom>
+<bounding>
+<westbc>
+78.956635</westbc>
+<eastbc>
+98.984121</eastbc>
+<northbc>
+34.079955</northbc>
+<southbc>
+27.403888</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories..</themekt>
+<themekey>society</themekey>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>Library of Congress Subject Headings</themekt>
+<themekey>Cities and towns --China --Population --Statistics --Databases.</themekey>
+<themekey>Cities and towns --China --Population --Statistics --Maps.</themekey>
+<themekey>Cities and towns --Census, 2000 --China --Databases.</themekey>
+<themekey>Cities and towns --Census, 2000 --China --Maps.</themekey>
+<themekey>China --Population --Statistics --Databases.</themekey>
+<themekey>China --Population --Statistics --Maps.</themekey>
+<themekey>China --Census, 2000 --Databases.</themekey>
+<themekey>China --Census, 2000 --Maps.</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>Census</themekey>
+<themekey>Population statistics</themekey>
+<themekey>Demographics</themekey>
+<themekey>Housing Statistics</themekey>
+<themekey>Sex Statistics</themekey>
+<themekey>Agriculture Statistics</themekey>
+<themekey>Counties</themekey>
+<themekey>Administrative and political divisions</themekey>
+</theme>
+<place>
+<placekt>Library of Congress Subject Headings</placekt>
+<placekey>China</placekey>
+<placekey>Xizang (China)</placekey>
+<placekey>Xikang Sheng (China)</placekey>
+<placekey>Tibet (China)</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>2000</tempkey>
+</temporal>
+</keywords>
+<accconst>For current Columbia affiliates only.</accconst>
+<useconst>For educational, non-commercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>China Data Center - University of Michigan</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1007 E Huron St</address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<postal>48104</postal>
+</cntaddr>
+<cntvoice>(734) 647-9610</cntvoice>
+<cntfax>(734) 763-0335</cntfax>
+<cntemail>chinadata@umich.edu</cntemail>
+</cntinfo>
+</ptcontac>
+
+
+
+
+
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850</native>
+</idinfo>
+<dataqual>
+<posacc>
+<horizpa>
+<horizpar>The 2000 China township maps are developed for matching 2000 China population Census data, which should only be used as references for research or education instead of used as official maps. The distributor is not responsible for the accuracy of the those maps if the maps are used for business or other purposes.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<procstep>
+<procdesc>The 2000 China township GIS maps were developed for the 5th population Census data, which covered all 31 municipalities, provinces and autonomous regions of China, except for Taiwan, Hong Kong and Macao, with more than 50,000 townships (Xiang, Zhen and Jiedao). The 2000 China township maps provide geographical reference for the 5th population census data in spatial data analysis. It will help users to understand the spatial distribution of population and regional difference in China.
+
+The population data came from the 5th China Population Census surveyed in 2000. The GIS data is based on the national digital map (1:1 million) developed by the National Geographic Information Center of China (NGCC), including rives, roads, residential area and administrative boundaries. Other sources "The China Atlas of Standard Place Names", the newly published provincial atlas, the digital city atlas, the street atlas of major cities, the zip code atlas, and the directory of all enterprises and administrative units of China.
+
+The primary work for the 2000 China township maps is to find the geographic location of each township on the 1:1 million digital map of China. The procedures include:
+
+1) Verifying the location of townships on the administrative maps based on 2000 population Census tables, and making the correction to those township names which don't match those names in the Census tables.
+
+2) For those townships of cities at prefecture level and above, we found the location of those townships on the city maps based on their addresses in the directory of all China basic units and zip code.
+
+3) For some virtual townships, which don't have central locations, we try to find the mostly related locations on the map.
+
+4) The administrative boundaries of urban districts of prefecture cities are based on the geographic locations of their townships and related boundary maps.
+
+5) The geographic reference degree data is extracted from the maps with the locations of the townships, compatible with 2000 population Census data.
+
+6) The digital township map (1: 1 million) is converted from the geographic degree data.</procdesc>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>China Data Center - University of Michigan</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1007 E Huron St</address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<postal>48104</postal>
+</cntaddr>
+<cntvoice>(734) 647-9610</cntvoice>
+<cntfax>(734) 763-0335</cntfax>
+<cntemail>chinadata@umich.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>1</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+  <horizsys>
+    <geodetic>
+      <horizdn>D_WGS_1984</horizdn>
+      <ellips>WGS_1984</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257224</denflat>
+    </geodetic>
+  </horizsys>
+</spref>
+
+
+
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+
+
+
+
+
+
+
+
+
+
+<eainfo>
+<overview>
+<eaover>Tibet 2000 Provincial Population Census Data with Maps
+Variable Description
+Area The area size
+GB  Two digit GB code of province
+Gbcode Five digit GB code of province
+Cname Name of province in Chinese Pingying
+Ename Name of province in English
+
+A101001 Total Number of Households
+A101002 Total Number of Family Households
+A101003 Total Number of Collective Households
+A101004 Total Population
+A101005 Total Males
+A101006 Total Females
+A101007 Sex Ratio
+A101008 Total Population of Family Households
+A101009 Total Males of Family Households
+A101010 Total Females of Family Households
+A101011 Sex Ratio of Population from Family Households
+A101012 Total Population of Collective Households
+A101013 Total Males of Collective Households
+A101014 Total Females of Collective Households
+A101015 Sex Ratio of Population from Collective Households
+A101016 Average Size of Family Households
+
+A102001 Total Population
+A102002 Total Males
+A102003 Total Females
+A102004 Total Population Who Reside in the Township, Towns and Street Communities and Have Their Permanent household Registration There.
+A102005 Total Males Who Reside in the Township, Towns and Street Communities and Have Their Permanent household Registration There.
+A102006 Total Females Who Reside in the Township, Towns and Street Communities and Have Their Permanent household Registration There.
+A102007 Total Population Who Have Resided in the Township, Towns and Street Communities for More Than 6 Months But the places of Their Permanent household Registration Are Elsewhere.
+A102008 Total Males Who Have Resided in the Township, Towns and Street Communities for More Than 6 Months But the places of Their Permanent household Registration Are Elsewhere.
+A102009 Total Females Who Have Resided in the Township, Towns and Street Communities for More Than 6 Months But the places of Their Permanent household Registration Are Elsewhere.
+A102010 Total Population Who Have Resided in the Township, Towns and Street Communities for Less Than 6 Months But Have Been Away From the places of Their Permanent household Registration for More Than 6 Months.
+A102011 Total Males Who Have Resided in the Township, Towns and Street Communities for Less Than 6 Months But Have Been Away From the places of Their Permanent household Registration for More Than 6 Months.
+A102012 Total Females Who Have Resided in the Township, Towns and Street Communities for Less Than 6 Months But Have Been Away From the places of Their Permanent household Registration for More Than 6 Months.
+A102013 Total Population Who Live in the Township, Towns and Street Communities During the Population Census While the places of Their household Registration Have Not Yet Settled.
+A102014 Total Males Who Live in the Township, Towns and Street Communities During the Population Census While the places of Their household Registration Have Not Yet Settled.
+A102015 Total Females Who Live in the Township, Towns and Street Communities During the Population Census While the places of Their household Registration Have Not Yet Settled.
+A102016 Total Population Who Used to Live in the Township, Towns and Street Communities but are Working or Studying Abroad During the Census and Have no Permanent for the Time Being.
+A102017 Total Males Who Used to Live in the Township, Towns and Street Communities but are Working or Studying Abroad During the Census and Have no Permanent for the Time Being.
+A102018 Total Females Who Used to Live in the Township, Towns and Street Communities but are Working or Studying Abroad During the Census and Have no Permanent for the Time Being.
+
+A103001 Total Population with Household Registration (Have not included the whole family and individuals going out )
+A103002 Total Males with Household Registration (Have not included the whole family and individuals going out)
+A103003 Total Females with Household Registration (Have not included the whole family and individuals going out)
+A103004 Total Number of Permanent Local Residents
+A103005 Total Males of Permanent Local Residents
+A103006 Total Females of Permanent Local Residents
+A103007 Total Number of Population Definitely Registered as Permanent Residents
+A103008 Total Males of Population Definitely Registered as Permanent Residents
+A103009 Total Females of Population Definitely Registered as Permanent Residents
+A103010 Total Population Working or Studying Abroad
+A103011 Total Males Working or Studying Abroad
+A103012 Total Females Working or Studying Abroad
+A103013 Total Population Going out within Half a Year from Household Registration Places
+A103014 Total Males Going out within Half a Year from Household Registration Places
+A103015 Total Females Going out within Half a Year from Household Registration Places
+A103016 Total Population Whose Whole Families Go out
+A103017 Total Males Whose Whole Families Go out
+A103018 Total Females Whose Whole Families Go out
+
+A104001 Total Population Moved in from Other Household Registration Places
+A104002 Total Males Moved in from Other Household Registration Places
+A104003 Total Females Moved in from Other Household Registration Places
+A104004 Total Population Moved in from the Same County (City)
+A104005 Total Males Moved in from the Same County (City)
+A104006 Total Females Moved in from the Same County (City)
+A104007 Total Population Moved in from Other Districts of the Same City
+A104008 Total Males Moved in from Other Districts of the Same City
+A104009 Total Females Moved in from Other Districts of the Same City
+A104010 Total Population Moved in from Other Counties or Cities of Same Province
+A104011 Total Males Moved in from Other Counties or Cities of Same Province
+A104012 Total Females Moved in from Other Counties or Cities of Same Province
+A104013 Total Population Moved in from Other Provinces
+A104014 Total Males Moved in from Other Provinces
+A104015 Total Females Moved in from Other Provinces
+
+A105001 Total Population
+A105002 Total Males
+A105003 Total Females
+A105004 Total Agricultural Population
+A105005 Total Males of Agricultural Population
+A105006 Total Females of Agricultural Population
+A105007 Total Non-agricultural Population
+A105008 Total Males of Non-agricultural Population
+A105009 Total Females of Non-agricultural Population
+A105010 % of Non-agricultural Population to Total
+A105011 % of Males of Non-agricultural Population to Total Males
+A105012 % of Females of Non-agricultural Population to Total Females
+
+A106001 Total Population
+A106002 Total Males
+A106003 Total Females
+A106004 Total Population of Han People
+A106005 Total Males of Han People
+A106006 Total Females of Han People
+A106007 Total Population of Mongolian People
+A106008 Total Males of Mongolian People
+A106009 Total Females of Mongolian People
+A106010 Total Population of Hui People
+A106011 Total Males of Hui People
+A106012 Total Females of Hui People
+A106013 Total Population of Tibetan People
+A106014 Total Males of Tibetan People
+A106015 Total Females of Tibetan People
+A106016 Total Population of Uygur People
+A106019 Total Males of Uygur People
+A106020 Total Females of Uygur People
+A106021 Total Population of Miao People
+A106022 Total Males of Miao People
+A106023 Total Females of Miao People
+A106024 Total Population of Yi People
+A106025 Total Males of Yi People
+A106026 Total Females of Yi People
+A106027 Total Population of Zhuang People
+A106028 Total Males of Zhuang People
+A106029 Total Females of Zhuang People
+A106030 Total Population of Bouyei People
+A106031 Total Males of Bouyei People
+A106032 Total Females of Bouyei People
+A106033 Total Population of Korean People
+A106034 Total Males of Korean People
+A106035 Total Females of Korean People
+A106036 Total Population of Manchu
+A106037 Total Males of Manchu
+A106038 Total Females of Manchu
+A106039 Total Population of Dong People
+A106040 Total Males of Dong People
+A106041 Total Females of Dong People
+A106042 Total Population of Yao People
+A106043 Total Males of Yao People
+A106044 Total Females of Yao People
+A106045 Total Population of Bai People
+A106046 Total Males of Bai People
+A106047 Total Females of Bai People
+A106048 Total Population of Tujia People
+A106049 Total Males of Tujia People
+A106050 Total Females of Tujia People
+A106051 Total Population of Hani People
+A106052 Total Males of Hani People
+A106053 Total Females of Hani People
+A106054 Total Population of Kazak People
+A106055 Total Males of Kazak People
+A106056 Total Females of Kazak People
+A106057 Total Population of Dai People
+A106058 Total Males of Dai People
+A106059 Total Females of Dai People
+A106060 Total Population of Li People
+A106061 Total Males of Li People
+A106062 Total Females of Li People
+A106063 Total Population of Lisu People
+A106064 Total Males of Lisu People
+A106065 Total Females of Lisu People
+A106066 Total Population of Va People
+A106067 Total Males of Va People
+A106068 Total Females of Va People
+A106069 Total Population of She People
+A106070 Total Males of She People
+A106071 Total Females of She People
+A106072 Total Population of Gaoshan People
+A106073 Total Males of Gaoshan People
+A106074 Total Females of Gaoshan People
+A106075 Total Population of Lahu People
+A106076 Total Males of Lahu People
+A106077 Total Females of Lahu People
+A106078 Total Population of Shui People
+A106079 Total Males of Shui People
+A106080 Total Females of Shui People
+A106081 Total Population of Dongxiang People
+A106082 Total Males of Dongxiang People
+A106083 Total Females of Dongxiang People
+A106084 Total Population of Naxi People
+A106085 Total Males of Naxi People
+A106086 Total Females of Naxi People
+A106087 Total Population of Jingpo People
+A106088 Total Males of Jingpo People
+A106089 Total Females of Jingpo People
+A106090 Total Population of Kirgiz People
+A106091 Total Males of Kirgiz People
+A106092 Total Females of Kirgiz People
+A106093 Total Population of Tu People
+A106094 Total Males of Tu People
+A106095 Total Females of Tu People
+A106096 Total Population of Daur People
+A106097 Total Males of Daur People
+A106098 Total Females of Daur People
+A106099 Total Population of Mulam People
+A106100 Total Males of Mulam People
+A106101 Total Females of Mulam People
+A106102 Total Population of Qiang People
+A106103 Total Males of Qiang People
+A106104 Total Females of Qiang People
+A106105 Total Population of Blang People
+A106106 Total Males of Blang People
+A106107 Total Females of Blang People
+A106108 Total Population of Salar People
+A106109 Total Males of Salar People
+A106110 Total Females of Salar People
+A106111 Total Population of Maonan People
+A106112 Total Males of Maonan People
+A106113 Total Females of Maonan People
+A106114 Total Population of Gelao People
+A106115 Total Males of Gelao People
+A106116 Total Females of Gelao People
+A106117 Total Population of Xibe People
+A106118 Total Males of Xibe People
+A106119 Total Females of Xibe People
+A106120 Total Population of Achang People
+A106121 Total Males of Achang People
+A106122 Total Females of Achang People
+A106123 Total Population of Pumi People
+A106124 Total Males of Pumi People
+A106125 Total Females of Pumi People
+A106126 Total Population of Tajik
+A106127 Total Males of Tajik
+A106128 Total Females of Tajik
+A106129 Total Population of Nu People
+A106130 Total Males of Nu People
+A106131 Total Females of Nu People
+A106132 Total Population of Ozbek People
+A106133 Total Males of Ozbek People
+A106134 Total Females of Ozbek People
+A106135 Total Population of Russian People
+A106136 Total Males of Russian People
+A106137 Total Females of Russian People
+A106138 Total Population of Ewenki People
+A106139 Total Males of Ewenki People
+A106140 Total Females of Ewenki People
+A106141 Total Population of De'ang People
+A106142 Total Males of De'ang People
+A106143 Total Females of De'ang People
+A106144 Total Population of Bonan People
+A106145 Total Males of Bonan People
+A106146 Total Females of Bonan People
+A106147 Total Population of Yugur People
+A106148 Total Males of Yugur People
+A106149 Total Females of Yugur People
+A106150 Total Population of Jing People
+A106151 Total Males of Jing People
+A106152 Total Females of Jing People
+A106153 Total Population of Tatar
+A106154 Total Males of Tatar
+A106155 Total Females of Tatar
+A106156 Total Population of Drung People
+A106157 Total Males of Drung People
+A106158 Total Females of Drung People
+A106159 Total Population of Oroqen People
+A106160 Total Males of Oroqen People
+A106161 Total Females of Oroqen People
+A106162 Total Population of Hezhen People
+A106163 Total Males of Hezhen People
+A106164 Total Females of Hezhen People
+A106165 Total Population of Moinba People
+A106166 Total Males of Moinba People
+A106167 Total Females of Moinba People
+A106168 Total Population of Lhoba People
+A106169 Total Males of Lhoba People
+A106170 Total Females of Lhoba People
+A106171 Total Population of Jino People
+A106172 Total Males of Jino People
+A106173 Total Females of Jino People
+A106174 Total Population of Unidentified Peoples
+A106175 Total Males of Unidentified Peoples
+A106176 Total Females of Unidentified Peoples
+A106177 Total Population of Chinese Foreigners
+A106178 Total Males of Chinese Foreigners
+A106179 Total Females of Chinese Foreigners
+
+A107001 Total Population
+A107002 Total Males
+A107003 Total Females
+A107004 Total Population at 0 Age
+A107005 Total Males at 0 Age
+A107006 Total Females at 0 Age
+A107007 Total Population at 1-4 Age
+A107008 Total Males at 1-4 Age
+A107009 Total Females at 1-4 Age
+A107010 Total Population at 5-9 Age
+A107011 Total Males at 5-9 Age
+A107012 Total Females at 5-9 Age
+A107013 Total Population at 10-14 Age
+A107014 Total Males at 10-14 Age
+A107015 Total Females at 10-14 Age
+A107016 Total Population at 15-19 Age
+A107019 Total Males at 15-19 Age
+A107020 Total Females at 15-19 Age
+A107021 Total Population at 20-24 Age
+A107022 Total Males at 20-24 Age
+A107023 Total Females at 20-24 Age
+A107024 Total Population at 25-29 Age
+A107025 Total Males at 25-29 Age
+A107026 Total Females at 25-29 Age
+A107027 Total Population at 30-34 Age
+A107028 Total Males at 30-34 Age
+A107029 Total Females at 30-34 Age
+A107030 Total Population at 35-39 Age
+A107031 Total Males at 35-39 Age
+A107032 Total Females at 35-39 Age
+A107033 Total Population at 40-44 Age
+A107034 Total Males at 40-44 Age
+A107035 Total Females at 40-44 Age
+A107036 Total Population at 45-49 Age
+A107037 Total Males at 45-49 Age
+A107038 Total Females at 45-49 Age
+A107039 Total Population at 50-54 Age
+A107040 Total Males at 50-54 Age
+A107041 Total Females at 50-54 Age
+A107042 Total Population at 55-59 Age
+A107043 Total Males at 55-59 Age
+A107044 Total Females at 55-59 Age
+A107045 Total Population at 60-64 Age
+A107046 Total Males at 60-64 Age
+A107047 Total Females at 60-64 Age
+A107048 Total Population at 65-69 Age
+A107049 Total Males at 65-69 Age
+A107050 Total Females at 65-69 Age
+A107051 Total Population at 70-74 Age
+A107052 Total Males at 70-74 Age
+A107053 Total Females at 70-74 Age
+A107054 Total Population at 75-79 Age
+A107055 Total Males at 75-79 Age
+A107056 Total Females at 75-79 Age
+A107057 Total Population at 80-84 Age
+A107058 Total Males at 80-84 Age
+A107059 Total Females at 80-84 Age
+A107060 Total Population at 85-89 Age
+A107061 Total Males at 85-89 Age
+A107062 Total Females at 85-89 Age
+A107063 Total Population at 90-94 Age
+A107064 Total Males at 90-94 Age
+A107065 Total Females at 90-94 Age
+A107066 Total Population at 95-99 Age
+A107067 Total Males at 95-99 Age
+A107068 Total Females at 95-99 Age
+A107069 Total Population at 100 Age and Over
+A107070 Total Males at 100 Age and Over
+A107071 Total Females at 100 Age and Over
+
+A108001 Total Population aged 6+
+A108002 Total Male aged 6+
+A108003 Total Female aged 6+
+A108004 Population No Schooling
+A108005 Male No Schooling
+A108006 Female No Schooling
+A108007 Population Eliminate Illiteracy
+A108008 Male Eliminate Illiteracy
+A108009 Female Eliminate Illiteracy
+A108010 Population Primary School
+A108011 Male Primary School
+A108012 Female Primary School
+A108013 Population Junior Middle School
+A108014 Male Junior Middle School
+A108015 Female Junior Middle School
+A108016 Population Senior Middle School
+A108019 Male Senior Middle School
+A108020 Female Senior Middle School
+A108021 Population Specialized Secondary School
+A108022 Male Specialized Secondary School
+A108023 Female Specialized Secondary School
+A108024 Population Junior College
+A108025 Male Junior College
+A108026 Female Junior College
+A108027 Population University
+A108028 Male University
+A108029 Female University
+A108030 Population Graduate Student
+A108031 Male Graduate Student
+A108032 Female Graduate Student
+
+A109001 Total Population 15+
+A109002 Total Male 15+
+A109003 Total Female 15+
+A109004 Population Illiterate
+A109005 Male Illiterate
+A109006 Female Illiterate
+A109007 Percentage of Illiterate to Total Population aged 15+(%)
+A109008 Percentage of Male Illiterate to Total Population aged 15+(%)
+A109009 Percentage of Female Illiterate to Total Population aged 15+(%)
+
+A110001 Total Number of Households
+A110002 Households with One Person
+A110003 Households with Two Persons
+A110004 Households with Three Persons
+A110005 Households with Four Persons
+A110006 Households with Five Persons
+A110007 Households with Six Persons
+A110008 Households with Seven Persons
+A110009 Households with Eight Persons
+A110010 Households with Nine Persons
+A110011 Households with Ten Persons &amp; Over
+
+A111001 Total Number of Households
+A111002 Households with One Generation
+A111003 Households with Two Generations
+A111004 Households with Three Generations
+A111005 Households with Four Generations
+A111006 Households with Five &amp; Over Generations
+
+A112001 All births
+A112002 Male births
+A112003 Female births
+A112004 All births November of 1999
+A112005 Male births November of 1999
+A112006 Female births November of 1999
+A112007 All births December of 1999
+A112008 Male births December of 1999
+A112009 Female births December of 1999
+A112010 All births January of 2000
+A112011 Male births January of 2000
+A112012 Female births January of 2000
+A112013 All births February of 2000
+A112014 Male births February of 2000
+A112015 Female births February of 2000
+A112016 All births March of 2000
+A112019 Male births March of 2000
+A112020 Female births March of 2000
+A112021 All births April of 2000
+A112022 Male births April of 2000
+A112023 Female births April of 2000
+A112024 All births May of 2000
+A112025 Male births May of 2000
+A112026 Female births May of 2000
+A112027 All births June of 2000
+A112028 Male births June of 2000
+A112029 Female births June of 2000
+A112030 All births July of 2000
+A112031 Male births July of 2000
+A112032 Female births July of 2000
+A112033 All births August of 2000
+A112034 Male births August of 2000
+A112035 Female births August of 2000
+A112036 All births September of 2000
+A112037 Male births September of 2000
+A112038 Female births September of 2000
+A112039 All births October of 2000
+A112040 Male births October of 2000
+A112041 Female births October of 2000
+
+A113001 All deaths
+A113002 Male deaths
+A113003 Female deaths
+A113004 All deaths November of 1999
+A113005 Male deaths November of 1999
+A113006 Female deaths November of 1999
+A113007 All deaths December of 1999
+A113008 Male deaths December of 1999
+A113009 Female deaths December of 1999
+A113010 All deaths January of 2000
+A113011 Male deaths January of 2000
+A113012 Female deaths January of 2000
+A113013 All deaths February of 2000
+A113014 Male deaths February of 2000
+A113015 Female deaths February of 2000
+A113016 All deaths March of 2000
+A113019 Male deaths March of 2000
+A113020 Female deaths March of 2000
+A113021 All deaths April of 2000
+A113022 Male deaths April of 2000
+A113023 Female deaths April of 2000
+A113024 All deaths May of 2000
+A113025 Male deaths May of 2000
+A113026 Female deaths May of 2000
+A113027 All deaths June of 2000
+A113028 Male deaths June of 2000
+A113029 Female deaths June of 2000
+A113030 All deaths July of 2000
+A113031 Male deaths July of 2000
+A113032 Female deaths July of 2000
+A113033 All deaths August of 2000
+A113034 Male deaths August of 2000
+A113035 Female deaths August of 2000
+A113036 All deaths September of 2000
+A113037 Male deaths September of 2000
+A113038 Female deaths September of 2000
+A113039 All deaths October of 2000
+A113040 Male deaths October of 2000
+A113041 Female deaths October of 2000
+
+A114001 Number of Family Households (Households)
+A114002 Persons of Family Households (Person)
+A114003 Average Rooms of Household (room/household)
+A114004 Average Floor Space of Building (sq.m/person)
+
+A302001 Total Population
+A302002 Population 0-14
+A302003 Population 15-64
+A302004 Population 65+
+A302005 Total Population to Total Population (%)
+A302006 Population 0-14 to Total Population (%)
+A302007 Population 15-64 to Total Population (%)
+A302008 Population 65+ to Total Population (%)
+A302009 Total Dependency Ratio
+A302010 Dependency Ratio of Children
+A302011 Dependency Ratio of The Aged
+
+A502001 Family households with only one member
+A502002 Male households with only one member
+A502003 Female households with only one member
+A502004 Family households with only one member 14 and under
+A502005 Male households with only one member 14 and under
+A502006 Female households with only one member 14 and under
+A502007 Family households with only one member 15-19
+A502008 Male households with only one member 15-19
+A502009 Female households with only one member 15-19
+A502010 Family households with only one member 20-24
+A502011 Male households with only one member 20-24
+A502012 Female households with only one member 20-24
+A502013 Family households with only one member 25-29
+A502014 Male households with only one member 25-29
+A502015 Female households with only one member 25-29
+A502016 Family households with only one member 30-34
+A502017 Male households with only one member 30-34
+A502018 Female households with only one member 30-34
+A502019 Family households with only one member 35-39
+A502020 Male households with only one member 35-39
+A502021 Female households with only one member 35-39
+A502022 Family households with only one member 40-44
+A502023 Male households with only one member 40-44
+A502024 Female households with only one member 40-44
+A502025 Family households with only one member 45-49
+A502026 Male households with only one member 45-49
+A502027 Female households with only one member 45-49
+A502028 Family households with only one member 50-54
+A502029 Male households with only one member 50-54
+A502030 Female households with only one member 50-54
+A502031 Family households with only one member 55-59
+A502032 Male households with only one member 55-59
+A502033 Female households with only one member 55-59
+A502034 Family households with only one member 60-64
+A502035 Male households with only one member 60-64
+A502036 Female households with only one member 60-64
+A502037 Family households with only one member 65+
+A502038 Male households with only one member 65+
+A502039 Female households with only one member 65+
+
+A503001 Number of Family households
+A503002 Number of Family households with One Nationality
+A503003 Percentage of Household with One Nationality to Total Households
+A503004 Number of Family households with Two Nationalities
+A503005 Percentage of Household with Two Nationalities to Total Households
+A503006 Number of Family households with Three Nationalities
+A503007 Percentage of Household with Three Nationalities to Total Households
+A503008 Number of Family households with Four and Over Nationalities
+A503009 Percentage of Household with Four and Over Nationalities to Total Households
+
+A504001 Family households with persons aged 0-19
+A504002 Family households with persons of 0-4
+A504003 Family households with persons of 5-9
+A504004 Family households with persons of 10-14
+A504005 Family households with persons of 15-19
+
+A505001 Family households with persons aged 60 and over
+A505002 Family with one person of 60 and over
+A505003 Family (with one person of 60 and over) of one old person only
+A505004 Family (with one person of 60 and over) with one old person and other persons under age of adult
+A505005 Family with one person of 60 and over (other)
+A505006 Family with two persons of 60 and over
+A505007 Family (with two persons of 60 and over) of one old couple only
+A505008 Family (with two persons of 60 and over) with one old couple and other persons under age of adult
+A505009 Family with two persons of 60 and over (other)
+A505010 Family households with persons aged 60 and over (other)
+
+A506501 Family households with persons aged 65 and over
+A506502 Family with one person of 65 and over
+A506503 Family (with one person of 65 and over) of one old person only
+A506504 Family (with one person of 65 and over) with one old person and other persons under age of adult
+A506505 Family with one person of 65 and over (other)
+A506506 Family with two persons of 65 and over
+A506507 Family (with two persons of 65 and over) of one old couple only
+A506508 Family (with two persons of 65 and over) with one old couple and other persons under age of adult
+A506509 Family with two persons of 65 and over (other)
+A506510 Family households with persons aged 65 and over (other)
+
+A601001 Total deaths Population, all ages and both sexes (1999.11.1-2000.10.31)
+A601002 Total deaths Male, all ages (1999.11.1-2000.10.31)
+A601003 Total deaths Female, all ages (1999.11.1-2000.10.31)
+A601004  Deaths Population Aged 0 (1999.11.1-2000.10.31)
+A601005  Deaths Male Aged 0 (1999.11.1-2000.10.31)
+A601006  Deaths Female Aged 0 (1999.11.1-2000.10.31)
+A601007  Deaths Population Aged 1-4 (1999.11.1-2000.10.31)
+A601008  Deaths Male Aged 1-4 (1999.11.1-2000.10.31)
+A601009  Deaths Female Aged 1-4 (1999.11.1-2000.10.31)
+A601010  Deaths Population Aged 5-9 (1999.11.1-2000.10.31)
+A601011  Deaths Male Aged 5-9 (1999.11.1-2000.10.31)
+A601012  Deaths Female Aged 5-9 (1999.11.1-2000.10.31)
+A601013  Deaths Population Aged 10-14 (1999.11.1-2000.10.31)
+A601014  Deaths Male Aged 10-14 (1999.11.1-2000.10.31)
+A601015  Deaths Female Aged 10-14 (1999.11.1-2000.10.31)
+A601016  Deaths Population Aged 15-19 (1999.11.1-2000.10.31)
+A601019  Deaths Male Aged 15-19 (1999.11.1-2000.10.31)
+A601020  Deaths Female Aged 15-19 (1999.11.1-2000.10.31)
+A601021  Deaths Population Aged 20-24 (1999.11.1-2000.10.31)
+A601022  Deaths Male Aged 20-24 (1999.11.1-2000.10.31)
+A601023  Deaths Female Aged 20-24 (1999.11.1-2000.10.31)
+A601024  Deaths Population Aged 25-29 (1999.11.1-2000.10.31)
+A601025  Deaths Male Aged 25-29 (1999.11.1-2000.10.31)
+A601026  Deaths Female Aged 25-29 (1999.11.1-2000.10.31)
+A601027  Deaths Population Aged 30-34 (1999.11.1-2000.10.31)
+A601028  Deaths Male Aged 30-34 (1999.11.1-2000.10.31)
+A601029  Deaths Female Aged 30-34 (1999.11.1-2000.10.31)
+A601030  Deaths Population Aged 35-39 (1999.11.1-2000.10.31)
+A601031  Deaths Male Aged 35-39 (1999.11.1-2000.10.31)
+A601032  Deaths Female Aged 35-39 (1999.11.1-2000.10.31)
+A601033  Deaths Population Aged 40-44 (1999.11.1-2000.10.31)
+A601034  Deaths Male Aged 40-44 (1999.11.1-2000.10.31)
+A601035  Deaths Female Aged 40-44 (1999.11.1-2000.10.31)
+A601036  Deaths Population Aged 45-49 (1999.11.1-2000.10.31)
+A601037  Deaths Male Aged 45-49 (1999.11.1-2000.10.31)
+A601038  Deaths Female Aged 45-49 (1999.11.1-2000.10.31)
+A601039  Deaths Population Aged 50-54 (1999.11.1-2000.10.31)
+A601040  Deaths Male Aged 50-54 (1999.11.1-2000.10.31)
+A601041  Deaths Female Aged 50-54 (1999.11.1-2000.10.31)
+A601042  Deaths Population Aged 55-59 (1999.11.1-2000.10.31)
+A601043  Deaths Male Aged 55-59 (1999.11.1-2000.10.31)
+A601044  Deaths Female Aged 55-59 (1999.11.1-2000.10.31)
+A601045  Deaths Population Aged 60-64 (1999.11.1-2000.10.31)
+A601046  Deaths Male Aged 60-64 (1999.11.1-2000.10.31)
+A601047  Deaths Female Aged 60-64 (1999.11.1-2000.10.31)
+A601048  Deaths Population Aged 65-69 (1999.11.1-2000.10.31)
+A601049  Deaths Male Aged 65-69 (1999.11.1-2000.10.31)
+A601050  Deaths Female Aged 65-69 (1999.11.1-2000.10.31)
+A601051  Deaths Population Aged 70-74 (1999.11.1-2000.10.31)
+A601052  Deaths Male Aged 70-74 (1999.11.1-2000.10.31)
+A601053  Deaths Female Aged 70-74 (1999.11.1-2000.10.31)
+A601054  Deaths Population Aged 75-79 (1999.11.1-2000.10.31)
+A601055  Deaths Male Aged 75-79 (1999.11.1-2000.10.31)
+A601056  Deaths Female Aged 75-79 (1999.11.1-2000.10.31)
+A601057  Deaths Population Aged 80-84 (1999.11.1-2000.10.31)
+A601058  Deaths Male Aged 80-84 (1999.11.1-2000.10.31)
+A601059  Deaths Female Aged 80-84 (1999.11.1-2000.10.31)
+A601060  Deaths Population Aged 85-89 (1999.11.1-2000.10.31)
+A601061  Deaths Male Aged 85-89 (1999.11.1-2000.10.31)
+A601062  Deaths Female Aged 85-89 (1999.11.1-2000.10.31)
+A601063  Deaths Population Aged 90-94 (1999.11.1-2000.10.31)
+A601064  Deaths Male Aged 90-94 (1999.11.1-2000.10.31)
+A601065  Deaths Female Aged 90-94 (1999.11.1-2000.10.31)
+A601066  Deaths Population Aged 95-99 (1999.11.1-2000.10.31)
+A601067  Deaths Male Aged 95-99 (1999.11.1-2000.10.31)
+A601068  Deaths Female Aged 95-99 (1999.11.1-2000.10.31)
+A601069  Deaths Population Aged 100 and Over (1999.11.1-2000.10.31)
+A601070  Deaths Male Aged 100 and Over (1999.11.1-2000.10.31)
+A601071  Deaths Female Aged 100 and Over (1999.11.1-2000.10.31)
+
+A602001 Total Deaths Population aged 6+ (1999.11.1-2000.10.31)
+A602002 Total Deaths Male aged 6+ (1999.11.1-2000.10.31)
+A602003 Total Deaths Female aged 6+ (1999.11.1-2000.10.31)
+A602004 Deaths Population Aged 6+ No Schooling (1999.11.1-2000.10.31)
+A602005 Deaths Male Aged 6+ No Schooling (1999.11.1-2000.10.31)
+A602006 Deaths Female Aged 6+ No Schooling (1999.11.1-2000.10.31)
+A602007 Deaths Population Aged 6+ Eliminate Illiteracy (1999.11.1-2000.10.31)
+A602008 Deaths Male Aged 6+ Eliminate Illiteracy (1999.11.1-2000.10.31)
+A602009 Deaths Female Aged 6+ Eliminate Illiteracy (1999.11.1-2000.10.31)
+A602010 Deaths Population Aged 6+ Primary School (1999.11.1-2000.10.31)
+A602011 Deaths Male Aged 6+ Primary School (1999.11.1-2000.10.31)
+A602012 Deaths Female Aged 6+ Primary School (1999.11.1-2000.10.31)
+A602013 Deaths Population Aged 6+ Junior Middle School (1999.11.1-2000.10.31)
+A602014 Deaths Male Aged 6+ Junior Middle School (1999.11.1-2000.10.31)
+A602015 Deaths Female Aged 6+ Junior Middle School (1999.11.1-2000.10.31)
+A602016 Deaths Population Aged 6+ Senior Middle School (1999.11.1-2000.10.31)
+A602019 Deaths Male Aged 6+ Senior Middle School (1999.11.1-2000.10.31)
+A602020 Deaths Female Aged 6+ Senior Middle School (1999.11.1-2000.10.31)
+A602021 Deaths Population Aged 6+ Specialized Secondary School (1999.11.1-2000.10.31)
+A602022 Deaths Male Aged 6+ Specialized Secondary School (1999.11.1-2000.10.31)
+A602023 Deaths Female Aged 6+ Specialized Secondary School (1999.11.1-2000.10.31)
+A602024 Deaths Population Aged 6+ Junior College (1999.11.1-2000.10.31)
+A602025 Deaths Male Aged 6+ Junior College (1999.11.1-2000.10.31)
+A602026 Deaths Female Aged 6+ Junior College (1999.11.1-2000.10.31)
+A602027 Deaths Population Aged 6+ University (1999.11.1-2000.10.31)
+A602028 Deaths Male Aged 6+ University (1999.11.1-2000.10.31)
+A602029 Deaths Female Aged 6+ University (1999.11.1-2000.10.31)
+A602030 Deaths Population Aged 6+ Graduate Student (1999.11.1-2000.10.31)
+A602031 Deaths Male Aged 6+ Graduate Student (1999.11.1-2000.10.31)
+A602032 Deaths Female Aged 6+ Graduate Student (1999.11.1-2000.10.31)
+
+A603001 Deaths Population 15+ (1999.11.1-2000.10.31)
+A603002 Deaths Male 15+ (1999.11.1-2000.10.31)
+A603003 Deaths Female 15+ (1999.11.1-2000.10.31)
+A603004 Deaths Population 15+ Never Married (1999.11.1-2000.10.31)
+A603005 Deaths Male 15+ Never Married (1999.11.1-2000.10.31)
+A603006 Deaths Female 15+ Never Married (1999.11.1-2000.10.31)
+A603007 Deaths Population 15+ First Married (1999.11.1-2000.10.31)
+A603008 Deaths Male 15+ First Married (1999.11.1-2000.10.31)
+A603009 Deaths Female 15+ First Married (1999.11.1-2000.10.31)
+A603010 Deaths Population 15+ Re-married (1999.11.1-2000.10.31)
+A603011 Deaths Male 15+ Re-married (1999.11.1-2000.10.31)
+A603012 Deaths Female 15+ Re-married (1999.11.1-2000.10.31)
+A603013 Deaths Population 15+ Divorced (1999.11.1-2000.10.31)
+A603014 Deaths Male 15+ Divorced (1999.11.1-2000.10.31)
+A603015 Deaths Female 15+ Divorced (1999.11.1-2000.10.31)
+A603016 Deaths Population 15+ Widowed (1999.11.1-2000.10.31)
+A603017 Deaths Male 15+ Widowed (1999.11.1-2000.10.31)
+A603018 Deaths Female 15+ Widowed (1999.11.1-2000.10.31)
+
+A701001 Total Population Moved in from Other Household Registration Places
+A701002 Population Moved in from Other Townships of This County/City
+A701003 Population Moved in from Other Towns of This County/City
+A701004 Population Moved in from Other Subdistricts of This County/City
+A701005 Population Moved in from Other Townships of This City
+A701006 Population Moved in from Other Towns of This City
+A701007 Population Moved in from Other Subdistricts of This City
+A701008 Population Moved in from Other Counties or Cities of This Province
+A701009 Population Moved in from Other Provinces
+
+A702001 Total Population moved in with household registration in other provinces
+A702002 Population moved in with household registration in Beijing
+A702003 Population moved in with household registration in Tianjin
+A702004 Population moved in with household registration in Hebei
+A702005 Population moved in with household registration in Shanxi
+A702006 Population moved in with household registration in Inner Mongolia
+A702007 Population moved in with household registration in Liaoning
+A702008 Population moved in with household registration in Jilin
+A702009 Population moved in with household registration in Heilongjiang
+A702010 Population moved in with household registration in Shanhai
+A702011 Population moved in with household registration in Jiangsu
+A702012 Population moved in with household registration in Zhejiang
+A702013 Population moved in with household registration in Anhui
+A702014 Population moved in with household registration in Fujian
+A702015 Population moved in with household registration in Jiangxi
+A702016 Population moved in with household registration in Shandong
+A702019 Population moved in with household registration in Henai
+A702020 Population moved in with household registration in Hubei
+A702021 Population moved in with household registration in Hunan
+A702022 Population moved in with household registration in Guangdong
+A702023 Population moved in with household registration in Guangxi
+A702024 Population moved in with household registration in Hainan
+A702025 Population moved in with household registration in Chongqing
+A702026 Population moved in with household registration in Sichuan
+A702027 Population moved in with household registration in Guizhou
+A702028 Population moved in with household registration in Yunnan
+A702029 Population moved in with household registration in Tibet
+A702030 Population moved in with household registration in Shaanxi
+A702031 Population moved in with household registration in Gansu
+A702032 Population moved in with household registration in Qinghai
+A702033 Population moved in with household registration in Ningxia
+A702034 Population moved in with household registration in Xinjiang
+
+A703001 Total population moved in from other places
+A703002 Population Moved in from Same Province
+A703003 Population Moved in from the Township of Same Province
+A703004 Population Moved in from the Town of Same Province
+A703005 Population Moved in from the Subdistrict of Same Province
+A703006 Population Moved in from Other Counties or Cities of Same Province
+A703007 Population Moved in from Other Provinces
+A703008 Population Moved in from Beijing
+A703009 Population Moved in from Tianjin
+A703010 Population Moved in from Hebei
+A703011 Population Moved in from Shanxi
+A703012 Population Moved in from Inner Mongolia
+A703013 Population Moved in from Liaoning
+A703014 Population Moved in from Jilin
+A703015 Population Moved in from Heilongjiang
+A703016 Population Moved in from Shanhai
+A703019 Population Moved in from Jiangsu
+A703020 Population Moved in from Zhejiang
+A703021 Population Moved in from Anhui
+A703022 Population Moved in from Fujian
+A703023 Population Moved in from Jiangxi
+A703024 Population Moved in from Shandong
+A703025 Population Moved in from Henai
+A703026 Population Moved in from Hubei
+A703027 Population Moved in from Hunan
+A703028 Population Moved in from Guangdong
+A703029 Population Moved in from Guangxi
+A703030 Population Moved in from Hainan
+A703031 Population Moved in from Chongqing
+A703032 Population Moved in from Sichuan
+A703033 Population Moved in from Guizhou
+A703034 Population Moved in from Yunnan
+A703035 Population Moved in from Tibet
+A703036 Population Moved in from Shaanxi
+A703037 Population Moved in from Gansu
+A703038 Population Moved in from Qinghai
+A703039 Population Moved in from Ningxia
+A703040 Population Moved in from Xinjiang
+
+A801001 Total Households with Dwelling Rooms
+A801002 Households with 0 room
+A801003 Households with One Room
+A801004 Households with Two Rooms
+A801005 Households with Three Rooms
+A801006 Households with Four Rooms
+A801007 Households with Five Rooms
+A801008 Households with Six Rooms
+A801009 Households with Seven Rooms
+A801010 Households with Eight Rooms
+A801011 Households with Nine Rooms
+A801012 Households with Ten Rooms and Over
+A801013 Average Rooms Per Household
+
+A802001 Total Households
+A802002 Households Per Capita Living Space Under 8(Sq.m)
+A802003 Households Per Capita Living Space 9-12(Sq.m)
+A802004 Households Per Capita Living Space 13-16(Sq.m)
+A802005 Households Per Capita Living Space 17-19(Sq.m)
+A802006 Households Per Capita Living Space 20-29(Sq.m)
+A802007 Households Per Capita Living Space 30-39(Sq.m)
+A802008 Households Per Capita Living Space 40-49(Sq.m)
+A802009 Households Per Capita Living Space Over 50(Sq.m)
+
+A803001 Total Households
+A803002 Households with 0 Room and One Generation
+A803003 Households with One Room and One Generation
+A803004 Households with Two Rooms and One Generation
+A803005 Households with Three Rooms and One Generation
+A803006 Households with Four Rooms and One Generation
+A803007 Households with Five Rooms and Over and One Generation
+A803008 Households with 0 Room and Two Generation
+A803009 Households with Two Room and Two Generation
+A803010 Households with Two Rooms and Two Generation
+A803011 Households with Three Rooms and Two Generation
+A803012 Households with Four Rooms and Two Generation
+A803013 Households with Five Rooms and Over and Two Generation
+A803014 Households with 0 Room and Three Generation
+A803015 Households with Three Room and Three Generation
+A803016 Households with Three Rooms and Three Generation
+A803019 Households with Three Rooms and Three Generation
+A803020 Households with Four Rooms and Three Generation
+A803021 Households with Five Rooms and Over and Three Generation
+A803022 Households with 0 Room and Four Generation
+A803023 Households with Four Room and Four Generation
+A803024 Households with Four Rooms and Four Generation
+A803025 Households with Four Rooms and Four Generation
+A803026 Households with Four Rooms and Four Generation
+A803027 Households with Five Rooms and Over and Four Generation
+A803028 Households with 0 Room and Five Generation
+A803029 Households with Five Room and Five Generation
+A803030 Households with Five Rooms and Five Generation
+A803031 Households with Five Rooms and Five Generation
+A803032 Households with Five Rooms and Five Generation
+A803033 Households with Five Rooms and Over and Five Generation</eaover>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>China Data Center - University of Michigan</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1007 E Huron St</address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<postal>48104</postal>
+</cntaddr>
+<cntvoice>(734) 647-9610</cntvoice>
+<cntfax>(734) 763-0335</cntfax>
+<cntemail>chinadata@umich.edu</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>cdc_2000_tibet_province2000a</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Geopackage</formname>
+<formspec>zip</formspec>
+
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20090527</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
+<cntper>GIS/Metadata Librarian</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>420 W. 118th St., 215 IAB, MC 3301</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10027</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(212)854-6012</cntvoice>
+<cntemail>data@library.columbia.edu</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
