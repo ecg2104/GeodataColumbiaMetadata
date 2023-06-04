@@ -104,7 +104,8 @@
 	</idinfo>
 
 	<spdoinfo>
-		<ptvctinf>sdtsterm>
+		<ptvctinf>
+<sdtsterm>
 <sdtstype>G-polygon</sdtstype>
 <ptvctcnt>2872</ptvctcnt>
 </sdtsterm>
@@ -601,18 +602,5 @@
 </digform>
 </stdorder>
 </distinfo>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </metadata>
