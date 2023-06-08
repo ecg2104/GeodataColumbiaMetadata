@@ -8,37 +8,37 @@
 </theme>
 <place>
 <placekt>None</placekt>
-<placekey>North Carolina</placekey>
+<placekey>Connecticut</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2017</tempkey>
+<tempkey>2023</tempkey>
 </temporal>
 </keywords>
 <spdom>
 <bounding>
-<westbc>-84.321869</westbc>
-<eastbc>-75.460621</eastbc>
-<northbc>36.588117</northbc>
-<southbc>33.842316</southbc>
+<westbc>-73.727775</westbc>
+<eastbc>-71.786994</eastbc>
+<northbc>42.050587</northbc>
+<southbc>40.980144</southbc>
 </bounding>
 </spdom>
 <descript>
-<abstract>North Carolina Tax Pacels, 2017 is a polygon theme representing tax parcels and lots in various North Carolina counties from the year 2015-2017. The counties included are Alamance, Alexander, Alleghany, Anson, Ashe, Avery, Beaufort, Bertie, Bladen, Brunswick, Buncombe, Burke, Cabarrus, Caldwell, Camden, Carteret, Caswell, Catawba, Chatham, Cherokee, Chowan, Clay, Cleveland, Columbus, Craven, Cumberland, Currituck, Dare, Davidson, Davie, Duplin, Durham, Edgecombe, Forsyth, Franklin, Gaston, Gates, Graham, Granville, Greene, Guilford, Halifax, Harnett, Haywood, Henderson, Hertford, Hoke, Hyde, Iredell, Jackson, Johnston, Jones, Lee, Lenoir, Lincoln, Mcdowell, Macon, Madison, Martin, Mecklenburg, Mitchell, Montgomery, Moore, Nash, New Hanover, Northampton, Onslow, Orange, Pamlico, Pasquotank, Pender, Perquimans, Person, Pitt, Polk, Randolph, Richmond, Robeson, Rockingham, Rowan, Rutherford, Sampson, Scotland, Stanly, Stokes, Surry, Swain, Transylvania, Tyrrell, Union, Vance, Wake, Warren, Washington, Watauga, Wayne, Wilkes, Wilson, Yadkin, Yancey. Attribute information typically includes details regarding the address, ownership and valuation of the lot as well as information regarding structures on the parcel. Accompaning layers will usually include street centerlines and county boundy layers.  Additional cadastral and property files are included, though the content and format of these additional files may vary. All files were collected and published by Boundary Solutions as part of the National ParcelMap Data Portal.
+<abstract>Connecticut Tax Pacels, 2023 is a polygon theme representing tax parcels and lots in various Connecticut counties from the year 2006-2023. The counties included are Fairfield, Hartford, Litchfield, Middlesex, New Haven, New London, Tolland, Windham. Attribute information typically includes details regarding the address, ownership and valuation of the lot as well as information regarding structures on the parcel. Accompaning layers will usually include street centerlines and county boundy layers.  Additional cadastral and property files are included, though the content and format of these additional files may vary. All files were collected and published by Boundary Solutions as part of the National ParcelMap Data Portal.
 </abstract>
 <purpose>These files are formatted for use in a GIS</purpose>
 </descript>
 <citation>
 <citeinfo>
-<title>North Carolina Tax Pacels, 2017 </title>
+<title>Connecticut Tax Pacels, 2023</title>
 <origin>Boundary Solutions, Inc.</origin>
-<pubdate>2017</pubdate>
+<pubdate>2023</pubdate>
 <geoform>map</geoform>
 <pubinfo>
 <publish>Boundary Solutions, Inc.</publish>
 </pubinfo>
 <origin>Boundary Solutions, Inc.</origin>
-<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/bsi_parcelmap_37_nc.zip
+<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/bsi_2023_parcelmap_09_ct.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -46,7 +46,7 @@
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2017</caldate>
+<caldate>2023</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -87,7 +87,7 @@
 </ptvctinf>
 </spdoinfo>
 <metainfo>
-<metd>20190901</metd>
+<metd>20230615</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
@@ -118,7 +118,7 @@
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>bsi_parcelmap_37_nc</resdesc>
+<resdesc>bsi_2023_parcelmap_09_ct</resdesc>
 <distrib>
 </distrib>
 </distinfo>
