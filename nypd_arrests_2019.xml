@@ -13,7 +13,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2022</tempkey>
+<tempkey>2019</tempkey>
 </temporal>
 </keywords>
 <spdom>
@@ -26,12 +26,13 @@
 </spdom>
 <descript>
 <abstract>
-New York City NYPD Complaint Data, 2022 is a point theme representing each complaint call that NYPD has received 2022. This dataset was derived from NYC OpenData (https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) in August 2023. Each record represents a criminal complaint in NYC and includes information about the type of crime, the location and time of enforcement. In addition, information related to victim and suspect demographics is also included. Columbia Libraries staff extracted each half year's records and converted them to geopackage format by state plane x/y coordinates. Some records lack geolocation information, and they have coordinates 0,0. Columbia Libraries staff has provided the data in the geopackage format, and a codebook and a has been included in the download package. A penal law codebook provided by NYC OpenData is also included.
+New York City NYPD Arrest Data, 2019 is a point theme representing every New York Plice Department Arrest in the year 2019. This dataset was derived from NYC OpenData (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u) in August 2023. Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement.
+In addition, information related to suspect demographics is also included. Columbia Libraries staff extracted each half year's records and converted them to geopackage format by state plane x/y coordinates. Some records may geolocation information, and they have coordinates 0,0. Columbia Libraries staff has provided the data in the geopackage format, and a codebook and a has been included in the download package.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City NYPD Complaint Data, 2022</title>
+<title>New York City NYPD Arrests, 2019</title>
 <origin>New York (N.Y.). Police Department</origin>
 <pubdate>2023</pubdate>
 <geoform>map</geoform>
@@ -39,7 +40,7 @@ New York City NYPD Complaint Data, 2022 is a point theme representing each compl
 <publish>New York (N.Y.). Police Department</publish>
 </pubinfo>
 <origin>New York (N.Y.). Police Department</origin>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nypd_complaint_2022.zip
+<onlink>http://www.columbia.edu/acis/eds/gis/images/nypd_arrests_2019.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -47,7 +48,7 @@ New York City NYPD Complaint Data, 2022 is a point theme representing each compl
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2022</caldate>
+<caldate>2019</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -100,7 +101,7 @@ New York City NYPD Complaint Data, 2022 is a point theme representing each compl
 </spref>
 
 <metainfo>
-<metd>20230828</metd>
+<metd>20230829</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
@@ -131,7 +132,7 @@ New York City NYPD Complaint Data, 2022 is a point theme representing each compl
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>nypd_complaint_2022</resdesc>
+<resdesc>nypd_arrests_2019</resdesc>
 <distrib>
 </distrib>
 </distinfo>
