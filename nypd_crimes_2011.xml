@@ -26,12 +26,12 @@
 </spdom>
 <descript>
 <abstract>
-New York City Crimes by Precict, 2011 is a polygon theme theme representing police precints in New York City in 2011.  Attribute information includes totals of felony, misdemeanor and violation incidents for 2011 calender year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in September 2023. The precint boundaries are version 12c (the last version of the boundaries before precinct 121 was created in 2013) from New York City Planning as found on this web site: https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page in September 2023.  Columbia Libraries staff appended the crime statistics to the precint boundaries and has provided the data in the geopackage format.  A codebook and a has been included in the download package.
+New York City Crimes by Precinct, 2011 is a polygon theme theme representing police precints in New York City in 2011.  Attribute information includes totals of felony, misdemeanor and violation incidents for 2011 calender year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in September 2023. The precint boundaries are version 12c (the last version of the boundaries before precinct 121 was created in 2013) from New York City Planning as found on this web site: https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page in September 2023.  Columbia Libraries staff appended the crime statistics to the precint boundaries and has provided the data in the geopackage format.  A codebook and a has been included in the download package.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City Crimes by Precict, 2011</title>
+<title>New York City Crimes by Precinct, 2011</title>
 <origin>New York (N.Y.). Police Department</origin>
 <pubdate>2023</pubdate>
 <geoform>map</geoform>
