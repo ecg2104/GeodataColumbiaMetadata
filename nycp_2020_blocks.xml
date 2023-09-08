@@ -27,7 +27,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City Census Blocks, 2020 is a polygon theme theme representing census blocks in New York City in 2020.  Attribute information includes the city planning block code as well as the 15 digit census FIPS code. 
+New York City Census Blocks, 2020 is a polygon theme theme representing census blocks in New York City in 2020.  Attribute information includes the city planning block code as well as the 15 digit census FIPS code.
 </abstract>
 </descript>
 <citation>
@@ -138,7 +138,7 @@ New York City Census Blocks, 2020 is a polygon theme theme representing census b
       <attrlabl>Shape_Area</attrlabl>
       <attrdef>Area of block</attrdef>
     </attr>
-
+</detailed>
 
 </eainfo>
 
