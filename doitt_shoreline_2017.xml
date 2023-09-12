@@ -3,28 +3,28 @@
 <idinfo>
 <citation>
 <citeinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_bids_2014.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_shoreline_2017.zip</onlink>
 <origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
 <origin>New York City Office of Technology and Innovation</origin>
-<pubdate>2016</pubdate>
+<pubdate>2018</pubdate>
 <geoform>vector digital data</geoform>
 <pubinfo>
 <pubplace>City of New York</pubplace>
 <publish>Department of Information Technology and Telecommunications</publish>
 </pubinfo>
-<title>New York City Business Improvement Districts, 2014</title>
+<title>New York City Shoreline, 2017</title>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Business Improvement Districts, 2014 is a polygon theme representing Business Improvement Districts in New York City as of 2014.  A BID is a public/private partnership in which property and business owners elect to make a collective contribution to the maintenance, development, and promotion of their commercial district.
-Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/Business/Business-Improvement-Districts/ejxk-d93y and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_BIDs.md </abstract>
+<abstract>New York City Shoreline, 2017 is a line theme representing the shoreline in New York City as of 2017. This dataset derived from the 2017 Light Detection and Ranging (LiDAR) data capture. In most areas LiDAR was captured during low tide (defined here as a range between Mean Lower Low Water (MLLW) and MLLW + 30% of the mean tide range). All bathymetric LiDAR and most near-infrared (NIR) LiDAR was captured during low tide. Flights flown over NIR LiDAR shoreline areas that are largely made up of sea walls and riprap were not flown during low tide. See dataset attributes for which areas are tidally-coordinated. Tidal gauges used to determine low tide: Kings Point, Bergen West, Sandy Hook, and The Battery.
+Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/Environment/Tidally-Coordinated-Shoreline/pawq-tjb4 and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_TidalShoreline.md </abstract>
 <purpose>Use of the data is for analytic and cartographic purposes.</purpose>
 <langdata>en</langdata>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2014</caldate>
+<caldate>2017</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -45,13 +45,13 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 </spdom>
 <keywords>
 <theme>
-<themekey>Business improvement districts</themekey>
+<themekey>shoreline</themekey>
 <themekt>None</themekt>
 
 </theme>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2014</tempkey>
+<tempkey>2017</tempkey>
 </temporal>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -68,7 +68,8 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 </place>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>structure</themekey>
+<themekey>inlandWaters</themekey>
+<themekey>oceans</themekey>
 </theme>
 </keywords>
 <accconst>None</accconst>
@@ -94,7 +95,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
+<sdtstype>String</sdtstype>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -124,27 +125,6 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 </horizsys>
 </spref>
 
-<eainfo>
-<detailed>
-<enttyp>
-<enttypl>doitt_bids_2014</enttypl>
-<enttypd>districts</enttypd>
-</enttyp>
-<attr>
-<attrlabl>fid</attrlabl>
-<attrdef>id</attrdef>
-</attr>
-<attr>
-<attrlabl>BIDID</attrlabl>
-<attrdef>Building Improvement District ID</attrdef>
-</attr>
-<attr>
-<attrlabl>borough</attrlabl>
-<attrdef>borough name</attrdef>
-</attr>
-</detailed>
-</eainfo>
-
 <distinfo>
 <distrib>
 <cntinfo>
@@ -170,7 +150,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <formspec>zip</formspec>
 </digtinfo>
 </stdorder>
-<resdesc>doitt_bids_2014</resdesc>
+<resdesc>doitt_shoreline_2017</resdesc>
 </distinfo>
 
 <metainfo>
@@ -192,7 +172,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
-<metd>20230911</metd>
+<metd>20230912</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <metsi>

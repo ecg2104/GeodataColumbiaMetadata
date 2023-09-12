@@ -217,7 +217,6 @@ F = Duplicate or overlapping address ranges (Pseudo DAPS)</attrdef>
 <attrlabl>physicalid</attrlabl>
 <attrdef>A unique ID assigned to intersection to intersection stretches of a street.</attrdef>
 </attr>
-<attr>
 </detailed>
 </eainfo>
 

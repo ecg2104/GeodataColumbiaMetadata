@@ -3,7 +3,7 @@
 <idinfo>
 <citation>
 <citeinfo>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_bids_2014.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_contours_2014.zip</onlink>
 <origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
 <origin>New York City Office of Technology and Innovation</origin>
 <pubdate>2016</pubdate>
@@ -12,12 +12,12 @@
 <pubplace>City of New York</pubplace>
 <publish>Department of Information Technology and Telecommunications</publish>
 </pubinfo>
-<title>New York City Business Improvement Districts, 2014</title>
+<title>New York City Elevation Contours, 2014</title>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Business Improvement Districts, 2014 is a polygon theme representing Business Improvement Districts in New York City as of 2014.  A BID is a public/private partnership in which property and business owners elect to make a collective contribution to the maintenance, development, and promotion of their commercial district.
-Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/Business/Business-Improvement-Districts/ejxk-d93y and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_BIDs.md </abstract>
+<abstract>New York City Elevation Contours, 2014 is a line theme representing elevation in New York City as of 2014.  Contour lines are provided at 2 foot intervals.
+Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/City-Government/Contours/3cdm-p29e and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_Contours.md </abstract>
 <purpose>Use of the data is for analytic and cartographic purposes.</purpose>
 <langdata>en</langdata>
 </descript>
@@ -68,7 +68,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 </place>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>structure</themekey>
+<themekey>elevation</themekey>
 </theme>
 </keywords>
 <accconst>None</accconst>
@@ -94,7 +94,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
+<sdtstype>String</sdtstype>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -127,24 +127,27 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <eainfo>
 <detailed>
 <enttyp>
-<enttypl>doitt_bids_2014</enttypl>
-<enttypd>districts</enttypd>
+<enttypl>doitt_contours_2014</enttypl>
+<enttypd>elevation</enttypd>
 </enttyp>
 <attr>
-<attrlabl>fid</attrlabl>
-<attrdef>id</attrdef>
+<attrlabl>source_id</attrlabl>
+<attrdef>Unique feature Identification Number.</attrdef>
 </attr>
 <attr>
-<attrlabl>BIDID</attrlabl>
-<attrdef>Building Improvement District ID</attrdef>
+<attrlabl>feature_co</attrlabl>
+<attrdef>Feature code</attrdef>
 </attr>
 <attr>
-<attrlabl>borough</attrlabl>
-<attrdef>borough name</attrdef>
+<attrlabl>sub_feature</attrlabl>
+<attrdef>Sub Feature Code</attrdef>
+</attr>
+<attr>
+<attrlabl>elevation</attrlabl>
+<attrdef>elevation in feet</attrdef>
 </attr>
 </detailed>
 </eainfo>
-
 <distinfo>
 <distrib>
 <cntinfo>
@@ -170,7 +173,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <formspec>zip</formspec>
 </digtinfo>
 </stdorder>
-<resdesc>doitt_bids_2014</resdesc>
+<resdesc>doitt_contours_2014</resdesc>
 </distinfo>
 
 <metainfo>
@@ -192,7 +195,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
-<metd>20230911</metd>
+<metd>20230912</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <metsi>
