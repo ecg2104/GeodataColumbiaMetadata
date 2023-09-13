@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_wifi_hotspot_2019.zip</onlink>
+				<origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
+				<pubdate>2019</pubdate>
+				<title>New York City WiFi Hotspots, 2019</title>
+				<geoform>vector digital data</geoform>
+
+				<pubinfo><pubplace>City of New York</pubplace><publish>&gt;Department of Information Technology and Telecommunications</publish></pubinfo></citeinfo>
+		</citation>
+		<descript>
+			<abstract>New York City WiFi Hotspots, 2019 is a point representing approximate location of public Wi-Fi hotspots as of 2019. Wi-Fi providers include At&T, LinkNYC-Citybridge (BETA), BPL, Cablevision, Chelsea, City Tech, Downtown Brooklyn, Harlem, Manhattan Down Alliance, NYCHA, NYPL, QPL, Time Warner Cable, Transit Wireless, and various partners.
+				Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_WiFiHotspots.md<</abstract>
+			<purpose>To help locate Wi-Fi hotspots in NYC</purpose>
+			<langdata>en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2019</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-74.170008</westbc>
+				<eastbc>-73.716551</eastbc>
+				<northbc>40.903765</northbc>
+				<southbc>40.552176</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc>937253.999960</leftbc>
+				<rightbc>1062605.000200</rightbc>
+				<bottombc>140575.121301</bottombc>
+				<topbc>268544.121174</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Wi-Fi hotspots</themekey>
+				<themekey>WiFi</themekey><themekey>WLAN</themekey><themekey>Wireless</themekey><themekey>wireless local area network</themekey><themekey> Internet</themekey></theme>
+			<temporal><tempkey>2019</tempkey><tempkt>None</tempkt><tempkey>2010</tempkey></temporal><place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (N.Y.)</placekey>
+				<placekey>Brooklyn (New York, N.Y.)</placekey>
+				<placekey>Bronx (New York, N.Y.)</placekey>
+				<placekey>Queens (New York, N.Y.)</placekey>
+				<placekey>Manhattan (New York, N.Y.)</placekey>
+				<placekey>Staten Island (New York, N.Y.)</placekey>
+			</place>
+			<place>
+				<placekt>None</placekt>
+				<placekey>NYC</placekey>
+			</place><theme><themekt>ISO 19115 Topic Categories</themekt><themekey>utilitiesCommunication</themekey></theme></keywords>
+		<accconst>None</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>New York City Information Technology and Telecommunications, Citywide GIS Group</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>59 Maiden Lane, 33rd Floor</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10038</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 232-1134</cntvoice>
+				<cntfax>(212) 232-1180</cntfax>
+				<cntemail>SpatialDataRequest@doitt.nyc.gov</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm</hours>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf><sdtsterm><sdtstype>Point</sdtstype><ptvctcnt>880</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>U.S. Foot</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>NAD 83 [Continental US]</horizdn>
+				<ellips>GRS 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn>NAD 83 [Continental US]</geogcsn>
+				<projcsn>New York 3104, Long Island Zone [1983, US Survey feet]</projcsn>
+			</cordsysn>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<spdoinfo>
+		<ptvctinf/></spdoinfo>
+	<eainfo>
+		<detailed Name="doitt_wifi_hotspot_sept_2019">
+			<enttyp>
+				<enttypl>NYC_Free_Public_WiFi</enttypl>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>0</enttypc>
+				<enttypd>WiFi Hotspots</enttypd></enttyp>
+			<attr><attrlabl>FID</attrlabl><attalias>FID</attalias><attrtype>OID</attrtype><attwidth>4</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Internal feature number.</attrdef><attrdefs>Esri</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attalias>OBJECTID</attalias>
+				<attrtype>OID</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrtype>Geometry</attrtype>
+				<attwidth>0</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Boro</attrlabl>
+				<attalias>Boro</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Borough</attrdef></attr>
+			<attr>
+				<attrlabl>Type</attrlabl>
+				<attalias>Type</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Type</attrdef></attr>
+			<attr>
+				<attrlabl>Provider</attrlabl>
+				<attalias>Provider</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Provider</attrdef></attr>
+			<attr><attrlabl>Name</attrlabl><attalias>Name</attalias><attrtype>String</attrtype><attwidth>254</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Name</attrdef></attr><attr>
+				<attrlabl>Location</attrlabl>
+				<attalias>Location</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>254</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Location</attrdef></attr>
+			<attr>
+				<attrlabl>Lat</attrlabl>
+				<attalias>Lat</attalias>
+				<attrtype>Double</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Latitude</attrdef></attr>
+			<attr>
+				<attrlabl>Long_</attrlabl>
+				<attalias>Long_</attalias>
+				<attrtype>Double</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdef>Longitude</attrdef></attr>
+			<attr><attrlabl>X</attrlabl><attalias>X</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>X Coordinate</attrdef></attr><attr><attrlabl>Y</attrlabl><attalias>Y</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale>
+			<attrdef>Y Coordinate</attrdef></attr><attr><attrlabl>Location_T</attrlabl><attalias>Location_T</attalias><attrtype>String</attrtype><attwidth>25</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Location type</attrdef></attr><attr><attrlabl>Remarks</attrlabl><attalias>Remarks</attalias><attrtype>String</attrtype><attwidth>50</attwidth><atprecis>0</atprecis>
+			<attscale>0</attscale><attrdef>Remarks</attrdef></attr><attr><attrlabl>City</attrlabl><attalias>City</attalias><attrtype>String</attrtype><attwidth>25</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>City</attrdef></attr><attr><attrlabl>SSID</attrlabl><attalias>SSID</attalias><attrtype>String</attrtype><attwidth>25</attwidth><atprecis>0</atprecis><attscale>0</attscale></attr></detailed>
+	</eainfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<addrtype>mailing and physical address</addrtype>
+					<address>MS-561</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>11217</postal>
+				</cntaddr>
+				<cntperp>
+					<cntper>GIS/Metadata Librarian</cntper>
+					<cntorg>Research Data Services (RDS)</cntorg>
+				</cntperp>
+				<cntvoice>(212)854-601</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20190107</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+	</metainfo>
+	<distinfo><distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Department of Information Technology and Telecommunications</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2 Metrotech Center, 4th Floor</address>
+					<city>Brooklyn</city>
+					<state>NY</state>
+					<postal>11201</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>spatialdatarequest@doitt.nyc.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>doitt_wifi_hotspot_2019</resdesc>
+	</distinfo>
+</metadata>
