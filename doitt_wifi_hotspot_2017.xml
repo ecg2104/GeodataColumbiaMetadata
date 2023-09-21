@@ -3,7 +3,7 @@
 	<idinfo>
 		<citation>
 			<citeinfo>
-				<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_wifi_hotspot_2019.zip</onlink>
+				<onlink>http://www.columbia.edu/acis/eds/gis/images/doitt_wifi_hotspot_2017.zip</onlink>
 				<origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
 				<pubdate>2019</pubdate>
 				<title>New York City WiFi Hotspots, 2019</title>
@@ -246,6 +246,6 @@
 				<cntemail>spatialdatarequest@doitt.nyc.gov</cntemail>
 			</cntinfo>
 		</distrib>
-		<resdesc>doitt_wifi_hotspot_2019</resdesc>
+		<resdesc>doitt_wifi_hotspot_2017</resdesc>
 	</distinfo>
 </metadata>
