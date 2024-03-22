@@ -27,13 +27,24 @@
 </spdom>
 <descript>
 <abstract>
-  Europe Historical Precipitation, 1500-2000 is a collection of raster themes providing a seasonal precipitation estimate for Europe from 1500 to 2000r. The resolution is 0.5 degrees. This is part of the Europe Historical Seasonal Precipitation Reconstruction Collection which provides estimates for each season from 1500 to 2000. The methodology used in the creation of the estimate is detailed in the 2005 paper "Five Hundred Years of Gridded High-Resolution Precipitation Reconstructions over Europe and the Connection to Large-Scale Circulation" by Andreas Pauling, Jürg Luterbacher, Carlo Casty, and Heinz Wanner (DOI 10.1007/s00382-005-0090-8). Files were converted to TIFF format by Columnbia Libraries staff.  2004 rasters were generated, one for each season for each of the 501 years.  All of these were combined into a single geopackage.  The name of each layer indicates the year and season (au=autumn, wi=winter, sp=spring, su=summer)
+  Europe Historical Precipitation, 1500-2000 is a collection of raster themes providing seasonal precipitation estimates for Europe from 1500 to 2000. The resolution is 0.5 degrees. The methodology used in the creation of the estimate is detailed in:
+
+  Pauling, A., Luterbacher, J., Casty, C., Wanner, H. (2006). Five hundred years of gridded high-resolution precipitation reconstructions over europe and the connection to large-scale circulation. Climate Dynamics, 26(4), 387-405. doi:https://doi-org.ezproxy.cul.columbia.edu/10.1007/s00382-005-0090-8
+
+  The source data from that analysis was downloaded in 2011 by Columbia libraries staff at:
+  https://crudata.uea.ac.uk/cru/projects/soap/data/recon/
+
+  Files were converted from ASCII to TIFF format by Columnbia Libraries staff using ESRI ArcGIS tools, null values were assigned for "no data" values.  In total, 2004 rasters were generated, one for each season for each of the 501 years.  All of these were then combined into a single geopackage in 2024.  The name of each individual layer in the database indicates the year and season (au=autumn, wi=winter, sp=spring, su=summer)
 </abstract>
 </descript>
 <citation>
 <citeinfo>
 <title>Europe Historical Precipitation, 1500-2000</title>
 <origin>Columbia University. Libraries. Reaseach Data Services.</origin>
+<origin>Pauling, Andreas</origin>
+<origin>Luterbacher, Jürg</origin>
+<origin>Casty, Carlo</origin>
+<origin>Wanner, Heinz</origin>
 <pubdate>2011</pubdate>
 <geoform>map</geoform>
 <pubinfo>
@@ -65,6 +76,18 @@
 </cntperp>
 </cntinfo>
 </ptcontac>
+<crossref>
+<citeinfo>
+  <origin>Columbia University. Libraries. Reaseach Data Services.</origin>
+  <origin>Pauling, Andreas</origin>
+  <origin>Luterbacher, Jürg</origin>
+  <origin>Casty, Carlo</origin>
+  <origin>Wanner, Heinz</origin>
+<pubdate>2006</pubdate>
+<title>Five hundred years of gridded high-resolution precipitation reconstructions over europe and the connection to large-scale circulation</title>
+<othercit>Climate Dynamics, 26(4), 387-405. doi:https://doi-org.ezproxy.cul.columbia.edu/10.1007/s00382-005-0090-8</othercit>
+</citeinfo>
+</crossref>
 </idinfo>
 <spref>
 <horizsys>
@@ -90,7 +113,7 @@
 <direct>Raster</direct>
 </spdoinfo>
 <metainfo>
-<metd>20240311</metd>
+<metd>20240322</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
