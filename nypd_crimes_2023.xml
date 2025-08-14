@@ -13,7 +13,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2011</tempkey>
+<tempkey>2023</tempkey>
 </temporal>
 </keywords>
 <spdom>
@@ -26,12 +26,12 @@
 </spdom>
 <descript>
 <abstract>
-New York City Crimes by Precinct, 2011 is a polygon theme theme representing police precints in New York City in 2011.  Attribute information includes totals of felony, misdemeanor and violation incidents for 2011 calender year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in September 2023. The precint boundaries are version 12c (the last version of the boundaries before precinct 121 was created in 2013) from New York City Planning as found on this web site: https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page in September 2023.  Columbia Libraries staff appended the crime statistics to the precint boundaries and has provided the data in the geopackage format.  A codebook and has been included in the download package.
+New York City Crimes by Precinct, 2023 is a polygon theme theme representing police precints in New York City in 2023.  Attribute information includes totals of felony, misdemeanor and violation incidents for the 2023 calender year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in August 2025. The precint boundaries are version 23d from New York City Planning as found on this web site: https://www.nyc.gov/content/planning/pages/resources/datasets/police-precincts in August 2025.  Columbia Libraries staff appended the crime statistics to the precint boundaries and has provided the data in the geopackage format.  A codebook and has been included in the download package.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City Crimes by Precinct, 2011</title>
+<title>New York City Crimes by Precinct, 2023</title>
 <origin>New York (N.Y.). Police Department</origin>
 <pubdate>2023</pubdate>
 <geoform>map</geoform>
@@ -41,7 +41,7 @@ New York City Crimes by Precinct, 2011 is a polygon theme theme representing pol
 <origin>New York (N.Y.). Police Department</origin>
 <origin>New York (City). Department of City Planning.</origin>
 <origin>Research Data Services (RDS), Columbia University Libraries</origin>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/nypd_crimes_2011.zip
+<onlink>http://www.columbia.edu/acis/eds/gis/images/nypd_crimes_2023.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -49,7 +49,7 @@ New York City Crimes by Precinct, 2011 is a polygon theme theme representing pol
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2011</caldate>
+<caldate>2023</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -104,7 +104,7 @@ New York City Crimes by Precinct, 2011 is a polygon theme theme representing pol
 <eainfo>
   <detailed>
     <enttyp>
-      <enttypl>nypd_crimes_2011</enttypl>
+      <enttypl>nypd_crimes_2023</enttypl>
       <enttypd>Police precints</enttypd>
     </enttyp>
     <attr>
@@ -267,7 +267,7 @@ New York City Crimes by Precinct, 2011 is a polygon theme theme representing pol
 </eainfo>
 
 <metainfo>
-<metd>20230905</metd>
+<metd>20250814</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
@@ -298,7 +298,7 @@ New York City Crimes by Precinct, 2011 is a polygon theme theme representing pol
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>nypd_crimes_2011</resdesc>
+<resdesc>nypd_crimes_2023</resdesc>
 <distrib>
 </distrib>
 </distinfo>

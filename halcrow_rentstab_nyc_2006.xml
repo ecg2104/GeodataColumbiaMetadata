@@ -5,13 +5,13 @@
 		<citation>
 			<citeinfo>
 				<pubdate>2006</pubdate>
-				<title>New York CIty Rent Stabilized Apartment Buildings, 2006</title>
+				<title>New York City Rent Stabilized Apartment Buildings, 2006</title>
 				<geoform>vector digital data</geoform>
 				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/halcrow_rentstab_nyc_2006.zip</onlink>
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York CIty Rent Stabilized Apartment Buildings, 2006 is a point theme representing buildings in New York City that have rent stabilized apartments. Attribute data include address, type of building, co-op status, tax code status, and tax lot information.  The map and table is derived from the list of rent stabilized buildings maintained by the NYC Rent Control Guidelines Board.  There may be multiple records listed for the same building if it has alternate addresses.</abstract>
+			<abstract>New York City Rent Stabilized Apartment Buildings, 2006 is a point theme representing buildings in New York City that have rent stabilized apartments. Attribute data include address, type of building, co-op status, tax code status, and tax lot information.  The map and table is derived from the list of rent stabilized buildings maintained by the NYC Rent Control Guidelines Board.  There may be multiple records listed for the same building if it has alternate addresses.</abstract>
 			<purpose>Fro research purposes,.  Although these data are provided as a point file, you may link the included *.dbf table to other data sets using the block and lot as a key.  </purpose>
 		</descript>
 		<timeperd>
