@@ -4,14 +4,14 @@
 <citeinfo>
 <origin>Center for Integrated Earth System Information (CIESIN)</origin>
 <pubdate>2026</pubdate>
-<title>Democratic Republic of the Congo GRID3 COD - Roads v1.0, 2026</title>
-<geoform>vector digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2026_roadsv1.zip</onlink>
-<othercit>doi/10.7916/00gb-e164</othercit>
+<title>Democratic Republic of the Congo GRID3 COD - Travel Time Friction Surface v1.0, 2026</title>
+<geoform>raster digital data</geoform>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2026_mixtravelv1.zip</onlink>
+<othercit>doi.org/10.7916/11yp-gs23</othercit>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Democratic Republic of the Congo GRID3 COD - Roads v1.0, 2026 is a line theme representing  road and path locations in Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi/10.7916/00gb-e164 </abstract>
+<abstract>Democratic Republic of the Congo GRID3 COD - Travel Time Friction Surface v1.0, 2026 is a raster dataset representing a travel time mixed-mode cost surface (appling to motorized speeds on roads and walking speeds in all other areas) in the Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi.org/10.7916/11yp-gs23</abstract>
 <purpose></purpose>
 </descript>
 <timeperd>
@@ -43,12 +43,6 @@
 <themekt>ISO 19115 Topic Categories</themekt>
 <themekey>transportation</themekey>
 </theme>
-<theme>
-<themekt>None</themekt>
-<themekey>Roadways</themekey>
-<themekey>Streets</themekey>
-<themekey>Roads</themekey>
-</theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Congo (Democratic Republic)</placekey>
@@ -70,13 +64,8 @@
 </ptcontac>
 </idinfo>
 <spdoinfo>
-<direct>Vector</direct>
-<ptvctinf>
-<sdtsterm>
-<sdtstype>String</sdtstype>
-<ptvctcnt>1862226</ptvctcnt>
-</sdtsterm>
-</ptvctinf>
+<spdoinfo>
+<direct>Raster</direct>
 </spdoinfo>
 <spref>
 <horizsys>
@@ -110,7 +99,7 @@
 <cntemail>info@ciesin.columbia.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>ciesin_drc_2026_roadsv1</resdesc>
+<resdesc>ciesin_drc_2026_mixtravelv1</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
@@ -122,7 +111,7 @@
 </stdorder>
 </distinfo>
 <metainfo>
-<metd>20260221</metd>
+<metd>20260305</metd>
 <metc>
 <cntinfo>
 <cntorgp>
