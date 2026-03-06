@@ -3,21 +3,21 @@
 <citation>
 <citeinfo>
 <origin>Center for Integrated Earth System Information (CIESIN)</origin>
-<pubdate>2026</pubdate>
-<title>Democratic Republic of the Congo GRID3 COD - Mixed-mode Travel Time Friction Surface v1.0, 2026</title>
-<geoform>raster digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2026_mixtravelv1.zip</onlink>
-<othercit>doi.org/10.7916/11yp-gs23</othercit>
+<pubdate>2025</pubdate>
+<title>Democratic Republic of the Congo, Haut-Katanga Province, GRID3 COD - Health Facilities v8.0, 2025</title>
+<geoform>vector digital data</geoform>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2025_healthfac_hautkatanga.zip</onlink>
+<othercit>doi.org/10.7916/f1ft-y872</othercit>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Democratic Republic of the Congo GRID3 COD - Mixed-mode Travel Time Friction Surface v1.0, 2026 is a raster dataset representing a travel time mixed-mode cost surface (appling to motorized speeds on roads and walking speeds in all other areas) in the Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi.org/10.7916/11yp-gs23</abstract>
+<abstract>Democratic Republic of the Congo, Haut-Katanga Province, GRID3 COD - Health Facilities v8.0, 2025 is a point theme representing health facilities in the Haut-Katanga Proivince of the Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi/10.7916/f1ft-y872</abstract>
 <purpose></purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2026</caldate>
+<caldate>2025</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -29,27 +29,28 @@
 <spdom>
 <bounding>
 <westbc>
-12.297612</westbc>
+25.466</westbc>
 <eastbc>
-31.267191</eastbc>
+29.754</eastbc>
 <northbc>
-5.094629</northbc>
+-7.74</northbc>
 <southbc>
--13.246969</southbc>
+-13.257</southbc>
 </bounding>
 </spdom>
 <keywords>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>transportation</themekey>
+<themekey>health</themekey>
 </theme>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Congo (Democratic Republic)</placekey>
+<placekey>Haut-Katanga (Congo)</placekey>
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2026</tempkey>
+<tempkey>2025</tempkey>
 </temporal>
 </keywords>
 <accconst>None</accconst>
@@ -64,7 +65,13 @@
 </ptcontac>
 </idinfo>
 <spdoinfo>
-<direct>Raster</direct>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>2889</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
 </spdoinfo>
 <spref>
 <horizsys>
@@ -98,7 +105,7 @@
 <cntemail>info@ciesin.columbia.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>ciesin_drc_2026_mixtravelv1</resdesc>
+<resdesc>ciesin_drc_2025_healthfac_hautkatanga</resdesc>
 <stdorder>
 <digform>
 <digtinfo>

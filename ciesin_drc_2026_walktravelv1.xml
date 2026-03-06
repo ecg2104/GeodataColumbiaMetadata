@@ -4,14 +4,14 @@
 <citeinfo>
 <origin>Center for Integrated Earth System Information (CIESIN)</origin>
 <pubdate>2026</pubdate>
-<title>Democratic Republic of the Congo GRID3 COD - Mixed-mode Travel Time Friction Surface v1.0, 2026</title>
+<title>Democratic Republic of the Congo GRID3 COD - Walking Travel Time Friction Surface v1.0, 2026</title>
 <geoform>raster digital data</geoform>
-<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2026_mixtravelv1.zip</onlink>
+<onlink>http://www.columbia.edu/acis/eds/gis/images/ciesin_drc_2026_walktravelv1.zip</onlink>
 <othercit>doi.org/10.7916/11yp-gs23</othercit>
 </citeinfo>
 </citation>
 <descript>
-<abstract>Democratic Republic of the Congo GRID3 COD - Mixed-mode Travel Time Friction Surface v1.0, 2026 is a raster dataset representing a travel time mixed-mode cost surface (appling to motorized speeds on roads and walking speeds in all other areas) in the Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi.org/10.7916/11yp-gs23</abstract>
+<abstract>Democratic Republic of the Congo GRID3 COD - Walking Travel Time Friction Surface v1.0, 2026 is a raster dataset representing a travel time cost surface foe walking in the Democratic Republic of the Congo.  Complete documentation and codebook can be found in the full download package.  Also available from Columbia Academic Commons at https://academiccommons.columbia.edu/doi.org/10.7916/11yp-gs23</abstract>
 <purpose></purpose>
 </descript>
 <timeperd>
@@ -98,7 +98,7 @@
 <cntemail>info@ciesin.columbia.edu</cntemail>
 </cntinfo>
 </distrib>
-<resdesc>ciesin_drc_2026_mixtravelv1</resdesc>
+<resdesc>ciesin_drc_2026_walktravelv1</resdesc>
 <stdorder>
 <digform>
 <digtinfo>
