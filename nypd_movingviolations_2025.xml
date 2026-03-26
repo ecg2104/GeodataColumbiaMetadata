@@ -5,7 +5,6 @@
 <theme>
 <themekt>ISO 19115 Topic Category</themekt>
 <themekey>society</themekey>
-<themekey>boundaries</themekey>
 </theme>
 <place>
 <placekt>None</placekt>
@@ -14,7 +13,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2020</tempkey>
+<tempkey>2025</tempkey>
 </temporal>
 </keywords>
 <spdom>
@@ -27,22 +26,20 @@
 </spdom>
 <descript>
 <abstract>
-New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme representing census block groups in New York City in 2020.  In September 2023, Columbia Libraries staff downloaded the block group definitions from the Census Department from the website at https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html clipped the files to the Borough Boundaries, projected the data to State Plane coodinates and converted the file to the Geopackage format.
+New York City Moving Violation Summons, 2025 is a point theme representing every moving violation court summons (B summonses) issued by the NYPD in 2025. This dataset was derived from NYC OpenData extracts (from https://data.cityofnewyork.us/Public-Safety/Moving-Violation-B-Summons-Historic-/bme5-7ty4) in March 2026. Each record represents a summonss that wa issued in 2025 in NYC and includes information about the type of violation committed, the relevant penal or local law section number, the type of vehicle, and the location and time of enforcement. The locations are aggregated to the midblock approximation by the NYPD.  Columbia Libraries staff extracted the year's records and converted them to geopackage format by state plane x/y coordinates. Some records may lack geolocation information, and if so they have coordinates 0,0. Columbia Libraries staff has provided the data in the geopackage format, and a codebook and a has been included in the download package.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City ZIP Code Tabulation Areas, 2020</title>
-<origin>U.S. Department of Commerce Bureau of the Census Geography Division.</origin>
-<origin>Research Data Services (RDS), Columbia University Libraries</origin>
-<pubdate>2020</pubdate>
+<title>New York City Moving Violation Summons, 2025</title>
+<origin>New York (N.Y.). Police Department</origin>
+<pubdate>2025</pubdate>
 <geoform>map</geoform>
 <pubinfo>
-<publish>U.S. Department of Commerce Bureau of the Census Geography Division.</publish>
+<publish>New York (N.Y.). Police Department</publish>
 </pubinfo>
-<origin>U.S. Department of Commerce Bureau of the Census Geography Division.</origin>
-<origin>Research Data Services (RDS), Columbia University Libraries</origin>
-<onlink>https://www.columbia.edu/acis/eds/gis/images/census_nyc_2020_zipcta.zip
+<origin>New York (N.Y.). Police Department</origin>
+<onlink>https://www.columbia.edu/acis/eds/gis/images/nypd_movingviolations_2025.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -50,7 +47,7 @@ New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme represent
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2020</caldate>
+<caldate>2025</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -63,7 +60,7 @@ New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme represent
 <ptcontac>
 <cntinfo>
 <cntperp>
-<cntorg>New York (City). Department of City Planning.</cntorg>
+<cntorg>New York (N.Y.). Police Department</cntorg>
 </cntperp>
 </cntinfo>
 </ptcontac>
@@ -72,7 +69,7 @@ New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme represent
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>G-polygon</sdtstype>
+<sdtstype>Entity point</sdtstype>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -103,7 +100,7 @@ New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme represent
 </spref>
 
 <metainfo>
-<metd>20230908</metd>
+<metd>20260326</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
@@ -134,7 +131,7 @@ New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme represent
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>census_nyc_2020_zipcta</resdesc>
+<resdesc>nypd_movingviolations_2025</resdesc>
 <distrib>
 </distrib>
 </distinfo>
