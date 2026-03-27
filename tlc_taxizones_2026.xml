@@ -13,7 +13,7 @@
 </place>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2025</tempkey>
+<tempkey>2026</tempkey>
 </temporal>
 </keywords>
 <spdom>
@@ -26,22 +26,20 @@
 </spdom>
 <descript>
 <abstract>
-New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing police patrol sectors in New York City as of January 2025.  Patrol sectors are subdivions of police precincts.  This dataset was derived from NYCOpenData at: https://data.cityofnewyork.us/Public-Safety/NYPD-Sectors/5rqd-h5ci in March 2026. Columbia Libraries staff converted the data to state plane coordinates and has provided the data in the geopackage format.  A codebook and has been included in the download package.
+New York City TLC Taxi Zones, 2026 is a polygon theme theme representing  Taxi and Limousine Commission (TLC) taxi zones New York City as of March 2026.  The TLC use these zones to track and aggregate trip data, and the originating and destination zones are included in the reprted trip data from the TLC website and NYCOpenData.  This dataset was downloaded from the TLC website at : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page in March 2026. Columbia Libraries staff converted the data to the geopackage format.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City NYPD Patrol Sectors, 2025</title>
-<origin>New York (N.Y.). Police Department</origin>
-<pubdate>2025</pubdate>
+<title>New York City TLC Taxi Zones, 2026 </title>
+<origin>New York (N.Y.). Taxi and Limousine Commission</origin>
+<pubdate>2026</pubdate>
 <geoform>map</geoform>
 <pubinfo>
-<publish>New York (N.Y.). Police Department</publish>
+<publish>New York (N.Y.). Taxi and Limousine Commission</publish>
 </pubinfo>
-<origin>New York (N.Y.). Police Department</origin>
-<origin>New York (City). Department of City Planning.</origin>
-<origin>Research Data Services (RDS), Columbia University Libraries</origin>
-<onlink>https://www.columbia.edu/acis/eds/gis/images/nypd_patrolsectors_2025.zip
+<origin>New York (N.Y.). Taxi and Limousine Commission</origin>
+<onlink>https://www.columbia.edu/acis/eds/gis/images/tlc_taxizones_2026.zip
 </onlink>
 </citeinfo>
 </citation>
@@ -49,7 +47,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing po
 <current>Ground condition</current>
 <timeinfo>
 <sngdate>
-<caldate>2025</caldate>
+<caldate>2026</caldate>
 </sngdate>
 </timeinfo>
 </timeperd>
@@ -62,7 +60,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing po
 <ptcontac>
 <cntinfo>
 <cntperp>
-<cntorg>New York (N.Y.). Police Department</cntorg>
+<cntorg>New York (N.Y.). Taxi and Limousine Commission</cntorg>
 </cntperp>
 </cntinfo>
 </ptcontac>
@@ -102,7 +100,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing po
 </spref>
 
 <metainfo>
-<metd>20260311</metd>
+<metd>20260327</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <mettc>local time</mettc>
@@ -133,7 +131,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing po
 </digtinfo>
 </digform>
 </stdorder>
-<resdesc>nypd_patrolsectors_2025</resdesc>
+<resdesc>tlc_taxizones_2026</resdesc>
 <distrib>
 </distrib>
 </distinfo>
