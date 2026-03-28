@@ -26,7 +26,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing police patrol sectors in New York City as of January 2025.  Patrol sectors are subdivions of police precincts.  This dataset was derived from NYCOpenData at: https://data.cityofnewyork.us/Public-Safety/NYPD-Sectors/5rqd-h5ci in March 2026. Columbia Libraries staff converted the data to state plane coordinates and has provided the data in the geopackage format.  A codebook and has been included in the download package.
+New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing police patrol sectors in New York City as of January 2025.  Patrol sectors are subdivions of police precincts.  This dataset was derived from NYCOpen Data at: https://data.cityofnewyork.us/Public-Safety/NYPD-Sectors/5rqd-h5ci in March 2026. Columbia Libraries staff converted the data to state plane coordinates and has provided the data in the geopackage format.  A codebook and has been included in the download package.
 </abstract>
 </descript>
 <citation>
@@ -109,7 +109,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme theme representing po
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>

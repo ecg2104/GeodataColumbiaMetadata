@@ -26,7 +26,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City TLC Taxi Zones, 2026 is a polygon theme theme representing  Taxi and Limousine Commission (TLC) taxi zones New York City as of March 2026.  The TLC use these zones to track and aggregate trip data, and the originating and destination zones are included in the reprted trip data from the TLC website and NYCOpenData.  This dataset was downloaded from the TLC website at : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page in March 2026. Columbia Libraries staff converted the data to the geopackage format.
+New York City TLC Taxi Zones, 2026 is a polygon theme theme representing  Taxi and Limousine Commission (TLC) taxi zones New York City as of March 2026.  The TLC use these zones to track and aggregate trip data, and the originating and destination zones are included in the reprted trip data from the TLC website and NYCOpen Data.  This dataset was downloaded from the TLC website at : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page in March 2026. Columbia Libraries staff converted the data to the geopackage format.
 </abstract>
 </descript>
 <citation>
@@ -107,7 +107,7 @@ New York City TLC Taxi Zones, 2026 is a polygon theme theme representing  Taxi a
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Sercvices (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>

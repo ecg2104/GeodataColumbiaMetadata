@@ -11,7 +11,7 @@
 				<pubinfo><pubplace>Leicestershire, England</pubplace><publish>Bluesky International Limited</publish></pubinfo></citeinfo>
 		</citation>
 		<descript>
-			<abstract>REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Blue Sky New York City Orthomagery is a set of orthophotos representing the entirety of New York City.  The photos were taken in 2003 and have a 25 centimeter resolution.  Tiles are provided in both jpeg and ecw formats.</abstract>
+			<abstract>REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Blue Sky New York City Orthoimagery is a set of orthophotos representing the entirety of New York City.  The photos were taken in 2003 and have a 25 centimeter resolution.  Tiles are provided in both jpeg and ecw formats.</abstract>
 			<purpose>Orthophotos serve a variety of purposes for both display and analysis.  This dataset is for non-commercial research purposes only.</purpose>
 		</descript>
 		<timeperd>
@@ -160,7 +160,6 @@
 					<country>United Kingdom</country>
 				</cntaddr>
 				<cntvoice>01530 518518</cntvoice>
-				<cnttdd>01530 811900</cnttdd>
 			</cntinfo>
 		</distrib>
 		<resdesc>bluesky_2003_nyc</resdesc>

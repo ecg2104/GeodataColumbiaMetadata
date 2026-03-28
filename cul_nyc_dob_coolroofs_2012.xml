@@ -73,7 +73,7 @@
 <lineage>
 <procstep>
 <procdate>2014</procdate>
-<procdesc>Downloaded csv fom NYCOpenData, corrected the zip code for Oakland Gardens, listed as 11634 instead of 11364, geocoded the one address using LION, added lat and lon, added to original spreadsheet (with corrected zip), plotted coordinates, then converted to state plane from wgs84</procdesc>
+<procdesc>Downloaded csv fom NYCOpen Data, corrected the zip code for Oakland Gardens, listed as 11634 instead of 11364, geocoded the one address using LION, added lat and lon, added to original spreadsheet (with corrected zip), plotted coordinates, then converted to state plane from wgs84</procdesc>
 </procstep>
 </lineage>
 </dataqual>
