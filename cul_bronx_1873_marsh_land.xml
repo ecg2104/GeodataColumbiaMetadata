@@ -229,7 +229,7 @@
 				<attwidth>8</attwidth>
 				<atprecis>0</atprecis>
 				<attscale>0</attscale>
-				<attrdef>Perimiter of feature in internal units.</attrdef>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
 				<attrdefs>ESRI</attrdefs>
 				<attrdomv>
 					<udom>Positive real numbers that are automatically generated.</udom>

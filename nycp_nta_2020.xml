@@ -27,7 +27,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City Neighborhood Tabulation Areas, 2020 is a polygon theme theme representing New York City Planning Neighborhood Tabulation Areas (NTAs) in New York City for use with 2020 census data.  Neighborhood Tabulation Areas are neighborhood approximations derived by the NYC Planning Department that are built from 2020 census tracts. A tract to NTA crosswalk is included in the download files.
+New York City Neighborhood Tabulation Areas, 2020 is a polygon theme representing New York City Planning Neighborhood Tabulation Areas (NTAs) in New York City for use with 2020 census data.  Neighborhood Tabulation Areas are neighborhood approximations derived by the NYC Planning Department that are built from 2020 census tracts. A tract to NTA crosswalk is included in the download files.
 </abstract>
 </descript>
 <citation>
@@ -144,7 +144,7 @@ New York City Neighborhood Tabulation Areas, 2020 is a polygon theme theme repre
     </attr>
     <attr>
       <attrlabl>Shape_Leng</attrlabl>
-      <attrdef>Perimiter of NTA</attrdef>
+      <attrdef>Perimeter of NTA</attrdef>
     </attr>
     <attr>
       <attrlabl>Shape_Area</attrlabl>

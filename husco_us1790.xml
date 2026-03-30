@@ -131,7 +131,7 @@
 			</attr>
 			<attr>
 				<attrlabl>PERIMETER</attrlabl>
-				<attrdef>Internally calculated perimiter of the feature</attrdef>
+				<attrdef>Internally calculated Perimeter of the feature</attrdef>
 				<attrdefs>LSU Geoscience Publications</attrdefs>
 			</attr>
 			<attr>

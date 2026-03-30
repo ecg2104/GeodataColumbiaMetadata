@@ -27,7 +27,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City Census Blocks, 2010 is a polygon theme theme representing census blocks in New York City in 2010.  Attribute information includes the city planning block code as well as the 15 digit census FIPS code. This file was created by the NYC Planning department and the FIPS code was added by COlumbia Libraries staff in September of 2023.
+New York City Census Blocks, 2010 is a polygon theme representing census blocks in New York City in 2010.  Attribute information includes the city planning block code as well as the 15 digit census FIPS code. This file was created by the NYC Planning department and the FIPS code was added by COlumbia Libraries staff in September of 2023.
 </abstract>
 </descript>
 <citation>
@@ -128,7 +128,7 @@ New York City Census Blocks, 2010 is a polygon theme theme representing census b
     </attr>
     <attr>
       <attrlabl>Shape_Leng</attrlabl>
-      <attrdef>Perimiter of block </attrdef>
+      <attrdef>Perimeter of block </attrdef>
     </attr>
     <attr>
       <attrlabl>Shape_Area</attrlabl>

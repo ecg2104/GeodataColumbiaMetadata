@@ -14,7 +14,7 @@
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>New York City Motor Vehicle Collisions, 2013 is a point theme representing motor vehicle collisions in New York City during 2013.  Attribute information includes vehicle and injury information. This dataset was downloaded from NYCOpen Data in fall 2014</abstract>
+			<abstract>New York City Motor Vehicle Collisions, 2013 is a point theme representing motor vehicle collisions in New York City during 2013.  Attribute information includes vehicle and injury information. This dataset was downloaded from NYC Open Data in fall 2014</abstract>
 			<purpose>For educational and research purposes only.</purpose>
 		</descript>
 		<timeperd>
@@ -76,7 +76,7 @@
 <lineage>
 <procstep>
 <procdate>2014</procdate>
-<procdesc>Data Service staff dowloaded this data from NYCOpen Data</procdesc>
+<procdesc>Data Service staff dowloaded this data from NYC Open Data</procdesc>
 </procstep>
 </lineage>
 </dataqual>

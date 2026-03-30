@@ -115,7 +115,7 @@
 <dataqual>
 <posacc>
 <vertacc>
-<vertaccr>The vertical accuracy is basically +/- 7 to 15 meters. It alls depends on the original source DEM and if it was level 1, level 2, or 10m resolution.</vertaccr>
+<vertaccr>The vertical accuracy is basically +/- 7 to 15 meters. It all depends on the original source DEM and if it was level 1, level 2, or 10m resolution.</vertaccr>
 </vertacc>
 </posacc>
 <lineage>

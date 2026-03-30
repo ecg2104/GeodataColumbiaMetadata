@@ -93,7 +93,7 @@
 <cntaddr>
 <addrtype>mailing and physical address</addrtype>
 <address>2 Metrotech Center, 4th Floor</address>
-<city>Booklyn</city>
+<city>Brooklyn</city>
 <state>NY</state>
 <postal>11201</postal>
 <country>USA</country>
@@ -113,7 +113,7 @@
 <horizpar>
 All the NYCMap data was aerotriangulated and stereo-compiled to meet ASPRS Class 1 horizontal mapping standards and ASPRS vertical Class 2 accuracy specifications.  The mapping standards deal with Root Mean Square (RMS) calculations that states if a random number of clearly identifiable surveyed ground control points throughout the project were compared to the mapped features, the RMS of the points would not exceed 2'. In layman's terms,  95% of the data is accurate to +/- 2'.
 Estimated accuracy: 95% of the data is accurate to +/- 2 feet
-How this value was determined: 
+How this value was determined:
 95% of the data is accurate to +/- 2 feet
 </horizpar>
 </horizpa>
@@ -130,35 +130,35 @@ Buildings with flat roofs will be captured on roof outline, capturing the larges
 
 Buildings with pitched roofs will be captured on the building footprint.
 
- 
+
 
 Carports, when attached to main building, will be included in the outline.
 
 Do not collect interior divisions (use existing building layer and BIN as guide).
 
-Do not collect temporary trailers, tents, or roofs at gas stations (over pumps). 
+Do not collect temporary trailers, tents, or roofs at gas stations (over pumps).
 
 Use parcel data and BIN as guidance for collection.  Where the parcel data indicates that a building should be two or more geometries AND there is NO physical indication, split the building using the parcel lines.   Where the parcel data indicates that a building should be two or more geometries AND there is a physical indication, split the building using the physical indications.  In cases where geometry previously existed in the legacy data, populate all resulting geometries with the original BIN (BINs will be duplicated in these cases).
 
- 
+
 
 Do NOT collect roofs (overhang) to gas stations, unless connected to building.
 
- 
+
 
 Do NOT collect movable jet bridge for access to aircraft.
 
- 
+
 
 Do NOT collect awnings, scaffolds, or sidewalk sheds.
 
- 
 
-Collect all garages, regardless of size, that can be identified as such, and driveways (paved or unpaved) that store one or more cars.  
+
+Collect all garages, regardless of size, that can be identified as such, and driveways (paved or unpaved) that store one or more cars.
 
 Special care should be applied to ensure sheds are not to be confused with garages.  Oftentimes, driveways do lead to sheds, so not all structures at a terminating driveway are considered to be garages.  Sheds are not to be captured.
 
- 
+
 
 Use Parcel layer to place garages within parcel or at parcel boundary  check for special cases where parcel boundary clearly crosses garage.  In these cases, either split the garage using physical features, or use the property line where there is no distinguishing physical feature.
 
@@ -175,7 +175,7 @@ Do NOT collect small tool or storage sheds in backyards which have no visible ca
 </efeageom>
 <esritopo>FALSE</esritopo>
 <efeacnt>1082005</efeacnt>
-<spindex>TRUE</spindex>
+<spandex>TRUE</spindex>
 <linrefer>FALSE</linrefer>
 </esriterm>
 <sdtsterm>

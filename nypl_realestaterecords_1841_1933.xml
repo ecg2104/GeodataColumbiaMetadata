@@ -28,12 +28,12 @@
 </spdom>
 <descript>
 <abstract>
-New York City Emigrent Savings Bank Real Estate Records, 1841-1933 is a point theme representing the location of records from the Emigrent Savings Bank Records from the New York Public Libraries Digital Collections (https://digitalcollections.nypl.org/collections/emigrant-savings-bank-records#/?tab=about).  Attribute information oncludes details about the transaction and property as well as linkages to images of the relevent entries in the record book.  This dataset is part of the The NYC Space/Time Directory created by the New Yprk Public Library. The source data for this dataset was downloaded in October of 2020 at this link:  http://spacetime.nypl.org/#data which has further information about the creation of the data.  Columbia libraries staff converted the data package to the geopackage format.  All original filed are packaged in the direct download format.
+New York City Emigrant Savings Bank Real Estate Records, 1841-1933 is a point theme representing the location of records from the Emigrant Savings Bank Records from the New York Public Libraries Digital Collections (https://digitalcollections.nypl.org/collections/emigrant-savings-bank-records#/?tab=about).  Attribute information includes details about the transaction and property as well as linkages to images of the relevant entries in the record book.  This dataset is part of the NYC Space/Time Directory created by the New York Public Library. The source data for this dataset was downloaded in October of 2020 at this link:  http://spacetime.nypl.org/#data which has further information about the creation of the data.  Columbia libraries staff converted the data package to the geopackage format.  All original filed are packaged in the direct download format.
 </abstract>
 </descript>
 <citation>
 <citeinfo>
-<title>New York City Emigrent Savings Bank Real Estate Records, 1841-1933</title>
+<title>New York City Emigrant Savings Bank Real Estate Records, 1841-1933</title>
 <origin>New York Public Library</origin>
 <pubdate>2017</pubdate>
 <geoform>map</geoform>

@@ -27,7 +27,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City ZIP Code Tabulation Areas, 2020 is a polygon theme theme representing census block groups in New York City in 2020.  In September 2023, Columbia Libraries staff downloaded the block group definitions from the Census Department from the website at https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html clipped the files to the Borough Boundaries, projected the data to State Plane coodinates and converted the file to the Geopackage format.
+New York City ZIP Code Tabulation Areas, 2020 is a polygon theme representing census block groups in New York City in 2020.  In September 2023, Columbia Libraries staff downloaded the block group definitions from the Census Department from the website at https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html clipped the files to the Borough Boundaries, projected the data to State Plane coodinates and converted the file to the Geopackage format.
 </abstract>
 </descript>
 <citation>

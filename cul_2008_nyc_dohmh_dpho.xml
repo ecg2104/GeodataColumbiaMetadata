@@ -103,7 +103,7 @@
 			<attr><attrlabl>Acres</attrlabl><attalias>Acres</attalias><attrtype>Double</attrtype><attwidth>16</attwidth><atprecis>15</atprecis><attscale>3</attscale><attrdef>Area in acres</attrdef></attr><enttyp>
 				<enttypl>All_DPHO_DOHMH_2008</enttypl>
 				<enttypt>Feature Class</enttypt><enttypc>3</enttypc><enttypd>District Public Health Office area</enttypd></enttyp>
-			<attr><attrlabl>area</attrlabl><attalias>area</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Area in map units</attrdef></attr><attr><attrlabl>len</attrlabl><attalias>len</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Perimiter in map units</attrdef></attr></detailed>
+			<attr><attrlabl>area</attrlabl><attalias>area</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Area in map units</attrdef></attr><attr><attrlabl>len</attrlabl><attalias>len</attalias><attrtype>Double</attrtype><attwidth>19</attwidth><atprecis>0</atprecis><attscale>0</attscale><attrdef>Perimeter in map units</attrdef></attr></detailed>
 	</eainfo>
 	<distinfo>
 		<resdesc>cul_2008_nyc_dohmh_dpho</resdesc>

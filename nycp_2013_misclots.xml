@@ -156,7 +156,7 @@
 			</attr>
 			<attr>
 				<attrlabl>SHAPE_Leng</attrlabl>
-				<attrdef>perimiter</attrdef></attr>
+				<attrdef>Perimeter</attrdef></attr>
 		</detailed>
 	</eainfo>
 	<distinfo>

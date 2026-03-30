@@ -75,7 +75,7 @@
 <lineage>
 <procstep>
 <procdate>2014</procdate>
-<procdesc>Data Service staff dowloaded this data from NYCOpen Data, used x and y coordinates embedded in the table, projected to state plane.
+<procdesc>Data Service staff dowloaded this data from NYC Open Data, used x and y coordinates embedded in the table, projected to state plane.
 
 there were 70 addresses not geocoded, batch geocoded using LION 14c, created new variable called Georef, placed a one indicating the 70.
 

@@ -26,7 +26,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City Crimes by Precinct, 2007 is a polygon theme theme representing police precints in New York City in 2007.  Attribute information includes totals of felony, misdemeanor and violation incidents for 2007 calender year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in September 2023. The precint boundaries are version 12c (the last version of the boundaries before precinct 121 was created in 2013) from New York City Planning as found on this web site: https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page in September 2023.  Columbia Libraries staff appended the crime statistics to the precint boundaries and has provided the data in the geopackage format.  A codebook and has been included in the download package.
+New York City Crimes by Precinct, 2007 is a polygon theme representing police precincts in New York City in 2007.  Attribute information includes totals of felony, misdemeanor and violation incidents for 2007 calendar year.  This dataset was derived from NYPD provided tables downloaded from the web site at: https://www.nyc.gov/site/nypd/stats/crime-statistics/historical.page in September 2023. The precinct boundaries are version 12c (the last version of the boundaries before precinct 121 was created in 2013) from New York City Planning as found on this web site: https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page in September 2023.  Columbia Libraries staff appended the crime statistics to the precinct boundaries and has provided the data in the geopackage format.  A codebook and has been included in the download package.
 </abstract>
 </descript>
 <citation>
@@ -105,7 +105,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
   <detailed>
     <enttyp>
       <enttypl>nypd_crimes_2007</enttypl>
-      <enttypd>Police precints</enttypd>
+      <enttypd>Police precincts</enttypd>
     </enttyp>
     <attr>
       <attrlabl>FID</attrlabl>
@@ -121,7 +121,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>Shape_Leng</attrlabl>
-      <attrdef>Perimiter of precinct </attrdef>
+      <attrdef>Perimeter of precinct </attrdef>
     </attr>
     <attr>
       <attrlabl>Shape_Area</attrlabl>
@@ -149,7 +149,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
         <attrlabl>GdLarceny</attrlabl>
-        <attrdef>Numbe of grand larcenies</attrdef>
+        <attrdef>Number of grand larcenies</attrdef>
     </attr>
     <attr>
         <attrlabl>GdLarcAuto</attrlabl>
@@ -157,7 +157,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>FelPoss</attrlabl>
-      <attrdef>NUmber of felony possetion of stolen properties</attrdef>
+      <attrdef>Number of felony possession of stolen properties</attrdef>
     </attr>
     <attr>
       <attrlabl>Forgfraud</attrlabl>
@@ -181,7 +181,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>FelMischef</attrlabl>
-      <attrdef>Total number of felony criminal mischef and related offenses</attrdef>
+      <attrdef>Total number of felony criminal mischief and related offenses</attrdef>
     </attr>
     <attr>
       <attrlabl>FelOther</attrlabl>
@@ -189,7 +189,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>MisPoss</attrlabl>
-      <attrdef>Total number of misdemeanor possetion of stolen property</attrdef>
+      <attrdef>Total number of misdemeanor possession of stolen property</attrdef>
     </attr>
     <attr>
       <attrlabl>MisSex</attrlabl>
@@ -205,7 +205,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>PetitLarce</attrlabl>
-      <attrdef>Total number of misdemeanor petit larcenys</attrdef>
+      <attrdef>Total number of misdemeanor petit larcenies</attrdef>
     </attr>
     <attr>
       <attrlabl>Assault3</attrlabl>
@@ -213,7 +213,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>IntoxDrive</attrlabl>
-      <attrdef>Total number of misdemeanor intoxicated and impared driving</attrdef>
+      <attrdef>Total number of misdemeanor intoxicated and impaired driving</attrdef>
     </attr>
     <attr>
       <attrlabl>VehicTraff</attrlabl>
@@ -221,7 +221,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>MisMisch</attrlabl>
-      <attrdef>Total number of misdemeanor criminal mischef and related offensives</attrdef>
+      <attrdef>Total number of misdemeanor criminal mischief and related offensives</attrdef>
     </attr>
     <attr>
       <attrlabl>Trespass</attrlabl>
@@ -229,15 +229,15 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>UnauthVeh</attrlabl>
-      <attrdef>Total number of misdemeanor unathorized use of a vehicle</attrdef>
+      <attrdef>Total number of misdemeanor unauthorized use of a vehicle</attrdef>
     </attr>
     <attr>
       <attrlabl>OffPerson</attrlabl>
-      <attrdef>Total number of misdemeanor offenses againt the person</attrdef>
+      <attrdef>Total number of misdemeanor offenses against the person</attrdef>
     </attr>
     <attr>
       <attrlabl>OffPublic</attrlabl>
-      <attrdef>Total number of misdemeanor offenses againt public administration</attrdef>
+      <attrdef>Total number of misdemeanor offenses against public administration</attrdef>
     </attr>
     <attr>
       <attrlabl>AdminCode</attrlabl>
@@ -257,7 +257,7 @@ New York City Crimes by Precinct, 2007 is a polygon theme theme representing pol
     </attr>
     <attr>
       <attrlabl>Harass2</attrlabl>
-      <attrdef>Total number of harrasment violations</attrdef>
+      <attrdef>Total number of harassment violations</attrdef>
     </attr>
     <attr>
       <attrlabl>OtherViol</attrlabl>

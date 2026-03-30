@@ -26,7 +26,7 @@
 </spdom>
 <descript>
 <abstract>
-New York City NYPD Arrest Data, 2015 is a point theme representing every New York Plice Department Arrest in the year 2015. This dataset was derived from NYC Open Data (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u) in August 2023. Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement.
+New York City NYPD Arrest Data, 2015 is a point theme representing every New York Police Department Arrest in the year 2015. This dataset was derived from NYC Open Data (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u) in August 2023. Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement.
 In addition, information related to suspect demographics is also included. Columbia Libraries staff extracted each half year's records and converted them to geopackage format by state plane x/y coordinates. Some records may geolocation information, and they have coordinates 0,0. Columbia Libraries staff has provided the data in the geopackage format, and a codebook and a has been included in the download package.
 </abstract>
 </descript>

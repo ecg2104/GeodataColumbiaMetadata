@@ -331,7 +331,7 @@ ZIADMN2.PAT</enttypl>
 </attrdomv>
 </attr>
 <attr>
-<attrlabl>PERIMITER</attrlabl>
+<attrlabl>Perimeter</attrlabl>
 <attrdef>Perimeter of poly/region in coverage units</attrdef>
 <attrdefs>FEWS/ARD</attrdefs>
 </attr>
