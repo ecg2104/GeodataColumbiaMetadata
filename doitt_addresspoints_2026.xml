@@ -3,28 +3,28 @@
 <idinfo>
 <citation>
 <citeinfo>
-<onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_addresspoints_2015.zip</onlink>
+<onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_addresspoints_2026.zip</onlink>
 <origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
 <origin>New York City Office of Technology and Innovation</origin>
-<pubdate>2016</pubdate>
+<pubdate>2026</pubdate>
 <geoform>vector digital data</geoform>
 <pubinfo>
 <pubplace>City of New York</pubplace>
 <publish>Department of Information Technology and Telecommunications</publish>
 </pubinfo>
-<title>New York City Address points, 2015</title>
+<title>New York City Address points, 2026</title>
 </citeinfo>
 </citation>
 <descript>
-<abstract>New York City Address points, 2015 is a point theme representing street addresses in New York City as of 2015.
-Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/City-Government/NYC-Address-Points/g6pj-hd8k and reformatted to the geopackage format in September of 2023.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_AddressPoint.md</abstract>
+<abstract>New York City Address points, 2026 is a point theme representing street addresses in New York City as of 2026.
+Columbia Libraries staff downloaded this dataset from NYC Open Data at https://data.cityofnewyork.us/City-Government/NYC-Address-Points/g6pj-hd8k and reformatted to the geopackage format in March of 2026.  Additional information about the data may be found at https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_AddressPoint.md</abstract>
 <purpose>Use of the data is for analytic and cartographic purposes.</purpose>
 <langdata>en</langdata>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2015</caldate>
+<caldate>2026</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -51,7 +51,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 </theme>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2015</tempkey>
+<tempkey>2026</tempkey>
 </temporal>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -127,7 +127,7 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <eainfo>
 <detailed>
 <enttyp>
-<enttypl>doitt_addresspoints_2015</enttypl>
+<enttypl>doitt_addresspoints_2026</enttypl>
 <enttypd>addresses</enttypd>
 </enttyp>
 <attr>
@@ -245,7 +245,7 @@ F = Duplicate or overlapping address ranges (Pseudo DAPS)</attrdef>
 <formspec>zip</formspec>
 </digtinfo>
 </stdorder>
-<resdesc>doitt_addresspoints_2015</resdesc>
+<resdesc>doitt_addresspoints_2026</resdesc>
 </distinfo>
 
 <metainfo>
@@ -267,7 +267,7 @@ F = Duplicate or overlapping address ranges (Pseudo DAPS)</attrdef>
 <cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
-<metd>20230911</metd>
+<metd>20260331</metd>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 <metstdv>FGDC-STD-001-1998</metstdv>
 <metsi>

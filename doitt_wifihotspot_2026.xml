@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_wifihotspot_2026.zip</onlink>
+				<origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
+				<pubdate>2026</pubdate>
+				<title>New York City WiFi Hotspots, 2026</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>City of New York</pubplace>
+					<publish>Department of Information Technology and Telecommunications</publish>
+				</pubinfo>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>New York City WiFi Hotspots, 2026 is a point representing approximate location of Wi-Fi hotspots as of 2026.  This data set was created by NYC Department of Information Technology and Telecommunications and was downloaded from the NYC Open Data website at https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw/about_data in March of 2026.</abstract>
+			<purpose>To help locate Wi-Fi hotspots in NYC</purpose>
+			<langdata>en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2026</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-74.170008</westbc>
+				<eastbc>-73.716551</eastbc>
+				<northbc>40.903765</northbc>
+				<southbc>40.552176</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc>937253.999960</leftbc>
+				<rightbc>1062605.000200</rightbc>
+				<bottombc>140575.121301</bottombc>
+				<topbc>268544.121174</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Wi-Fi hotspots</themekey>
+				<themekey>WiFi</themekey>
+				<themekey>WLAN</themekey>
+				<themekey>Wireless</themekey>
+				<themekey>wireless local area network</themekey>
+				<themekey> Internet</themekey>
+			</theme>
+			<temporal>
+				<tempkey>2026</tempkey>
+				<tempkt>None</tempkt>
+		</temporal>
+		<place>
+				<placekt>Library of Congress Subject Headings</placekt>
+				<placekey>New York (N.Y.)</placekey>
+				<placekey>Brooklyn (New York, N.Y.)</placekey>
+				<placekey>Bronx (New York, N.Y.)</placekey>
+				<placekey>Queens (New York, N.Y.)</placekey>
+				<placekey>Manhattan (New York, N.Y.)</placekey>
+				<placekey>Staten Island (New York, N.Y.)</placekey>
+			</place>
+			<place>
+				<placekt>None</placekt>
+				<placekey>NYC</placekey>
+			</place><theme><themekt>ISO 19115 Topic Categories</themekt><themekey>utilitiesCommunication</themekey></theme></keywords>
+		<accconst>None</accconst>
+
+		<useconst>For educational, non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>New York City Information Technology and Telecommunications, Citywide GIS Group</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>59 Maiden Lane, 33rd Floor</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10038</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(212) 232-1134</cntvoice>
+				<cntfax>(212) 232-1180</cntfax>
+				<cntemail>SpatialDataRequest@doitt.nyc.gov</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm</hours>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>U.S. Foot</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>NAD 83 [Continental US]</horizdn>
+				<ellips>GRS 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn>NAD 83 [Continental US]</geogcsn>
+				<projcsn>New York 3104, Long Island Zone [1983, US Survey feet]</projcsn>
+			</cordsysn>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<spdoinfo>
+		<ptvctinf/></spdoinfo>
+
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<addrtype>mailing and physical address</addrtype>
+					<address>MS-561</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>11217</postal>
+				</cntaddr>
+				<cntperp>
+					<cntper>GIS/Metadata Librarian</cntper>
+					<cntorg>Research Data Services (RDS)</cntorg>
+				</cntperp>
+				<cntvoice>(212)854-601</cntvoice>
+				<cntemail>data@library.columbia.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metd>20260331</metd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+	</metainfo>
+	<distinfo><distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Department of Information Technology and Telecommunications</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2 Metrotech Center, 4th Floor</address>
+					<city>Brooklyn</city>
+					<state>NY</state>
+					<postal>11201</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>spatialdatarequest@doitt.nyc.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>doitt_wifihotspot_2026</resdesc>
+	</distinfo>
+</metadata>
