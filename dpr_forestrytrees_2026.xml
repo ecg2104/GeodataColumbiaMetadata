@@ -3,27 +3,27 @@
 <idinfo>
 <citation>
 <citeinfo>
-  <onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_retainingwalls_2022.zip</onlink>
-  <origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
-<pubdate>2022</pubdate>
+  <onlink>https://www.columbia.edu/acis/eds/gis/images/dpr_forestrytrees_2026.zip</onlink>
+  <origin>New York (N.Y.). Department of Parks and Recreation</origin>
+<pubdate>2026</pubdate>
 <geoform>vector digital data</geoform>
 <pubinfo>
 <pubplace>City of New York</pubplace>
-<publish>Department of Information Technology and Telecommunications</publish>
+<publish>New York (N.Y.). Department of Parks and Recreation</publish>
 </pubinfo>
-<title>New York City Retaining Walls, 2022</title>
+<title>New York City Forestry Tree Points, 2026</title>
 </citeinfo>
 </citation>
 <descript>
 <langdata>en</langdata>
-<abstract>New York City Retaining Walls, 2022 is a line theme representing walls built to retain earth from falling on transportation features with a height of ten feet or greater in New York City as of 2022. This dataset is part of the 2022 NYC Planimetric Database.  Further information can be found here.  https://github.com/CityOfNewYork/nyc-planimetrics/blob/main/Capture_Rules.md  Columbia library staff accessed this data in April of 2026 and has provided it in the geopackage format.
+<abstract>New York City Forestry Tree Points, 2026 is a point theme representing the record of Forestry tree points for NYC Parks and Recreation as of 2026. Columbia library staff accessed this data in April of 2026 from NYC Open Data at: https://data.cityofnewyork.us/Environment/Forestry-Tree-Points/hn5i-inap/about_data and has provided it state plane coordinates and in the geopackage format.
 </abstract>
 <purpose>To support city agency operational requirements and public data access. </purpose>
 </descript>
 <timeperd>
 <timeinfo>
 <sngdate>
-<caldate>2022</caldate>
+<caldate>2026</caldate>
 </sngdate>
 </timeinfo>
 <current>publication date</current>
@@ -41,12 +41,9 @@
 </bounding>
 </spdom>
 <keywords>
-<theme>
-<themekey>structure</themekey>
-</theme>
 <temporal>
 <tempkt>None</tempkt>
-<tempkey>2022</tempkey>
+<tempkey>2026</tempkey>
 </temporal>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
@@ -63,7 +60,7 @@
 </place>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>structure</themekey>
+<themekey>biota</themekey>
 </theme>
 </keywords>
 <accconst>None</accconst>
@@ -71,19 +68,8 @@
 <ptcontac>
 <cntinfo>
 <cntorgp>
-<cntorg>NYC Department of Information Technology and Telecommunications, Citywide GIS</cntorg>
+<cntorg>New York (N.Y.). Department of Parks and Recreation</cntorg>
 </cntorgp>
-<cntaddr>
-<addrtype>mailing and physical address</addrtype>
-<address>2 Metrotech Center, 4th Floor</address>
-<city>Brooklyn</city>
-<state>NY</state>
-<postal>11201</postal>
-<country>USA</country>
-</cntaddr>
-<cntvoice>718-403-8394</cntvoice>
-<cntfax>718-403-8591</cntfax>
-<cntemail>creilly@doitt.nyc.gov</cntemail>
 </cntinfo>
 </ptcontac>
 </idinfo>
@@ -92,7 +78,7 @@
 <direct>Vector</direct>
 <ptvctinf>
 <sdtsterm>
-<sdtstype>String</sdtstype>
+<sdtstype>Point</sdtstype>
 </sdtsterm>
 </ptvctinf>
 </spdoinfo>
@@ -150,7 +136,7 @@
 <digtinfo/>
 </digform>
 </stdorder>
-<resdesc>doitt_retainingwalls_2022</resdesc>
+<resdesc>dpr_forestrytrees_2026</resdesc>
 </distinfo>
 
 <metainfo>

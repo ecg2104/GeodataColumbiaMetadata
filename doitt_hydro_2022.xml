@@ -42,7 +42,7 @@
 </spdom>
 <keywords>
 <theme>
-<themekey>elevation</themekey>
+<themekey>inlandWaters</themekey>
 </theme>
 <temporal>
 <tempkt>None</tempkt>
@@ -63,7 +63,7 @@
 </place>
 <theme>
 <themekt>ISO 19115 Topic Categories</themekt>
-<themekey>elevation</themekey>
+<themekey>inlandWaters</themekey>
 </theme>
 </keywords>
 <accconst>None</accconst>
