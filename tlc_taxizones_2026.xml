@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 <idinfo>
 <keywords>
@@ -107,7 +107,7 @@ New York City TLC Taxi Zones, 2026 is a polygon theme representing  Taxi and Lim
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>

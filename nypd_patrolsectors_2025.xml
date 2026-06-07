@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 <idinfo>
 <keywords>
@@ -109,7 +109,7 @@ New York City NYPD Patrol Sectors, 2025 is a polygon theme representing police p
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>
