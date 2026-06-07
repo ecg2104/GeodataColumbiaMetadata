@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -217,7 +217,7 @@ kingston_parks</enttypl>
 					<postal>10027</postal>
 					<country>USA</country>
 				</cntaddr>
-				<cntvoice>(212) 854-6012.</cntvoice>
+				<cntvoice>(212) 854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>

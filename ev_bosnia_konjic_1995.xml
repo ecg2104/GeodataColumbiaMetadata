@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 <idinfo>
 <keywords>
@@ -150,7 +150,7 @@ heights. Contour interval 20 meters./ "Map information as of 1994."/ "Printed by
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>

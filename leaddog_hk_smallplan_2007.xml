@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -99,7 +99,7 @@
 				<proccont>
 					<cntinfo>
 						<cntorgp>
-							<cntorg>Research Data Services (RDS) , Columbia University Libraries</cntorg>
+							<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 							<cntper>GIS/Map Librarian</cntper>
 						</cntorgp>
 						<cntaddr>

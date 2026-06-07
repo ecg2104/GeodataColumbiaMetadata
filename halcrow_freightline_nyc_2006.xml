@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -249,7 +249,7 @@ fre_line</enttypl>
 					<postal>10027</postal>
 				</cntaddr>
 				<cntvoice>(212)854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

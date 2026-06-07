@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 	<idinfo>
 		<spdom>
@@ -23,13 +23,13 @@
 				<cntvoice>(212) 854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 				</cntorgp>
 			</cntinfo>
 		</ptcontac>
 		<citation>
 			<citeinfo>
-				<origin>Digital Social Science Center, Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<pubdate>2012</pubdate>
 				<geoform>vector digital data</geoform>
 				<onlink>https://www.columbia.edu/acis/eds/gis/images/cul_bronx_1873_marsh_land.zip</onlink>
@@ -120,7 +120,7 @@
 				<proccont>
 					<cntinfo>
 						<cntorgp>
-							<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+							<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 							<cntper>GIS/Map Librarian</cntper>
 						</cntorgp>
 						<cntaddr>
@@ -254,7 +254,7 @@
 		<distrib>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 				</cntorgp>
 				<cntpos>GIS/Map Librariab</cntpos>
 				<cntaddr>
@@ -283,7 +283,7 @@
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 				</cntorgp>
 				<cntpos>GIS/Metadata Librarian</cntpos>
 				<cntaddr>

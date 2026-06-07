@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -900,7 +900,7 @@ mexdemog</enttypl>
 					<postal>10027</postal>
 					<country>USA</country>
 				</cntaddr>
-				<cntvoice>(212) 854-6012.</cntvoice>
+				<cntvoice>(212) 854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>

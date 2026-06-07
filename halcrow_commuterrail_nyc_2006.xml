@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -51,7 +51,7 @@
 				<tempkey>2007</tempkey>
 			</temporal>
 			<place><placekt>None</placekt><placekey>NYC</placekey></place><theme><themekey>Commuter rail roads</themekey><themekey>Rail lines </themekey><themekey>Public transit</themekey><themekey>LIRR</themekey><themekey>Passenger trains</themekey><themekt>None</themekt><themekey>Metro-North</themekey></theme></keywords>
-		<accconst>May only be used by current Columbia University affiliates.</accconst>
+		<accconst>For current Columbia affiliates only.</accconst>
 		<useconst>For educational non-commercial use only.</useconst>
 		<ptcontac>
 			<cntinfo>
@@ -249,7 +249,7 @@ com_line</enttypl>
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212)854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

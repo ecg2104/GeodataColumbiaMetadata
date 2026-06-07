@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -199,10 +199,10 @@ https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/landinfo_beijing
 					<address>420 W. 118th St. 215 IAB, MC 3301</address>
 					<city>New York</city>
 					<state>NY</state>
-					<postal>10027.10027</postal>
+					<postal>10027</postal>
 					<country>USA</country>
 				</cntaddr>
-				<cntvoice>(212) 854-6012.</cntvoice>
+				<cntvoice>(212) 854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -83,7 +83,7 @@ Inscribed to Brigadier General John Caillaud By his most obedient Serv. J. Renne
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 <hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 </cntinfo>
 </ptcontac>
@@ -144,7 +144,7 @@ Inscribed to Brigadier General John Caillaud By his most obedient Serv. J. Renne
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 <hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 </cntinfo>
 </proccont>
@@ -189,7 +189,7 @@ Inscribed to Brigadier General John Caillaud By his most obedient Serv. J. Renne
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 <hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 </cntinfo>
 </distrib>
@@ -209,7 +209,7 @@ Inscribed to Brigadier General John Caillaud By his most obedient Serv. J. Renne
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -221,7 +221,7 @@ Inscribed to Brigadier General John Caillaud By his most obedient Serv. J. Renne
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

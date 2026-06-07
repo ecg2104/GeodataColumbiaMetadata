@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -212,7 +212,7 @@ Available also through the Library of Congress Web site as a raster image. ( LCC
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>

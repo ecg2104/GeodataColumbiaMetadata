@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -70,7 +70,7 @@
 <tempkey>2007</tempkey>
 </temporal>
 </keywords>
-<accconst>May only be used by current Columbia University affiliates.</accconst>
+<accconst>For current Columbia affiliates only.</accconst>
 <useconst>For educational non-commercial use only.</useconst>
 <ptcontac>
 <cntinfo>

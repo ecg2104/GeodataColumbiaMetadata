@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -293,7 +293,7 @@ argentina_aerofacp</enttypl>
 <postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </metc>
 <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>

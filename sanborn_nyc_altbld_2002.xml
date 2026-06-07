@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -248,7 +248,7 @@ nyc_altbld</enttypl>
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>

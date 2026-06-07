@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 <idinfo>
 <keywords>
@@ -151,7 +151,7 @@ prepared and published by Defense Mapping Agency Hydrographic/Topographic Center
 <metc>
 <cntinfo>
 <cntperp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntperp>
 <cntaddr>

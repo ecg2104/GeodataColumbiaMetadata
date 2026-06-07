@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 	<idinfo>
 		<ptcontac>
@@ -338,7 +338,7 @@
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212)854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 		<metd>20130213</metd>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -315,7 +315,7 @@ Walker, E.P. Mammals of the World. 1975. Baltimore.</procdesc>
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 </cntinfo>
 </proccont>
 </procstep>
@@ -440,7 +440,7 @@ wildlife</enttypl>
 <country>USA</country>
 </cntaddr>
 <cntvoice>(212) 854-6012</cntvoice>
-<cntemail>eds@columbia.edu</cntemail>
+<cntemail>data@library.columbia.edu</cntemail>
 <hours>7:00 a.m.-5:30 p.m. Pacific time, Monday-Friday</hours>
 </cntinfo>
 </metc>

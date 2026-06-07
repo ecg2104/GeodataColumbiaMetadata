@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -174,11 +174,12 @@
 				</cntorgp>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
-					<city>420 W. 118th St., 215 IAB, MC 3301</city>
+					<address>420 W. 118th St., 215 IAB, MC 3301</address>
+					<city>New York</city>
 					<state>NY</state>
-					<postal>10027.</postal>
+					<postal>10027</postal>
 				</cntaddr>
-				<cntvoice>(212)854-6012.</cntvoice>
+				<cntvoice>(212)854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>

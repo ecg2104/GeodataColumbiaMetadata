@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -194,7 +194,7 @@ nnj_boundary</enttypl>
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -204,7 +204,7 @@ nnj_boundary</enttypl>
 					<state>NY</state>
 					<postal>10027</postal>
 				</cntaddr>
-				<cntvoice>(212)854-6012.</cntvoice>
+				<cntvoice>(212)854-6012</cntvoice>
 				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>

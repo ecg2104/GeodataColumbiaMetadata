@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -469,7 +469,7 @@ jer_building</enttypl>
 <metc>
 <cntinfo>
 <cntorgp>
-<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 <cntper>GIS/Metadata Librarian</cntper>
 </cntorgp>
 <cntaddr>
@@ -477,7 +477,7 @@ jer_building</enttypl>
 <address>420 W. 118th St., 215 IAB, MC 3301</address>
 <city>New York</city>
 <state>NY.</state>
-<postal>10027.</postal>
+<postal>10027</postal>
 </cntaddr>
 <cntvoice>(212)854-6012</cntvoice>
 <cntemail>data@library.columbia.edu</cntemail>

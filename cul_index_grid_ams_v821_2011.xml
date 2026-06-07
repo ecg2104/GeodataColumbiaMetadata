@@ -1,4 +1,4 @@
-<metadata xml:lang="en">
+﻿<metadata xml:lang="en">
 	<eainfo>
 		<detailed Name="index_grid_ams_v721">
 			<enttyp>
@@ -83,7 +83,7 @@
 		<ptcontac>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Map Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -95,14 +95,14 @@
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 			</cntinfo>
 		</ptcontac>
 		<citation>
 			<citeinfo>
 				<title>New York A.M.S. V821 1:25,000 Index, 2011</title>
-				<origin>Digital Social Science Center, Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<pubdate>2011</pubdate>
 				<geoform>vector digital data</geoform>
 				<onlink>https://www.columbia.edu/acis/eds/gis/images/cul_index_grid_ams_v821_2011.zip</onlink>
@@ -217,7 +217,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 							<country>USA</country>
 						</cntaddr>
 						<cntvoice>(212) 854-6012</cntvoice>
-						<cntemail>eds@columbia.edu</cntemail>
+						<cntemail>data@library.columbia.edu</cntemail>
 						<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 					</cntinfo>
 				</proccont>
@@ -238,7 +238,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 		<distrib>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Map Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -250,7 +250,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 				<hours>11:00AM-5:00PM Monday - Thursday, 1:00PM-5:00PM Friday EST-USA</hours>
 			</cntinfo>
 		</distrib>
@@ -268,7 +268,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -280,7 +280,7 @@ col. maps 56 x 43 cm. or smaller.</othercit>
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 		<metd>20130212</metd>

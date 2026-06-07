@@ -1,11 +1,11 @@
-<metadata xml:lang="en">
+﻿<metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
 				<origin>National Climatic Data Center (U.S.)</origin>
 				<origin>United States. National Environmental Satellite, Data, and Information Service</origin>
 				<origin> United States. National Oceanic and Atmospheric Administration.</origin>
-				<origin>Digital Social Science Center, Columbia University Libraries</origin>
+				<origin>Research Data Services (RDS), Columbia University Libraries</origin>
 				<pubdate>2012</pubdate>
 				<title>United States Average Percent of Possible Sunshine, 2012</title>
 				<geoform>vector digital data</geoform>
@@ -91,7 +91,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Digital Social Science Center, Columbia University Libraries</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -103,7 +103,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 					<country>USA</country>
 				</cntaddr>
 				<cntvoice>(212) 854-6012</cntvoice>
-				<cntemail>eds@columbia.edu</cntemail>
+				<cntemail>data@library.columbia.edu</cntemail>
 			</cntinfo>
 		</metc>
 		<metd>201301214</metd>
@@ -304,7 +304,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 				<proccont>
 					<cntinfo>
 						<cntorgp>
-							<cntorg>Digital Social Science Center, Columbia Libraries</cntorg>
+							<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 							<cntper>GIS/Map librarian</cntper>
 						</cntorgp>
 						<cntaddr>
@@ -316,7 +316,7 @@ Stations are listed alphabetically by state. The tables are arranged so that val
 							<country>USA</country>
 						</cntaddr>
 						<cntvoice>(212) 854-6012</cntvoice>
-						<cntemail>eds@columbia.edu</cntemail>
+						<cntemail>data@library.columbia.edu</cntemail>
 					</cntinfo>
 				</proccont>
 				<procdesc>RDS staff combined weather data with station info and locations from NOAA website</procdesc>

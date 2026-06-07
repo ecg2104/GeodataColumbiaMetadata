@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -190,7 +190,7 @@ Includes indexes, notes, index map of adjoining sheets, and boundary diagram.</s
 		<distrib>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Map Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -212,7 +212,7 @@ Includes indexes, notes, index map of adjoining sheets, and boundary diagram.</s
 		<metc>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Research Data Services (RDS), Columbia University Libraries.</cntorg>
+					<cntorg>Research Data Services (RDS), Columbia University Libraries</cntorg>
 					<cntper>GIS/Metadata Librarian</cntper>
 				</cntorgp>
 				<cntaddr>
