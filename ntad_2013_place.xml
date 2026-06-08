@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -59,7 +59,7 @@
 				<themekey>Towns</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>location</themekey>
 				<themekey>transportation</themekey>
 			</theme>

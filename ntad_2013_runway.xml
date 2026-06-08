@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -51,7 +51,7 @@
 				<themekey>runways</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey>
 				<themekey>economy</themekey>
 			</theme>

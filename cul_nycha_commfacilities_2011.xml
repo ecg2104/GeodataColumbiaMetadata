@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 <idinfo>
 		<citation>
@@ -45,7 +45,7 @@
 				<themekey>NYCHA</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>structure</themekey>
 				<themekey>society</themekey>
 				</theme>

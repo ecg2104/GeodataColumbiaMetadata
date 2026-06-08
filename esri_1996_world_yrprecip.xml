@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -50,7 +50,7 @@ The areas with the least mean January precipitation (less than 10 mm) lie in the
 </spdom>
 <keywords>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>climatologyMeteorologyAtmosphere</themekey>
 </theme>
 <theme>

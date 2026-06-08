@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 <idinfo>
 <citation>
@@ -60,7 +60,7 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 <placekey>Bronx (New York, N.Y.)</placekey>
 </place>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>planningCadastre</themekey>
 </theme>
 <place>

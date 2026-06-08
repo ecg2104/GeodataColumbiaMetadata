@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -52,7 +52,7 @@ This file's parent was created after a review of ZIP Code / UHF areas at the DOH
 <themekey>CHS</themekey>
 </theme>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>health</themekey>
 <themekey>boundaries</themekey>
 </theme>

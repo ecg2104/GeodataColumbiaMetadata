@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 	<idinfo><native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native><descript><langdata>en</langdata><abstract>This ARC/INFO polygon coverage contains the second Level
     administrative boundaries at a 1:1000000 scale.
@@ -156,7 +156,7 @@
 <origin>Famine Early Warning System Network</origin><pubdate>1996</pubdate><title>Namibia Level 2 Administrative Boundaries, 1996</title><ftname>NamibiaAdmn2</ftname><geoform>vector digital data</geoform><serinfo><sername>FEWS 3</sername><issue>1</issue></serinfo><pubinfo><pubplace>Sioux Falls, SD, USA</pubplace><publish>EDC/International Program</publish></pubinfo><othercit>FEWS/EROS Data Center (EDC)</othercit><onlink>https://www.columbia.edu/acis/eds/gis/images/fewsn_1996_namibiaadmn2.zip</onlink>
 			</citeinfo></citation><timeperd><current>publication date</current><timeinfo><sngdate><caldate>1996</caldate></sngdate></timeinfo></timeperd><status><progress>Complete</progress><update>As needed</update></status><spdom><bounding><westbc>11.715630</westbc><eastbc>25.256701</eastbc><northbc>-16.959894</northbc><southbc>-28.971430</southbc></bounding><lboundng><leftbc>11.715630</leftbc><rightbc>25.256701</rightbc><bottombc>-28.971430</bottombc><topbc>-16.959894</topbc></lboundng></spdom><keywords>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>boundaries</themekey>
 			</theme>
 			<place>

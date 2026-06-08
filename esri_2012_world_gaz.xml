@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -112,7 +112,7 @@
 				<tempkey>2000</tempkey>
 				<tempkey>2007</tempkey>
 				<tempkey>2007</tempkey></temporal>
-			<theme><themekey>transportation</themekey><themekey>oceans</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey> location</themekey></theme></keywords>
+			<theme><themekey>transportation</themekey><themekey>oceans</themekey><themekt>ISO 19115 Topic Category</themekt><themekey> location</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

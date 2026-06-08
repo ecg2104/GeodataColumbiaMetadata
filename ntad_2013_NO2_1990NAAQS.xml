@@ -1,4 +1,4 @@
-
+﻿
 <metadata>
 	<idinfo>
 		<citation>
@@ -49,7 +49,7 @@
 				<themekey>Criteria Pollutant</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>environment</themekey>
 			</theme>
 			<place>

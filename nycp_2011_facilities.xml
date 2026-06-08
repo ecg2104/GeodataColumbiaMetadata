@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata xml:lang="en">
 	<idinfo>
 		<descript>
@@ -9,7 +9,7 @@
 		<keywords>
 			<theme>
 				<themekey>structure</themekey>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>society</themekey>
 			</theme>
 			<theme>

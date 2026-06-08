@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 <idinfo><citation>
 <citeinfo><onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_boardwalk_2009.zip</onlink><origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
@@ -59,7 +59,7 @@
 <placekey>NYC</placekey>
 </place>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>society</themekey>
 <themekey>structure</themekey>
 </theme>

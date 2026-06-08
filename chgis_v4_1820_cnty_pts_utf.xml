@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -54,7 +54,7 @@ Developed by Fudan University, Center for Historical Geography, for the CHGIS pr
 <themekey>county capitals</themekey>
 </theme>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>location</themekey>
 <themekey>society</themekey>
 </theme>

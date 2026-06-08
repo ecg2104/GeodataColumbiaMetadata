@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -40,7 +40,7 @@
 				<themekey>3.4</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>economy</themekey>
 				<themekey>transportation</themekey>
 			</theme>

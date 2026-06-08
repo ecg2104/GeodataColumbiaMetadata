@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -59,7 +59,7 @@
 			<place>
 				<placekt>None</placekt>
 				<placekey>NYC</placekey>
-			</place><theme><themekt>ISO 19115 Topic Categories</themekt><themekey>utilitiesCommunication</themekey></theme></keywords>
+			</place><theme><themekt>ISO 19115 Topic Category</themekt><themekey>utilitiesCommunication</themekey></theme></keywords>
 		<accconst>None</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

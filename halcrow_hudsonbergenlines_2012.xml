@@ -1,4 +1,4 @@
-<metadata xml:lang="en">
+﻿<metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -38,7 +38,7 @@
 		</spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 topic categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey></theme>
 			<place>
 				<placekt>Library of Congress Subject Headings</placekt>

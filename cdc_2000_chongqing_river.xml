@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -43,7 +43,7 @@
 			<lboundng><leftbc Sync="TRUE">105.378421</leftbc><rightbc Sync="TRUE">110.130843</rightbc><bottombc Sync="TRUE">28.203974</bottombc><topbc Sync="TRUE">32.118401</topbc></lboundng></spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 Topic Categories..</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>inlandWaters</themekey>
 			</theme>
 			<theme>

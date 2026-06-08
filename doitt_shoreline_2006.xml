@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 <idinfo><citation>
 <citeinfo><onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_shoreline_2006.zip</onlink><origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
@@ -58,7 +58,7 @@
 <placekey>NYC</placekey>
 </place>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>inlandWaters</themekey>
 <themekey>oceans</themekey>
 <themekey>boundaries</themekey>

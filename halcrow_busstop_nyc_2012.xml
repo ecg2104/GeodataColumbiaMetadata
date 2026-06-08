@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <metadata xml:lang="en">
 	<idinfo>
 		<citation>
@@ -44,7 +44,7 @@
 		</spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 topic categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey>
 			</theme>
 			<theme>

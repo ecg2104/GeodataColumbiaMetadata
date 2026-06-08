@@ -1,4 +1,4 @@
-<metadata xml:lang="en">
+﻿<metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -29,7 +29,7 @@
 		</ptcontac>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 topic categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey>
 			</theme>
 			<theme>

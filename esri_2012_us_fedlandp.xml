@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -74,7 +74,7 @@
 				<tempkt>None</tempkt>
 				<tempkey>1972-2004</tempkey>
 			</temporal>
-			<theme><themekey>planningCadastre</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey>boundaries</themekey></theme></keywords>
+			<theme><themekey>planningCadastre</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>boundaries</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -82,7 +82,7 @@
 				<tempkey>2009</tempkey>
 				<tempkey>1974-Present</tempkey>
 			</temporal>
-			<theme><themekey>structure</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey>society</themekey></theme></keywords>
+			<theme><themekey>structure</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>society</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

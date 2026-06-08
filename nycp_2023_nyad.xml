@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 	<idinfo>
 		<descript>
@@ -61,7 +61,7 @@
 				<themekey>Political Boundary</themekey>
 				<themekey>boundaries</themekey>
 </theme><theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>society</themekey>
 				<themekey>boundaries</themekey>
 			</theme>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
 <idinfo>
 <citation>
@@ -71,7 +71,7 @@
 <themekey>boundaries</themekey>
 </theme>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>society</themekey>
 <themekey>boundaries</themekey>
 </theme>

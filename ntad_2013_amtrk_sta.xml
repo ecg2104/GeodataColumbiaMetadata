@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -25,7 +25,7 @@ Updated database of the Federal Railroad Administration's (FRA) Amtrak Station d
 		</spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey>
 			</theme>
 			<temporal>

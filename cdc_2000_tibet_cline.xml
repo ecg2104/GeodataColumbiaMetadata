@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -50,7 +50,7 @@ This data layer is part of the Tibet 2000 Township Census data set produced by t
 </spdom>
 <keywords>
 <theme>
-<themekt>ISO 19115 Topic Categories..</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>boundaries</themekey>
 </theme>
 <theme>

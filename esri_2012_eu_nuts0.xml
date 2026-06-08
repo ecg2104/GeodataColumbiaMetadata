@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -89,7 +89,7 @@ NUTS (Nomenclature des Unites Territoriales Statistiques) refers to the Nomencla
 				<tempkey>2010</tempkey>
 				<tempkey>2006</tempkey>
 			</temporal>
-			<theme><themekey>	society,</themekey><themekey> boundaries</themekey><themekt>ISO 19115 Topic Categories</themekt><themekey>economy </themekey></theme></keywords>
+			<theme><themekey>	society,</themekey><themekey> boundaries</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>economy </themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

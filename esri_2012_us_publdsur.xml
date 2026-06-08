@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -86,7 +86,7 @@
 				<tempkey>1972-2002</tempkey>
 				<tempkey>2003</tempkey>
 			</temporal>
-			<theme><themekt>ISO 19115 Topic Categories</themekt><themekey>planningCadastre</themekey></theme></keywords>
+			<theme><themekt>ISO 19115 Topic Category</themekt><themekey>planningCadastre</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

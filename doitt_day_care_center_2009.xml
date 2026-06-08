@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 <idinfo><citation>
 <citeinfo><onlink>https://www.columbia.edu/acis/eds/gis/images/doitt_day_care_center_2009.zip</onlink><origin>New York (N.Y.). Department of Information Technology and Telecommunications.</origin>
@@ -59,7 +59,7 @@
 <placekey>NYC</placekey>
 </place>
 <theme>
-<themekt>ISO 19115 Topic Categories</themekt>
+<themekt>ISO 19115 Topic Category</themekt>
 <themekey>society</themekey>
 </theme>
 </keywords>

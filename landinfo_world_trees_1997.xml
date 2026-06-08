@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -46,7 +46,7 @@
 		</spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 Topic Categories.</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>biota</themekey>
 			</theme>
 			<theme>

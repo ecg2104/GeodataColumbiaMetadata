@@ -54,7 +54,7 @@ PATH data (PANYNJ lines and stations) includes lines run by the Port Authority, 
 				<themekey>Air Train</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>transportation</themekey>
 			</theme>
 			<place>

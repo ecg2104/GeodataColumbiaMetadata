@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -59,7 +59,7 @@
 				<themekey>Surface water</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>inlandWaters</themekey>
 				<themekey>location</themekey>
 				<themekey>structure</themekey>

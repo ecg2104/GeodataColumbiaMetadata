@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -28,7 +28,7 @@ The TIGER/Line shapefiles and related database files (.dbf) are an extract of se
 		</spdom>
 		<keywords>
 			<theme>
-				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>boundaries</themekey>
 				<themekey>economy</themekey>
 				<themekey>society</themekey>

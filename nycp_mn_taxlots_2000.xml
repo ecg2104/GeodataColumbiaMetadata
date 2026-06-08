@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -48,7 +48,7 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York (State)</placekey><placekey>New York (N.Y.)</placekey><placekey>Brooklyn (New York, N.Y.)</placekey><placekey>Bronx (New York, N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey><placekey>Manhattan (New York, N.Y.)</placekey><placekey>Staten Island (New York, N.Y.)</placekey></place>
-			<theme><themekt>ISO 19115 Topic Categories</themekt><themekey>planningCadastre</themekey></theme><place><placekt>None</placekt><placekey>NYC</placekey></place><temporal><tempkt>None</tempkt><tempkey>2000</tempkey></temporal></keywords>
+			<theme><themekt>ISO 19115 Topic Category</themekt><themekey>planningCadastre</themekey></theme><place><placekt>None</placekt><placekey>NYC</placekey></place><temporal><tempkt>None</tempkt><tempkey>2000</tempkey></temporal></keywords>
 		<accconst>None</accconst>
 		<useconst>None</useconst>
 		<ptcontac>
