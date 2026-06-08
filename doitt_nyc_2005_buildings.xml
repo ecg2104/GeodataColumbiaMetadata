@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -54,7 +54,7 @@
 				<themekey>BIN</themekey>
 			</theme>
 			<theme>
-				<themekt>ISO Topic Categories</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>structure</themekey>
 			</theme>
 			<place>

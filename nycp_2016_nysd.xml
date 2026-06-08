@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -69,6 +69,11 @@
 				<tempkt>None</tempkt>
 				<tempkey>2016</tempkey>
 			</temporal>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+			</theme>
 		</keywords>
 				<accconst>None</accconst>
 		<useconst>None</useconst>

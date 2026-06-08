@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -40,7 +40,7 @@
 				<themekey>District Public Health Office</themekey>
 				<themekey>DPHO</themekey>
 			</theme>
-			<place><placekt>Library of congress subject headings</placekt></place><theme><themekey>boundaries</themekey><themekey>health</themekey><themekt>ISO 1915 Topic Categories</themekt><themekey>society</themekey></theme><place><placekt>none</placekt><placekey>NYC</placekey></place><temporal><tempkt>none</tempkt><tempkey>2008</tempkey></temporal></keywords>
+			<place><placekt>Library of congress subject headings</placekt></place><theme><themekey>boundaries</themekey><themekey>health</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>society</themekey></theme><place><placekt>none</placekt><placekey>NYC</placekey></place><temporal><tempkt>none</tempkt><tempkey>2008</tempkey></temporal></keywords>
 		<accconst>None</accconst>
 		<useconst>None</useconst>
 		<ptcontac><cntinfo><cntorgp><cntorg>GIS Center - NYC DOHMH</cntorg><cntper>Chris Goranson</cntper></cntorgp><cntvoice>212-788-2221</cntvoice><cntemail>giscenter@health.nyc.gov</cntemail><cntaddr><address>125 Worth Street</address><city>New York</city><state>NY</state><postal>10013</postal></cntaddr></cntinfo></ptcontac></idinfo>

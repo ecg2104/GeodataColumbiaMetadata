@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -55,6 +55,10 @@
 				<tempkt>None</tempkt>
 				<tempkey>2013</tempkey>
 			</temporal>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
 		</keywords>
 		<accconst>None</accconst>
 		<useconst>None</useconst>

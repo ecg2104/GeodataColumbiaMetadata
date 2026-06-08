@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata xml:lang="en">
 	<idinfo>
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native>
@@ -66,6 +66,10 @@ This dataset comes with an ESRI layer file symbolizing the features.</supplinf>
 				<tempkt>None</tempkt>
 				<tempkey>2010</tempkey>
 			</temporal>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+			</theme>
 		</keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
