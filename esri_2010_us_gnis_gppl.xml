@@ -69,7 +69,7 @@ This dataset includes an ESRI layer file symbolizing the features.</supplinf>
 				<tempkey>1974-Present</tempkey>
 			</temporal>
 			<theme>
-				<themekey>	location</themekey>
+				<themekey>location</themekey>
 				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>society</themekey>
 			</theme>

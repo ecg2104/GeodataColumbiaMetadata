@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 <idinfo>
 <ptcontac>
@@ -42,10 +42,10 @@
 <themekey>Personal income</themekey>
 <themekey>Per capita income</themekey>
 <themekey>Employment</themekey>
-<themekey>Wage and salary employment	</themekey>
+<themekey>Wage and salary employment</themekey>
 <themekey>Jobs</themekey>
 <themekey>Full-time jobs</themekey>
-<themekey>Part-time jobs	</themekey>
+<themekey>Part-time jobs</themekey>
 <themekey>Wages</themekey>
 <themekey>Average wage</themekey>
 <themekey>Disbursements</themekey>

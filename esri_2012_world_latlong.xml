@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -66,7 +66,7 @@
 				<tempkt>None</tempkt>
 				<tempkey>2010</tempkey>
 			</temporal>
-			<theme><themekey>World</themekey><themekt>Library of Congress Subject Headings</themekt><themekey> Earth</themekey></theme></keywords>
+			<theme><themekey>World</themekey><themekt>Library of Congress Subject Headings</themekt><themekey>Earth</themekey></theme></keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>

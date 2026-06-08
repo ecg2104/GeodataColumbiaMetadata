@@ -47,7 +47,7 @@
 			<theme>
 				<themekt>None</themekt>
 				<themekey>Wi-Fi hotspots</themekey>
-				<themekey>WiFi</themekey><themekey>WLAN</themekey><themekey>Wireless</themekey><themekey>wireless local area network</themekey><themekey> Internet</themekey></theme>
+				<themekey>WiFi</themekey><themekey>WLAN</themekey><themekey>Wireless</themekey><themekey>wireless local area network</themekey><themekey>Internet</themekey></theme>
 			<temporal><tempkey>2019</tempkey><tempkt>None</tempkt><tempkey>2010</tempkey></temporal><place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York (N.Y.)</placekey>
