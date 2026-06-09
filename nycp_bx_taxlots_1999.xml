@@ -54,6 +54,10 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 <themekey>RPAD</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>New York City (5128581)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New York (State)</placekey>
 <placekey>New York (N.Y.)</placekey>

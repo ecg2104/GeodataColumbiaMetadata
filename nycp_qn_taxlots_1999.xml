@@ -47,6 +47,10 @@ DCP Mapping Lots includes some features that are not on the tax maps.  They have
 				<themekt>NONE</themekt>
 				<themekey>Boundaries</themekey><themekey>RPAD</themekey></theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York (State)</placekey><placekey>New York (N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey></place>
 			<theme><themekt>ISO 19115 Topic Category</themekt><themekey>planningCadastre</themekey></theme><place><placekt>None</placekt><placekey>NYC</placekey></place><temporal><tempkt>None</tempkt><tempkey>1999</tempkey></temporal></keywords>

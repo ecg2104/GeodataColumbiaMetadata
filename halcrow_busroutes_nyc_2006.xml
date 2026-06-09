@@ -51,6 +51,10 @@
 				<themekey>Public transit</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York (N.Y.)</placekey>
 				<placekey>Brooklyn (New York, N.Y.)</placekey><placekey>Bronx (New York, N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey><placekey>Manhattan (New York, N.Y.)</placekey><placekey>Staten Island (New York, N.Y.)</placekey></place>

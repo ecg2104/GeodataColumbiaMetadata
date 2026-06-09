@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -108,6 +108,10 @@ system based on the month and year the data is extracted.</update>
 <themekey>Census</themekey>
 <themekey>Blocks</themekey>
 </theme>
+<place>
+	<placekt>GeoNames</placekt>
+	<placekey>New York City (5128581)</placekey>
+</place>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New York (N.Y.)</placekey>

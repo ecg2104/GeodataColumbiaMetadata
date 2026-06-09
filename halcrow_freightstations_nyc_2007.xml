@@ -43,6 +43,10 @@
 				<themekey>transportation</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Brooklyn (New York, N.Y.)</placekey><placekey>Queens (New York, N.Y.)</placekey><placekey>Manhattan (New York, N.Y.)</placekey><placekey>Kings County (N.Y.)</placekey><placekey>Queens County (N.Y.)</placekey><placekey>New York County (N.Y.)</placekey><placekey>Nassau County (N.Y.)</placekey><placekey>Essex County (N.Y.)</placekey><placekey>Long Island (N.Y.)</placekey><placekey>Westchester County (N.Y.)</placekey><placekey>Bronx (New York, N.Y.)</placekey><placekey>Staten Island (New York, N.Y.)</placekey><placekey>Richmond County (N.Y.)</placekey></place>
 			<temporal>

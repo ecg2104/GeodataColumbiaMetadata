@@ -40,6 +40,10 @@
 				<themekey>District Public Health Office</themekey>
 				<themekey>DPHO</themekey>
 			</theme>
+			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
 			<place><placekt>Library of congress subject headings</placekt></place><theme><themekey>boundaries</themekey><themekey>health</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>society</themekey></theme><place><placekt>none</placekt><placekey>NYC</placekey></place><temporal><tempkt>none</tempkt><tempkey>2008</tempkey></temporal></keywords>
 		<accconst>None</accconst>
 		<useconst>None</useconst>

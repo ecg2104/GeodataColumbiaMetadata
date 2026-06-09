@@ -51,6 +51,10 @@
 				<themekey>Rail lines</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekey>New York</placekey>
 				<placekey> New Jersey</placekey>
 				<placekey> Pennsylvania</placekey>

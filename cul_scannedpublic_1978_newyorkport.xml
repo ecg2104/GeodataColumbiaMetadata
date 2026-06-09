@@ -65,6 +65,10 @@
 <themekey>Port</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>New York City (5128581)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New Jersey</placekey>
 <placekey>New York (N.Y.)</placekey>

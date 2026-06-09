@@ -65,6 +65,10 @@
 				<themekey>Topographical maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Jersey City (N.J.)</placekey>
 				<placekey>New York (N.Y.)</placekey>

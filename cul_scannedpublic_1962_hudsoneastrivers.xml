@@ -66,6 +66,10 @@ Includes tidal information.</supplinf>
 				<themekey>Scanned maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Hudson River (N.Y. and N.J.)</placekey>
 				<placekey>East River (N.Y.)</placekey>

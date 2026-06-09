@@ -42,6 +42,10 @@
 				<themekey>Program Sites</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekey>New York (N.Y.)</placekey>
 				<placekey>Brooklyn (New York, N.Y.)</placekey>
 				<placekey>Bronx (New York, N.Y.)</placekey>

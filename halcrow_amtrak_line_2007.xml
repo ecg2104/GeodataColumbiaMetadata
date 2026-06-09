@@ -48,6 +48,10 @@
 				<themekey>transportation</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>New York City (5128581)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>New York</placekey><placekey>New Jersey</placekey><placekey>Pennsylvania</placekey><placekey>Connecticut</placekey><placekey>Rhode Island</placekey><placekey>Delaware</placekey><placekey>Maryland</placekey><placekey>Massachusetts</placekey><placekey>Washington (D.C.)</placekey><placekey>New York (N.Y.)</placekey></place>
 			<temporal>

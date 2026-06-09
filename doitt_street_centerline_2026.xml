@@ -54,6 +54,10 @@ Columbia Libraries staff downloaded this dataset from NYC Open Data at https://d
 <tempkey>2026</tempkey>
 </temporal>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>New York City (5128581)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New York (N.Y.)</placekey>
 <placekey>Brooklyn (New York, N.Y.)</placekey>
