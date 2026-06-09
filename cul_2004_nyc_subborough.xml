@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <metadata>
 	<idinfo>
 		<citation>
@@ -47,10 +47,8 @@
 				<themekey>Boundaries</themekey>
 			</theme>
 			<place>
-				<placekey>New York City</placekey>
-			</place>
-			<place>
 				<placekt>None</placekt>
+				<placekey>New York City</placekey>
 			</place>
 		</keywords>
 		<accconst>None</accconst>

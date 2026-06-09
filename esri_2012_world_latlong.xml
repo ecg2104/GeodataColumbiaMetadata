@@ -60,13 +60,18 @@
 			</theme>
 			<place>
 				<placekey>World</placekey>
-				<placekt>ISO 19115 Topic Categories</placekt>
+				<placekt>None</placekt>
 			</place>
 			<temporal>
 				<tempkt>None</tempkt>
 				<tempkey>2010</tempkey>
 			</temporal>
-			<theme><themekey>World</themekey><themekt>Library of Congress Subject Headings</themekt><themekey>Earth</themekey></theme></keywords>
+			<theme><themekey>World</themekey><themekt>Library of Congress Subject Headings</themekt><themekey>Earth</themekey></theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>imageryBaseMapsEarthCover</themekey>
+			</theme>
+		</keywords>
 		<accconst>For current Columbia affiliates only.</accconst>
 
 		<useconst>For educational, non-commercial use only.</useconst>
