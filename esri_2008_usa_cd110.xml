@@ -66,10 +66,10 @@ This dataset is a part of the 2008 ESRI Data &amp; Maps collection.</abstract>
 <temporal>
 <tempkt>None</tempkt>
 <tempkey>2007</tempkey>
-<tempkey>20052007</tempkey>
-<tempkey>20032005</tempkey>
+<tempkey>2005-2007</tempkey>
+<tempkey>2003-2005</tempkey>
 <tempkey>2002</tempkey>
-<tempkey>20012003</tempkey>
+<tempkey>2001-2003</tempkey>
 <tempkey>2004</tempkey>
 <tempkey>2004</tempkey>
 <tempkey>2003</tempkey>
