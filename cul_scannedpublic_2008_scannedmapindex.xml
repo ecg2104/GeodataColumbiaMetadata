@@ -52,6 +52,10 @@
 				<themekey>Index</themekey>
 				<themekey>Lehman map collection</themekey>
 			</theme>
+			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>World</placekey>
+			</place>
 		</keywords>
 		<accconst>None</accconst>
 
