@@ -66,6 +66,10 @@
 				<themekey>boundaries</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Canada (6251999)</placekey>
+			</place>
+			<place>
 				<placekt>None</placekt>
 				<placekey>Canada</placekey>
 			</place>
