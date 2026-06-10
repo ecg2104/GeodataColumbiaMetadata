@@ -70,6 +70,10 @@ Inset or marginal maps: Index to adjoining sheets</supplinf>
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Indonesia (1643084)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Java (Indonesia)</placekey>
 <placekey>Madura Island (Indonesia)</placekey>

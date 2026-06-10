@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Cities</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Bhutan (1252634)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Bhutan</placekey>
 </place>

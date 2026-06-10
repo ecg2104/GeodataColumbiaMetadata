@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Towns</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Sri Lanka (1227603)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Sri Lanka</placekey>
 </place>

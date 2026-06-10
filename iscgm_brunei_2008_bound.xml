@@ -52,6 +52,10 @@ The Global Map will also contribute to the development of a Global Spatial Data 
 <themekey>Administrative boundaries</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Brunei (1820814)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Brunei</placekey>
 </place>

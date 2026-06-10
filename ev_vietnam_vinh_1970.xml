@@ -12,6 +12,10 @@
 <themekey>Ben Thuy (Vietnam) -- Maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Vietnam (1562822)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Vinh (Vietnam) </placekey>
 <placekey>Ben Thuy (Vietnam) </placekey>

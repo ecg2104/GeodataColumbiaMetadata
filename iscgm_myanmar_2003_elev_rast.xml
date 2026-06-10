@@ -62,6 +62,10 @@ Infrastructure.</purpose>
 <themekey>elevation</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Myanmar (1327865)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Myanmar</placekey>
 <placekey>Burma</placekey>

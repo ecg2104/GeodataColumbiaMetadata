@@ -61,6 +61,10 @@ Infrastructure</purpose>
 <themekey>Rail lines</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Mongolia (2029969)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Mongolia</placekey>
 </place>

@@ -11,6 +11,10 @@
 <themekey>Chu Lai Region (Vietnam)--Maps, Topographic.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Vietnam (1562822)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Chu Lai Region (Vietnam)</placekey>
 </place>
