@@ -59,6 +59,10 @@ Nullmeridiane: Ferro, Paris./ Numerierung unten rechts: "No. I. tome X. page I."
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>India (1269750)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>India</placekey>
 <placekey>Sri Lanka</placekey>

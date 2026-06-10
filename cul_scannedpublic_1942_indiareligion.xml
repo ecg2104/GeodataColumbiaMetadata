@@ -62,6 +62,10 @@ In upper right border: Free.</supplinf>
 				<themekey>Scanned maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>India (1269750)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>India</placekey>
 			</place>

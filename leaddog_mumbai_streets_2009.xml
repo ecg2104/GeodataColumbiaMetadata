@@ -51,6 +51,10 @@
 				<themekey>Highways</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Mumbai (1275339)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Mumbai (India)</placekey>
 				<placekey>Bombay (India)</placekey>

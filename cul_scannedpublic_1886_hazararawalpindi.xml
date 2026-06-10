@@ -58,6 +58,10 @@
 <themekey>Human settlements</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>India (1269750)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Jammu and Kashmir (India)</placekey>
 <placekey>Punjab (India)</placekey>

@@ -66,6 +66,10 @@ transmitted from India.; Map of Delhi and its environs.</supplinf>
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>India (1269750)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Delhi (India)</placekey>
 </place>
