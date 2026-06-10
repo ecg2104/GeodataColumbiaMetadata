@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Administrative boundaries</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Algeria (2589581)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Algeria</placekey>
 </place>
