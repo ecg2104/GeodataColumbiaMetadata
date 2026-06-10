@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Shorelines</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Guinea-Bissau (2372248)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Guinea-Bissau</placekey>
 </place>

@@ -66,6 +66,10 @@ Infrastructure.</purpose>
 <themekey>Rail lines</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Burkina Faso (2361809)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Burkina Faso</placekey>
 </place>

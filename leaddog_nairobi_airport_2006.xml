@@ -47,6 +47,10 @@
 <themekey>Jomo Kenyatta International Airport</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Nairobi (184745)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Kenya</placekey>
 <placekey>Nairobi (Kenya)</placekey>

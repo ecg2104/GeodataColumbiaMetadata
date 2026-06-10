@@ -11,6 +11,10 @@
 <themekey>Kigali (Rwanda) -- Maps.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Rwanda (49518)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Kigali (Rwanda)</placekey>
 </place>

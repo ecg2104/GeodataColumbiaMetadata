@@ -11,6 +11,10 @@
 <themekey>Buchanan (Liberia) -- Maps.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Liberia (2275384)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Buchanan (Liberia) </placekey>
 </place>

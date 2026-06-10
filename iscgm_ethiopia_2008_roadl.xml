@@ -63,6 +63,10 @@ Infrastructure</purpose>
 <themekey>Roads</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Ethiopia (337996)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Ethiopia</placekey>
 </place>

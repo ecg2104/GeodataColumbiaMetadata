@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Towns</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Republic of the Congo (2260494)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Republic of the Congo (Brazzaville)</placekey>
 </place>

@@ -68,6 +68,10 @@ Standard map series designation: Series G943.</supplinf>
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Liberia (2275384)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Buchanan (Liberia)</placekey>
 <placekey>Liberia</placekey>

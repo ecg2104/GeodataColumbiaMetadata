@@ -11,6 +11,10 @@
 <themekey>Monrovia (Liberia) -- Remote-sensing maps.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Liberia (2275384)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Monrovia (Liberia) </placekey>
 </place>

@@ -11,6 +11,10 @@
 <themekey>Bujumbura (Burundi) -- Maps, Topographic.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Burundi (433561)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Bujumbura (Burundi)</placekey>
 </place>
