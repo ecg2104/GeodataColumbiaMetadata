@@ -65,6 +65,10 @@ Indexes on verso.</supplinf>
 <themekey>Central Intelligence Agency</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Shanghai (1796231)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Shanghai (China)</placekey>
 </place>

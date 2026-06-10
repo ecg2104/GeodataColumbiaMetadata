@@ -66,6 +66,10 @@
 <themekey>Streets</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Guangdong (1809935)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Guangdong SHeng (China)</placekey>

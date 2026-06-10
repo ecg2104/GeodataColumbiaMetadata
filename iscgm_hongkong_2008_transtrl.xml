@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Bridges</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>China (1814991)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Hong Kong (China)</placekey>
 </place>

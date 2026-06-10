@@ -80,6 +80,10 @@ downloaded from CHGIS.</supplinf>
 				<themekey>Geographic names</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Xinjiang (1529047)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>China</placekey>
 				<placekey>Xinjiang Uygur Zizhiqu (China)</placekey>

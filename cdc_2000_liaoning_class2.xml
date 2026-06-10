@@ -84,6 +84,10 @@ Users should pay attention to the above-mentioned factors when using information
 <themekey>Demographics</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Liaoning (2036115)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Liaoning Sheng (China)</placekey>

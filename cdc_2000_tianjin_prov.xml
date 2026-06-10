@@ -62,6 +62,10 @@
 <themekey>Chinese provinces</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Tianjin (1792943)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Tianjin Sheng (China)</placekey>

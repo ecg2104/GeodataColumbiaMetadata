@@ -65,6 +65,10 @@
 <themekey>Rivers</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Inner Mongolia (2035607)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Inner Mongolia (China)</placekey>

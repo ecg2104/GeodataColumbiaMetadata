@@ -68,6 +68,10 @@
 <themekey>Islands</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Jiangxi (1806222)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Jiangxi Sheng (China)</placekey>

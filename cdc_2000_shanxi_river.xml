@@ -67,6 +67,10 @@
 <themekey>Rivers</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Shanxi (1795912)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Shanxi Sheng (china)</placekey>

@@ -68,6 +68,10 @@
 <themekey>Reservoirs</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Hubei (1806949)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Hubei Sheng (China)</placekey>

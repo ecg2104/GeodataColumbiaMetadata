@@ -73,6 +73,10 @@ This data layer is part of the Tibet 2000 Township Census data set produced by t
 <themekey>Islands</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Tibet (1279685)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Xizang (China)</placekey>

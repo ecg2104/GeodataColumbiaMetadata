@@ -68,6 +68,10 @@
 <themekey>Reservoirs</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Jilin (2036500)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Jilin Sheng (China)</placekey>

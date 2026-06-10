@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -50,6 +50,10 @@
 <themekey>population</themekey>
 <themekey>households</themekey>
 </theme>
+<place>
+	<placekt>GeoNames</placekt>
+	<placekey>Hong Kong (1819730)</placekey>
+</place>
 <place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Hong Kong (China)</placekey>

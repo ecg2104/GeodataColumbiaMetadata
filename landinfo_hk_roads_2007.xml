@@ -48,6 +48,10 @@
 				<themekey>roadways</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Hong Kong (1819730)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>China</placekey>
 				<placekey>Hong Kong (China)</placekey>

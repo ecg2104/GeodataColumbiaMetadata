@@ -100,6 +100,10 @@ Users should pay attention to the above-mentioned factors when using information
 <themekey>Census</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Yunnan (1785694)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Yunnan Sheng (China)</placekey>

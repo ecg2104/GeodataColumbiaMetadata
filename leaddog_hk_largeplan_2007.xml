@@ -53,6 +53,10 @@
 				<themekey>households</themekey>
 				<themekey>education</themekey><themekey>marital status</themekey><themekey>language</themekey><themekey>age group</themekey></theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Hong Kong (1819730)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Hong Kong (China)</placekey>
 				<placekey>China</placekey>

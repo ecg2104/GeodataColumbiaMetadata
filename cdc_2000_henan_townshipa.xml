@@ -87,6 +87,10 @@ Users should pay attention to the above-mentioned factors when using information
 <themekey>Administrative and political divisions</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Henan (1808520)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Henan Sheng (China)</placekey>

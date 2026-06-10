@@ -56,6 +56,10 @@
 				<themekey>occupation</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Hong Kong (1819730)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Hong Kong (China)</placekey>
 				<placekey>China</placekey>

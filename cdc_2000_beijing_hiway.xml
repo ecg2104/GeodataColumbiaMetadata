@@ -67,6 +67,10 @@
 <themekey>Highways</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Beijing (2038349)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Beijing</placekey>

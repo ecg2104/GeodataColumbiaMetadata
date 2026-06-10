@@ -66,6 +66,10 @@
 <themekey>Chinese provinces</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Shanghai (1796231)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Shanghai Sheng (China)</placekey>

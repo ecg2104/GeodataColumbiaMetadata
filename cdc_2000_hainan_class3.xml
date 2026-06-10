@@ -84,6 +84,10 @@ Users should pay attention to the above-mentioned factors when using information
 <themekey>Demographics</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Hainan (1809054)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Hainan Sheng (China)</placekey>

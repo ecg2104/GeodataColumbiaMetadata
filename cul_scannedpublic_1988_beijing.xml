@@ -66,6 +66,10 @@ Indexes and glossaries on verso.
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Beijing (2038349)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Beijing (China)</placekey>
 </place>

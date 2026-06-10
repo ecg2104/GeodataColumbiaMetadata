@@ -67,6 +67,10 @@
 <themekey>Highways</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Guizhou (1809445)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Guizhou Sheng (China)</placekey>

@@ -84,6 +84,10 @@ Users should pay attention to the above-mentioned factors when using information
 <themekey>Demographics</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Shaanxi (1796480)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>China</placekey>
 <placekey>Shaanxi Sheng (China)</placekey>

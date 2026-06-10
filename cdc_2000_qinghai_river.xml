@@ -65,6 +65,10 @@
 				<themekey>Rivers</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Qinghai (1280239)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>China</placekey>
 				<placekey>Qinghai Sheng (China)</placekey>
