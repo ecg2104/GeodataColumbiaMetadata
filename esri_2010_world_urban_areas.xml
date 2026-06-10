@@ -59,6 +59,10 @@ This dataset comes with an ESRI layer file symbolizing the features.
 				<themekey>boundaries</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Earth (6295630)</placekey>
+			</place>
+			<place>
 				<placekey>World</placekey>
 				<placekt>Library of Congress Subject Headings</placekt>
 			</place>

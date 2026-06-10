@@ -62,6 +62,10 @@ The maps show the mean annual duration of snow cover. Snow cover duration is the
 <themekey>Snow cover</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Earth (6295630)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Earth</placekey>
 </place>

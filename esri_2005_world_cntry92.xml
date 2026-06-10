@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
 <metadata>
 	<idinfo>
@@ -60,6 +60,10 @@
 				<themekt>ISO 19115 Topic Catergories</themekt>
 				<themekey>boundaries</themekey>
 			</theme>
+			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Earth (6295630)</placekey>
+			</place>
 			<place>
 				<placekt>None</placekt>
 				<placekey>World</placekey>

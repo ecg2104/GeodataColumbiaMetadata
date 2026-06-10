@@ -66,6 +66,10 @@
 <themekey>boundaries</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Earth (6295630)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>World</placekey>
 </place>

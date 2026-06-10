@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
 <metadata xml:lang="en">
 	<idinfo>
@@ -94,6 +94,10 @@
 				<themekey>hydrography</themekey>
 				<themekey>inlandWaters</themekey>
 			</theme>
+			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Earth (6295630)</placekey>
+			</place>
 			<place>
 				<placekey>World</placekey>
 				<placekt>Library of Congress Subject Headings</placekt>

@@ -59,6 +59,10 @@ Intensity measures the effects of an earthquake, especially the effects on peopl
 <themekey>Earthquakes</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Earth (6295630)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Earth</placekey>
 </place>

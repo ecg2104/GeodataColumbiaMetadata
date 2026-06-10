@@ -56,6 +56,10 @@ The manufacturing industry is typically a leading factor in the development of c
 <themekey>Manufacturing Centers</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Earth (6295630)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Earth</placekey>
 </place>

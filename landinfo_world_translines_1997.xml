@@ -62,6 +62,10 @@ This dataset is part of the Vector Map Level 0 database. The Vector Map (VMap) L
 				<themekey>Ford</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Earth (6295630)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>World</placekey>
 			</place>

@@ -59,6 +59,10 @@
 				<themekey>location</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Earth (6295630)</placekey>
+			</place>
+			<place>
 				<placekey>World</placekey>
 				<placekt>None</placekt>
 			</place>

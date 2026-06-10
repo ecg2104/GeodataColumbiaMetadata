@@ -59,6 +59,10 @@ The largest countries by area, those of more than 2 million square kilometers, a
 <themekey>boundaries</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Earth (6295630)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Earth</placekey>
 </place>
