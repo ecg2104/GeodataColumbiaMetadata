@@ -70,6 +70,10 @@ Infrastructure.</purpose>
 				<themekey>towns</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Australia (2077456)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Australia</placekey>
 			</place>
