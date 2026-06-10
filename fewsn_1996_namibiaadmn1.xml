@@ -192,6 +192,10 @@
 <themekey>National borders</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Namibia (3355338)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Africa</placekey>
 <placekey>Nambia</placekey>

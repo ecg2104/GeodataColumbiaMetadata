@@ -192,6 +192,10 @@
 <themekey>National borders</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Eswatini (934841)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Africa</placekey>
 <placekey>Swaziland</placekey>

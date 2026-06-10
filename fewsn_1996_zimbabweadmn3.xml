@@ -169,6 +169,10 @@
 <themekey>Third Level national borders</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Zimbabwe (878675)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Africa</placekey>
 <placekey>Zimbabwe</placekey>

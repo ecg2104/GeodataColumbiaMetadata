@@ -191,6 +191,10 @@
 <themekey>National borders</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Zambia (895949)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Africa</placekey>
 <placekey>Zambia</placekey>

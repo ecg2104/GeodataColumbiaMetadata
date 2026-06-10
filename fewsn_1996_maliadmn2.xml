@@ -97,6 +97,10 @@ The additional attributes were added by EDC in April of 1996.</current>
 <themekey>Borders</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Mali (2453866)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Africa</placekey>
 <placekey>Mali</placekey>
