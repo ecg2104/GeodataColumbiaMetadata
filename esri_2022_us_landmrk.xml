@@ -77,6 +77,10 @@
 <themekey>economy</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>United States (6252001)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>United States</placekey>
 <placekey>Puerto Rico</placekey>

@@ -1,4 +1,4 @@
-<metadata>
+﻿<metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -53,6 +53,10 @@
 				<themekey>society</themekey>
 				<themekey>environment</themekey>&gt;
 			</theme>
+			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>United States (6252001)</placekey>
+			</place>
 			<place>
 				<placekt>National Park System Unit Name Thesaurus</placekt>
 				<placekey>Lyndon Baines Johnson Memorial Grove on the Potomac National Memorial</placekey>

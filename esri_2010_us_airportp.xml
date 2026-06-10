@@ -59,6 +59,10 @@ This dataset includes two ESRI layer files symbolizing airport size and congesti
 				<themekey>transportation</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>United States (6252001)</placekey>
+			</place>
+			<place>
 				<placekt>None</placekt>
 				<placekey>Puerto Rico</placekey>
 				<placekey>United States</placekey>

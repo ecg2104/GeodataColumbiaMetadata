@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata xml:lang="en">
 <idinfo>
 <descript>
@@ -38,6 +38,10 @@
 <themekt>None</themekt>
 <themekey>Arson</themekey>
 </theme>
+<place>
+	<placekt>GeoNames</placekt>
+	<placekey>United States (6252001)</placekey>
+</place>
 <place>
 <placekey>USA</placekey>
 <placekt>None</placekt>

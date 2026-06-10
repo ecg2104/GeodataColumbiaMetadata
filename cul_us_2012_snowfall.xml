@@ -51,6 +51,10 @@
 		</ptcontac>
 		<keywords>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>United States (6252001)</placekey>
+			</place>
+			<place>
 				<placekey>United States</placekey>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Puerto Rico</placekey>

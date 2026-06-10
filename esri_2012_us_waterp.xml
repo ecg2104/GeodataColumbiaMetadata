@@ -65,6 +65,10 @@
 				<themekey>inlandWaters</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>United States (6252001)</placekey>
+			</place>
+			<place>
 				<placekey>United States</placekey>
 				<placekt>None</placekt>
 			</place>
