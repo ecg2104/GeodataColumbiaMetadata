@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Roads</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>New Zealand (2186224)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>New Zealand</placekey>
 </place>
