@@ -47,6 +47,10 @@
 <themekey>Historical Maps</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Turkey (298795)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Middle East</placekey>
 </place>

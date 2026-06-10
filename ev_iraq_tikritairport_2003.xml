@@ -12,6 +12,10 @@
 <themekey>Tikrit (Iraq) -- Maps.</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Iraq (99237)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Tikrit (Iraq)</placekey>
 </place>

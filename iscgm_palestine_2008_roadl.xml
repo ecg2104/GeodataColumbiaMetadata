@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Roads</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Palestine (6254930)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Palestine</placekey>
 </place>

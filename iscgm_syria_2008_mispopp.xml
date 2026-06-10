@@ -64,6 +64,10 @@ Infrastructure</purpose>
 				<themekey>Cities</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Syria (163843)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Syria</placekey>
 			</place>
