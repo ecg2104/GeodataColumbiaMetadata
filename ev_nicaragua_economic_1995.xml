@@ -24,6 +24,10 @@
   <themekey>income</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Nicaragua (3617476)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Republic of Nicaragua</placekey>
 <placekey>Nicaragua</placekey>

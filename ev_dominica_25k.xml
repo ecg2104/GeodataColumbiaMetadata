@@ -8,6 +8,10 @@
 <themekey>elevation</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Dominica (3575830)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Commonwealth of Dominica</placekey>
 </place>

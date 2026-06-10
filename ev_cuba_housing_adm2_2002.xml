@@ -9,6 +9,10 @@
         <themekey>structure</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Cuba (3562981)</placekey>
+			</place>
+			<place>
 				<placekt>None</placekt>
 				<placekey>Republic of Cuba</placekey>
         <placekey>Cuba</placekey>

@@ -61,6 +61,10 @@ Infrastructure</purpose>
 <themekey>Administrative boundaries</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Dominica (3575830)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Dominica</placekey>
 </place>

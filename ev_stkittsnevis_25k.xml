@@ -8,6 +8,10 @@
 <themekey>elevation</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Saint Kitts and Nevis (3575174)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Federation of Saint Kitts and Nevis</placekey>
 </place>

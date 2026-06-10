@@ -25,6 +25,10 @@
   <themekey>income</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Panama (3703430)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Republic of Panama</placekey>
 <placekey>Panama</placekey>

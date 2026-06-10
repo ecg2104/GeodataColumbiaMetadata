@@ -7,6 +7,10 @@
 <themekey>planningCadastre</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Indiana (4921868)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Indiana</placekey>
 </place>

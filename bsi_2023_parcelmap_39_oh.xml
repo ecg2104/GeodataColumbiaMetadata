@@ -7,6 +7,10 @@
 <themekey>planningCadastre</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Ohio (5165418)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Ohio</placekey>
 </place>

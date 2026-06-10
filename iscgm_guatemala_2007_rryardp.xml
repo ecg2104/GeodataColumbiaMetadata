@@ -62,6 +62,10 @@ Infrastructure</purpose>
 <themekey>Railyards</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Guatemala (3595528)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Guatemala</placekey>
 </place>

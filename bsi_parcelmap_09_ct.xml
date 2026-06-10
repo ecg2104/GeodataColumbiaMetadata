@@ -7,6 +7,10 @@
 <themekey>planningCadastre</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Connecticut (4831725)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Connecticut</placekey>
 </place>

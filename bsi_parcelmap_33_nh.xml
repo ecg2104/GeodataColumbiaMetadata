@@ -7,6 +7,10 @@
 <themekey>planningCadastre</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>New Hampshire (5090174)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>New Hampshire</placekey>
 </place>

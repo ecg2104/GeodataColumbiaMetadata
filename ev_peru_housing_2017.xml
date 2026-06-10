@@ -9,6 +9,10 @@
 <themekey>structure</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Peru (3932488)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Peru</placekey>
 </place>

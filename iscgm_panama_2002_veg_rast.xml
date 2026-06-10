@@ -67,6 +67,10 @@ Infrastructure.</purpose>
 <themekey>Vegetation</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Panama (3703430)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Panama</placekey>
 </place>

@@ -47,6 +47,10 @@
 				<themekey>Cap-Haitien International Airport</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Haiti (3723988)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Port-au-Prince (Haiti)</placekey>
 				<placekey>Haiti</placekey>

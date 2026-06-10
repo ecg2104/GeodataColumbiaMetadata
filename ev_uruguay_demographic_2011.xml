@@ -25,6 +25,10 @@
   <themekey>income</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Uruguay (3439705)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Oriental Republic of Uruguay</placekey>
 <placekey>Uruguay</placekey>

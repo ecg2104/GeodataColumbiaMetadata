@@ -7,6 +7,10 @@
 <themekey>planningCadastre</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Louisiana (4331987)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Louisiana</placekey>
 </place>

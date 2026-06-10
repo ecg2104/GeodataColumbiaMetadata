@@ -25,6 +25,10 @@
   <themekey>income</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Honduras (3608932)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Republic of Honduras</placekey>
 <placekey>Honduras</placekey>

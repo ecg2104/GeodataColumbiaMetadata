@@ -30,6 +30,10 @@
   <themekey>migration</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Ecuador (3658394)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Republic of Ecuador</placekey>
 <placekey>Ecuador</placekey>

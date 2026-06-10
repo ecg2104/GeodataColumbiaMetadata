@@ -25,6 +25,10 @@
   <themekey>income</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Colombia (3686110)</placekey>
+</place>
+<place>
 <placekt>None</placekt>
 <placekey>Republic of Colombia</placekey>
 <placekey>Colombia</placekey>

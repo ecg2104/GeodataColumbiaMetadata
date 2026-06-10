@@ -54,6 +54,10 @@
 				<themekey>Geology</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Alaska (5879092)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Alaska</placekey>
 			</place>

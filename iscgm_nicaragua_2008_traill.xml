@@ -63,6 +63,10 @@ Infrastructure</purpose>
 <themekey>Tracks</themekey>
 </theme>
 <place>
+	<placekt>GeoNames</placekt>
+	<placekey>Nicaragua (3617476)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Nicaragua</placekey>
 </place>

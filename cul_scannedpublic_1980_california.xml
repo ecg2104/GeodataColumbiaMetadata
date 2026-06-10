@@ -58,6 +58,10 @@
 				<themekey>Scanned maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>California (5332921)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>California</placekey>
 			</place>

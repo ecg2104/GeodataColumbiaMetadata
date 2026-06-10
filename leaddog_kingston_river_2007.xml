@@ -50,6 +50,10 @@
 				<themekey>Streams</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Jamaica (3489940)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Kingston (Jamaica)</placekey>
 				<placekey>Jamaica</placekey>
