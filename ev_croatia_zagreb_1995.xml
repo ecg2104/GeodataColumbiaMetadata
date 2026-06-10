@@ -11,6 +11,10 @@
 <themekey>Zagreb (Croatia) -- Maps.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Croatia (3202326)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Zagreb (Croatia)</placekey>
 </place>

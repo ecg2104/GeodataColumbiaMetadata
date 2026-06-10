@@ -11,6 +11,10 @@
 <themekey>Novi Sad (Serbia) -- Maps.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Serbia (6290252)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Novi Sad (Serbia) </placekey>
 </place>

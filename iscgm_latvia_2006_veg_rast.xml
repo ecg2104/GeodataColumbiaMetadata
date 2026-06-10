@@ -67,6 +67,10 @@ Infrastructure.</purpose>
 <themekey>Vegetation</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Latvia (458258)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Latvia</placekey>
 </place>

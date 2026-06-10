@@ -57,6 +57,11 @@
 				<themekey>Scanned maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Europe (6255148)</placekey>
+				<placekey>Asia (6255147)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Eurasia</placekey>
 			</place>
