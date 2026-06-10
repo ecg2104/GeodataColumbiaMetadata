@@ -11,6 +11,10 @@
 <themekey>Bogota (Colombia) -- Maps, Topographic.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Bogotá (3688689)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Bogota (Colombia)</placekey>
 </place>

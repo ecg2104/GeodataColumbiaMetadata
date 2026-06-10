@@ -63,6 +63,10 @@ Includes location diagram.
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Babeldaob (1559947)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Babeldaob (Palau)</placekey>
 </place>

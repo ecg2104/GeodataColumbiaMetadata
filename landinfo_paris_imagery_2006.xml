@@ -47,6 +47,10 @@
 				<themekey>Tiles</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Paris (2988507)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Paris (France)</placekey>
 				<placekey>France</placekey>

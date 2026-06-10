@@ -48,6 +48,10 @@
 				<themekey>roadways</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Barcelona (3128760)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Barcelona (Spain)</placekey>
 			</place>

@@ -7,6 +7,10 @@
 <themekey>imageryBaseMapsEarthCover</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Barbuda (3576389)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Barbuda</placekey>
 </place>

@@ -49,6 +49,10 @@
 <themekey>Topography</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Mexico City (3530597)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Mexico City (Mexico)</placekey>
 </place>

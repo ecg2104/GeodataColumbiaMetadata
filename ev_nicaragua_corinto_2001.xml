@@ -128,6 +128,10 @@
 				<themekey>imageryBaseMapsEarthCover</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Corinto (3620269)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Corinto (Nicaragua) </placekey>
 			</place>

@@ -62,6 +62,10 @@ Scale [1:12,000]. 1 in. = 1000 feet.
 <themekey>Scanned maps</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Baltimore (4347778)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Baltimore (Md.)</placekey>
 </place>

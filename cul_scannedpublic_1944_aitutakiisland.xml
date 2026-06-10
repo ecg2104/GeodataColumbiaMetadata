@@ -70,6 +70,10 @@ Inset: Arutunga Anchorage, scale 1:20,000.</supplinf>
 				<themekey>Scanned maps</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Aitutaki (4036508)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Aitutaki Atoll (Cook Islands)</placekey>
 			</place>

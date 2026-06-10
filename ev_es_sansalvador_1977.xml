@@ -11,6 +11,10 @@
 <themekey>San Salvador (El Salvador) -- Maps.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>San Salvador (3583361)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>San Salvador (El Salvador)</placekey>
 </place>

@@ -62,6 +62,10 @@ NUTS (Nomenclature des Unites Territoriales Statistiques) refers to the Nomencla
 				<themekey>economy</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Europe (6255148)</placekey>
+			</place>
+			<place>
 				<placekey>Europe</placekey>
 				<placekt>Library of Congress Subject Headings</placekt>
 			</place>

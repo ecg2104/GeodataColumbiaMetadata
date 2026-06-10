@@ -11,6 +11,10 @@
 <themekey>Podgorica (Montenegro) -- Maps.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Podgorica (3193044)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Podgorica (Montenegro)</placekey>
 </place>

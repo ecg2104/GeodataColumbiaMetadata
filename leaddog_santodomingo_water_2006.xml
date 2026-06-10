@@ -51,6 +51,10 @@
 				<themekey>Water bodies</themekey>
 			</theme>
 			<place>
+				<placekt>GeoNames</placekt>
+				<placekey>Santo Domingo (3492908)</placekey>
+			</place>
+			<place>
 				<placekt>Library of Congress Subject Headings</placekt>
 				<placekey>Santo Domingo (Dominican Republic)</placekey>
 			</place>

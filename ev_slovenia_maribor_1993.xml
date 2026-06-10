@@ -11,6 +11,10 @@
 <themekey>Maribor (Slovenia) -- Maps.</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Maribor (3195506)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Maribor (Slovenia) </placekey>
 </place>

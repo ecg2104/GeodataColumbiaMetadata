@@ -42,6 +42,10 @@
 <themekey>imageryBaseMapsEarthCover</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Puerto Cabezas (3617154)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Puerto Cabezas (Nicaragua) </placekey>
 </place>
