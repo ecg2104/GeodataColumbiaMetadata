@@ -29,6 +29,10 @@
 		</status>
 		<spdom>
 			<bounding>
+				<westbc>-74.614638</westbc>
+				<eastbc>-73.902140</eastbc>
+				<northbc>40.519095</northbc>
+				<southbc>40.079144</southbc>
 			</bounding>
 		</spdom>
 		<keywords>
