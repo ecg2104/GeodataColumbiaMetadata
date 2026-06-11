@@ -5,7 +5,7 @@
 		<native>Microsoft Windows Vista Version 6.1 (Build 7600) ; Esri ArcCatalog 9.3.1.4000</native>
 		<descript>
 			<langdata>en</langdata>
-			<abstract>World Populated Places is apoint theme representing the locations of the populated places of the world.</abstract>
+			<abstract>World Populated Places is a point theme representing the locations of the populated places of the world.</abstract>
 			<purpose>World Populated Places provides a base map layer for the populated places of the world.</purpose>
 			<supplinf>Largest scale when displaying the data: 1:250,000.</supplinf>
 		</descript>
