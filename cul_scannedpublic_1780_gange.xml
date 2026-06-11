@@ -47,6 +47,10 @@
 <themekey>Historical Maps</themekey>
 </theme>
 <place>
+<placekt>GeoNames</placekt>
+<placekey>Indochina Peninsula (1642029)</placekey>
+</place>
+<place>
 <placekt>Library of Congress Subject Headings</placekt>
 <placekey>Southeast Asia</placekey>
 </place>
