@@ -49,7 +49,7 @@
 				<themekey>DTM</themekey>
 				<themekey>PLUTO</themekey>
 				<themekey>MapPLUTO</themekey>
-				<themekt>NONE</themekt>
+				<themekt>None</themekt>
 				<themekey>Boundaries</themekey><themekey>RPAD</themekey></theme>
 			<place>
 				<placekt>GeoNames</placekt>

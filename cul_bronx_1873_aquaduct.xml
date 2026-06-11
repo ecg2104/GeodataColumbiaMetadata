@@ -64,9 +64,9 @@
 			<theme>
 				<themekt>ISO 19115 Topic Category</themekt>
 				<themekey>imageryBaseMapsEarthCover</themekey><themekey>inlandWaters</themekey></theme>
-			<theme><themekt>none</themekt><themekey>aquaducts</themekey></theme></keywords>
+			<theme><themekt>None</themekt><themekey>aqueducts</themekey></theme></keywords>
 		<descript>
-			<abstract>Bronx 1873 Aquaducts is a line theme representing aquaducts in the Bronx in 1873. The features were digitized from the map series entitled "Topographical map made from surveys by the commissioners of the Department of Public Parks of the city of New York of that part of Westchester County adjacent to the City and County of New York embraced in chapter 534 of laws of 1871 as amended by chapter 878 of laws of 1872 " published in 1873 from the New York department of Parks.</abstract>
+			<abstract>Bronx 1873 Aquaducts is a line theme representing aqueducts in the Bronx in 1873. The features were digitized from the map series entitled "Topographical map made from surveys by the commissioners of the Department of Public Parks of the city of New York of that part of Westchester County adjacent to the City and County of New York embraced in chapter 534 of laws of 1871 as amended by chapter 878 of laws of 1872 " published in 1873 from the New York department of Parks.</abstract>
 			<purpose>This map set was digitized for general use.  This dataset may be used in a GIS.</purpose>
 		</descript>
 		<timeperd>
@@ -190,7 +190,7 @@
 			<enttyp>
 				<enttypt>Feature Class</enttypt>
 				<enttypc>0</enttypc>
-				<enttypl>aquaducts</enttypl><enttypd>aquaduct</enttypd></enttyp>
+				<enttypl>aqueducts</enttypl><enttypd>aquaduct</enttypd></enttyp>
 			<attr>
 				<attrlabl>OBJECTID</attrlabl>
 				<attalias>OBJECTID</attalias>

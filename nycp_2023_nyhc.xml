@@ -3,7 +3,7 @@
 	<idinfo>
 		<descript>
 			<langdata>en</langdata>
-			<abstract>New York City Heath Center Service Areas, 2023 is a polygon theme representing the heath center service area boundaries for the city of New York as of 2023.</abstract>
+			<abstract>New York City Heath Center Service Areas, 2023 is a polygon theme representing the health center service area boundaries for the city of New York as of 2023.</abstract>
 		</descript>
 		<citation>
 			<citeinfo>
@@ -59,7 +59,8 @@
 				<placekey>NYC</placekey>
 			</place>
 			<theme>
-				<themekey>heath center</themekey>
+				<themekt>None</themekt>
+				<themekey>health center</themekey>
 				<themekey>service area</themekey>
 				<themekey>boundaries</themekey>
 </theme><theme>

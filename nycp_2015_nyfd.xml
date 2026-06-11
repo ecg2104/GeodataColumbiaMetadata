@@ -63,6 +63,7 @@
 				<placekey>NYC</placekey>
 			</place>
 			<theme>
+				<themekt>None</themekt>
 				<themekey>Fire District</themekey>
 				<themekey>Fire Department</themekey>
 				<themekey>Fire Company</themekey>
