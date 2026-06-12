@@ -11,7 +11,7 @@
 		</descript>
 		<citation>
 			<citeinfo>
-				<origin>United States Geological Survey</origin>
+				<origin>Geological Survey (U.S.)</origin>
 				<pubdate>2012</pubdate>
 				<title>United States Buildings, 2012</title>
 				<ftname>gblding.sdc</ftname>
@@ -25,7 +25,7 @@
 					<pubplace>Redlands, California, USA</pubplace>
 					<publish>Esri</publish>
 				</pubinfo>
-				<origin>ESRI</origin>
+				<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
 				<onlink>	https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_us_gnis_buildings.zip</onlink></citeinfo>
 		</citation>
 		<timeperd>
@@ -313,7 +313,7 @@ Outside the United States, please direct all inquiries to your local Esri Office
 				<srccite>
 					<citeinfo>
 						<title>U.S. Geographic Names Information System (GNIS)</title>
-						<origin>United States Geological Survey</origin>
+						<origin>Geological Survey (U.S.)</origin>
 						<pubdate>19810501</pubdate>
 						<pubinfo>
 							<publish>United States Geological Survey</publish>

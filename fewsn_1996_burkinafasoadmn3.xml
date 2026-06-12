@@ -288,22 +288,6 @@ credit for this data set.</datacred>
 				<vertaccr>The absolute vertical accuracy of the DCW is the same as for the original ONC and JNC lithographs at 90% Linear Error (LE), Mean Sea Level (MSL).</vertaccr>
 			</vertacc>
 		</posacc>
-		<lineage>
-			<srcinfo>
-				<srccite>
-					<citeinfo>
-						<origin></origin>
-						<pubdate></pubdate>
-					</citeinfo>
-				</srccite>
-				<srctime>
-					<timeinfo>
-						<sngdate>
-						</sngdate>
-					</timeinfo>
-				</srctime>
-			</srcinfo>
-		</lineage>
 	</dataqual>
 	<spdoinfo>
 		<direct>Vector</direct>

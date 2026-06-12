@@ -248,7 +248,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 							<publish>ESRI</publish>
 							<pubplace>Redlands, California, USA</pubplace>
 						</pubinfo>
-						<origin>ESRI</origin>
+						<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
 					</citeinfo>
 				</srccite>
 				<srcscale>3000000</srcscale>
@@ -332,7 +332,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srccontr>Attribute data</srccontr>
 				<srccite>
 					<citeinfo>
-						<origin>ESRI</origin>
+						<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
 						<origin>Defense Mapping Agency, presently known as National Imagery and Mapping Agency</origin>
 						<pubdate>1992</pubdate>
 						<title>Digital Chart of the World</title>
@@ -357,7 +357,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<typesrc>online</typesrc>
 				<srccite>
 					<citeinfo>
-						<origin>ESRI</origin>
+						<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
 						<title>ArcGIS Resource Centers ArcGIS Online services - USA Prime Imagery</title>
 						<onlink>http://resources.esri.com/arcgisonlineservices/index.cfm?fa=content_detail&amp;contentID=F7EE515D-1422-2413-199DAEFAA2B134F9</onlink>
 						<othercit>Accessed the map service in August 2009. 

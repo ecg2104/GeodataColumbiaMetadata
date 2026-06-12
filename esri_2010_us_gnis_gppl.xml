@@ -11,7 +11,7 @@ This dataset includes an ESRI layer file symbolizing the features.</supplinf>
 		</descript>
 		<citation>
 			<citeinfo>
-				<origin>United States Geological Survey</origin>
+				<origin>Geological Survey (U.S.)</origin>
 				<pubdate>2010</pubdate>
 				<title>United States Populated Places, 2010</title>
 				<geoform>vector digital data</geoform>
@@ -251,7 +251,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srccite>
 					<citeinfo>
 						<title>U.S. Geographic Names Information System (GNIS)</title>
-						<origin>United States Geological Survey</origin>
+						<origin>Geological Survey (U.S.)</origin>
 						<pubdate>19810501</pubdate>
 						<pubinfo>
 							<publish>United States Geological Survey</publish>

@@ -10,7 +10,7 @@
 					<sername>NJ Transportation Maps and Tables</sername>
 				</serinfo>
 				<onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/halcrow_amtrak_station_2007.zip</onlink>
-				<origin>CommunityCartography</origin><pubdate>2007</pubdate></citeinfo>
+				<origin>Community Cartography</origin><pubdate>2007</pubdate></citeinfo>
 		</citation>
 		<descript>
 			<purpose>For research purposes only.</purpose>
@@ -84,7 +84,7 @@
 		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
 		<crossref>
 			<citeinfo>
-				<origin>CommunityCartography</origin>
+				<origin>Community Cartography</origin>
 				<title>Northeast Amtrak Rail Lines</title><pubdate>2007</pubdate><geoform>vector digital data</geoform><onlink>https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/amtrack.zip</onlink></citeinfo>
 		</crossref>
 	</idinfo>

@@ -389,7 +389,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 				<srccite>
 					<citeinfo>
 						<title>ArcUSA 1:2M</title>
-						<origin>ESRI</origin>
+						<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
 						<pubdate>19921001</pubdate>
 						<edition>1</edition>
 						<geoform>vector digital data</geoform>
@@ -423,7 +423,7 @@ Outside the United States, please direct all inquiries to your local ESRI Office
 					<citeinfo>
 						<onlink>http://www.usgs.gov</onlink>
 						<onlink>http://store.usgs.gov/b2c_usgs/b2c/start/(xcm=r3standardpitrex_prd)/.do</onlink>
-						<origin>United States Geological Survey</origin>
+						<origin>Geological Survey (U.S.)</origin>
 						<title>The USGS Store</title>
 						<pubinfo>
 							<pubplace>Reston, Virginia, USA</pubplace>
